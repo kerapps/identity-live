@@ -4,22 +4,22 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>AstreaX, Trinsic, Veriff and ROC tap leaders to scale adoption</title>
+      <link>https://www.biometricupdate.com/202606/astreax-trinsic-veriff-and-roc-tap-leaders-to-scale-adoption</link>
+      <guid isPermaLink="false">identitybrief-dc826cb0a65f2b15</guid>
+      <pubDate>Mon, 22 Jun 2026 22:12:38 +0000</pubDate>
+      <category>did</category>
+      <description>AstreaX, Trinsic, Veriff, and ROC made leadership shifts to ramp up adoption in digital identity and biometrics. It's a clear signal that these sectors are pushing hard to scale up capabilities. The catch: for now, it's more about strategy than immediate technological changes.
+
+— via Biometric Update</description>
+    </item>
+    <item>
       <title>New York Knicks owner sued following biometric data breach</title>
       <link>https://www.biometricupdate.com/202606/new-york-knicks-owner-sued-following-biometric-data-breach</link>
       <guid isPermaLink="false">identitybrief-30952a190ef4cbb1</guid>
       <pubDate>Mon, 22 Jun 2026 17:18:15 +0000</pubDate>
       <category>breach</category>
-      <description>The New York Knicks' owner is facing a lawsuit after a facial recognition data breach at Madison Square Garden. This highlights the risk of biometric data being targeted, impacting user trust in facial recognition tech. The snag: without robust encryption and quick incident response, facial data becomes a tempting target for hackers.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Discord age assurance vendor trial raises questions about transparency</title>
-      <link>https://www.biometricupdate.com/202606/discord-age-assurance-vendor-trial-raises-questions-about-transparency</link>
-      <guid isPermaLink="false">identitybrief-ed9cc7d937af3482</guid>
-      <pubDate>Mon, 22 Jun 2026 17:14:17 +0000</pubDate>
-      <category>did</category>
-      <description>Discord's new trial with age assurance vendors is catching heat for transparency concerns. It shows the rocky path for platforms trying to verify user ages without losing trust or facing backlash. The catch: skepticism remains high after past mishaps, making user acceptance an uphill battle.
+      <description>Madison Square Garden's facial recognition network was breached, compromising biometric data from millions of visitors. For teams, it highlights the critical need for robust security in biometric systems. The drawback: once biometric data is leaked, it’s almost impossible to reset like a password.
 
 — via Biometric Update</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">identitybrief-942d4bc76fdaec7c</guid>
       <pubDate>Mon, 22 Jun 2026 18:47:42 +0000</pubDate>
       <category>did</category>
-      <description>The Philippines' new law mandates age verification for social media, boosting the need for biometric solutions. It pushes platforms to integrate more robust age verification systems. The challenge: implementing privacy-preserving, user-friendly solutions across diverse platforms isn't straightforward.
+      <description>The Philippines mandates age checks for social media access, potentially boosting biometric age verification demand. This opens doors for identity teams to explore privacy-compliant age checks. However, integrating such systems might clash with existing data privacy standards abroad.
 
 — via Biometric Update</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">identitybrief-ec55b154cfb70771</guid>
       <pubDate>Mon, 22 Jun 2026 10:56:45 +0000</pubDate>
       <category>auth</category>
-      <description>St. Kitts and Nevis launches a mandatory biometric passport enrolment program. The shift promises enhanced security aligned with international standards. The downside: implementation can be cost-intensive and complex, requiring robust public trust and legal frameworks.
+      <description>St. Kitts and Nevis requires mandatory biometric enrollment for passports. This move reinforces identity security and aligns with global standards. But remember, such initiatives can face resistance and privacy concerns locally.
 
 — via Identity Week</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">identitybrief-961b7710656fe3e1</guid>
       <pubDate>Mon, 22 Jun 2026 06:06:53 +0000</pubDate>
       <category>fraud</category>
-      <description>INTERPOL reports a rise in phishing and ransomware in Asia-Pacific regions. Increased online activity and uneven cybersecurity maturity contribute to this threat landscape. The caveat: addressing these issues requires both regional collaboration and improved local cyber skills.
+      <description>INTERPOL notes a rise in cyber scams, especially phishing, across Asia-Pacific. This growth spotlights the need for regional-specific fraud prevention strategies. Yet, wide differences in cyber readiness must be acknowledged to enhance responses.
 
 — via The Hacker News</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">identitybrief-35d34b328231deef</guid>
       <pubDate>Mon, 22 Jun 2026 05:33:39 +0000</pubDate>
       <category>breach</category>
-      <description>A data breach at a third-party vendor for Texas Parks &amp; Wildlife affected 3 million people. The incident reinforces the vulnerability of supply chains in data security. The catch: securing third-party relationships remains a complex but critical task.
+      <description>Texas Parks &amp; Wildlife's vendor breach impacted 3 million individuals, revealing personal data. This incident points yet again to the risks of third-party vendor dependencies. The challenge: constantly keeping an eye on vendors' security postures.
 
 — via SecurityWeek</description>
     </item>
@@ -69,7 +69,7 @@
       <guid isPermaLink="false">identitybrief-a2b72a895a8fd128</guid>
       <pubDate>Mon, 22 Jun 2026 04:00:05 +0000</pubDate>
       <category>breach</category>
-      <description>Researchers find numerous AI-powered iOS apps exposing credentials due to weak security practices. This discovery highlights the importance of securing integration points in AI applications. The flaw: developers must prioritize security over speed-to-market to prevent such risks.
+      <description>Hundreds of AI-enabled iOS apps were found exposing credentials due to poor setup. A reminder for developers to secure API keys and access tokens in mobile apps. The pitfall: even with warnings, configuration errors like these are pervasive.
 
 — via Help Net Security</description>
     </item>
@@ -79,7 +79,7 @@
       <guid isPermaLink="false">identitybrief-d40b453bd487a572</guid>
       <pubDate>Mon, 22 Jun 2026 20:02:52 +0000</pubDate>
       <category>fraud</category>
-      <description>Cloudflare teams up with major browsers to introduce Private Access Control Tokens for distinguishing visitors. This can potentially reduce bot-related fraud and improve access control mechanisms. However, its effectiveness hinges on widespread browser adoption and site implementation.
+      <description>Cloudflare partners with major browsers to introduce Private Access Control Tokens, designed to differentiate legitimate users from bots. This could streamline access management without annoying captchas. But the downside is the dependency on browser support — it’s not a standalone fix.
 
 — via The Register Security</description>
     </item>
@@ -89,7 +89,7 @@
       <guid isPermaLink="false">identitybrief-59a1a58ec02c07ce</guid>
       <pubDate>Mon, 22 Jun 2026 11:27:00 +0000</pubDate>
       <category>breach</category>
-      <description>A Canadian health board's phishing test using a fake vacation offer backfired, upsetting staff. This event underscores the need for sensitive crafting of security training exercises. The risk: poorly executed tests can damage trust and morale, outweighing their educational benefit.
+      <description>A Canadian health board apologized after a clumsy phishing test with a fake vacation offer. This incident underscores the balance needed between education and morale in phishing defenses. The lesson: well-intended tests can backfire, so proceed with cultural sensitivity.
 
 — via The Register Security</description>
     </item>
@@ -99,7 +99,7 @@
       <guid isPermaLink="false">identitybrief-862328431877a6fe</guid>
       <pubDate>Mon, 22 Jun 2026 10:55:10 +0000</pubDate>
       <category>breach</category>
-      <description>This week's recap highlights familiar threats: browser bugs, credential theft, and phishing. These persistent issues remind us that the basics of security hygiene remain crucial. The sticking point: despite awareness, these vulnerabilities persist due to their foundational nature.
+      <description>This week's vulnerability roundup covers browser flaws, credential hacks, and more. These remind us about the ongoing need for vigilance with credential management. The catch: the threats are familiar, yet they persistently challenge defenses due to their widespread exploitation.
 
 — via The Hacker News</description>
     </item>
@@ -109,7 +109,7 @@
       <guid isPermaLink="false">identitybrief-b7e27cc1217015e8</guid>
       <pubDate>Mon, 22 Jun 2026 09:34:59 +0000</pubDate>
       <category>auth</category>
-      <description>Fortinet faces the FortiBleed campaign involving a large-scale credential leak. Such incidents stress-test the readiness of security infrastructures. The problem: even with strong defenses, human factors and misconfigurations often leave exploitable gaps.
+      <description>Fortinet wrestles with the FortiBleed campaign that harvested over 86,000 sets of credentials. It points out the importance of monitoring credential use to prevent lateral movement in networks. Note, the large-scale nature of such breaches means remediation can be extensive and costly.
 
 — via SecurityWeek</description>
     </item>
@@ -119,7 +119,7 @@
       <guid isPermaLink="false">identitybrief-662999bfd17bc871</guid>
       <pubDate>Mon, 22 Jun 2026 04:30:55 +0000</pubDate>
       <category>fraud</category>
-      <description>Avira launches a security app combining privacy and device optimization for iOS. This tool aims to simplify user security management across platforms. The limit: it still requires user diligence in configuring settings appropriately.
+      <description>Avira showcases a multifaceted security app for iOS to integrate security and device optimization in one. It's a neat way to introduce layered security in a single download. But users need to vet data collection practices, as default settings may not align with privacy preferences.
 
 — via Help Net Security</description>
     </item>
@@ -129,7 +129,7 @@
       <guid isPermaLink="false">identitybrief-6bee6696a0d9c131</guid>
       <pubDate>Mon, 22 Jun 2026 03:11:09 +0000</pubDate>
       <category>iam</category>
-      <description>A talk at Zenith Live 2026 emphasizes the need for zero trust models in handling AI. The integration of AI agents complicates security landscapes, necessitating robust frameworks. The twist: effectively implementing zero trust is resource-intensive and requires comprehensive policy management.
+      <description>Zscaler emphasizes Zero Trust as a solution for securing AI agents and multi-cloud setups in Southeast Asia. This approach could help in managing AI systems as part of IT environments. Yet, rolling out Zero Trust without clear guidelines can complicate processes.
 
 — via CSO Online</description>
     </item>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">identitybrief-ad35a4bd0de8ba31</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <category>iam</category>
-      <description>Organizations struggle with hidden AI agent costs due to poor insight into identity attribution. This opaque accounting can lead to financial and security oversights. The insight: addressing these challenges requires a top-down approach to integrate visibility systems early on.
+      <description>AI-driven costs are perplexing identity attribution, with important budget impacts concealed. Teams should start fixing this issue earlier in their tech stack. The complexity: transparency in AI cost attribution remains elusive at many organizations.
 
 — via WorkOS</description>
     </item>
