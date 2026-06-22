@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>The Identity Brief</title>
+  <link>https://kerapps.github.io/identity-live</link>
+  <description>Signal for identity &amp; access leaders</description>
+    <item>
+      <title>Indian identity verification firm IDfy raises $23M at $256M valuation</title>
+      <link>https://www.biometricupdate.com/202606/indian-identity-verification-firm-idfy-raises-23m-at-256m-valuation</link>
+      <guid isPermaLink="false">identitybrief-584574ccb5ae16a4</guid>
+      <pubDate>Mon, 22 Jun 2026 18:25:17 +0000</pubDate>
+      <category>did</category>
+      <description>Indian digital identity firm IDfy raised $23M to further develop its risk-detection tools. This influx of funds highlights continued investment in AI-driven fraud prevention technologies. It's focused on the Indian market, so its tools' applicability may be limited elsewhere.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Shufti forecasts 39X more deepfake ID documents attacks this year</title>
+      <link>https://www.biometricupdate.com/202606/shufti-forecasts-39x-more-deepfake-id-documents-attacks-this-year</link>
+      <guid isPermaLink="false">identitybrief-98bbc27c9187e840</guid>
+      <pubDate>Mon, 22 Jun 2026 18:56:43 +0000</pubDate>
+      <category>fraud</category>
+      <description>Shufti's report forecasts a 39-fold increase in deepfake ID attacks this year. This surge threatens to render basic selfie biometric checks ineffective unless paired with other controls. Keep in mind: The pace of such evolution can leave even robust, current systems playing catch-up.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>FortiBleed campaign used custom FortiGate sniffer to steal credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/</link>
+      <guid isPermaLink="false">identitybrief-13bd83f25db95b67</guid>
+      <pubDate>Mon, 22 Jun 2026 20:01:02 +0000</pubDate>
+      <category>breach</category>
+      <description>The FortiBleed campaign compromised Fortinet FortiGate firewalls to steal credentials using custom sniffers. Such targeted attacks put a spotlight on the need for tighter network and device security. It's worth noting: Fortinet vulnerabilities need specific network conditions, so widespread applicability varies.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Tools for Humanity hired two law firms to probe bribery and financial misconduct</title>
+      <link>https://www.biometricupdate.com/202606/tools-for-humanity-hired-two-law-firms-to-probe-bribery-and-financial-misconduct</link>
+      <guid isPermaLink="false">identitybrief-f41df28036202673</guid>
+      <pubDate>Mon, 22 Jun 2026 17:27:26 +0000</pubDate>
+      <category>did</category>
+      <description>Tools for Humanity is under investigation for potential financial misconduct and bribery. Allegations like these can undermine trust in digital identity solutions, especially in emerging markets. However, the exact impact on their operations remains to be seen.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests</title>
+      <link>https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html</link>
+      <guid isPermaLink="false">identitybrief-726cc507af6d690a</guid>
+      <pubDate>Mon, 22 Jun 2026 14:29:46 +0000</pubDate>
+      <category>auth</category>
+      <description>Squid proxy's 'Squidbleed' bug can leak HTTP requests in cleartext. Such a vulnerability poses credential and token exposure risks in shared environments. The catch: It's an old bug, but it remains in Squid’s default settings, requiring proactive configuration.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Veridos win major contract to deliver 1.25 million e-passports</title>
+      <link>https://identityweek.net/veridos-win-major-contract-to-deliver-1-25-million-e-passports/</link>
+      <guid isPermaLink="false">identitybrief-2511112d3eaaca7b</guid>
+      <pubDate>Mon, 22 Jun 2026 11:50:58 +0000</pubDate>
+      <category>auth</category>
+      <description>Veridos won a Latvian contract to deliver 1.25 million e-passports. This project showcases the rollout of advanced biometric identity solutions. However, the adoption is mainly localized, with deployment specifics varying by country requirements.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>A Glimpse into the “Search Your Target” Market for Stolen Credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/</link>
+      <guid isPermaLink="false">identitybrief-a2675418868871a9</guid>
+      <pubDate>Mon, 22 Jun 2026 14:05:15 +0000</pubDate>
+      <category>breach</category>
+      <description>An underground market for targeted stolen credentials is emerging. This trend emphasizes the targeted nature cybercriminals are taking, searching credentials by company. Buyer beware: It's specific to certain markets and may have limited data reliability.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Identity Week: New FIDO Alliance and HID study reveals major gap between identity security confidence and reality</title>
+      <link>https://fidoalliance.org/identity-week-new-fido-alliance-and-hid-study-reveals-major-gap-between-identity-security-confidence-and-reality/</link>
+      <guid isPermaLink="false">identitybrief-0356e45336ac4d9c</guid>
+      <pubDate>Mon, 22 Jun 2026 15:30:38 +0000</pubDate>
+      <category>auth</category>
+      <description>A FIDO Alliance and HID study finds that while 94% of enterprises say they can revoke access within 24 hours, 35% faced delays in the past two years. This disconnect highlights a gap in perceived and actual identity security efficacy. The catch: Trust isn't always matched by capability; real-world testing is essential to bridge the gap.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>DIF Newsletter #62</title>
+      <link>https://blog.identity.foundation/dif-newsletter-62/</link>
+      <guid isPermaLink="false">identitybrief-ca6146b711081c58</guid>
+      <pubDate>Mon, 22 Jun 2026 15:00:57 +0000</pubDate>
+      <category>did</category>
+      <description>The DIF newsletter updates on decentralized identity, including task forces and global standards. Decentralized approaches are gaining ground, offering potential independence from centralized identity providers. However, implementation remains nascent and complex, still requiring broader ecosystem buy-in.
+
+— via DIF</description>
+    </item>
+    <item>
+      <title>Identity verification on Claude</title>
+      <link>https://support.claude.com/en/articles/14328960-identity-verification-on-claude</link>
+      <guid isPermaLink="false">identitybrief-172a26c83bdda162</guid>
+      <pubDate>Sun, 21 Jun 2026 12:44:13 +0000</pubDate>
+      <category>fraud</category>
+      <description>There's a discussion around Claude's identity verification processes. It's crucial because of its impact on user privacy and authentication strength in AI interactions. However, real-world use and user adherence could vary significantly.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Klue breach exposed Salesforce CRM data through stolen OAuth tokens</title>
+      <link>https://www.csoonline.com/article/4187907/klue-breach-exposed-salesforce-crm-data-through-stolen-oauth-tokens.html</link>
+      <guid isPermaLink="false">identitybrief-61a933daaf2111a9</guid>
+      <pubDate>Mon, 22 Jun 2026 16:21:05 +0000</pubDate>
+      <category>breach</category>
+      <description>Klue's breach exposed customer data due to stolen OAuth tokens. This highlights OAuth's vulnerability when not properly safeguarded. The immediate but limited fix: Tokens were revoked, yet legacy protection might still be lagging in other integrations.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants</title>
+      <link>https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html</link>
+      <guid isPermaLink="false">identitybrief-c63ab8f2419e5c1c</guid>
+      <pubDate>Mon, 22 Jun 2026 16:13:28 +0000</pubDate>
+      <category>auth</category>
+      <description>Four major flaws in Dify could allow unauthorized access to AI chat data. This presents a risk for data privacy and cross-tenant security in AI applications. Yet, these vulnerabilities require specific configurations, limiting their broader impact.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries</title>
+      <link>https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html</link>
+      <guid isPermaLink="false">identitybrief-d13e38a81028269d</guid>
+      <pubDate>Mon, 22 Jun 2026 12:45:08 +0000</pubDate>
+      <category>iam</category>
+      <description>Google mandates Android developer verification by September 30 to curb fraudulent apps. This aims to enhance app trust in specific Southeast Asian markets. However, it's only a start, with global rollout not yet announced.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Passkey Adoption Is Rising, but Is It Worth It Yet?</title>
+      <link>https://auth0.com/blog/passkey-adoption-rising-but-worth-it-yet/</link>
+      <guid isPermaLink="false">identitybrief-121092ff994cefe8</guid>
+      <pubDate>Mon, 22 Jun 2026 15:48:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Passkey adoption is rising, offering a passwordless authentication future. Enterprises must weigh the benefits of synced versus device-bound credentials under FIDO2. Integration challenges persist, especially for legacy systems not yet ready for passkeys.
+
+— via Auth0</description>
+    </item>
+</channel></rss>
