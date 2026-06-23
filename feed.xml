@@ -4,14 +4,44 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Omada Identity Sovereign targets Europe’s growing digital sovereignty demands</title>
+      <link>https://www.helpnetsecurity.com/2026/06/23/omada-identity-sovereign-targets-europes-growing-digital-sovereignty-demands/</link>
+      <guid isPermaLink="false">identitybrief-19637cf1522337b5</guid>
+      <pubDate>Tue, 23 Jun 2026 09:25:19 +0000</pubDate>
+      <category>iam</category>
+      <description>Omada Identity Sovereign is a new tool aimed at meeting Europe's digital sovereignty demands. It allows organizations to control identity governance according to local laws, crucial for compliance with regulations like DORA and NIS2. The catch: it's highly tailored for Europe, so global organizations will need other solutions for non-European regions.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Canadian Electricity Provider London Hydro Discloses Data Breach</title>
+      <link>https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-6375cd7b27214ed7</guid>
+      <pubDate>Tue, 23 Jun 2026 09:25:22 +0000</pubDate>
+      <category>breach</category>
+      <description>London Hydro's customer data has been stolen in a breach, impacting names, addresses, emails, and account details. Such data can facilitate identity theft and fraud if misused. This breach highlights the ongoing challenge of securing contact information against unauthorized access.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
       <title>AstreaX, Trinsic, Veriff and ROC tap leaders to scale adoption</title>
       <link>https://www.biometricupdate.com/202606/astreax-trinsic-veriff-and-roc-tap-leaders-to-scale-adoption</link>
       <guid isPermaLink="false">identitybrief-dc826cb0a65f2b15</guid>
       <pubDate>Mon, 22 Jun 2026 22:12:38 +0000</pubDate>
       <category>did</category>
-      <description>AstreaX, Trinsic, Veriff, and ROC are appointing new leaders to drive scale in digital identity and biometrics. This move signals an industry push toward widespread adoption of these technologies. The catch: leadership changes alone don't guarantee success without clear strategic execution.
+      <description>Amid growing digital identity demands, companies like AstreaX and Veriff are appointing leaders to drive adoption. This reflects the industry's push to scale identity solutions for government and businesses. But appetite and readiness for such tech vary widely, which could slow broader implementation.
 
 — via Biometric Update</description>
+    </item>
+    <item>
+      <title>Phishing hides in routine Microsoft 365 workflows</title>
+      <link>https://www.helpnetsecurity.com/2026/06/23/microsoft-365-collaboration-features-phishing/</link>
+      <guid isPermaLink="false">identitybrief-e1c97f31dee77673</guid>
+      <pubDate>Tue, 23 Jun 2026 08:26:17 +0000</pubDate>
+      <category>breach</category>
+      <description>Phishing campaigns are exploiting routine Microsoft 365 workflows to look legitimate. This misuse of trusted collaboration features poses a new challenge for recognition and response tools. The strategy remains susceptible to user education since it relies on unsuspecting actions.
+
+— via Help Net Security</description>
     </item>
     <item>
       <title>Xsolis Data Breach Affects 1.4 Million Individuals</title>
@@ -19,7 +49,7 @@
       <guid isPermaLink="false">identitybrief-0498a4fea506170c</guid>
       <pubDate>Tue, 23 Jun 2026 06:20:00 +0000</pubDate>
       <category>breach</category>
-      <description>Xsolis suffered a data breach affecting 1.4 million individuals' health information. This highlights the vulnerability of health data and the need for stronger access controls. However, awareness without action won't solve the underlying security flaws.
+      <description>Xsolis experienced a data breach exposing personal health information of 1.4 million individuals. Breaches like this can lead to privacy violations and increased fraud risks in healthcare. The company's response strategy is under scrutiny but specific protective actions weren't detailed.
 
 — via SecurityWeek</description>
     </item>
@@ -29,7 +59,7 @@
       <guid isPermaLink="false">identitybrief-30952a190ef4cbb1</guid>
       <pubDate>Mon, 22 Jun 2026 17:18:15 +0000</pubDate>
       <category>breach</category>
-      <description>A data breach at Madison Square Garden leaked biometric surveillance data. It underscores the risks of storing sensitive biometric information without robust security. The challenge: lawsuits won't repair impacted trust immediately.
+      <description>The New York Knicks' owner faces a lawsuit following a breach of face recognition data at Madison Square Garden. Such breaches elevate concerns about biometric data misuse and privacy protection. The complex legal landscape around biometric data only muddies the waters further.
 
 — via Biometric Update</description>
     </item>
@@ -39,7 +69,7 @@
       <guid isPermaLink="false">identitybrief-942d4bc76fdaec7c</guid>
       <pubDate>Mon, 22 Jun 2026 18:47:42 +0000</pubDate>
       <category>did</category>
-      <description>Philippines mandates age assurance on social media with a new bill, boosting demand for biometric checks. This could shape future identity verification solutions to protect minors online. The snag: implementing privacy-preserving solutions still raises technical challenges.
+      <description>The Philippines will require age verification on social media under new legislation. This could boost demand for biometric age-assurance technologies, impacting digital identity verification strategies. Implementation and user privacy remain significant hurdles for widespread acceptance.
 
 — via Biometric Update</description>
     </item>
@@ -49,19 +79,39 @@
       <guid isPermaLink="false">identitybrief-cd06bcb64dd4a11d</guid>
       <pubDate>Mon, 22 Jun 2026 22:42:21 +0000</pubDate>
       <category>breach</category>
-      <description>A phishing campaign on WhatsApp uses fake docs to infect PCs via VBScript files. It highlights ongoing phishing vulnerabilities through spear-phishing tactics. The downside: once remote access is achieved, damage control becomes difficult.
+      <description>A new phishing tactic via WhatsApp uses fake business documents to gain computer access. This approach exploits trust in seemingly routine communications to introduce malware. Users must remain wary of attachments and verify sender legitimacy, challenges that persist with expanding communication platforms.
 
 — via BleepingComputer</description>
     </item>
     <item>
-      <title>Government of St. Kitts and Nevis launch mandatory biometric passport enrolment</title>
-      <link>https://identityweek.net/government-of-st-kitts-and-nevis-launch-mandatory-biometric-passport-enrolment/</link>
-      <guid isPermaLink="false">identitybrief-ec55b154cfb70771</guid>
-      <pubDate>Mon, 22 Jun 2026 10:56:45 +0000</pubDate>
+      <title>Russian Initial Access Broker Behind FortiBleed Campaign</title>
+      <link>https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/</link>
+      <guid isPermaLink="false">identitybrief-addcd22b3985aec8</guid>
+      <pubDate>Tue, 23 Jun 2026 10:30:46 +0000</pubDate>
       <category>auth</category>
-      <description>St. Kitts and Nevis launch mandatory biometric passport enrolment. This strengthens passport security against forgery and fraud. However, it depends heavily on initial enrolment precision and maintaining system integrity.
+      <description>A Russian group has captured over 110 million credentials using a custom sniffer in a campaign named FortiBleed. Credential theft at this scale directly threatens user authentication integrity across systems. The specific vulnerability exploited isn't disclosed, so firms must remain generally vigilant and update their threat-hunting techniques.
 
-— via Identity Week</description>
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>OpenAI wants AI to fix vulnerabilities, not just find them</title>
+      <link>https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative/</link>
+      <guid isPermaLink="false">identitybrief-49e3ef8c257f3b49</guid>
+      <pubDate>Tue, 23 Jun 2026 08:49:01 +0000</pubDate>
+      <category>breach</category>
+      <description>OpenAI's Daybreak initiative uses AI to both find and fix software vulnerabilities. This dual approach aims to streamline vulnerability remediation, a critical step in maintaining secure systems. Its effectiveness is yet unproven at large-scale deployment, especially concerning complex multi-vendor environments.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Cloudflare teams up with big browsers to help websites tell welcome from unwelcome visitors</title>
+      <link>https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782</link>
+      <guid isPermaLink="false">identitybrief-d40b453bd487a572</guid>
+      <pubDate>Mon, 22 Jun 2026 20:02:52 +0000</pubDate>
+      <category>fraud</category>
+      <description>Cloudflare and major browsers are supporting Private Access Control Tokens to distinguish legitimate visitors from bots. It's a step forward in access management against automated threats. The adoption depends on wide website compatibility and user data protection trust.
+
+— via The Register Security</description>
     </item>
     <item>
       <title>A Watermark for Vision-Language-Action and World Action Models</title>
@@ -69,69 +119,19 @@
       <guid isPermaLink="false">identitybrief-c13b152d7667841b</guid>
       <pubDate>Mon, 22 Jun 2026 16:39:28 +0000</pubDate>
       <category>research</category>
-      <description>A new paper introduces watermarking in vision-language-action models to protect intellectual property. This could help validate AI model authenticity and security for vendors. But, it's still in the research phase and not mainstream yet.
+      <description>A proposed verification method for VLA and WAM models uses key seed fingerprinting to protect intellectual property. This ensures proprietary models remain secure, a growing concern as these black-box systems are more common. Practical deployment might remain niche given computational requirements.
 
 — via arXiv</description>
     </item>
     <item>
-      <title>⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More</title>
-      <link>https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html</link>
-      <guid isPermaLink="false">identitybrief-862328431877a6fe</guid>
-      <pubDate>Mon, 22 Jun 2026 10:55:10 +0000</pubDate>
+      <title>Health board apologizes for phishing staff with with bogus vacation day</title>
+      <link>https://www.theregister.com/security/2026/06/22/canadian-health-board-sorry-after-tasteless-phishing-test/5259320</link>
+      <guid isPermaLink="false">identitybrief-59a1a58ec02c07ce</guid>
+      <pubDate>Mon, 22 Jun 2026 11:27:00 +0000</pubDate>
       <category>breach</category>
-      <description>This week's threat roundup includes familiar issues like credential abuses and browser bugs. It shows the persistence of these attack vectors despite ongoing awareness. The catch: tackling them requires consistent vigilance over new techniques.
+      <description>A Canadian health board's phishing test featuring fake vacation offers backfires, drawing criticism. Such tests can damage employee trust and obscure the actual learning objectives. The lesson is clear: ethical considerations must guide cybersecurity training programs.
 
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Public Diffusion Models, Private Images: Key-Controlled Inversion for Conditional Reconstruction</title>
-      <link>http://arxiv.org/abs/2606.22988v1</link>
-      <guid isPermaLink="false">identitybrief-bd082929452b30db</guid>
-      <pubDate>Mon, 22 Jun 2026 08:07:07 +0000</pubDate>
-      <category>research</category>
-      <description>Diffusion models are often deployed in settings where model parameters are publicly accessible (e.g., open-source libraries or released checkpoints). This white-box scenario creates a serious security risk: any user who obtains an intermediate latent representation can invert the process to recover the original input image. Most prior work on access control…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Fortinet Responds to FortiBleed Campaign</title>
-      <link>https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/</link>
-      <guid isPermaLink="false">identitybrief-b7e27cc1217015e8</guid>
-      <pubDate>Mon, 22 Jun 2026 09:34:59 +0000</pubDate>
-      <category>auth</category>
-      <description>Fortinet responds to a credential-harvesting campaign, revealing over 86,000 compromised credentials. It emphasizes the ongoing need for strong credential management practices. The limitation: response efforts must be swift to mitigate damage.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific</title>
-      <link>https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html</link>
-      <guid isPermaLink="false">identitybrief-961b7710656fe3e1</guid>
-      <pubDate>Mon, 22 Jun 2026 06:06:53 +0000</pubDate>
-      <category>fraud</category>
-      <description>INTERPOL alerts on rising cybercrime in Asia-Pacific, focused on phishing and ransomware. This regional increase calls for enhanced cybersecurity measures and cross-border cooperation. Yet, maturity gaps in cybersecurity make uniform solutions challenging.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Product showcase: Avira Security for iOS blends security, privacy, and device optimization</title>
-      <link>https://www.helpnetsecurity.com/2026/06/22/product-showcase-avira-mobile-security-ios/</link>
-      <guid isPermaLink="false">identitybrief-662999bfd17bc871</guid>
-      <pubDate>Mon, 22 Jun 2026 04:30:55 +0000</pubDate>
-      <category>fraud</category>
-      <description>Avira showcases an iOS app blending security with privacy and optimization. It's a comprehensive approach to mobile security challenges. The drawback: as a product showcase, it may skew toward selling the app's merits.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hundreds of AI-powered iOS apps found exposing credentials</title>
-      <link>https://www.helpnetsecurity.com/2026/06/22/llm-api-credential-leakage-ios-apps/</link>
-      <guid isPermaLink="false">identitybrief-a2b72a895a8fd128</guid>
-      <pubDate>Mon, 22 Jun 2026 04:00:05 +0000</pubDate>
-      <category>breach</category>
-      <description>Numerous AI-powered iOS apps found leaking credentials. Highlights ongoing risks in securing AI feature integrations. The hurdle: public awareness is growing, but the technical fixes remain inconsistent.
-
-— via Help Net Security</description>
+— via The Register Security</description>
     </item>
     <item>
       <title>The token bill is an identity problem</title>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">identitybrief-ad35a4bd0de8ba31</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <category>iam</category>
-      <description>A blog discusses AI agent cost management and its connection to hidden identity costs. This reflects the hidden complexities in managing AI-driven identity frameworks. The obstacle: revealing such costs often requires deep technical audits.
+      <description>Invisible AI agent costs are an identity tracking issue, often hidden within operational expenses. This complexity obscures true financial impacts and hinders management understanding. The difficulty lies in accurately tracing and attributing costs across integrated identity systems.
 
 — via WorkOS</description>
     </item>
