@@ -9,9 +9,19 @@
       <guid isPermaLink="false">identitybrief-dc826cb0a65f2b15</guid>
       <pubDate>Mon, 22 Jun 2026 22:12:38 +0000</pubDate>
       <category>did</category>
-      <description>Several digital ID firms like AstreaX are hiring new leaders to expand their reach. This reflects a growing focus on scaling digital identity systems, especially around biometrics and reusable identities. However, leadership changes alone won't solve adoption hurdles — practical deployment and integration still need to catch up.
+      <description>AstreaX, Trinsic, Veriff, and ROC are appointing new leaders to drive scale in digital identity and biometrics. This move signals an industry push toward widespread adoption of these technologies. The catch: leadership changes alone don't guarantee success without clear strategic execution.
 
 — via Biometric Update</description>
+    </item>
+    <item>
+      <title>Xsolis Data Breach Affects 1.4 Million Individuals</title>
+      <link>https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/</link>
+      <guid isPermaLink="false">identitybrief-0498a4fea506170c</guid>
+      <pubDate>Tue, 23 Jun 2026 06:20:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Xsolis suffered a data breach affecting 1.4 million individuals' health information. This highlights the vulnerability of health data and the need for stronger access controls. However, awareness without action won't solve the underlying security flaws.
+
+— via SecurityWeek</description>
     </item>
     <item>
       <title>New York Knicks owner sued following biometric data breach</title>
@@ -19,7 +29,7 @@
       <guid isPermaLink="false">identitybrief-30952a190ef4cbb1</guid>
       <pubDate>Mon, 22 Jun 2026 17:18:15 +0000</pubDate>
       <category>breach</category>
-      <description>Madison Square Garden's biometric systems were breached by hackers who exposed 26 million visitor records. This underlines a major risk: biometric data breaches can lead to severe privacy violations and legal consequences. But not every system can just switch to non-biometric authentication without losing efficiency or security.
+      <description>A data breach at Madison Square Garden leaked biometric surveillance data. It underscores the risks of storing sensitive biometric information without robust security. The challenge: lawsuits won't repair impacted trust immediately.
 
 — via Biometric Update</description>
     </item>
@@ -29,9 +39,19 @@
       <guid isPermaLink="false">identitybrief-942d4bc76fdaec7c</guid>
       <pubDate>Mon, 22 Jun 2026 18:47:42 +0000</pubDate>
       <category>did</category>
-      <description>A new law in the Philippines requires age assurance tech for teens on social media platforms. It could drive demand for biometric solutions that preserve privacy for minors. The catch is adoption; while the law sets the rules, tech implementation and user acceptance are often slower.
+      <description>Philippines mandates age assurance on social media with a new bill, boosting demand for biometric checks. This could shape future identity verification solutions to protect minors online. The snag: implementing privacy-preserving solutions still raises technical challenges.
 
 — via Biometric Update</description>
+    </item>
+    <item>
+      <title>WhatsApp phishing attack uses fake business docs to hack PCs</title>
+      <link>https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/</link>
+      <guid isPermaLink="false">identitybrief-cd06bcb64dd4a11d</guid>
+      <pubDate>Mon, 22 Jun 2026 22:42:21 +0000</pubDate>
+      <category>breach</category>
+      <description>A phishing campaign on WhatsApp uses fake docs to infect PCs via VBScript files. It highlights ongoing phishing vulnerabilities through spear-phishing tactics. The downside: once remote access is achieved, damage control becomes difficult.
+
+— via BleepingComputer</description>
     </item>
     <item>
       <title>Government of St. Kitts and Nevis launch mandatory biometric passport enrolment</title>
@@ -39,59 +59,19 @@
       <guid isPermaLink="false">identitybrief-ec55b154cfb70771</guid>
       <pubDate>Mon, 22 Jun 2026 10:56:45 +0000</pubDate>
       <category>auth</category>
-      <description>The St. Kitts and Nevis government has mandated biometric enrollment for passports. This aligns with international moves to secure travel documents with advanced technology. The downside? It requires citizens to adapt to new enrollment processes, which can be cumbersome.
+      <description>St. Kitts and Nevis launch mandatory biometric passport enrolment. This strengthens passport security against forgery and fraud. However, it depends heavily on initial enrolment precision and maintaining system integrity.
 
 — via Identity Week</description>
     </item>
     <item>
-      <title>INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific</title>
-      <link>https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html</link>
-      <guid isPermaLink="false">identitybrief-961b7710656fe3e1</guid>
-      <pubDate>Mon, 22 Jun 2026 06:06:53 +0000</pubDate>
-      <category>fraud</category>
-      <description>A new report from INTERPOL has revealed a "dramatic increase" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity. According to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and
+      <title>A Watermark for Vision-Language-Action and World Action Models</title>
+      <link>http://arxiv.org/abs/2606.23574v1</link>
+      <guid isPermaLink="false">identitybrief-c13b152d7667841b</guid>
+      <pubDate>Mon, 22 Jun 2026 16:39:28 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper introduces watermarking in vision-language-action models to protect intellectual property. This could help validate AI model authenticity and security for vendors. But, it's still in the research phase and not mainstream yet.
 
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Texas Parks &amp; Wildlife Data Breach Affects 3 Million Individuals</title>
-      <link>https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/</link>
-      <guid isPermaLink="false">identitybrief-35d34b328231deef</guid>
-      <pubDate>Mon, 22 Jun 2026 05:33:39 +0000</pubDate>
-      <category>breach</category>
-      <description>3 million records were stolen from the Texas Parks &amp; Wildlife system due to a third-party breach. This incident stresses the vulnerability of third-party integrations in data security. It's a reminder of the importance of securing vendor communication and access.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Hundreds of AI-powered iOS apps found exposing credentials</title>
-      <link>https://www.helpnetsecurity.com/2026/06/22/llm-api-credential-leakage-ios-apps/</link>
-      <guid isPermaLink="false">identitybrief-a2b72a895a8fd128</guid>
-      <pubDate>Mon, 22 Jun 2026 04:00:05 +0000</pubDate>
-      <category>breach</category>
-      <description>Hundreds of iOS apps are leaking credentials due to improper API security. App developers need to tighten access mechanisms to prevent exploitation. But updating all affected apps is a daunting task that requires coordinated effort and oversight.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Cloudflare teams up with big browsers to help websites tell welcome from unwelcome visitors</title>
-      <link>https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782</link>
-      <guid isPermaLink="false">identitybrief-d40b453bd487a572</guid>
-      <pubDate>Mon, 22 Jun 2026 20:02:52 +0000</pubDate>
-      <category>fraud</category>
-      <description>Cloudflare is working with major browsers to roll out Private Access Control Tokens to distinguish legitimate users from bots. This could enhance visitor control by reducing bot traffic without invasive checks. However, websites need to integrate these tokens correctly to avoid excluding real users.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Health board apologizes for phishing staff with with bogus vacation day</title>
-      <link>https://www.theregister.com/security/2026/06/22/canadian-health-board-sorry-after-tasteless-phishing-test/5259320</link>
-      <guid isPermaLink="false">identitybrief-59a1a58ec02c07ce</guid>
-      <pubDate>Mon, 22 Jun 2026 11:27:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A Canadian health board apologized for a poor phishing test involving fake vacation days. This highlights the fine line between training and trust erosion in security exercises. While it's crucial to test staff, the approach must be sensitive to maintain morale and trust.
-
-— via The Register Security</description>
+— via arXiv</description>
     </item>
     <item>
       <title>⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More</title>
@@ -99,9 +79,19 @@
       <guid isPermaLink="false">identitybrief-862328431877a6fe</guid>
       <pubDate>Mon, 22 Jun 2026 10:55:10 +0000</pubDate>
       <category>breach</category>
-      <description>The week's security landscape includes old threats: browser bugs, ransomware, and mobile Trojan activity. These persistent issues mostly hinge on weak credentials and outdated software. Organizations need systematic patch management and rigorous credential policies to stay ahead.
+      <description>This week's threat roundup includes familiar issues like credential abuses and browser bugs. It shows the persistence of these attack vectors despite ongoing awareness. The catch: tackling them requires consistent vigilance over new techniques.
 
 — via The Hacker News</description>
+    </item>
+    <item>
+      <title>Public Diffusion Models, Private Images: Key-Controlled Inversion for Conditional Reconstruction</title>
+      <link>http://arxiv.org/abs/2606.22988v1</link>
+      <guid isPermaLink="false">identitybrief-bd082929452b30db</guid>
+      <pubDate>Mon, 22 Jun 2026 08:07:07 +0000</pubDate>
+      <category>research</category>
+      <description>Diffusion models are often deployed in settings where model parameters are publicly accessible (e.g., open-source libraries or released checkpoints). This white-box scenario creates a serious security risk: any user who obtains an intermediate latent representation can invert the process to recover the original input image. Most prior work on access control…
+
+— via arXiv</description>
     </item>
     <item>
       <title>Fortinet Responds to FortiBleed Campaign</title>
@@ -109,9 +99,19 @@
       <guid isPermaLink="false">identitybrief-b7e27cc1217015e8</guid>
       <pubDate>Mon, 22 Jun 2026 09:34:59 +0000</pubDate>
       <category>auth</category>
-      <description>Fortinet confirmed a breach where credentials were harvested during the FortiBleed campaign. Undetected credential harvesting poses severe compromise risks. The mitigation focus should be on credential hygiene and monitoring for unusual access patterns.
+      <description>Fortinet responds to a credential-harvesting campaign, revealing over 86,000 compromised credentials. It emphasizes the ongoing need for strong credential management practices. The limitation: response efforts must be swift to mitigate damage.
 
 — via SecurityWeek</description>
+    </item>
+    <item>
+      <title>INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific</title>
+      <link>https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html</link>
+      <guid isPermaLink="false">identitybrief-961b7710656fe3e1</guid>
+      <pubDate>Mon, 22 Jun 2026 06:06:53 +0000</pubDate>
+      <category>fraud</category>
+      <description>INTERPOL alerts on rising cybercrime in Asia-Pacific, focused on phishing and ransomware. This regional increase calls for enhanced cybersecurity measures and cross-border cooperation. Yet, maturity gaps in cybersecurity make uniform solutions challenging.
+
+— via The Hacker News</description>
     </item>
     <item>
       <title>Product showcase: Avira Security for iOS blends security, privacy, and device optimization</title>
@@ -119,19 +119,19 @@
       <guid isPermaLink="false">identitybrief-662999bfd17bc871</guid>
       <pubDate>Mon, 22 Jun 2026 04:30:55 +0000</pubDate>
       <category>fraud</category>
-      <description>Avira released a security app for iOS that blends privacy tools with device optimization. It's a convenient bundle for users worried about security on personal devices. However, effectiveness largely depends on users' willingness to enable and actively manage these settings.
+      <description>Avira showcases an iOS app blending security with privacy and optimization. It's a comprehensive approach to mobile security challenges. The drawback: as a product showcase, it may skew toward selling the app's merits.
 
 — via Help Net Security</description>
     </item>
     <item>
-      <title>Why Southeast Asia CISOs Need Zero Trust as Their AI Control Plane – AI Agents, Data Borders and Supply Chains</title>
-      <link>https://www.csoonline.com/article/4187548/why-southeast-asia-cisos-need-zero-trust-as-their-ai-control-plane-ai-agents-data-borders-and-supply-chains.html</link>
-      <guid isPermaLink="false">identitybrief-6bee6696a0d9c131</guid>
-      <pubDate>Mon, 22 Jun 2026 03:11:09 +0000</pubDate>
-      <category>iam</category>
-      <description>Zero trust is being touted as essential for AI and data regulation in Southeast Asia, according to Zscaler. This philosophy may help in building secure digital ecosystems, especially with AI's wide use. However, its implementation is complex, demanding full organizational commitment.
+      <title>Hundreds of AI-powered iOS apps found exposing credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/06/22/llm-api-credential-leakage-ios-apps/</link>
+      <guid isPermaLink="false">identitybrief-a2b72a895a8fd128</guid>
+      <pubDate>Mon, 22 Jun 2026 04:00:05 +0000</pubDate>
+      <category>breach</category>
+      <description>Numerous AI-powered iOS apps found leaking credentials. Highlights ongoing risks in securing AI feature integrations. The hurdle: public awareness is growing, but the technical fixes remain inconsistent.
 
-— via CSO Online</description>
+— via Help Net Security</description>
     </item>
     <item>
       <title>The token bill is an identity problem</title>
@@ -139,7 +139,7 @@
       <guid isPermaLink="false">identitybrief-ad35a4bd0de8ba31</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <category>iam</category>
-      <description>AI agent cost tracking is becoming a hidden concern for many businesses. Aligning budgets with real AI needs requires early adjustments in system design. Yet, pinpointing where to start in the tech stack isn't always clear-cut.
+      <description>A blog discusses AI agent cost management and its connection to hidden identity costs. This reflects the hidden complexities in managing AI-driven identity frameworks. The obstacle: revealing such costs often requires deep technical audits.
 
 — via WorkOS</description>
     </item>
