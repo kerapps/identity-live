@@ -9,7 +9,7 @@
       <guid isPermaLink="false">identitybrief-7567228e74c5154e</guid>
       <pubDate>Tue, 23 Jun 2026 18:29:57 +0000</pubDate>
       <category>fraud</category>
-      <description>A webinar explores stopping deepfake fraud using biometric injection attack detection. This matters because it reflects the evolving challenges in verifying identities against increasingly sophisticated attacks. Reality check: it's a pitch from vendors offering the latest solutions, not a definitive guide.
+      <description>A webinar is addressing deepfake fraud identification through biometric tech. As threat actors get smarter with AI, understanding IAD is crucial for robust remote ID verification. This solution requires up-to-date infrastructure and training to be effective.
 
 — via Biometric Update</description>
     </item>
@@ -19,7 +19,7 @@
       <guid isPermaLink="false">identitybrief-218b4857796abeb8</guid>
       <pubDate>Tue, 23 Jun 2026 18:07:23 +0000</pubDate>
       <category>did</category>
-      <description>ID.me, ServiceNow, and Servos join to help states upgrade identity verification processes. This matters for agencies facing new federal mandates on digital ID and benefits systems. Limitation: the solution is tightly tied to their platform, limiting options for broader systemic integration.
+      <description>ID.me and partners aim to overhaul state benefits systems with new ID mandates. Significant for managing identity verification in public services, this could streamline aid distribution. However, compliance and system integration may challenge smaller agencies.
 
 — via Biometric Update</description>
     </item>
@@ -29,7 +29,7 @@
       <guid isPermaLink="false">identitybrief-1c4743d92081fea8</guid>
       <pubDate>Tue, 23 Jun 2026 18:20:26 +0000</pubDate>
       <category>did</category>
-      <description>EU compromise on biometric use in digital ID wallets sparks privacy concerns. For digital identity services, this highlights tension between usability and privacy. The compromise allows opt-outs, but privacy advocates warn it doesn’t fully protect user data.
+      <description>EU reached a compromise on biometrics for the EUDI Wallet, allowing opt-outs. This attempts to address privacy concerns while promoting digital identity. The catch is uneven implementation could lead to variability in privacy protection across borders.
 
 — via Biometric Update</description>
     </item>
@@ -39,7 +39,7 @@
       <guid isPermaLink="false">identitybrief-18815f8a68e92c5b</guid>
       <pubDate>Tue, 23 Jun 2026 19:59:12 +0000</pubDate>
       <category>breach</category>
-      <description>Xolis suffered a data breach impacting 1.4 million people via phishing. It's a reminder of how vulnerable healthcare data remains to phishing, and the need for strong verification methods. The detail: phishing remains an effective first entry despite widespread awareness.
+      <description>Xolis suffered a breach affecting 1.4 million individuals through phishing. It underscores the importance of securing healthcare data against such exploits. The breach's impact depends on the nature and sensitivity of the exposed information.
 
 — via BleepingComputer</description>
     </item>
@@ -49,7 +49,7 @@
       <guid isPermaLink="false">identitybrief-7835b96f5547989d</guid>
       <pubDate>Tue, 23 Jun 2026 13:58:25 +0000</pubDate>
       <category>breach</category>
-      <description>Klue's supply chain breach has led to LastPass data being compromised. This incident underscores the importance of securing third-party integrations like OAuth tokens. Reminder: breaches propagate through supply chains, making holistic defense strategies crucial.
+      <description>LastPass confirms its customer data was breached via Salesforce OAuth tokens. An instance of how supply chain attacks cast wide nets, impacting multiple entities. The residual risk remains for similar integration setups without tight token management.
 
 — via BleepingComputer</description>
     </item>
@@ -59,7 +59,7 @@
       <guid isPermaLink="false">identitybrief-e37a46a19ec0c5ff</guid>
       <pubDate>Tue, 23 Jun 2026 18:20:49 +0000</pubDate>
       <category>breach</category>
-      <description>FortiBleed targeted FortiGate firewalls for massive credential harvesting. It's a warning of the scale and targeting possible against enterprise access points. Caveat: only effective if you've kept firewalls unpatched, emphasizing patch management's importance.
+      <description>FortiBleed targeted FortiGate firewalls, stealing 110 million credentials. This underlines the criticality of firewall security in credential protection. Individually securing each firewall is cumbersome yet essential to thwart such breaches.
 
 — via The Hacker News</description>
     </item>
@@ -69,19 +69,9 @@
       <guid isPermaLink="false">identitybrief-bee8f2b01161f9fe</guid>
       <pubDate>Tue, 23 Jun 2026 12:12:20 +0000</pubDate>
       <category>fraud</category>
-      <description>Email security teams face alert fatigue, but behavioral AI offers solutions. Automating detection and response could significantly reduce operational burdens. The limitation: implementation of this AI tech requires investment and training, which can be a barrier.
+      <description>A webinar explores the alert-fatigue dilemma of email security teams. With phishing and account takeovers up, automation via behavioral AI is proposed. The drawback: AI solutions can be costly and require substantial initial setup.
 
 — via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Pact: Anonymous Credentials for the Web</title>
-      <link>https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/</link>
-      <guid isPermaLink="false">identitybrief-4c680cfb8b0d628b</guid>
-      <pubDate>Tue, 23 Jun 2026 16:21:49 +0000</pubDate>
-      <category>auth</category>
-      <description>Pact introduces anonymous credentials that could change how identities are verified online. This matters because it allows for private authentication without revealing user data, potentially reducing data exposure. The catch: this is early-stage technology and may not see broad adoption without further development.
-
-— via Hacker News</description>
     </item>
     <item>
       <title>Madison Square Garden compiled a list of activists against facial recognition</title>
@@ -89,7 +79,17 @@
       <guid isPermaLink="false">identitybrief-a606a881a3b48d46</guid>
       <pubDate>Tue, 23 Jun 2026 13:36:10 +0000</pubDate>
       <category>auth</category>
-      <description>Madison Square Garden compiled a list of facial recognition critics, raising ethical concerns. For identity teams, this highlights the risks of using biometric systems beyond their intended scope. The downside: the debate on privacy and facial recognition is widening without clear regulatory guidelines.
+      <description>Madison Square Garden made a list of activists opposing facial recognition. This illustrates a growing trend where organizations may track individuals based on their stance against certain surveillance technologies. The concern is the potential abuse of power, not the technology itself.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Pact: Anonymous Credentials for the Web</title>
+      <link>https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/</link>
+      <guid isPermaLink="false">identitybrief-4c680cfb8b0d628b</guid>
+      <pubDate>Tue, 23 Jun 2026 16:21:49 +0000</pubDate>
+      <category>auth</category>
+      <description>Mozilla introduces Pact, a way for people to use the web anonymously through credentials. It's a step toward reducing personal data exposure during online interactions. However, it's still early days for adoption and integration across different platforms.
 
 — via Hacker News</description>
     </item>
@@ -99,9 +99,29 @@
       <guid isPermaLink="false">identitybrief-413bb41eb905411c</guid>
       <pubDate>Tue, 23 Jun 2026 14:04:43 +0000</pubDate>
       <category>fraud</category>
-      <description>Age verification systems are criticized as mass surveillance tools. This is significant as it underscores the growing backlash against systems that collect excessive personal data. Limitation: effort to balance verification and privacy could lead to stricter regulations affecting implementation.
+      <description>Age verification often masks broader surveillance practices. This highlights how seemingly protective measures can infringe on privacy. The core issue is balancing safety with privacy, a debate with no easy answers.
 
 — via Hacker News</description>
+    </item>
+    <item>
+      <title>You have got to be KDDI-ng – Japanese telco exposes 14.2 million managed email credentials</title>
+      <link>https://www.theregister.com/cyber-crime/2026/06/24/you-have-got-to-be-kddi-ng-japanese-telco-exposes-142-million-managed-email-credentials/5260555</link>
+      <guid isPermaLink="false">identitybrief-e77d1fc9fb3860e1</guid>
+      <pubDate>Wed, 24 Jun 2026 04:56:48 +0000</pubDate>
+      <category>auth</category>
+      <description>14.2 million email credentials from Japanese telcos were exposed, impacting five major ISPs. For identity and access management teams, this means heightened focus on credential re-use and potential waves of phishing. Immediate action is contingent on telco responses.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice</title>
+      <link>http://arxiv.org/abs/2606.24819v1</link>
+      <guid isPermaLink="false">identitybrief-ced3a6cc918ba497</guid>
+      <pubDate>Tue, 23 Jun 2026 17:05:19 +0000</pubDate>
+      <category>research</category>
+      <description>HelpBench evaluates LLMs in giving security advice, focusing on practical use. If accurate, these models could assist in real-time incident response. Yet, its effectiveness heavily depends on the quality of the data it learns from.
+
+— via arXiv</description>
     </item>
     <item>
       <title>Scope of Salesforce Attacks Expands as Icarus Leaks Data</title>
@@ -109,39 +129,19 @@
       <guid isPermaLink="false">identitybrief-971eb5f7d6451052</guid>
       <pubDate>Tue, 23 Jun 2026 20:44:09 +0000</pubDate>
       <category>breach</category>
-      <description>An expansion of Salesforce attacks using stolen OAuth tokens has been reported. This is critical for teams managing API security and highlights the need for better token security and monitoring. The barrier: existing processes for OAuth token management are often inadequate.
+      <description>Salesforce data was compromised in a broader OAuth token breach involving Klue. These attacks show how third-party service breaches can ripple across, affecting even large platforms. The challenge is monitoring dependencies and promptly revoking exposed credentials.
 
 — via Dark Reading</description>
     </item>
     <item>
-      <title>He Thought He Was Secure; His Phone Number Got Stolen Anyway</title>
-      <link>https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover</link>
-      <guid isPermaLink="false">identitybrief-6d8ab5f808ad0a9e</guid>
-      <pubDate>Mon, 22 Jun 2026 14:12:11 +0000</pubDate>
-      <category>fraud</category>
-      <description>A SIM swap attack shows vulnerabilities in using text-based one-time passwords. It raises the importance of beefing up second-factor authentication to prevent account takeovers. The fix: replace SMS-based methods with more secure technology like app-based tokens.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Black-Box Forensics for Conversational LLM Agents</title>
-      <link>http://arxiv.org/abs/2606.22698v1</link>
-      <guid isPermaLink="false">identitybrief-dea482122c5d48f5</guid>
-      <pubDate>Sun, 21 Jun 2026 22:24:55 +0000</pubDate>
-      <category>research</category>
-      <description>Research explores black-box forensics to trace conversational LLM scams. This is crucial as it could help identify the origins of AI-enabled scams. The hurdle: the methodology relies on classifiers, which need refining for practicality at scale.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Does Your Agent Want to See Other People? Identity-Chained Authorization with Auth0 Token Vault.</title>
-      <link>https://auth0.com/blog/identity-chained-authorization-auth0-token-vault/</link>
-      <guid isPermaLink="false">identitybrief-21a0011d14cfba33</guid>
-      <pubDate>Tue, 23 Jun 2026 14:22:00 +0000</pubDate>
+      <title>Integrating Microsoft Entra ID with Aspire</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3dFcjVnX3oxbFNQVTcyZ3pwTXJyQkRxb1R6WTNNeTFhM3c2TGdWeUJHWDRQUXlLUldMZVlYVEwzc3o5d3M0a2pLSnBGbG1KU2tBN2dEd2xDeHFLTVd3QVFUSU1qUmN0TjAzUXRxekx6U20yTWh1YVUyLVE5cjdhRWNHOHpuOTZXenkzS1pnSmpBUXlBcEtvWWE2STBtMG9COXB3RUQ1RkVqM21IcGR3bTd5anJEQmhheXZMOHlReG5zb2xCWm9naw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-f73e9de0171a2431</guid>
+      <pubDate>Tue, 23 Jun 2026 22:22:40 +0000</pubDate>
       <category>iam</category>
-      <description>Auth0 discusses identity-chained authorization for AI agents. This method could securely manage delegated access in complex systems. Implementation could prove complex, given dependency on the Auth0 platform.
+      <description>Microsoft Entra ID is being integrated with Aspire. This enables more seamless user identity management on the Microsoft platform. Compatibility concerns can arise, especially if existing systems aren't fully aligned.
 
-— via Auth0</description>
+— via Microsoft Entra</description>
     </item>
     <item>
       <title>Omada Identity Sovereign targets Europe’s growing digital sovereignty demands</title>
