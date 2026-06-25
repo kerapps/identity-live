@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Raonsecure expands digital credentials platform for students</title>
+      <link>https://www.biometricupdate.com/202606/raonsecure-expands-digital-credentials-platform-for-students</link>
+      <guid isPermaLink="false">identitybrief-f075199516e94c0c</guid>
+      <pubDate>Thu, 25 Jun 2026 05:36:31 +0000</pubDate>
+      <category>did</category>
+      <description>Raonsecure extended its digital credentials platform into educational systems. It offers schools tools to securely manage digital IDs and academic histories. But note, it's limited to those institutions partnering with Raonsecure, and implementation might require integrating into existing systems.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>EMVCo proposes global schema for verifiable digital payment credentials</title>
+      <link>https://www.biometricupdate.com/202606/emvco-proposes-global-schema-for-verifiable-digital-payment-credentials</link>
+      <guid isPermaLink="false">identitybrief-9fbe0d2798ef16e4</guid>
+      <pubDate>Thu, 25 Jun 2026 03:08:02 +0000</pubDate>
+      <category>did</category>
+      <description>EMVCo proposes a global schema for digital payment credentials. This initiative aims to standardize and secure card payment verifications using digital IDs. However, it's still in the draft phase and open for industry feedback, meaning changes are possible before any final adoption.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ROC rolls up ZTC digital forensics into end-to-end biometric investigative platform</title>
+      <link>https://www.biometricupdate.com/202606/roc-rolls-up-ztc-digital-forensics-into-end-to-end-biometric-investigative-platform</link>
+      <guid isPermaLink="false">identitybrief-995411449b471b6b</guid>
+      <pubDate>Wed, 24 Jun 2026 22:03:43 +0000</pubDate>
+      <category>auth</category>
+      <description>ROC acquired ZTC to build a forensic biometric investigatory platform. This acquisition strengthens ROC’s capabilities in facial recognition and biometric forensics. The limitation is integration might be region-specific and a full rollout could take time.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Human identity progress in Malaysia: Cybercrime Bill criminalises digital identity theft</title>
+      <link>https://identityweek.net/human-identity-progress-in-malaysia-cybercrime-bill-criminalises-digital-identity-theft/</link>
+      <guid isPermaLink="false">identitybrief-d7fe05bc3cda5a89</guid>
+      <pubDate>Wed, 24 Jun 2026 10:54:55 +0000</pubDate>
+      <category>did</category>
+      <description>Malaysia's Cybercrime Bill 2026 criminalizes digital identity theft explicitly. This move indicates tighter legal frameworks across regions for digital identity protection. While promising, effective enforcement depends on local judicial and enforcement capabilities.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>TSA, Google Wallet launch new TSA PreCheck Touchless ID opt-in experience</title>
+      <link>https://identityweek.net/tsa-google-wallet-launch-new-tsa-precheck-touchless-id-opt-in-experience/</link>
+      <guid isPermaLink="false">identitybrief-4269516268267895</guid>
+      <pubDate>Wed, 24 Jun 2026 14:25:26 +0000</pubDate>
+      <category>fraud</category>
+      <description>TSA PreCheck now offers a touchless ID opt-in via Google Wallet. This integration simplifies identity checks at security lanes, reducing reliance on physical IDs. Opt-in is available only for Google Wallet users for now, limiting availability.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Anthropic’s Claude Tag gives AI agents independent identities</title>
+      <link>https://www.helpnetsecurity.com/2026/06/24/anthropic-claude-tag-agent-identity-model/</link>
+      <guid isPermaLink="false">identitybrief-b628becb52537e33</guid>
+      <pubDate>Wed, 24 Jun 2026 13:56:02 +0000</pubDate>
+      <category>auth</category>
+      <description>Anthropic's Claude Tag provides AI agents with unique identities. This innovation prevents AI from misuse of personal user credentials. However, the effectiveness relies on how well systems are set up to separate access evidently.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>AI agents granted own digital identities in Estonia to prevent them inheriting human credentials</title>
+      <link>https://identityweek.net/ai-agents-granted-own-digital-identities-in-estonia-to-prevent-them-inheriting-human-credentials/</link>
+      <guid isPermaLink="false">identitybrief-e9ca6352b307a35f</guid>
+      <pubDate>Wed, 24 Jun 2026 12:12:05 +0000</pubDate>
+      <category>did</category>
+      <description>Estonia assigns distinct digital identities to AI agents. This move aims to separate machine and human access rights for operational security. It sets a precedent, but wider adoption needs regulatory updates globally.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Cloudflare launched self-managed OAuth for all</title>
+      <link>https://blog.cloudflare.com/oauth-for-all/</link>
+      <guid isPermaLink="false">identitybrief-a40e7e9d109f006f</guid>
+      <pubDate>Thu, 25 Jun 2026 02:18:10 +0000</pubDate>
+      <category>auth</category>
+      <description>Cloudflare introduced self-managed OAuth capabilities for all users. This means you can configure and manage OAuth for your applications directly without relying on third-party setups. The catch is: you'll need familiarity with OAuth protocol details to maximize security and functionality.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>BlowLive: Blow-Based Multi-Factor Biometrics with Liveness Detection and Revocability</title>
+      <link>http://arxiv.org/abs/2606.25998v1</link>
+      <guid isPermaLink="false">identitybrief-27aacdd3ed4acee8</guid>
+      <pubDate>Wed, 24 Jun 2026 16:12:43 +0000</pubDate>
+      <category>research</category>
+      <description>BlowLive is a new approach combining biometrics with liveness detection. This multi-factor biometric method enhances security against spoofing. It's experimental, so real-world applications are some distance away, with no current implementations to benchmark.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>2026 FIFA World Cup Faces Surge in Cyber Threats</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats</link>
+      <guid isPermaLink="false">identitybrief-40562e39a7c6d306</guid>
+      <pubDate>Wed, 24 Jun 2026 20:29:08 +0000</pubDate>
+      <category>iam</category>
+      <description>The 2026 FIFA World Cup is experiencing increased cyber threats. This highlights the risks tied to high-profile events, emphasizing a need for enhanced security measures. Cyber threat mitigation remains complex due to the collaborative international nature of such events.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Can Machine Learning Break Wi-Fi Privacy? A Study on MAC Address Randomization</title>
+      <link>http://arxiv.org/abs/2606.25788v1</link>
+      <guid isPermaLink="false">identitybrief-f46b2cca42783c44</guid>
+      <pubDate>Wed, 24 Jun 2026 13:07:05 +0000</pubDate>
+      <category>research</category>
+      <description>Research questions Wi-Fi privacy defenses against machine learning attacks. It suggests current MAC address randomization might not be foolproof. Importantly, exploiting these vulnerabilities requires specific capabilities, not commonly on standard threat radars yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems</title>
+      <link>http://arxiv.org/abs/2606.26057v1</link>
+      <guid isPermaLink="false">identitybrief-742ae1fea9db4538</guid>
+      <pubDate>Wed, 24 Jun 2026 17:32:27 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper discusses AI authorization architectures for safer systems. This is critical in AI systems capable of self-modification or escape. It’s theoretical now, meaning more practical research is needed to see if it holds up outside of lab conditions.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>London cops bring live facial recognition to West End</title>
+      <link>https://www.theregister.com/security/2026/06/24/london-cops-bring-live-facial-recognition-to-west-end/5261031</link>
+      <guid isPermaLink="false">identitybrief-d815c0c2bce21f55</guid>
+      <pubDate>Wed, 24 Jun 2026 11:45:00 +0000</pubDate>
+      <category>auth</category>
+      <description>London police deploy live facial recognition in the West End. This raises concerns over permanent surveillance and consent. The public's acceptance and policy checks might differ widely, affecting long-term viability.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>A day in the life with AI-powered identity security: Transforming compliance management</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1nRWg4SmFLbkhZTG9FcmFtWFZNSTNHdGdDN3NndWg3bWIxTUppaTlzc3czOU5nd1A1U3ZPYU5HRTdSRGJXUFU4N09yZnlVLXhTbkF5NGs4NjhNc3lqSFpqT3FxQ3hTd25lWm14dFVPcTU?oc=5</link>
+      <guid isPermaLink="false">identitybrief-1ab465e12d680745</guid>
+      <pubDate>Thu, 25 Jun 2026 00:46:00 +0000</pubDate>
+      <category>iam</category>
+      <description>SailPoint's post paints an AI-aided future for managing identity security compliance. It's a vision where AI supports compliance tasks, boosting efficiency. As always, real outcomes depend on the software's integration and user willingness within existing workflows.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>Stopping deepfake fraud with IAD: Live webinar to reveal insiders’ perspective</title>
       <link>https://www.biometricupdate.com/202606/stopping-deepfake-fraud-with-iad-live-webinar-to-reveal-insiders-perspective</link>
       <guid isPermaLink="false">identitybrief-7567228e74c5154e</guid>
