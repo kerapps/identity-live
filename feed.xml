@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Biometric Testing in Practice</title>
+      <link>https://www.biometricupdate.com/202606/biometric-testing-in-practice</link>
+      <guid isPermaLink="false">identitybrief-13f2b1ca310189f4</guid>
+      <pubDate>Fri, 26 Jun 2026 21:37:34 +0000</pubDate>
+      <category>did</category>
+      <description>BixeLab discusses how biometric testing can assure the effectiveness of these technologies in real-world conditions. Understanding vendor claims can directly impact fraud prevention strategies. However, interpreting such reports can overwhelm teams unfamiliar with these standards.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Jumio integrates Trinsic to expand reach in growing IDV market</title>
+      <link>https://www.biometricupdate.com/202606/jumio-integrates-trinsic-to-expand-reach-in-growing-idv-market</link>
+      <guid isPermaLink="false">identitybrief-0a33ef1da6ee3726</guid>
+      <pubDate>Fri, 26 Jun 2026 18:36:33 +0000</pubDate>
+      <category>did</category>
+      <description>Jumio's partnership with Trinsic aims to boost biometric authentication capabilities across over 60 countries. This broadens access to verified digital IDs, crucial for global compliance and fraud reduction. But it's dependent on ecosystem cooperation, which may vary by region.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Socure, Token strengthen security leadership amid AI fraud surge</title>
+      <link>https://www.biometricupdate.com/202606/socure-token-strengthen-security-leadership-amid-ai-fraud-surge</link>
+      <guid isPermaLink="false">identitybrief-f679a9e18f1b561a</guid>
+      <pubDate>Fri, 26 Jun 2026 18:35:39 +0000</pubDate>
+      <category>did</category>
+      <description>Socure and Token strengthen their security teams in response to rising AI-driven fraud. This emphasizes the push for robust leadership overseeing digital ID security measures. It's an organizational change for now—effects on tech strategies will take time.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Proof’s x401 establishes an open protocol for AI agent identity and authorization</title>
+      <link>https://www.helpnetsecurity.com/2026/06/26/proofs-x401-establishes-an-open-protocol-for-ai-agent-identity-and-authorization/</link>
+      <guid isPermaLink="false">identitybrief-d4bebdfc773de670</guid>
+      <pubDate>Fri, 26 Jun 2026 12:08:46 +0000</pubDate>
+      <category>auth</category>
+      <description>Proof's x401 protocol facilitates open checks on AI agent identity and credentials. It's a step towards more trustworthy AI interactions, requiring systems to verify agent identities. Yet it's new, so widespread adoption could be slow.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Russia used social engineering to breach prominent messaging accounts, Ukraine says</title>
+      <link>https://therecord.media/russia-ukraine-social-engineering-messaging-accounts</link>
+      <guid isPermaLink="false">identitybrief-6e3cc4a14ca70850</guid>
+      <pubDate>Fri, 26 Jun 2026 13:10:00 +0000</pubDate>
+      <category>breach</category>
+      <description>A Russian social engineering campaign has been breaching messaging apps by posing as tech support. Credential theft through social manipulation remains a potent risk for user accounts. The strategic use of fake personas shows how effective targeted social engineering can be.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Guardian Agents: The Next Layer of Identity Governance</title>
+      <link>https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html</link>
+      <guid isPermaLink="false">identitybrief-14170cc38d9b41f0</guid>
+      <pubDate>Fri, 26 Jun 2026 11:30:00 +0000</pubDate>
+      <category>iam</category>
+      <description>An identity governance report discusses gaps in how AI agents inherit permissions. Current systems designed for human access control aren't easily adapting to machine-speed AI processes. It highlights a growing challenge, but offers no easy solutions yet.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Mirage2FA phishing kit uses HTML smuggling to steal Microsoft 365 credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/06/26/mirage2fa-phishing-kit-microsoft-365-html-smuggling/</link>
+      <guid isPermaLink="false">identitybrief-d975b58d40c8bff9</guid>
+      <pubDate>Fri, 26 Jun 2026 09:26:06 +0000</pubDate>
+      <category>breach</category>
+      <description>Researchers uncovered the Mirage2FA kit targeting Microsoft 365 credentials through advanced phishing. These sophisticated attacks highlight the evolving techniques of credential theft despite MFA defenses. The phishing relies on tricking users during real MFA prompts.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</title>
+      <link>https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/</link>
+      <guid isPermaLink="false">identitybrief-ddfb5415d9c2910a</guid>
+      <pubDate>Fri, 26 Jun 2026 15:23:46 +0000</pubDate>
+      <category>breach</category>
+      <description>A patch was issued for a vulnerability in AWS allowing credential theft via malicious repositories. This stresses the importance of regular updates and monitoring for known malicious actors. The flaw's exploit is patched, but diligent system checks are crucial.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Biometric Update: EMVCo proposes global schema for verifiable digital payment credentials</title>
+      <link>https://fidoalliance.org/biometric-update-emvco-proposes-global-schema-for-verifiable-digital-payment-credentials/</link>
+      <guid isPermaLink="false">identitybrief-b889e1c26f75cb9d</guid>
+      <pubDate>Fri, 26 Jun 2026 12:42:38 +0000</pubDate>
+      <category>did</category>
+      <description>EMVCo has introduced a draft for a global schema integrating digital credentials into payment authentication. This initiative could standardize how credentials are verified globally, potentially simplifying cross-border transactions. But it's just a draft — no adoption yet, so nothing changes today.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Hackers exploit critical PTC Windchill PLM software flaw</title>
+      <link>https://www.csoonline.com/article/4190154/hackers-exploit-critical-ptc-windchill-plm-software-flaw.html</link>
+      <guid isPermaLink="false">identitybrief-806d8742b443e03e</guid>
+      <pubDate>Fri, 26 Jun 2026 23:32:08 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers are exploiting a dangerous flaw in PTC Windchill software, allowing remote code execution. Organizations relying on this PLM software must patch immediately to prevent unauthorized access. The severity rating is high, but only affects those using this specific software.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>FBI: Russian hackers now target Signal backup recovery keys</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/</link>
+      <guid isPermaLink="false">identitybrief-a9d683c508d0c82f</guid>
+      <pubDate>Fri, 26 Jun 2026 22:06:17 +0000</pubDate>
+      <category>breach</category>
+      <description>Russian hackers are phishing Signal users to hijack backup recovery keys. This tactic could expose private communications by accessing historical messages. The risk is specific to Signal users, emphasizing the need for vigilant key management and user education.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions</title>
+      <link>https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield</link>
+      <guid isPermaLink="false">identitybrief-8bcc4872d3af3b48</guid>
+      <pubDate>Fri, 26 Jun 2026 17:31:04 +0000</pubDate>
+      <category>iam</category>
+      <description>Cisco's acquisitions hint at turning identity into a primary control measure for the workforce. This could signify a shift in how identity is prioritized in security frameworks. It's aspirational for now—actual implementation details remain vague.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>TESLA-for-5G: Broadcast Authentication for 5G Networks Using TESLA</title>
+      <link>http://arxiv.org/abs/2606.26528v1</link>
+      <guid isPermaLink="false">identitybrief-d43f97add4747b6a</guid>
+      <pubDate>Thu, 25 Jun 2026 02:07:02 +0000</pubDate>
+      <category>research</category>
+      <description>A paper proposes TESLA-for-5G to authenticate broadcast messages in 5G networks. This could enhance security for user equipment against fake base station attacks. The technical approach demands resource investments for full benefits.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Presenting Your Digital ID Online: How It Works</title>
+      <link>https://blog.spruceid.com/presenting-your-digital-id-online-how-it-works/</link>
+      <guid isPermaLink="false">identitybrief-24877a73b7dba196</guid>
+      <pubDate>Fri, 26 Jun 2026 21:18:47 +0000</pubDate>
+      <category>did</category>
+      <description>Spruce ID outlines how digital IDs should function online as securely as in person. This extends trust and privacy into online ecosystems, crucial for digital economies. However, widespread alignment on standards isn't there yet, limiting immediate improvements.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>Beyond the Platform: Understanding the Growing MOSIP Ecosystem</title>
       <link>https://www.biometricupdate.com/202606/beyond-the-platform-understanding-the-growing-mosip-ecosystem</link>
       <guid isPermaLink="false">identitybrief-683e6745120d3abd</guid>
