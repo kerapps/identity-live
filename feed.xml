@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>London completes blueprint for reusable digital IDV orchestrator</title>
+      <link>https://www.biometricupdate.com/202606/london-completes-blueprint-for-reusable-digital-idv-orchestrator</link>
+      <guid isPermaLink="false">identitybrief-942d1345ab524bd0</guid>
+      <pubDate>Tue, 30 Jun 2026 19:51:45 +0000</pubDate>
+      <category>did</category>
+      <description>London has released a blueprint for a digital ID verification orchestrator. This aims to make identity checks faster and safer by connecting identity providers with financial services. However, it's a municipal-level project, so its national impact remains to be seen.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Burundi looks to India Stack for digital ID and payments infrastructure</title>
+      <link>https://www.biometricupdate.com/202606/burundi-looks-to-india-stack-for-digital-id-and-payments-infrastructure</link>
+      <guid isPermaLink="false">identitybrief-1dbdb2fed595ffb8</guid>
+      <pubDate>Tue, 30 Jun 2026 18:38:13 +0000</pubDate>
+      <category>did</category>
+      <description>Burundi is considering adopting India's proven digital ID and payments system. If successful, it could modernize national ID infrastructure and stream money flow efficiencies. The partnership's effectiveness will largely depend on tailored adaptation to Burundi's unique needs.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ICE biometrics underpin broader surveillance network, report argues</title>
+      <link>https://www.biometricupdate.com/202606/ice-biometrics-underpin-broader-surveillance-network-report-argues</link>
+      <guid isPermaLink="false">identitybrief-5c51b65b1e6548a6</guid>
+      <pubDate>Tue, 30 Jun 2026 18:04:55 +0000</pubDate>
+      <category>fraud</category>
+      <description>A report critiques ICE's use of biometrics as expanding surveillance networks. This highlights concerns about biometric systems extending beyond intended roles into more invasive surveillance. The real question is how to balance security with civil liberties.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Why Identity Security Is Your Cyber Career Entry Point</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point</link>
+      <guid isPermaLink="false">identitybrief-68462094df44cdd2</guid>
+      <pubDate>Tue, 30 Jun 2026 19:11:40 +0000</pubDate>
+      <category>iam</category>
+      <description>A piece discusses identity security as a stepping stone into cybersecurity careers. As AI reshapes workflows, identity roles provide foundational exposure. Yet, entry-level roles might not be as transformative without ongoing learning and adaptation.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer</title>
+      <link>https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html</link>
+      <guid isPermaLink="false">identitybrief-107ee10385f25412</guid>
+      <pubDate>Tue, 30 Jun 2026 11:18:47 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers exploit a severe vulnerability in SimpleHelp, CVE-2026-48558, to deploy malware. The flaw in the OpenID Connect flow poses a significant risk of unauthorized access. However, the impact is limited to those who haven't yet patched this vulnerability.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Aflac Japan Data Breach Impacts 4.38 Million</title>
+      <link>https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/</link>
+      <guid isPermaLink="false">identitybrief-8cae8f7747a736a1</guid>
+      <pubDate>Tue, 30 Jun 2026 12:52:33 +0000</pubDate>
+      <category>breach</category>
+      <description>Aflac Japan's data breach impacts over 4 million customers. The breach highlights vulnerabilities in customer portals and the scale of risk. Containment depends on improved security protocols and quick incident response.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>A forgery attack on the Block.co blockchain-based digital credential certification system</title>
+      <link>http://arxiv.org/abs/2606.31462v1</link>
+      <guid isPermaLink="false">identitybrief-f95d3ce416fb1947</guid>
+      <pubDate>Tue, 30 Jun 2026 10:42:26 +0000</pubDate>
+      <category>research</category>
+      <description>Research reveals a forgery vulnerability in Block.co's blockchain credential system. This reveals potential risks in digital certificate issuing where the issuer's identity can't be reliably verified. Trust in certificates hinges on solving this authenticity gap.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Attackers Hijack Exposed AI Endpoints to Power Offensive Ops</title>
+      <link>https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops</link>
+      <guid isPermaLink="false">identitybrief-c8814c342b8b51f4</guid>
+      <pubDate>Tue, 30 Jun 2026 21:01:58 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers are taking over unprotected AI endpoints. This shows the danger of neglecting endpoint security in AI deployments. The challenge is finding these vulnerable points before attackers do.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Phishers Gain Persistence at EU, Asia Hospitality Orgs</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs</link>
+      <guid isPermaLink="false">identitybrief-0a9cbe3e0b7cb7b1</guid>
+      <pubDate>Tue, 30 Jun 2026 18:59:46 +0000</pubDate>
+      <category>iam</category>
+      <description>Phishers maintain persistence in EU and Asia hospitality sectors using malicious zips. The technique exploits user carelessness with social engineering to install malware. Organizations face the perennial challenge of training users against such tactics.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Robocalls: A Worldwide or US-only Problem? Analyzing Spam and Fraud in International Phone Calls</title>
+      <link>http://arxiv.org/abs/2606.31790v1</link>
+      <guid isPermaLink="false">identitybrief-f168007b95a7950f</guid>
+      <pubDate>Tue, 30 Jun 2026 15:11:17 +0000</pubDate>
+      <category>research</category>
+      <description>A study highlights how robocalls contribute to massive fraud losses. It underscores the global nature of phone-based scams and their adaptability. Tackling it means navigating complex multi-jurisdictional and privacy issues.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The Decomposition Is the Fingerprint: Per-Component Identity for Agent Skills</title>
+      <link>http://arxiv.org/abs/2606.31272v1</link>
+      <guid isPermaLink="false">identitybrief-7139cd5e971a72e4</guid>
+      <pubDate>Tue, 30 Jun 2026 07:45:33 +0000</pubDate>
+      <category>research</category>
+      <description>A paper suggests using per-component fingerprints for AI skill identity. This aims to ensure ownership and tracking of AI agent skills in a decentralized manner. The practical implementation, however, requires significant standardization efforts.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>​​What’s new in Microsoft Security: June 2026</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/</link>
+      <guid isPermaLink="false">identitybrief-5303666b627eff33</guid>
+      <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft's June updates focus on multicloud identity and data protection. These improvements aim to bolster identity foundations integral to cybersecurity defenses. Yet, organizations must ensure compatibility with their existing systems.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History</title>
+      <link>https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/</link>
+      <guid isPermaLink="false">identitybrief-218efe7a2ae30e65</guid>
+      <pubDate>Tue, 30 Jun 2026 11:48:40 +0000</pubDate>
+      <category>iam</category>
+      <description>The Supreme Court's ruling extends privacy protections for location data. This enhances privacy rights regarding geofence warrants. The broader implications for law enforcement are yet to be clarified.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Identity is the Foundation for Secure Quantum Innovation</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2ZIU194VTZ4N2lMMTFRZVV1cVB2LW5YeEIxa2VQS2VUQTg3VHFfRzZsU3h3N1JNdHNKbDFhUmllZHY4RXpuZXlYczY3dzByRkZJYmM5SS0tVlFJdWM3bk01emh6R0FrTFFMSlRlUlRkWTdEZVdGcE82OXByMEJPMXhvVGVFNnk4dVBRV0JCak9ZbTBNaDhZU2V2SjNOX3A0MWloNA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-a2fdbc19b3724bbd</guid>
+      <pubDate>Wed, 01 Jul 2026 00:35:55 +0000</pubDate>
+      <category>iam</category>
+      <description>Ping Identity discusses secure quantum innovation hinged on identity. It emphasizes safeguarding identity in emerging tech landscapes. However, real-world application of these principles is only beginning.
+
+— via Ping Identity</description>
+    </item>
+    <item>
       <title>Product showcase: Scam calls, phishing, and data breaches? Meet AVG Mobile Security</title>
       <link>https://www.helpnetsecurity.com/2026/06/30/product-showcase-avg-mobile-security-ios/</link>
       <guid isPermaLink="false">identitybrief-a85cafe092e7f9c3</guid>
