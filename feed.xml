@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Medtronic notifies customers impacted by ShinyHunters data breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-d1cb44460ca6b047</guid>
+      <pubDate>Thu, 02 Jul 2026 04:25:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Medtronic is warning customers after a data breach by ShinyHunters exposed their info. This highlights the ongoing need for vigilance in healthcare identity protection. The company's breach notice is timely, but it underscores the difficulty in protecting sensitive health data.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>The rise of emotion as a trust signal</title>
+      <link>https://www.biometricupdate.com/202607/the-rise-of-emotion-as-a-trust-signal</link>
+      <guid isPermaLink="false">identitybrief-ee7f58a6b7fdaddd</guid>
+      <pubDate>Wed, 01 Jul 2026 18:21:42 +0000</pubDate>
+      <category>did</category>
+      <description>Digital identity systems are considering emotion as a new trust signal, thanks to startups like Valence AI. This could add another layer to fraud prevention using real-time emotional detection. The idea is promising but early; practical adoption is still some way off.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Singapore adds passkeys to Singpass in phishing crackdown</title>
+      <link>https://www.biometricupdate.com/202607/singapore-adds-passkeys-to-singpass-in-phishing-crackdown</link>
+      <guid isPermaLink="false">identitybrief-4bdfddc58d53f038</guid>
+      <pubDate>Wed, 01 Jul 2026 16:45:31 +0000</pubDate>
+      <category>did</category>
+      <description>Singapore is introducing passkeys in Singpass to tackle phishing. This shifts the security model towards easier, phishing-resistant logins in national identity platforms. However, it's currently limited to iPhone users, with broader device support still in progress.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS</title>
+      <link>https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os</link>
+      <guid isPermaLink="false">identitybrief-c01432b238601230</guid>
+      <pubDate>Wed, 01 Jul 2026 20:31:21 +0000</pubDate>
+      <category>breach</category>
+      <description>Phishing attacks are evolving, now adapting payloads based on the victim's device and OS. This boosts phishing success rates, posing a new challenge for targeted defense strategies. Protection will require detailed, OS-specific mitigations.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Fime launches mDL certification scheme for wallets, readers</title>
+      <link>https://www.biometricupdate.com/202607/fime-launches-mdl-certification-scheme-for-wallets-readers</link>
+      <guid isPermaLink="false">identitybrief-ecf0a71cefaf93cb</guid>
+      <pubDate>Wed, 01 Jul 2026 16:47:15 +0000</pubDate>
+      <category>did</category>
+      <description>Fime starts certifying mobile driving licenses with a new scheme. This aims to standardize mDLs, improving trust in mobile identity across ecosystems. But adoption will depend on industry uptake of these standards.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer</title>
+      <link>https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html</link>
+      <guid isPermaLink="false">identitybrief-798e82c5c8410826</guid>
+      <pubDate>Wed, 01 Jul 2026 17:18:50 +0000</pubDate>
+      <category>breach</category>
+      <description>The VEIL#DROP malware chain is leveraging Blogger for phishing, aiming to steal user data. It's another example of sophisticated phishing blending social engineering with technical exploits. Blogger-based delivery won't vanish without platform-level response.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Webinar: Why traditional email security is no longer enough</title>
+      <link>https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/</link>
+      <guid isPermaLink="false">identitybrief-1f07e1f0968593eb</guid>
+      <pubDate>Wed, 01 Jul 2026 16:54:22 +0000</pubDate>
+      <category>fraud</category>
+      <description>An upcoming webinar points out the limitations of traditional email security against modern threats. Behavioral AI is suggested as a solution for detecting phishing and takeover attacks. The catch: AI-based systems can be complex and may require substantial tuning and oversight.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>FortiBleed credential-theft campaign linked to Lynx ransomware</title>
+      <link>https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/</link>
+      <guid isPermaLink="false">identitybrief-748b6746af8a0b13</guid>
+      <pubDate>Wed, 01 Jul 2026 21:37:24 +0000</pubDate>
+      <category>breach</category>
+      <description>Fortinet credentials are being targeted and sold in the FortiBleed theft Campaign. These could facilitate broader network intrusions linked to ransomware operations. As always, vigilance in credential management is key, but more proactive measures are needed.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Biometric Update: Yubico hackathon to preview YubiKey 5.8 support for next-generation passkeys</title>
+      <link>https://fidoalliance.org/biometric-update-yubico-hackathon-to-preview-yubikey-5-8-support-for-next-generation-passkeys/</link>
+      <guid isPermaLink="false">identitybrief-65381b0d05351a5f</guid>
+      <pubDate>Wed, 01 Jul 2026 20:37:31 +0000</pubDate>
+      <category>auth</category>
+      <description>Yubico is hosting a hackathon to showcase YubiKey 5.8's upcoming passkey support. This could make passkeys more widely usable, enhancing security against phishing. The limitation: it’s only a preview for developers right now.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>SessionBound: Turning Enterprise Task Approval into Budgeted Database Sessions</title>
+      <link>http://arxiv.org/abs/2607.00751v1</link>
+      <guid isPermaLink="false">identitybrief-716e611ad432cfb2</guid>
+      <pubDate>Wed, 01 Jul 2026 10:36:34 +0000</pubDate>
+      <category>research</category>
+      <description>New research proposes converting enterprise tasks into controlled database sessions. SessionBound offers audited short-lived sessions using task templates. Currently, it's a research concept and its real-world performance remains untested.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>EvilTokens device-code phishing kit totally more evil than we all thought</title>
+      <link>https://www.theregister.com/cyber-crime/2026/07/01/eviltokens-device-code-phishing-kit-totally-more-evil-than-we-all-thought/5265409</link>
+      <guid isPermaLink="false">identitybrief-c616d9b805967636</guid>
+      <pubDate>Wed, 01 Jul 2026 21:50:25 +0000</pubDate>
+      <category>breach</category>
+      <description>EvilTokens phishing kit continues to evolve, enhancing its capabilities against Microsoft accounts. Underestimating its impact could lead to more account breaches. Enterprises need to review their reliance on device codes as a sole defense.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>And the Winner in Dominant Malware Delivery? ClickFix</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix</link>
+      <guid isPermaLink="false">identitybrief-cf5359f11ddd156f</guid>
+      <pubDate>Wed, 01 Jul 2026 19:46:34 +0000</pubDate>
+      <category>iam</category>
+      <description>ClickFix is highlighted as a leading malware delivery method using social engineering. Understanding this widespread tactic is crucial for preventing breaches. The challenge lies in real-time detection of socially-engineered payloads before impact.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures</title>
+      <link>https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html</link>
+      <guid isPermaLink="false">identitybrief-bd3327f476c4c725</guid>
+      <pubDate>Wed, 01 Jul 2026 15:26:55 +0000</pubDate>
+      <category>breach</category>
+      <description>A new banking trojan is targeting Iberian users via fake PDF lures. This highlights the ongoing risk of regional-specific phishing campaigns. The focus on Spain and Portugal suggests a need for tailored phishing defenses in these areas.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Thwarting Bluekit Phishing-as-a-Service Attacks on Microsoft Authentication</title>
+      <link>https://www.hypr.com/blog/thwarting-bluekit-phishing-as-a-service-attacks-on-microsoft-authentication</link>
+      <guid isPermaLink="false">identitybrief-e7e85091bde9ca19</guid>
+      <pubDate>Wed, 01 Jul 2026 13:32:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Bluekit phishing-as-a-service is a new threat targeting Microsoft authentication. It significantly challenges traditional user-based suspicious behavior identification. This type of attack requires a shift towards more environment-aware defenses.
+
+— via HYPR</description>
+    </item>
+    <item>
       <title>London completes blueprint for reusable digital IDV orchestrator</title>
       <link>https://www.biometricupdate.com/202606/london-completes-blueprint-for-reusable-digital-idv-orchestrator</link>
       <guid isPermaLink="false">identitybrief-942d1345ab524bd0</guid>
@@ -1362,45 +1502,5 @@
       <description>There's a discussion around Claude's identity verification processes. It's crucial because of its impact on user privacy and authentication strength in AI interactions. However, real-world use and user adherence could vary significantly.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>Klue breach exposed Salesforce CRM data through stolen OAuth tokens</title>
-      <link>https://www.csoonline.com/article/4187907/klue-breach-exposed-salesforce-crm-data-through-stolen-oauth-tokens.html</link>
-      <guid isPermaLink="false">identitybrief-61a933daaf2111a9</guid>
-      <pubDate>Mon, 22 Jun 2026 16:21:05 +0000</pubDate>
-      <category>breach</category>
-      <description>Klue's breach exposed customer data due to stolen OAuth tokens. This highlights OAuth's vulnerability when not properly safeguarded. The immediate but limited fix: Tokens were revoked, yet legacy protection might still be lagging in other integrations.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants</title>
-      <link>https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html</link>
-      <guid isPermaLink="false">identitybrief-c63ab8f2419e5c1c</guid>
-      <pubDate>Mon, 22 Jun 2026 16:13:28 +0000</pubDate>
-      <category>auth</category>
-      <description>Four major flaws in Dify could allow unauthorized access to AI chat data. This presents a risk for data privacy and cross-tenant security in AI applications. Yet, these vulnerabilities require specific configurations, limiting their broader impact.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries</title>
-      <link>https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html</link>
-      <guid isPermaLink="false">identitybrief-d13e38a81028269d</guid>
-      <pubDate>Mon, 22 Jun 2026 12:45:08 +0000</pubDate>
-      <category>iam</category>
-      <description>Google mandates Android developer verification by September 30 to curb fraudulent apps. This aims to enhance app trust in specific Southeast Asian markets. However, it's only a start, with global rollout not yet announced.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Passkey Adoption Is Rising, but Is It Worth It Yet?</title>
-      <link>https://auth0.com/blog/passkey-adoption-rising-but-worth-it-yet/</link>
-      <guid isPermaLink="false">identitybrief-121092ff994cefe8</guid>
-      <pubDate>Mon, 22 Jun 2026 15:48:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Passkey adoption is rising, offering a passwordless authentication future. Enterprises must weigh the benefits of synced versus device-bound credentials under FIDO2. Integration challenges persist, especially for legacy systems not yet ready for passkeys.
-
-— via Auth0</description>
     </item>
 </channel></rss>
