@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Deepfakes, Digital Deception, and the Future of Biometric Assurance</title>
+      <link>https://www.biometricupdate.com/202607/deepfakes-digital-deception-and-the-future-of-biometric-assurance</link>
+      <guid isPermaLink="false">identitybrief-a25b1da6534b0959</guid>
+      <pubDate>Thu, 02 Jul 2026 22:36:24 +0000</pubDate>
+      <category>fraud</category>
+      <description>Deepfakes threaten biometric security by faking facial recognition and voice models. It makes identity systems less trustworthy, especially as biometrics are supposed to guarantee real, live interactions. The challenge is ensuring vigilant testing and updates to biometric systems, which isn't a small task.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>AI fraud drives identity verification toward continuous trust and layered assurance</title>
+      <link>https://www.biometricupdate.com/202607/ai-fraud-drives-identity-verification-toward-continuous-trust-and-layered-assurance</link>
+      <guid isPermaLink="false">identitybrief-2c79986f7fcb1258</guid>
+      <pubDate>Thu, 02 Jul 2026 20:02:32 +0000</pubDate>
+      <category>fraud</category>
+      <description>A survey shows organizations don't fully trust current identity verification methods, especially biometrics. This exposes users to fraud risk, as basic liveness checks may fail to authenticate live users correctly. The issue is partly because synthetic identities are hard to detect and trace, requiring more robust solutions.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>EU consortium demonstrates SSI alignment with EUDI Wallets in 2 initial pilots</title>
+      <link>https://www.biometricupdate.com/202607/eu-consortium-demonstrates-ssi-alignment-with-eudi-wallets-in-2-initial-pilots</link>
+      <guid isPermaLink="false">identitybrief-05dd2ee05d35dd01</guid>
+      <pubDate>Thu, 02 Jul 2026 19:43:34 +0000</pubDate>
+      <category>did</category>
+      <description>European Union pilots align self-sovereign identity (SSI) with EUDI wallets, focusing on user privacy and data control. This moves digital ID towards greater user empowerment and security. But, it’s still in the pilot phase, and scaling it broadly across the EU will be a big hurdle.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Microsoft Entra ID: New updates include external MFA integrations, credential registration, and password reset</title>
+      <link>https://identityweek.net/microsoft-entra-id-new-updates-include-external-mfa-integrations-credential-registration-and-password-reset/</link>
+      <guid isPermaLink="false">identitybrief-0fe26ad9591d64cf</guid>
+      <pubDate>Thu, 02 Jul 2026 13:48:15 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft Entra ID will integrate more closely with external MFA systems for consistent access controls. This change can simplify policy enforcement for organizations using varied environments. However, transitioning away from custom controls may mean reworking existing integrations.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds</title>
+      <link>https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/</link>
+      <guid isPermaLink="false">identitybrief-9276c3af33cd1141</guid>
+      <pubDate>Thu, 02 Jul 2026 14:00:10 +0000</pubDate>
+      <category>breach</category>
+      <description>ConsentFix and ClickFix attacks exploit OAuth flows to hijack Microsoft 365 accounts. They bypass MFA by tricking users into granting permissions via fake prompts. Preventing such attacks requires solid user education and OAuth token monitoring, not just relying on traditional MFA.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials</title>
+      <link>https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html</link>
+      <guid isPermaLink="false">identitybrief-176ebf5d897f3158</guid>
+      <pubDate>Thu, 02 Jul 2026 18:30:33 +0000</pubDate>
+      <category>breach</category>
+      <description>The Anubis ransomware group exploits Citrix Bleed 2 vulnerabilities for access. Attackers use legitimate tools post-intrusion, increasing their stealth. Patch management and monitoring RMM tools are key, but outdated systems remain a risk.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Identity Lifecycle Management Wasn't Built for AI Agents</title>
+      <link>https://thehackernews.com/2026/07/identity-lifecycle-management.html</link>
+      <guid isPermaLink="false">identitybrief-9359c9a5b2cd173b</guid>
+      <pubDate>Thu, 02 Jul 2026 11:30:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Traditional identity management overlooks AI agents in its governance model. These autonomous agents introduce identity governance blind spots. Current tools aren't built to manage non-human entities properly, posing significant security challenges.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Bramble – Local-first password manager</title>
+      <link>https://github.com/flythenimbus/bramble</link>
+      <guid isPermaLink="false">identitybrief-36ca339712c76a1c</guid>
+      <pubDate>Thu, 02 Jul 2026 19:29:58 +0000</pubDate>
+      <category>auth</category>
+      <description>Bramble is a new open-source password manager that uses local-first and P2P sync instead of cloud storage. It offers more privacy because your data isn’t sent off-device, and now stores passkeys too. The catch? It's still new and might miss features found in established managers, plus iOS support is pending.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ransomware Thugs Masquerade as Interpol to Entice Small Biz</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses</link>
+      <guid isPermaLink="false">identitybrief-472127cccadcedb2</guid>
+      <pubDate>Thu, 02 Jul 2026 18:07:40 +0000</pubDate>
+      <category>breach</category>
+      <description>Posing as Interpol, ransomware attackers trick small businesses into breaches. It's a timestamp for social engineering tactics hitting smaller entities globally. These businesses need robust awareness training, but many lack resources to implement it effectively.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Steerability via constraints: a substrate for scalable oversight of coding agents</title>
+      <link>http://arxiv.org/abs/2607.02389v1</link>
+      <guid isPermaLink="false">identitybrief-c7c64ce814f61714</guid>
+      <pubDate>Thu, 02 Jul 2026 16:24:47 +0000</pubDate>
+      <category>research</category>
+      <description>A paper suggests using constraints to manage coding agent workflows securely. This applies established access controls and coding policies to AI coding agents. The barrier is implementing these measures effectively across diverse tools and technologies.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Cloak and Detonate: Scanner Evasion and Dynamic Detection of Agent Skill Malware</title>
+      <link>http://arxiv.org/abs/2607.02357v1</link>
+      <guid isPermaLink="false">identitybrief-e4cf44b10ec37384</guid>
+      <pubDate>Thu, 02 Jul 2026 16:00:52 +0000</pubDate>
+      <category>research</category>
+      <description>Malicious agents evade security by hiding skills, targeting software supply chains. Serious because an infected agent can have wide-reaching impacts without clear detection. Static scanners might not spot these, demanding improved dynamic threat detection.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Securing People and their Machines Against Major Faults</title>
+      <link>http://arxiv.org/abs/2607.02304v1</link>
+      <guid isPermaLink="false">identitybrief-cf5e946fccf09475</guid>
+      <pubDate>Thu, 02 Jul 2026 15:19:57 +0000</pubDate>
+      <category>research</category>
+      <description>A paper discusses securing grassroots digital systems against loss. By using social graphs and peer-based recovery methods, identity loss risk is mitigated. However, it requires wide adoption of novel cooperative measures, which many may resist.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Supreme Court decision threatens EU-US data transfer agreement</title>
+      <link>https://therecord.media/supreme-court-decision-threatens-eu-us-data-sharing</link>
+      <guid isPermaLink="false">identitybrief-22752a932c0d0790</guid>
+      <pubDate>Thu, 02 Jul 2026 16:50:00 +0000</pubDate>
+      <category>iam</category>
+      <description>The EU-U.S. Data Privacy Framework is challenged, raising data transfer concerns. If invalidated, compliance for U.S. companies handling EU data could be severely impacted. Businesses relying on transatlantic data flow should prepare for potential legal shifts.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>What Is Selective Disclosure, and How Do Verifiable Digital Credentials Reveal Only What's Needed?</title>
+      <link>https://blog.spruceid.com/digitalidentity-what-is-selective-disclosure-and-how-do-verifiable-digital-credentials-reveal-only-whats-needed/</link>
+      <guid isPermaLink="false">identitybrief-ae2ffe0a95c2dc02</guid>
+      <pubDate>Thu, 02 Jul 2026 18:09:47 +0000</pubDate>
+      <category>did</category>
+      <description>Selective disclosure enhances privacy by limiting shared identity information. This reduces data exposed during identity verification. Adoption might hit roadblocks, as systems need adjustments to handle less data without loss of verification strength.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>Medtronic notifies customers impacted by ShinyHunters data breach</title>
       <link>https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/</link>
       <guid isPermaLink="false">identitybrief-d1cb44460ca6b047</guid>
@@ -1362,145 +1502,5 @@
       <description>OpenAI's Daybreak initiative uses AI to both find and fix software vulnerabilities. This dual approach aims to streamline vulnerability remediation, a critical step in maintaining secure systems. Its effectiveness is yet unproven at large-scale deployment, especially concerning complex multi-vendor environments.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Cloudflare teams up with big browsers to help websites tell welcome from unwelcome visitors</title>
-      <link>https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782</link>
-      <guid isPermaLink="false">identitybrief-d40b453bd487a572</guid>
-      <pubDate>Mon, 22 Jun 2026 20:02:52 +0000</pubDate>
-      <category>fraud</category>
-      <description>Cloudflare and major browsers are supporting Private Access Control Tokens to distinguish legitimate visitors from bots. It's a step forward in access management against automated threats. The adoption depends on wide website compatibility and user data protection trust.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>A Watermark for Vision-Language-Action and World Action Models</title>
-      <link>http://arxiv.org/abs/2606.23574v1</link>
-      <guid isPermaLink="false">identitybrief-c13b152d7667841b</guid>
-      <pubDate>Mon, 22 Jun 2026 16:39:28 +0000</pubDate>
-      <category>research</category>
-      <description>A proposed verification method for VLA and WAM models uses key seed fingerprinting to protect intellectual property. This ensures proprietary models remain secure, a growing concern as these black-box systems are more common. Practical deployment might remain niche given computational requirements.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Health board apologizes for phishing staff with with bogus vacation day</title>
-      <link>https://www.theregister.com/security/2026/06/22/canadian-health-board-sorry-after-tasteless-phishing-test/5259320</link>
-      <guid isPermaLink="false">identitybrief-59a1a58ec02c07ce</guid>
-      <pubDate>Mon, 22 Jun 2026 11:27:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A Canadian health board's phishing test featuring fake vacation offers backfires, drawing criticism. Such tests can damage employee trust and obscure the actual learning objectives. The lesson is clear: ethical considerations must guide cybersecurity training programs.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>The token bill is an identity problem</title>
-      <link>https://workos.com/blog/ai-agent-token-costs-identity-attribution</link>
-      <guid isPermaLink="false">identitybrief-ad35a4bd0de8ba31</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Invisible AI agent costs are an identity tracking issue, often hidden within operational expenses. This complexity obscures true financial impacts and hinders management understanding. The difficulty lies in accurately tracing and attributing costs across integrated identity systems.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>Indian identity verification firm IDfy raises $23M at $256M valuation</title>
-      <link>https://www.biometricupdate.com/202606/indian-identity-verification-firm-idfy-raises-23m-at-256m-valuation</link>
-      <guid isPermaLink="false">identitybrief-584574ccb5ae16a4</guid>
-      <pubDate>Mon, 22 Jun 2026 18:25:17 +0000</pubDate>
-      <category>did</category>
-      <description>Indian digital identity firm IDfy raised $23M to further develop its risk-detection tools. This influx of funds highlights continued investment in AI-driven fraud prevention technologies. It's focused on the Indian market, so its tools' applicability may be limited elsewhere.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Shufti forecasts 39X more deepfake ID documents attacks this year</title>
-      <link>https://www.biometricupdate.com/202606/shufti-forecasts-39x-more-deepfake-id-documents-attacks-this-year</link>
-      <guid isPermaLink="false">identitybrief-98bbc27c9187e840</guid>
-      <pubDate>Mon, 22 Jun 2026 18:56:43 +0000</pubDate>
-      <category>fraud</category>
-      <description>Shufti's report forecasts a 39-fold increase in deepfake ID attacks this year. This surge threatens to render basic selfie biometric checks ineffective unless paired with other controls. Keep in mind: The pace of such evolution can leave even robust, current systems playing catch-up.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FortiBleed campaign used custom FortiGate sniffer to steal credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/</link>
-      <guid isPermaLink="false">identitybrief-13bd83f25db95b67</guid>
-      <pubDate>Mon, 22 Jun 2026 20:01:02 +0000</pubDate>
-      <category>breach</category>
-      <description>The FortiBleed campaign compromised Fortinet FortiGate firewalls to steal credentials using custom sniffers. Such targeted attacks put a spotlight on the need for tighter network and device security. It's worth noting: Fortinet vulnerabilities need specific network conditions, so widespread applicability varies.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Tools for Humanity hired two law firms to probe bribery and financial misconduct</title>
-      <link>https://www.biometricupdate.com/202606/tools-for-humanity-hired-two-law-firms-to-probe-bribery-and-financial-misconduct</link>
-      <guid isPermaLink="false">identitybrief-f41df28036202673</guid>
-      <pubDate>Mon, 22 Jun 2026 17:27:26 +0000</pubDate>
-      <category>did</category>
-      <description>Tools for Humanity is under investigation for potential financial misconduct and bribery. Allegations like these can undermine trust in digital identity solutions, especially in emerging markets. However, the exact impact on their operations remains to be seen.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests</title>
-      <link>https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html</link>
-      <guid isPermaLink="false">identitybrief-726cc507af6d690a</guid>
-      <pubDate>Mon, 22 Jun 2026 14:29:46 +0000</pubDate>
-      <category>auth</category>
-      <description>Squid proxy's 'Squidbleed' bug can leak HTTP requests in cleartext. Such a vulnerability poses credential and token exposure risks in shared environments. The catch: It's an old bug, but it remains in Squid’s default settings, requiring proactive configuration.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Veridos win major contract to deliver 1.25 million e-passports</title>
-      <link>https://identityweek.net/veridos-win-major-contract-to-deliver-1-25-million-e-passports/</link>
-      <guid isPermaLink="false">identitybrief-2511112d3eaaca7b</guid>
-      <pubDate>Mon, 22 Jun 2026 11:50:58 +0000</pubDate>
-      <category>auth</category>
-      <description>Veridos won a Latvian contract to deliver 1.25 million e-passports. This project showcases the rollout of advanced biometric identity solutions. However, the adoption is mainly localized, with deployment specifics varying by country requirements.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>A Glimpse into the “Search Your Target” Market for Stolen Credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/</link>
-      <guid isPermaLink="false">identitybrief-a2675418868871a9</guid>
-      <pubDate>Mon, 22 Jun 2026 14:05:15 +0000</pubDate>
-      <category>breach</category>
-      <description>An underground market for targeted stolen credentials is emerging. This trend emphasizes the targeted nature cybercriminals are taking, searching credentials by company. Buyer beware: It's specific to certain markets and may have limited data reliability.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Identity Week: New FIDO Alliance and HID study reveals major gap between identity security confidence and reality</title>
-      <link>https://fidoalliance.org/identity-week-new-fido-alliance-and-hid-study-reveals-major-gap-between-identity-security-confidence-and-reality/</link>
-      <guid isPermaLink="false">identitybrief-0356e45336ac4d9c</guid>
-      <pubDate>Mon, 22 Jun 2026 15:30:38 +0000</pubDate>
-      <category>auth</category>
-      <description>A FIDO Alliance and HID study finds that while 94% of enterprises say they can revoke access within 24 hours, 35% faced delays in the past two years. This disconnect highlights a gap in perceived and actual identity security efficacy. The catch: Trust isn't always matched by capability; real-world testing is essential to bridge the gap.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>DIF Newsletter #62</title>
-      <link>https://blog.identity.foundation/dif-newsletter-62/</link>
-      <guid isPermaLink="false">identitybrief-ca6146b711081c58</guid>
-      <pubDate>Mon, 22 Jun 2026 15:00:57 +0000</pubDate>
-      <category>did</category>
-      <description>The DIF newsletter updates on decentralized identity, including task forces and global standards. Decentralized approaches are gaining ground, offering potential independence from centralized identity providers. However, implementation remains nascent and complex, still requiring broader ecosystem buy-in.
-
-— via DIF</description>
-    </item>
-    <item>
-      <title>Identity verification on Claude</title>
-      <link>https://support.claude.com/en/articles/14328960-identity-verification-on-claude</link>
-      <guid isPermaLink="false">identitybrief-172a26c83bdda162</guid>
-      <pubDate>Sun, 21 Jun 2026 12:44:13 +0000</pubDate>
-      <category>fraud</category>
-      <description>There's a discussion around Claude's identity verification processes. It's crucial because of its impact on user privacy and authentication strength in AI interactions. However, real-world use and user adherence could vary significantly.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
