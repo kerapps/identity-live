@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Wallet interoperability takes shape as Google’s influence grows</title>
+      <link>https://www.biometricupdate.com/202607/wallet-interoperability-takes-shape-as-googles-influence-grows</link>
+      <guid isPermaLink="false">identitybrief-7571d238e18dba28</guid>
+      <pubDate>Fri, 03 Jul 2026 19:50:30 +0000</pubDate>
+      <category>did</category>
+      <description>Major tech players are forming partnerships to push a multi-wallet digital identity ecosystem, with Google and Apple's influence growing. This could streamline user experiences by integrating identity verification across platforms. The downside is increased European dependency on US tech giants.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Incode adds biometric verification to Auth0 password resets</title>
+      <link>https://www.biometricupdate.com/202607/incode-adds-biometric-verification-to-auth0-password-resets</link>
+      <guid isPermaLink="false">identitybrief-2534878ed0e3db82</guid>
+      <pubDate>Fri, 03 Jul 2026 18:10:16 +0000</pubDate>
+      <category>fraud</category>
+      <description>Incode adds biometric verification to Okta's Auth0 password resets. This makes recovering accounts more secure by adding a layer of biometric identity proofing. However, it requires integration into the current system, which might not be straightforward for all teams.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>MOSIP ecosystem insiders to share real-world experience in July 9th webinar</title>
+      <link>https://www.biometricupdate.com/202607/mosip-ecosystem-insiders-to-share-real-world-experience-in-july-9th-webinar</link>
+      <guid isPermaLink="false">identitybrief-8ef74c213de44b17</guid>
+      <pubDate>Fri, 03 Jul 2026 19:18:26 +0000</pubDate>
+      <category>did</category>
+      <description>An upcoming webinar will shed light on real-world use of the MOSIP platform for national IDs and digital wallets. Understanding this platform can help avoid vendor lock-in through its open-source approach. But learning curves and initial setup could be obstacles.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>New Avalon Malware Framework Packs CrownX Ransomware Capabilities</title>
+      <link>https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html</link>
+      <guid isPermaLink="false">identitybrief-b4661c9790f5e269</guid>
+      <pubDate>Fri, 03 Jul 2026 18:55:24 +0000</pubDate>
+      <category>breach</category>
+      <description>A new malware framework named Avalon exploits phishing techniques to bypass security controls. It combines various attack vectors, including credential theft and ransomware deployment. The immediate risk is its ability to sneak past existing defenses, requiring proactive patching and vigilance.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Biometrics to anchor 175 billion digital ID checks by 2030 as Gen AI makes doc forgery easy</title>
+      <link>https://identityweek.net/biometrics-to-anchor-175-billion-digital-id-checks-by-2030-as-gen-ai-makes-doc-forgery-easy/</link>
+      <guid isPermaLink="false">identitybrief-7ff0ef89e619d8fd</guid>
+      <pubDate>Fri, 03 Jul 2026 11:46:17 +0000</pubDate>
+      <category>did</category>
+      <description>Biometric checks are set to underpin 175 billion digital identity verifications by 2030. Biometrics can significantly reduce fraud, especially as AI enables more sophisticated threats. Yet, the infrastructure for widespread deployment needs scaling, posing a challenge to current systems.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit</title>
+      <link>https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/</link>
+      <guid isPermaLink="false">identitybrief-d0fcbcd5a45e4bdf</guid>
+      <pubDate>Fri, 03 Jul 2026 14:12:22 +0000</pubDate>
+      <category>breach</category>
+      <description>The ARToken platform supports phishing as a service targeting Microsoft 365 users. This gives attackers a powerful toolkit for compromising accounts on a wide scale. Organizations must tighten security protocols around 365 accounts and watch for unusual activity.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Medtronic Data Breach Impacts 3.8 Million People</title>
+      <link>https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/</link>
+      <guid isPermaLink="false">identitybrief-be54cb8442126844</guid>
+      <pubDate>Fri, 03 Jul 2026 10:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Medtronic suffered a data breach affecting 3.8 million people's medical data. Such breaches elevate the risk of identity theft given the sensitive nature of the data. Monitoring for misuse and updating incident response plans becomes crucial.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Introducción a passkeys</title>
+      <link>https://fidoalliance.org/introduccion-a-passkeys/</link>
+      <guid isPermaLink="false">identitybrief-ac1d432ccf065ac3</guid>
+      <pubDate>Fri, 03 Jul 2026 12:41:12 +0000</pubDate>
+      <category>auth</category>
+      <description>A new webinar introduces passkeys — simpler, secure credentials without passwords. This moves the needle on anti-phishing efforts by making them more accessible to users. The catch is it's another session to schedule amidst competing priorities.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Improving security posture across the Microsoft partner ecosystem</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/</link>
+      <guid isPermaLink="false">identitybrief-f16f336606129605</guid>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft is boosting security for partners via strict vetting and least privilege access. This aims to fortify ecosystems against unauthorized access by reducing attack surfaces. Partners need to align promptly as these changes roll out.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API</title>
+      <link>https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html</link>
+      <guid isPermaLink="false">identitybrief-9f005df124587702</guid>
+      <pubDate>Thu, 02 Jul 2026 13:04:13 +0000</pubDate>
+      <category>breach</category>
+      <description>ToddyCat's Umbrij malware exploits Google API for unauthorized email access. It's a reminder of the potential risks in API usage, even with secure providers. Organizations must ensure API interactions are properly scoped and monitored.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks</title>
+      <link>https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/</link>
+      <guid isPermaLink="false">identitybrief-a27ec2b75ba51e8a</guid>
+      <pubDate>Thu, 02 Jul 2026 12:34:29 +0000</pubDate>
+      <category>breach</category>
+      <description>The FortiBleed campaign links credential theft from FortiGate firewalls to ransomware attacks. Protecting firewall credentials is crucial as this malware targets firewall vulnerabilities. Updating security protocols for firewalls should be a priority.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Largest funding bill in U.S. history signed off for border tech across CBP, DHS and ICE</title>
+      <link>https://identityweek.net/largest-funding-bill-in-u-s-history-signed-off-for-border-tech-across-cbp-dhs-and-ice/</link>
+      <guid isPermaLink="false">identitybrief-6502a37fafab77d5</guid>
+      <pubDate>Thu, 02 Jul 2026 11:41:57 +0000</pubDate>
+      <category>auth</category>
+      <description>The U.S. has approved its largest funding bill ever for border technology, heavily focusing on biometrics. This will enhance border security but also raises privacy concerns. Agencies will need to balance security improvements with transparency and rights protections.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Your Free All-Access Pass (worth $2,495) to our largest agenda yet!</title>
+      <link>https://identityweek.net/your-free-all-access-pass-worth-2495-to-our-largest-agenda-yet/</link>
+      <guid isPermaLink="false">identitybrief-bff38c145b95b67c</guid>
+      <pubDate>Thu, 02 Jul 2026 11:12:04 +0000</pubDate>
+      <category>iam</category>
+      <description>Identity Week America announces a free pass to an extensive agenda on secure identity. For professionals, it's an opportunity to learn from leaders and share best practices. The challenge is making time to attend and incorporate learnings into routines.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Made a self-hosted Entra ID governance portal for app/identity sprawl (open source)</title>
+      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU83ZGFFSzMxUDlnZERaQVMxaUt1dnZpb0FQM3Y1Ty1NTE45S0J2ZW8wNzBMb3VWMEtjajctR0M2OEhlOVZvc0hhSUQ4cTZMVVpyalkxbHlQQkttLUEyeUtRU2NIeG44VnhIQ1hzMXVsdS1jRlZ6aDkwTDZSLThOMDQyNUhjMW51TGRSSWljdGcwa2FpMEN0QmxKeEZwNl9LS0N1Y3o0SXdCaXg1ZW9NekVabUV6SGFfalhCMnJuZjdjVm9qS3lYZ2x6U21DcV9ZdXpvTmduNEFXWEp3bTh5TVB1bm53UUE?oc=5</link>
+      <guid isPermaLink="false">identitybrief-b5876ba23f0c6270</guid>
+      <pubDate>Sat, 04 Jul 2026 03:18:38 +0000</pubDate>
+      <category>iam</category>
+      <description>An open-source Entra ID governance portal can help manage app and identity sprawl. This tool can streamline identity management tasks and foster better governance. However, setup and ongoing maintenance require sustained effort and resources.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Deepfakes, Digital Deception, and the Future of Biometric Assurance</title>
       <link>https://www.biometricupdate.com/202607/deepfakes-digital-deception-and-the-future-of-biometric-assurance</link>
       <guid isPermaLink="false">identitybrief-a25b1da6534b0959</guid>
@@ -1362,145 +1502,5 @@
       <description>Age verification often masks broader surveillance practices. This highlights how seemingly protective measures can infringe on privacy. The core issue is balancing safety with privacy, a debate with no easy answers.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>You have got to be KDDI-ng – Japanese telco exposes 14.2 million managed email credentials</title>
-      <link>https://www.theregister.com/cyber-crime/2026/06/24/you-have-got-to-be-kddi-ng-japanese-telco-exposes-142-million-managed-email-credentials/5260555</link>
-      <guid isPermaLink="false">identitybrief-e77d1fc9fb3860e1</guid>
-      <pubDate>Wed, 24 Jun 2026 04:56:48 +0000</pubDate>
-      <category>auth</category>
-      <description>14.2 million email credentials from Japanese telcos were exposed, impacting five major ISPs. For identity and access management teams, this means heightened focus on credential re-use and potential waves of phishing. Immediate action is contingent on telco responses.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice</title>
-      <link>http://arxiv.org/abs/2606.24819v1</link>
-      <guid isPermaLink="false">identitybrief-ced3a6cc918ba497</guid>
-      <pubDate>Tue, 23 Jun 2026 17:05:19 +0000</pubDate>
-      <category>research</category>
-      <description>HelpBench evaluates LLMs in giving security advice, focusing on practical use. If accurate, these models could assist in real-time incident response. Yet, its effectiveness heavily depends on the quality of the data it learns from.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Scope of Salesforce Attacks Expands as Icarus Leaks Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data</link>
-      <guid isPermaLink="false">identitybrief-971eb5f7d6451052</guid>
-      <pubDate>Tue, 23 Jun 2026 20:44:09 +0000</pubDate>
-      <category>breach</category>
-      <description>Salesforce data was compromised in a broader OAuth token breach involving Klue. These attacks show how third-party service breaches can ripple across, affecting even large platforms. The challenge is monitoring dependencies and promptly revoking exposed credentials.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Integrating Microsoft Entra ID with Aspire</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3dFcjVnX3oxbFNQVTcyZ3pwTXJyQkRxb1R6WTNNeTFhM3c2TGdWeUJHWDRQUXlLUldMZVlYVEwzc3o5d3M0a2pLSnBGbG1KU2tBN2dEd2xDeHFLTVd3QVFUSU1qUmN0TjAzUXRxekx6U20yTWh1YVUyLVE5cjdhRWNHOHpuOTZXenkzS1pnSmpBUXlBcEtvWWE2STBtMG9COXB3RUQ1RkVqM21IcGR3bTd5anJEQmhheXZMOHlReG5zb2xCWm9naw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-f73e9de0171a2431</guid>
-      <pubDate>Tue, 23 Jun 2026 22:22:40 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft Entra ID is being integrated with Aspire. This enables more seamless user identity management on the Microsoft platform. Compatibility concerns can arise, especially if existing systems aren't fully aligned.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Omada Identity Sovereign targets Europe’s growing digital sovereignty demands</title>
-      <link>https://www.helpnetsecurity.com/2026/06/23/omada-identity-sovereign-targets-europes-growing-digital-sovereignty-demands/</link>
-      <guid isPermaLink="false">identitybrief-19637cf1522337b5</guid>
-      <pubDate>Tue, 23 Jun 2026 09:25:19 +0000</pubDate>
-      <category>iam</category>
-      <description>Omada Identity Sovereign is a new tool aimed at meeting Europe's digital sovereignty demands. It allows organizations to control identity governance according to local laws, crucial for compliance with regulations like DORA and NIS2. The catch: it's highly tailored for Europe, so global organizations will need other solutions for non-European regions.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Canadian Electricity Provider London Hydro Discloses Data Breach</title>
-      <link>https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/</link>
-      <guid isPermaLink="false">identitybrief-6375cd7b27214ed7</guid>
-      <pubDate>Tue, 23 Jun 2026 09:25:22 +0000</pubDate>
-      <category>breach</category>
-      <description>London Hydro's customer data has been stolen in a breach, impacting names, addresses, emails, and account details. Such data can facilitate identity theft and fraud if misused. This breach highlights the ongoing challenge of securing contact information against unauthorized access.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>AstreaX, Trinsic, Veriff and ROC tap leaders to scale adoption</title>
-      <link>https://www.biometricupdate.com/202606/astreax-trinsic-veriff-and-roc-tap-leaders-to-scale-adoption</link>
-      <guid isPermaLink="false">identitybrief-dc826cb0a65f2b15</guid>
-      <pubDate>Mon, 22 Jun 2026 22:12:38 +0000</pubDate>
-      <category>did</category>
-      <description>Amid growing digital identity demands, companies like AstreaX and Veriff are appointing leaders to drive adoption. This reflects the industry's push to scale identity solutions for government and businesses. But appetite and readiness for such tech vary widely, which could slow broader implementation.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Phishing hides in routine Microsoft 365 workflows</title>
-      <link>https://www.helpnetsecurity.com/2026/06/23/microsoft-365-collaboration-features-phishing/</link>
-      <guid isPermaLink="false">identitybrief-e1c97f31dee77673</guid>
-      <pubDate>Tue, 23 Jun 2026 08:26:17 +0000</pubDate>
-      <category>breach</category>
-      <description>Phishing campaigns are exploiting routine Microsoft 365 workflows to look legitimate. This misuse of trusted collaboration features poses a new challenge for recognition and response tools. The strategy remains susceptible to user education since it relies on unsuspecting actions.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Xsolis Data Breach Affects 1.4 Million Individuals</title>
-      <link>https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/</link>
-      <guid isPermaLink="false">identitybrief-0498a4fea506170c</guid>
-      <pubDate>Tue, 23 Jun 2026 06:20:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Xsolis experienced a data breach exposing personal health information of 1.4 million individuals. Breaches like this can lead to privacy violations and increased fraud risks in healthcare. The company's response strategy is under scrutiny but specific protective actions weren't detailed.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>New York Knicks owner sued following biometric data breach</title>
-      <link>https://www.biometricupdate.com/202606/new-york-knicks-owner-sued-following-biometric-data-breach</link>
-      <guid isPermaLink="false">identitybrief-30952a190ef4cbb1</guid>
-      <pubDate>Mon, 22 Jun 2026 17:18:15 +0000</pubDate>
-      <category>breach</category>
-      <description>The New York Knicks' owner faces a lawsuit following a breach of face recognition data at Madison Square Garden. Such breaches elevate concerns about biometric data misuse and privacy protection. The complex legal landscape around biometric data only muddies the waters further.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Legislation in Philippines mandates age assurance for social media</title>
-      <link>https://www.biometricupdate.com/202606/legislation-in-philippines-mandates-age-assurance-for-social-media</link>
-      <guid isPermaLink="false">identitybrief-942d4bc76fdaec7c</guid>
-      <pubDate>Mon, 22 Jun 2026 18:47:42 +0000</pubDate>
-      <category>did</category>
-      <description>The Philippines will require age verification on social media under new legislation. This could boost demand for biometric age-assurance technologies, impacting digital identity verification strategies. Implementation and user privacy remain significant hurdles for widespread acceptance.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>WhatsApp phishing attack uses fake business docs to hack PCs</title>
-      <link>https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/</link>
-      <guid isPermaLink="false">identitybrief-cd06bcb64dd4a11d</guid>
-      <pubDate>Mon, 22 Jun 2026 22:42:21 +0000</pubDate>
-      <category>breach</category>
-      <description>A new phishing tactic via WhatsApp uses fake business documents to gain computer access. This approach exploits trust in seemingly routine communications to introduce malware. Users must remain wary of attachments and verify sender legitimacy, challenges that persist with expanding communication platforms.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Russian Initial Access Broker Behind FortiBleed Campaign</title>
-      <link>https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/</link>
-      <guid isPermaLink="false">identitybrief-addcd22b3985aec8</guid>
-      <pubDate>Tue, 23 Jun 2026 10:30:46 +0000</pubDate>
-      <category>auth</category>
-      <description>A Russian group has captured over 110 million credentials using a custom sniffer in a campaign named FortiBleed. Credential theft at this scale directly threatens user authentication integrity across systems. The specific vulnerability exploited isn't disclosed, so firms must remain generally vigilant and update their threat-hunting techniques.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>OpenAI wants AI to fix vulnerabilities, not just find them</title>
-      <link>https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative/</link>
-      <guid isPermaLink="false">identitybrief-49e3ef8c257f3b49</guid>
-      <pubDate>Tue, 23 Jun 2026 08:49:01 +0000</pubDate>
-      <category>breach</category>
-      <description>OpenAI's Daybreak initiative uses AI to both find and fix software vulnerabilities. This dual approach aims to streamline vulnerability remediation, a critical step in maintaining secure systems. Its effectiveness is yet unproven at large-scale deployment, especially concerning complex multi-vendor environments.
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
