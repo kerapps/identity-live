@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Listen: trust, identity and governance in the agentic age, with Alice Sesay Pope</title>
+      <link>https://www.biometricupdate.com/202607/listen-trust-identity-and-governance-in-the-agentic-age-with-alice-sesay-pope</link>
+      <guid isPermaLink="false">identitybrief-7809ff0eb04953d6</guid>
+      <pubDate>Sun, 05 Jul 2026 23:44:50 +0000</pubDate>
+      <category>auth</category>
+      <description>The Biometric Update Podcast explores identity governance in the age of AI agents. It emphasizes the shift towards trust as a cornerstone in managing digital identities. The catch: philosophical insights abound, but practical steps are less clear.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Securing the inbox: Where identity, brand and security meet</title>
+      <link>https://www.helpnetsecurity.com/2026/07/06/ciso-email-security-strategy/</link>
+      <guid isPermaLink="false">identitybrief-25dc23bbe0aa9924</guid>
+      <pubDate>Mon, 06 Jul 2026 06:00:45 +0000</pubDate>
+      <category>iam</category>
+      <description>Red Sift and GlobalSign simplify email security setup by combining DMARC/BIMI and Mark Certificates. This reduces the complexity of verifying email identities. The catch: it's a package deal, limiting choice if you have existing agreements with other providers.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>OAuth, guest accounts, and weak MFA drive SaaS risk</title>
+      <link>https://www.helpnetsecurity.com/2026/07/06/saas-environments-security-risks-report/</link>
+      <guid isPermaLink="false">identitybrief-1f462bfc8d1d3e71</guid>
+      <pubDate>Mon, 06 Jul 2026 04:30:05 +0000</pubDate>
+      <category>auth</category>
+      <description>Kaseya's report reveals that overlooked guest accounts lead to SaaS risks. These accounts often linger with excessive access rights, increasing data exposure. The catch: addressing this requires thorough audits, which can be resource-intensive.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>State Department seeks sole-source upgrade of Honduras fingerprint system</title>
+      <link>https://www.biometricupdate.com/202607/state-department-seeks-sole-source-upgrade-of-honduras-fingerprint-system</link>
+      <guid isPermaLink="false">identitybrief-e5fb15f1ca51618d</guid>
+      <pubDate>Sun, 05 Jul 2026 23:21:36 +0000</pubDate>
+      <category>auth</category>
+      <description>The U.S. State Department is upgrading Honduras’ fingerprint system. This will enhance biometric data sharing across Central America. The catch: it's a sole-source contract, potentially limiting competition and innovation.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Delegated authentication: A security essential plus strategic data asset</title>
+      <link>https://www.biometricupdate.com/202607/delegated-authentication-a-security-essential-plus-strategic-data-asset</link>
+      <guid isPermaLink="false">identitybrief-f7e2d62ffa133d35</guid>
+      <pubDate>Sun, 05 Jul 2026 23:43:51 +0000</pubDate>
+      <category>fraud</category>
+      <description>Delegated authentication is evolving with the global move towards mobile payments. New systems aim to simplify user authentication while handling more complex transactions. The catch: Legacy systems may struggle with these changes, necessitating costly upgrades.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>How to prioritize AI agent security by business impact</title>
+      <link>https://www.helpnetsecurity.com/2026/07/06/prioritize-ai-agent-security-business-impact/</link>
+      <guid isPermaLink="false">identitybrief-eed2c153061cc6e8</guid>
+      <pubDate>Mon, 06 Jul 2026 06:30:39 +0000</pubDate>
+      <category>breach</category>
+      <description>An incident with an AI agent in finance exposed gaps in OAuth security. It highlights the risks of leaving OAuth grants active after employees leave. The catch: It's a common scenario, but fixing it requires continual monitoring and immediate deactivation processes.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Guest Access for Canvas and Model-Driven Apps with Microsoft Entra ID</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaTJ1dUlNSFQtRUUxNHgzS3JQWlNSeGNXa1JJZTdmSDBoMXRJREJ4NU1VN0V6OTBQUkcyd1Rpem1TTGoyMkJidHp0Q1JDNnpQMkpkUmxkNE9ldFFPa3gxLTdaUDRwOHhJTVpHbXQzVVR1TmVGd1dhcC1PLW5Xc0I5QWlpTDVJUUhlT2h1bTdZdW9TYkFGclhmTGo1TnBPbS1pOVc5eXNSa2RGSHJCdjgzZWVKZDBJTEx6RkVhMUdDTXVfTVNZZ2VTWk9Qdm5STTRrU0VzTzNuYw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-e8c8658efd3a0e46</guid>
+      <pubDate>Thu, 02 Jul 2026 09:20:45 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft Entra ID supports guest access for specific apps, enhancing collaboration. It lets external users interact with company's apps easily. The catch: It's limited to Microsoft environments, so multi-platform strategies need separate solutions.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
+      <title>How to Build a Zero-Day User Lifecycle That Eliminates Manual Handoffs</title>
+      <link>https://jumpcloud.com/blog/how-to-build-a-zero-day-user-lifecycle-that-eliminates-manual-handoffs</link>
+      <guid isPermaLink="false">identitybrief-5feb273fd217cd7e</guid>
+      <pubDate>Fri, 03 Jul 2026 09:15:09 +0000</pubDate>
+      <category>fraud</category>
+      <description>Zero-day user lifecycle automation reduces manual onboarding and offboarding. This ensures new hires and exits don't miss critical access steps or leave security gaps. The catch: Automating processes requires careful setup and ongoing maintenance.
+
+— via JumpCloud</description>
+    </item>
+    <item>
+      <title>Flipper Zero firmware development continues with community help</title>
+      <link>https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/</link>
+      <guid isPermaLink="false">identitybrief-b75bd4974afa49ab</guid>
+      <pubDate>Sun, 05 Jul 2026 14:14:52 +0000</pubDate>
+      <category>iam</category>
+      <description>Community support is driving Flipper Zero firmware development forward. With a reduced internal team, community contributions are essential for ongoing updates. The catch: relying heavily on volunteer contributions can lead to inconsistent updates.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>JadePuffer ransomware used AI agent to automate entire attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/</link>
+      <guid isPermaLink="false">identitybrief-af42b3e2ea5e4779</guid>
+      <pubDate>Sat, 04 Jul 2026 14:16:38 +0000</pubDate>
+      <category>breach</category>
+      <description>JadePuffer ransomware used an AI agent to run an entire attack. This automation shows how AI can streamline malicious operations, increasing their efficiency. The catch: Such setups are complex and require significant resources, possibly limiting their immediate proliferation.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case</title>
+      <link>https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html</link>
+      <guid isPermaLink="false">identitybrief-dfe2e4f3f58fedb8</guid>
+      <pubDate>Sat, 04 Jul 2026 12:47:53 +0000</pubDate>
+      <category>breach</category>
+      <description>A U.S. government entity paid $1 million to prevent data-leak extortion by a group called Kairos. The case blurs lines between typical ransomware and extortion based on stolen data. The catch: it's not clear if this group can always be classified under traditional cyber-criminal categories.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign</title>
+      <link>https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html</link>
+      <guid isPermaLink="false">identitybrief-b47da85789fe35b4</guid>
+      <pubDate>Sat, 04 Jul 2026 11:17:24 +0000</pubDate>
+      <category>breach</category>
+      <description>North Korean hackers deployed 108 malicious software packages. These exploit weaknesses in digital platforms, primarily targeting web development ecosystems. The catch: vigilance gets harder as these packages blend in with legitimate tools.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices</title>
+      <link>https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html</link>
+      <guid isPermaLink="false">identitybrief-ba9042eaa49775b7</guid>
+      <pubDate>Fri, 03 Jul 2026 20:19:31 +0000</pubDate>
+      <category>iam</category>
+      <description>Unpatched flaws in the FatFs library affect millions of embedded devices. These vulnerabilities pose a broad security risk across diverse technologies. The catch: remediation needs coordination with many vendors, delaying patch rollouts.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Chinese LLMs Broaden the Gap Between Attackers &amp;amp; Defenders</title>
+      <link>https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders</link>
+      <guid isPermaLink="false">identitybrief-62fe71a0465c37d0</guid>
+      <pubDate>Fri, 03 Jul 2026 13:01:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Chinese language models are advancing, creating a gap in cyber defense capabilities. These models potentially enhance malicious operations faster than defense strategies can adapt. The catch: it's unclear how long this gap will persist or what partnerships might close it.
+
+— via Dark Reading</description>
+    </item>
+    <item>
       <title>Digital identity wallets present big choices as EUDI preparations ramp up</title>
       <link>https://www.biometricupdate.com/202607/digital-identity-wallets-present-big-choices-as-eudi-preparations-ramp-up</link>
       <guid isPermaLink="false">identitybrief-1d1835320082c613</guid>
@@ -1362,145 +1502,5 @@
       <description>LastPass notified users about another data breach. This adds urgency for identity teams to reassess their dependency on centralized password managers for critical accounts. The catch: migrating away requires coordination and user education, especially for non-tech staff.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>Identiverse 2026 Recap: Identity Security for Agentic AI Dominates</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTgySkx5WFpZYnRHQ0ZkdDREMW01UHNaYjhqa3Y0a3pxcTJ5Y09WYzhsVlY5ZUNhVlBiUWpWaTNlbEZaUG9sMHNBek5mZXRHZ0FKRGhzcm40UXlnbTZKV2k1STdRMGVTM2VoQ0pBMEtFbVNMMHJuaW5sblFXQ2x5ZmNQNHNwZFRkWElfTE92VElVdnEya1NkUFBTOTFPNWM?oc=5</link>
-      <guid isPermaLink="false">identitybrief-70a620bca69d7597</guid>
-      <pubDate>Thu, 25 Jun 2026 18:24:10 +0000</pubDate>
-      <category>iam</category>
-      <description>Identiverse 2026 highlighted identity security for AI as a main theme. With AI now interacting on a more 'agentic' level, the need for secure identity frameworks becomes essential. The challenge is implementation: many AI systems are still experimental and not fully integrated.
-
-— via Forrester</description>
-    </item>
-    <item>
-      <title>Modelplane: Open-source control plane for AI inference</title>
-      <link>https://www.helpnetsecurity.com/2026/06/26/modelplane-open-source-control-plane-ai-inference/</link>
-      <guid isPermaLink="false">identitybrief-e3b81300566af72f</guid>
-      <pubDate>Fri, 26 Jun 2026 04:30:18 +0000</pubDate>
-      <category>iam</category>
-      <description>Modelplane, a new open-source control plane, simplifies AI inference management across various infrastructures. For identity functions, this tool helps streamline how AI-driven model identities are provisioned. The downside: you need expertise to integrate it with existing environments.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Fortress and Gatekeeper: Theorizing Transitive Trust in Third-Party Cybersecurity Risk Governance</title>
-      <link>http://arxiv.org/abs/2606.26866v1</link>
-      <guid isPermaLink="false">identitybrief-357c7d4fe61dfb04</guid>
-      <pubDate>Thu, 25 Jun 2026 10:52:48 +0000</pubDate>
-      <category>research</category>
-      <description>A research paper examines third-party cybersecurity risks using real-life case studies. It emphasizes the importance of scrutinizing vendor environments for potential security breaches. The practical issue is that companies often lack the bandwidth to thoroughly evaluate each vendor.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>What Is Public Key Infrastructure and Why Does It Matter for Government Digital Services?</title>
-      <link>https://blog.spruceid.com/what-is-public-key-infrastructure-and-why-does-it-matter-for-government-digital-services/</link>
-      <guid isPermaLink="false">identitybrief-dafcbee234f8df74</guid>
-      <pubDate>Thu, 25 Jun 2026 22:45:51 +0000</pubDate>
-      <category>did</category>
-      <description>An article explains Public Key Infrastructure's role in government digital services. It's crucial for securely managing encrypted communications and identity authentication. The challenge is government adoption speed as legacy systems often hinder rapid PKI integration.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>Raonsecure expands digital credentials platform for students</title>
-      <link>https://www.biometricupdate.com/202606/raonsecure-expands-digital-credentials-platform-for-students</link>
-      <guid isPermaLink="false">identitybrief-f075199516e94c0c</guid>
-      <pubDate>Thu, 25 Jun 2026 05:36:31 +0000</pubDate>
-      <category>did</category>
-      <description>Raonsecure extended its digital credentials platform into educational systems. It offers schools tools to securely manage digital IDs and academic histories. But note, it's limited to those institutions partnering with Raonsecure, and implementation might require integrating into existing systems.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>EMVCo proposes global schema for verifiable digital payment credentials</title>
-      <link>https://www.biometricupdate.com/202606/emvco-proposes-global-schema-for-verifiable-digital-payment-credentials</link>
-      <guid isPermaLink="false">identitybrief-9fbe0d2798ef16e4</guid>
-      <pubDate>Thu, 25 Jun 2026 03:08:02 +0000</pubDate>
-      <category>did</category>
-      <description>EMVCo proposes a global schema for digital payment credentials. This initiative aims to standardize and secure card payment verifications using digital IDs. However, it's still in the draft phase and open for industry feedback, meaning changes are possible before any final adoption.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>ROC rolls up ZTC digital forensics into end-to-end biometric investigative platform</title>
-      <link>https://www.biometricupdate.com/202606/roc-rolls-up-ztc-digital-forensics-into-end-to-end-biometric-investigative-platform</link>
-      <guid isPermaLink="false">identitybrief-995411449b471b6b</guid>
-      <pubDate>Wed, 24 Jun 2026 22:03:43 +0000</pubDate>
-      <category>auth</category>
-      <description>ROC acquired ZTC to build a forensic biometric investigatory platform. This acquisition strengthens ROC’s capabilities in facial recognition and biometric forensics. The limitation is integration might be region-specific and a full rollout could take time.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Human identity progress in Malaysia: Cybercrime Bill criminalises digital identity theft</title>
-      <link>https://identityweek.net/human-identity-progress-in-malaysia-cybercrime-bill-criminalises-digital-identity-theft/</link>
-      <guid isPermaLink="false">identitybrief-d7fe05bc3cda5a89</guid>
-      <pubDate>Wed, 24 Jun 2026 10:54:55 +0000</pubDate>
-      <category>did</category>
-      <description>Malaysia's Cybercrime Bill 2026 criminalizes digital identity theft explicitly. This move indicates tighter legal frameworks across regions for digital identity protection. While promising, effective enforcement depends on local judicial and enforcement capabilities.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>TSA, Google Wallet launch new TSA PreCheck Touchless ID opt-in experience</title>
-      <link>https://identityweek.net/tsa-google-wallet-launch-new-tsa-precheck-touchless-id-opt-in-experience/</link>
-      <guid isPermaLink="false">identitybrief-4269516268267895</guid>
-      <pubDate>Wed, 24 Jun 2026 14:25:26 +0000</pubDate>
-      <category>fraud</category>
-      <description>TSA PreCheck now offers a touchless ID opt-in via Google Wallet. This integration simplifies identity checks at security lanes, reducing reliance on physical IDs. Opt-in is available only for Google Wallet users for now, limiting availability.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Anthropic’s Claude Tag gives AI agents independent identities</title>
-      <link>https://www.helpnetsecurity.com/2026/06/24/anthropic-claude-tag-agent-identity-model/</link>
-      <guid isPermaLink="false">identitybrief-b628becb52537e33</guid>
-      <pubDate>Wed, 24 Jun 2026 13:56:02 +0000</pubDate>
-      <category>auth</category>
-      <description>Anthropic's Claude Tag provides AI agents with unique identities. This innovation prevents AI from misuse of personal user credentials. However, the effectiveness relies on how well systems are set up to separate access evidently.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>AI agents granted own digital identities in Estonia to prevent them inheriting human credentials</title>
-      <link>https://identityweek.net/ai-agents-granted-own-digital-identities-in-estonia-to-prevent-them-inheriting-human-credentials/</link>
-      <guid isPermaLink="false">identitybrief-e9ca6352b307a35f</guid>
-      <pubDate>Wed, 24 Jun 2026 12:12:05 +0000</pubDate>
-      <category>did</category>
-      <description>Estonia assigns distinct digital identities to AI agents. This move aims to separate machine and human access rights for operational security. It sets a precedent, but wider adoption needs regulatory updates globally.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Cloudflare launched self-managed OAuth for all</title>
-      <link>https://blog.cloudflare.com/oauth-for-all/</link>
-      <guid isPermaLink="false">identitybrief-a40e7e9d109f006f</guid>
-      <pubDate>Thu, 25 Jun 2026 02:18:10 +0000</pubDate>
-      <category>auth</category>
-      <description>Cloudflare introduced self-managed OAuth capabilities for all users. This means you can configure and manage OAuth for your applications directly without relying on third-party setups. The catch is: you'll need familiarity with OAuth protocol details to maximize security and functionality.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>BlowLive: Blow-Based Multi-Factor Biometrics with Liveness Detection and Revocability</title>
-      <link>http://arxiv.org/abs/2606.25998v1</link>
-      <guid isPermaLink="false">identitybrief-27aacdd3ed4acee8</guid>
-      <pubDate>Wed, 24 Jun 2026 16:12:43 +0000</pubDate>
-      <category>research</category>
-      <description>BlowLive is a new approach combining biometrics with liveness detection. This multi-factor biometric method enhances security against spoofing. It's experimental, so real-world applications are some distance away, with no current implementations to benchmark.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>2026 FIFA World Cup Faces Surge in Cyber Threats</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats</link>
-      <guid isPermaLink="false">identitybrief-40562e39a7c6d306</guid>
-      <pubDate>Wed, 24 Jun 2026 20:29:08 +0000</pubDate>
-      <category>iam</category>
-      <description>The 2026 FIFA World Cup is experiencing increased cyber threats. This highlights the risks tied to high-profile events, emphasizing a need for enhanced security measures. Cyber threat mitigation remains complex due to the collaborative international nature of such events.
-
-— via Dark Reading</description>
     </item>
 </channel></rss>
