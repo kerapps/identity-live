@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Parsons launches multimodal biometric identity platform</title>
+      <link>https://www.biometricupdate.com/202607/parsons-launches-multimodal-biometric-identity-platform</link>
+      <guid isPermaLink="false">identitybrief-d42a5b869c5fd439</guid>
+      <pubDate>Wed, 08 Jul 2026 18:09:44 +0000</pubDate>
+      <category>fraud</category>
+      <description>Parsons Corporation has launched AresNXT, a new biometric identity management platform designed for use in critical infrastructure, national security operations, and large public events, expanding the company’s role in a market increasingly built around rapid identity verification in the field. The Chantilly, Virginia-based company said AresNXT can collect,…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Advice from the MOSIP ecosystem, from biometric quality to sustainability</title>
+      <link>https://www.biometricupdate.com/202607/advice-from-the-mosip-ecosystem-from-biometric-quality-to-sustainability</link>
+      <guid isPermaLink="false">identitybrief-6debb22449b28a9c</guid>
+      <pubDate>Wed, 08 Jul 2026 18:38:19 +0000</pubDate>
+      <category>did</category>
+      <description>MOSIP has gained traction as an option for countries establishing or upgrading digital identity systems due to its promise of reduced cost through the flexibility and shared resources made possible by open-source ecosystems. Governments considering adopting MOSIP and the biometrics and identity technology providers that serve them are still grappling with… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>UK Digital ID sector analysis shows tentative growth amid political change</title>
+      <link>https://www.biometricupdate.com/202607/uk-digital-id-sector-analysis-shows-tentative-growth-amid-political-change</link>
+      <guid isPermaLink="false">identitybrief-310360a5b17baa57</guid>
+      <pubDate>Wed, 08 Jul 2026 18:32:28 +0000</pubDate>
+      <category>did</category>
+      <description>The UK digital identity market sits in a kind of limbo . As Keir Starmer prepares to step down as prime minister, his government’s signature digital ID policy suddenly finds itself adrift: an easy target for opponents and competitors to point to as a bungled effort, fraught with miscues and U-turns. The private sector remains unsatisfied that certified… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>3 Ways AI Powers Service Desk Attacks and How to Prevent Them</title>
+      <link>https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/</link>
+      <guid isPermaLink="false">identitybrief-cb85be529cc25b36</guid>
+      <pubDate>Wed, 08 Jul 2026 14:01:11 +0000</pubDate>
+      <category>fraud</category>
+      <description>Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>The Verification Step Is the New ATO Battleground in 2026</title>
+      <link>https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html</link>
+      <guid isPermaLink="false">identitybrief-077d2e7f408e0277</guid>
+      <pubDate>Wed, 08 Jul 2026 11:30:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers gave up, but because the front door finally got harder to…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Deepfakes, mobile IDs, and quantum threats: IDEMIA’s top trends</title>
+      <link>https://identityweek.net/deepfakes-mobile-ids-and-quantum-threats-idemias-top-trends/</link>
+      <guid isPermaLink="false">identitybrief-1a9cc4305678957a</guid>
+      <pubDate>Wed, 08 Jul 2026 10:56:30 +0000</pubDate>
+      <category>fraud</category>
+      <description>Teresa Wu, Vice President at IDEMIA, sat down with our Editor in 2024 to discuss how the industry is navigating the massive influx of artificial intelligence, shifting consumer expectations, and looming next-generation threats. According to Wu, the sector is locked in a high-stakes arms race, forcing identity providers to constantly innovate to stay ahead…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/</link>
+      <guid isPermaLink="false">identitybrief-8b694e83f79c5f4a</guid>
+      <pubDate>Wed, 08 Jul 2026 19:54:59 +0000</pubDate>
+      <category>auth</category>
+      <description>Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Blackpoint AI SOC Agent autonomously contains identity-based attacks</title>
+      <link>https://www.helpnetsecurity.com/2026/07/08/blackpoint-cyber-ai-soc-agent/</link>
+      <guid isPermaLink="false">identitybrief-655afdc410a1ee1d</guid>
+      <pubDate>Wed, 08 Jul 2026 13:32:54 +0000</pubDate>
+      <category>auth</category>
+      <description>Blackpoint Cyber has unveiled the generally available autonomous response capability, Blackpoint AI SOC Agent for identity threat detection and response (ITDR). Using an AI + human hybrid model, the AI SOC Agent acts on high-confidence threats targeting Microsoft 365 and Google Workspace accounts, enabling Blackpoint to contain credential-based attacks in…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Errata to OpenID Identity Assurance Specifications Approved</title>
+      <link>https://openid.net/errata-to-openid-identity-assurance-specifications-approved/</link>
+      <guid isPermaLink="false">identitybrief-03b9ac7d774a18bb</guid>
+      <pubDate>Wed, 08 Jul 2026 19:09:11 +0000</pubDate>
+      <category>auth</category>
+      <description>Errata to the following specifications have been approved by a vote of the OpenID Foundation members: First Errata Set for OpenID Connect for Identity Assurance 1.0: This extension to OpenID Connect standardizes how relying parties request and receive identity information with additional assurance metadata. First Errata Set for OpenID Identity Assurance… It landed in the last few hours.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>The fake report message that ends with a stolen Reddit account</title>
+      <link>https://www.helpnetsecurity.com/2026/07/09/reddit-false-report-scam-direct-message/</link>
+      <guid isPermaLink="false">identitybrief-500b888e90678dea</guid>
+      <pubDate>Thu, 09 Jul 2026 05:30:10 +0000</pubDate>
+      <category>auth</category>
+      <description>A direct message arrives on Reddit from a stranger, and it invites a reply. That reply is the point. This scheme runs on social engineering, with no malware and no malicious links, and it has spread across Reddit, Discord, and similar platforms. The goal is a single piece of information: a login or verification code that hands your account to someone else.… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Product showcase: Protect your iPhone with McAfee Mobile Security</title>
+      <link>https://www.helpnetsecurity.com/2026/07/09/product-showcase-mcafee-mobile-security-ios/</link>
+      <guid isPermaLink="false">identitybrief-a534f827fcd3fa01</guid>
+      <pubDate>Thu, 09 Jul 2026 05:00:52 +0000</pubDate>
+      <category>fraud</category>
+      <description>McAfee Mobile Security for iOS combines scam protection, web protection, VPN, Wi-Fi security, and device security checks in a single app. It is also available for Android. After downloading the app from the App Store, I created an account and completed a short onboarding process. The app asks whether you want to receive notifications before offering to run… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs</title>
+      <link>http://arxiv.org/abs/2607.07371v1</link>
+      <guid isPermaLink="false">identitybrief-733a24a15ab3403b</guid>
+      <pubDate>Wed, 08 Jul 2026 13:05:19 +0000</pubDate>
+      <category>research</category>
+      <description>The automotive industry is transitioning to Zonal-oriented Architectures (ZoA) for Software-Defined Vehicles (SDVs), enabling frequent over-the-air (OTA) updates for 100+ Electronic Control Units (ECUs). While OTA updates improve efficiency, they introduce safety-critical security risks. Current standards like Uptane and AUTOSAR Adaptive rely on Public-Key… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours</title>
+      <link>https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment</link>
+      <guid isPermaLink="false">identitybrief-76161646416a8be4</guid>
+      <pubDate>Wed, 08 Jul 2026 20:32:22 +0000</pubDate>
+      <category>breach</category>
+      <description>The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Beyond the buzzword: 3 practical steps to achieve least privilege today</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzT1RPNWZaQ1pBUGotQ3UwTzZFbVE5eTFUcGZhSEdvNnY4ZlpQbUJaTzJrZHAzLUZETWhpcU9SVEU5eXk4cTRFems2QmxueDNzbTFFSk96bEFEaXdZbEZtVjVhVFNJNW1m?oc=5</link>
+      <guid isPermaLink="false">identitybrief-218aad33249a0c5c</guid>
+      <pubDate>Wed, 08 Jul 2026 20:43:46 +0000</pubDate>
+      <category>iam</category>
+      <description>Beyond the buzzword: 3 practical steps to achieve least privilege today SailPoint It landed in the last few hours.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>AEPD makes case for alternatives to EUDI Wallet, biometric authentication</title>
       <link>https://www.biometricupdate.com/202607/aepd-makes-case-for-alternatives-to-eudi-wallet-biometric-authentication</link>
       <guid isPermaLink="false">identitybrief-b94ef918b0e74167</guid>
@@ -1362,145 +1502,5 @@
       <description>Indicio wins an award for its credential-verification tech against fraud. By turning biometrics into verifiable credentials, they promise streamlined, secure authentication processes. The focus is narrow: It's an acknowledgment, not a market-wide change.
 
 — via Indicio</description>
-    </item>
-    <item>
-      <title>Agent identity architectures: Delegated, bounded, and autonomous</title>
-      <link>https://1password.com/blog/ai-agent-identity-architectures</link>
-      <guid isPermaLink="false">identitybrief-22d77bce42baaaaf</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>A blog discusses AI agent identity management as a response to NIST principles. It suggests tailored identity solutions to better fit AI systems. Primarily theoretical, real-world adaptation will take time.
-
-— via 1Password</description>
-    </item>
-    <item>
-      <title>DarkMoon: Open-source AI pentesting platform</title>
-      <link>https://www.helpnetsecurity.com/2026/06/29/darkmoon-open-source-ai-pentesting-platform/</link>
-      <guid isPermaLink="false">identitybrief-f654d0541880dd1d</guid>
-      <pubDate>Mon, 29 Jun 2026 05:30:03 +0000</pubDate>
-      <category>iam</category>
-      <description>DarkMoon is an open-source platform automating penetration testing using AI. This aims to speed up and reduce the cost of traditional pen-testing. At this stage, its effectiveness depends on machine learning accuracy, which is still a work in progress.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Sycophantic chatbots and the harms that build over many chats</title>
-      <link>https://www.helpnetsecurity.com/2026/06/29/sycophantic-chatbots-affective-ai-safety/</link>
-      <guid isPermaLink="false">identitybrief-12a39d303d243a12</guid>
-      <pubDate>Mon, 29 Jun 2026 05:00:46 +0000</pubDate>
-      <category>breach</category>
-      <description>AI chatbots pose risks by influencing user emotions subtly over many interactions. These are affective safety concerns rather than cybersecurity threats. The challenge remains in adjusting AI communication without a clear security breach.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Companies keep bolting AI onto their products, and the security bill is coming due</title>
-      <link>https://www.helpnetsecurity.com/2026/06/29/products-ai-pentesting/</link>
-      <guid isPermaLink="false">identitybrief-992000e70acac2b4</guid>
-      <pubDate>Mon, 29 Jun 2026 04:30:15 +0000</pubDate>
-      <category>iam</category>
-      <description>AI features in products are amplifying security risks, according to a recent report. High-risk vulnerabilities appear more often and are slower to fix. It's a warning to proceed cautiously and build robust AI pentesting frameworks.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Biometrics market signals strong as providers expand reach</title>
-      <link>https://www.biometricupdate.com/202606/biometrics-market-signals-strong-as-providers-expand-reach</link>
-      <guid isPermaLink="false">identitybrief-843ff58eb7d01bb2</guid>
-      <pubDate>Sat, 27 Jun 2026 17:27:54 +0000</pubDate>
-      <category>did</category>
-      <description>The global biometrics market is expanding rapidly, driven by recent M&amp;A activity and new digital identity projects worldwide. This growth signifies a stronger foothold for biometrics in digital identity verification, increasing their influence across industries. However, the adoption pace varies by region, and controversies around privacy and ethics continue to simmer.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials</title>
-      <link>https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html</link>
-      <guid isPermaLink="false">identitybrief-c3511abdf2626fc5</guid>
-      <pubDate>Sat, 27 Jun 2026 17:27:11 +0000</pubDate>
-      <category>auth</category>
-      <description>Ukraine, with the FBI, uncovered that Russian intelligence used fake support texts to steal messaging credentials. This incident underscores the effectiveness of social engineering in targeting high-profile individuals. The limitation is that these techniques rely heavily on the target's circumstantial gullibility and awareness.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Irish regulators clash over legal terms in bill on police use of biometric recognition</title>
-      <link>https://www.biometricupdate.com/202606/irish-regulators-clash-over-legal-terms-in-bill-on-police-use-of-biometric-recognition</link>
-      <guid isPermaLink="false">identitybrief-aa5c3f60052839f5</guid>
-      <pubDate>Fri, 26 Jun 2026 20:54:41 +0000</pubDate>
-      <category>auth</category>
-      <description>Irish regulators are debating the legal terms for police use of biometric recognition, with significant concerns about privacy and compliance with EU regulations. This affects how law enforcement might gather and use biometric data, potentially influencing similar legislation in other EU countries. The clash reflects ongoing tension between security capabilities and privacy rights.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>US Army begins fielding next-generation battlefield biometrics system</title>
-      <link>https://www.biometricupdate.com/202606/us-army-begins-fielding-next-generation-battlefield-biometrics-system</link>
-      <guid isPermaLink="false">identitybrief-cf2f22e9b9783df6</guid>
-      <pubDate>Fri, 26 Jun 2026 20:44:45 +0000</pubDate>
-      <category>auth</category>
-      <description>The US Army is rolling out a next-gen battlefield biometric system to improve identity verification in tactical environments. This system aims to enhance security and operational efficiency for military units. Yet, its effectiveness relies on the technology's robustness against adversarial exploitation and data integrity threats in chaotic settings.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys</title>
-      <link>https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html</link>
-      <guid isPermaLink="false">identitybrief-20c00d895ed3a911</guid>
-      <pubDate>Fri, 26 Jun 2026 19:38:29 +0000</pubDate>
-      <category>breach</category>
-      <description>The FBI warns that Russian intelligence is targeting Signal backup recovery keys, a move that could compromise entire messaging histories. This highlights the critical need for users to safeguard their recovery keys separately from their devices. The catch is that user education still lags, and sophisticated attacks can outpace awareness efforts.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs</title>
-      <link>https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html</link>
-      <guid isPermaLink="false">identitybrief-b1b6db37ba8fea46</guid>
-      <pubDate>Fri, 26 Jun 2026 13:53:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A security flaw in Amazon Q Developer allowed code execution via malicious repos, but it's been patched. This incident shows the risks of trusting third-party repositories and emphasizes the importance of patch management. The challenge remains in swiftly identifying such vulnerabilities before they're exploited.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Synology issues critical fix for MailPlus Server vulnerabilities</title>
-      <link>https://www.helpnetsecurity.com/2026/06/26/synology-mailplus-server-vulnerabilities/</link>
-      <guid isPermaLink="false">identitybrief-3e1b26172d697328</guid>
-      <pubDate>Fri, 26 Jun 2026 10:57:37 +0000</pubDate>
-      <category>breach</category>
-      <description>Synology's critical fix in their MailPlus Server addresses authorization and communication vulnerabilities. This patch prevents unauthorized access and data tampering, crucial for maintaining the integrity of email infrastructures. The limitation is that it requires timely updates from the users, which can be a slow process.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Julie Roy on why a one-time identity check no longer cuts it</title>
-      <link>https://liminal.co/articles/continuous-identity-verification-julie-roy-friday-five/</link>
-      <guid isPermaLink="false">identitybrief-3e12df3ec23a2048</guid>
-      <pubDate>Fri, 26 Jun 2026 10:30:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Julie Roy argues that ongoing identity verification is essential as people's identities and circumstances change regularly. This highlights the need for dynamic systems that can continuously update and verify identities. However, the challenge lies in designing systems that balance security and user privacy.
-
-— via Liminal</description>
-    </item>
-    <item>
-      <title>What CISOs need to tell the board about zero trust in OT: A 90-day communication and action plan</title>
-      <link>https://www.csoonline.com/article/4189605/what-cisos-need-to-tell-the-board-about-zero-trust-in-ot-a-90-day-communication-and-action-plan.html</link>
-      <guid isPermaLink="false">identitybrief-6d760f48ee815a48</guid>
-      <pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A new guide offers CISOs a 90-day plan for communicating zero-trust strategies to boards, specifically in operational technology environments. This plan aims to align security priorities with executive expectations post-high-profile incidents. The catch is adapting these strategies to specific organizational needs and potential resistance to change.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Nanoelectromechanical Systems (NEMS) for Hardware Security in Advanced Packaging</title>
-      <link>http://arxiv.org/abs/2606.26426v1</link>
-      <guid isPermaLink="false">identitybrief-3ea65a2a2092acf6</guid>
-      <pubDate>Wed, 24 Jun 2026 22:33:33 +0000</pubDate>
-      <category>research</category>
-      <description>Research on NEMS highlights their potential for hardware security by enhancing device-level authentication and tamper detection. These systems bolster defenses against sophisticated physical attacks in manufacturing. But, the practical deployment of NEMS in production environments can be complex and costly.
-
-— via arXiv</description>
     </item>
 </channel></rss>
