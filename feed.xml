@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Only 28% of financial workforce MFA is phishing-resistant</title>
+      <link>https://www.helpnetsecurity.com/2026/07/10/financial-identity-security-trends-report/</link>
+      <guid isPermaLink="false">identitybrief-50adaca10a96403b</guid>
+      <pubDate>Fri, 10 Jul 2026 04:30:59 +0000</pubDate>
+      <category>breach</category>
+      <description>Passwords remain part of many workforce authentication flows in financial organizations, making phishing and credential theft major identity security risks, according to a new Secret Double Octopus report. Key challenges preventing universal implementation of phishing-resistant MFA (Source: Secret Double Octopus) Workforce authentication trends Banks and… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Turning software supply chain security into a daily habit</title>
+      <link>https://www.helpnetsecurity.com/2026/07/10/software-supply-chain-security-video/</link>
+      <guid isPermaLink="false">identitybrief-8bb8c5e1c1971b05</guid>
+      <pubDate>Fri, 10 Jul 2026 05:30:03 +0000</pubDate>
+      <category>breach</category>
+      <description>In this Help Net Security video, Anastasia Tikhonova, Global Threat Research Lead at Group-IB, explains how to operationalize software supply chain risk. Instead of filing an SBOM away as a compliance document, she argues teams should use it every day for vulnerability triage, vendor access reviews, identity monitoring, and incident response. Drawing on… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Dock Labs maps where the EUDI Wallet market begins</title>
+      <link>https://www.biometricupdate.com/202607/dock-labs-maps-where-the-eudi-wallet-market-begins</link>
+      <guid isPermaLink="false">identitybrief-2f55a8330789a976</guid>
+      <pubDate>Thu, 09 Jul 2026 21:51:24 +0000</pubDate>
+      <category>did</category>
+      <description>It’s going to change the world. That’s the verdict of Dock Lab ’s Richard Esplin, as he and colleague Agne Caunt looked at “what actually matters” when it comes to the EU Digital Identity Wallet. In a webinar focused on practical steps, the two acknowledged the growing need for guidance on mobile driver’s licenses (mDLs) and the European Digital ID (EUDI)… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Boom ID integrates Innovatrics’ palm biometrics for mobile enterprise authorization</title>
+      <link>https://www.biometricupdate.com/202607/boom-id-integrates-innovatrics-palm-biometrics-for-mobile-enterprise-authorization</link>
+      <guid isPermaLink="false">identitybrief-e1bcd5f51b904a8d</guid>
+      <pubDate>Thu, 09 Jul 2026 21:33:51 +0000</pubDate>
+      <category>fraud</category>
+      <description>Startup Boom ID has integrated palm recognition capabilities from Innovatrics to bring contactless biometric authentication and transaction authorization on user’s mobile devices to the enterprise. The partnership brings together two parts of the identity stack. Innovatrics provides the biometric layer through its contactless palm biometrics and liveness… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>AWS gives its ERP agent deny-by-default rules and a separate identity</title>
+      <link>https://www.helpnetsecurity.com/2026/07/10/aws-agentic-ai-erp-automation/</link>
+      <guid isPermaLink="false">identitybrief-0a72a34f9fe27c0b</guid>
+      <pubDate>Fri, 10 Jul 2026 05:00:52 +0000</pubDate>
+      <category>iam</category>
+      <description>Accounts receivable teams at large companies spend hours each day matching incoming bank payments to invoices by hand. When those payments sit unmatched for days, cash flow suffers and days sales outstanding climbs. The same pattern repeats across blocked invoices, purchase order approval holds, month-end close, and intercompany reconciliations in almost… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>New Helix vishing group emerges in SharePoint data theft attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/</link>
+      <guid isPermaLink="false">identitybrief-dd7216551ed6bf6c</guid>
+      <pubDate>Thu, 09 Jul 2026 17:08:29 +0000</pubDate>
+      <category>breach</category>
+      <description>A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Digital travel credentials to top 1.2B users by 2035, passports remain until 2040</title>
+      <link>https://www.biometricupdate.com/202607/digital-travel-credentials-to-top-1-2b-users-by-2035-passports-remain-until-2040</link>
+      <guid isPermaLink="false">identitybrief-a5f788d85e02e25c</guid>
+      <pubDate>Thu, 09 Jul 2026 14:23:22 +0000</pubDate>
+      <category>did</category>
+      <description>Digital travel credentials (DTC) are set for explosive growth over the next decade, with global adoption projected to exceed 1.2 billion passengers by 2035, according to new research from Juniper Research. The figure marks a jump from 105.4 million in 2027, representing growth of more than 1,000 percent. “The technical components of biometric travel are…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>AI Agents Are a New Kind of Identity &amp;amp; Most Organizations Aren't Ready</title>
+      <link>https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready</link>
+      <guid isPermaLink="false">identitybrief-4f92c195b6dedcb0</guid>
+      <pubDate>Thu, 09 Jul 2026 19:16:02 +0000</pubDate>
+      <category>iam</category>
+      <description>If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
+      <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
+      <guid isPermaLink="false">identitybrief-b9c20bf1d216f301</guid>
+      <pubDate>Thu, 09 Jul 2026 16:49:02 +0000</pubDate>
+      <category>auth</category>
+      <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in -…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>FIDO Alliance Releases Authenticate U.S. 2026 Agenda</title>
+      <link>https://fidoalliance.org/fido-alliance-releases-authenticate-u-s-2026-agenda/</link>
+      <guid isPermaLink="false">identitybrief-846cff8c6c74000f</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+      <category>did</category>
+      <description>Carlsbad, Calif., July 9, 2026 – The FIDO Alliance has announced the agenda for Authenticate U.S. 2026, the only industry conference dedicated to digital identity and authentication. The event will […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Public Review Period for Proposed Implementer’s Draft of OpenID Connect Key Binding</title>
+      <link>https://openid.net/public-review-period-for-proposed-implementers-draft-of-openid-connect-key-binding/</link>
+      <guid isPermaLink="false">identitybrief-0511a333046b885a</guid>
+      <pubDate>Thu, 09 Jul 2026 18:51:07 +0000</pubDate>
+      <category>auth</category>
+      <description>The OpenID Connect Working Group recommends approval of the following specification as an OpenID Implementer’s Draft: OpenID Connect Key Binding 1.0 This would be the first Implementer’s Draft of this specification. An Implementer’s Draft is a stable version of a specification providing intellectual property protections to implementers of the specification.… It landed in the last few hours.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>As AltID launches, Danish media seek OIDF view</title>
+      <link>https://openid.net/as-altid-launches-danish-media-seek-oidf-view/</link>
+      <guid isPermaLink="false">identitybrief-88a1cf2cf246b5cb</guid>
+      <pubDate>Thu, 09 Jul 2026 08:46:23 +0000</pubDate>
+      <category>did</category>
+      <description>Denmark’s launch of AltID, a government-backed digital wallet, prompted questions about what the new technology means for citizens and how it differs from existing digital identity systems. Major Danish national media outlets, including DR, reported on the new technology. Several leading publications, including Ekstra Bladet, Input Magazine, Mere Mobil and…
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Mini-Programs, Mega-Problems: Unveiling OAuth-based Authentication Misuses in Mini-Programs via Dynamic Analysis</title>
+      <link>http://arxiv.org/abs/2607.08232v1</link>
+      <guid isPermaLink="false">identitybrief-7218350fb2f04fca</guid>
+      <pubDate>Thu, 09 Jul 2026 08:28:57 +0000</pubDate>
+      <category>research</category>
+      <description>Mini-programs have become a dominant paradigm for lightweight application deployment within super apps such as WeChat. To support seamless integration, super apps provide OAuth mechanisms for user login. However, improper integration of OAuth-based Authentication (OBA) flows by third-party developers can lead to critical security flaws. In this paper, we…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members to log into ChatGPT accounts</title>
+      <link>https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</link>
+      <guid isPermaLink="false">identitybrief-2be5a727c802d551</guid>
+      <pubDate>Thu, 09 Jul 2026 21:45:00 +0000</pubDate>
+      <category>breach</category>
+      <description>The rapid advancement of AI is changing the global cybersecurity landscape. As these technologies become more powerful, safeguarding access to them is increasingly critical — particularly for the security researchers and defenders working to identify vulnerabilities, strengthen software and improve cyber resilience. People need advanced account protection… It landed in the last few hours.
+
+— via Yubico</description>
+    </item>
+    <item>
       <title>Parsons launches multimodal biometric identity platform</title>
       <link>https://www.biometricupdate.com/202607/parsons-launches-multimodal-biometric-identity-platform</link>
       <guid isPermaLink="false">identitybrief-d42a5b869c5fd439</guid>
@@ -1362,145 +1502,5 @@
       <description>JumpServer offers open-source privileged access management. It's gaining traction for those looking for cost-effective PAM solutions without vendor lock-in. The limitation is the need for in-house expertise to set up and maintain—it's not plug-and-play.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>Data breach exposes up to 14.2M email logins at six ISPs</title>
-      <link>https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/</link>
-      <guid isPermaLink="false">identitybrief-61444c0ddd3c5951</guid>
-      <pubDate>Mon, 29 Jun 2026 14:27:35 +0000</pubDate>
-      <category>breach</category>
-      <description>A data breach hit six ISPs, affecting up to 14.2 million email logins. For identity teams, this means potential phishing spikes from leaked credentials. The catch: cleanup is outside an org’s control; it hinges on those ISPs taking swift action.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild</title>
-      <link>https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html</link>
-      <guid isPermaLink="false">identitybrief-d4abba0bdfbefb56</guid>
-      <pubDate>Tue, 30 Jun 2026 05:04:06 +0000</pubDate>
-      <category>breach</category>
-      <description>A critical flaw in Oracle E-Business Suite is being actively exploited. This puts a spotlight on vulnerabilities in privilege management, crucial for organizations using similar systems. The catch: patching is urgent, but it requires environment downtime and resource planning.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>A Lightweight Post-Quantum Authentication Framework for 5G Base Station Bootstrapping</title>
-      <link>http://arxiv.org/abs/2606.30542v1</link>
-      <guid isPermaLink="false">identitybrief-1bb18ff249ad8703</guid>
-      <pubDate>Mon, 29 Jun 2026 16:42:16 +0000</pubDate>
-      <category>research</category>
-      <description>A new framework proposes a post-quantum authentication scheme for 5G base stations. It's a critical step toward securing 5G infrastructures against evolving threats. The honest catch is that integrating these advancements with real-world systems often lags behind theoretical progress.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Add Auth0 Documentation to Claude Code</title>
-      <link>https://auth0.com/blog/add-auth0-documentation-claude-code/</link>
-      <guid isPermaLink="false">identitybrief-6a1c778eb72bb8e6</guid>
-      <pubDate>Mon, 29 Jun 2026 15:29:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Auth0 is accessible within Claude Code’s environments now. This move reduces context-switching, facilitating faster access to documentation for developers. However, effective adoption demands familiarity with both Auth0 and Claude Code ecosystems.
-
-— via Auth0</description>
-    </item>
-    <item>
-      <title>Nigeria steps up trusted DPI momentum with new legislation</title>
-      <link>https://www.biometricupdate.com/202606/nigeria-steps-up-trusted-dpi-momentum-with-new-legislation</link>
-      <guid isPermaLink="false">identitybrief-4f31b06dfdc6072f</guid>
-      <pubDate>Mon, 29 Jun 2026 00:21:41 +0000</pubDate>
-      <category>did</category>
-      <description>Nigeria has just updated its legal framework for digital public infrastructure with a new act. This moves their National Identity Number (NIN) towards becoming a key part of the national digital economy. This law is specific to Nigeria and the NIN, so its impact is tied to the nation's infrastructure and policy follow-through.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Data breach exposes up to 14.2 million email logins at six ISPs</title>
-      <link>https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/</link>
-      <guid isPermaLink="false">identitybrief-350d64cf6a7240c4</guid>
-      <pubDate>Sun, 28 Jun 2026 14:13:46 +0000</pubDate>
-      <category>breach</category>
-      <description>A breach at KDDI exposed email logins of up to 14.2 million users across six Japanese ISPs. This highlights vulnerabilities in shared systems that identity and access teams should secure. However, it's focused on email systems within Japan, so immediate global implications are limited.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Kenya considers linking national ID database to CCTV facial recognition network</title>
-      <link>https://www.biometricupdate.com/202606/kenya-considers-linking-national-id-database-to-cctv-facial-recognition-network</link>
-      <guid isPermaLink="false">identitybrief-f334c9cb38a1dc3b</guid>
-      <pubDate>Fri, 26 Jun 2026 18:59:38 +0000</pubDate>
-      <category>did</category>
-      <description>Kenya plans to link its national ID database with a CCTV facial recognition network. This aims to bolster law enforcement capabilities across six cities. It raises privacy concerns since it connects big brother surveillance with citizen databases.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Head of Met Police makes case for LFR to stay ahead of criminal advances</title>
-      <link>https://www.biometricupdate.com/202606/head-of-met-police-makes-case-for-lfr-to-stay-ahead-of-criminal-advances</link>
-      <guid isPermaLink="false">identitybrief-615e84d52ae9f86c</guid>
-      <pubDate>Fri, 26 Jun 2026 20:37:17 +0000</pubDate>
-      <category>auth</category>
-      <description>The Met Police in London is pushing for more live facial recognition (LFR) to combat crime. LFR could modernize law enforcement, making surveillance more effective. The public remains concerned about privacy and the balance between security and individual rights.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue</title>
-      <link>https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</link>
-      <guid isPermaLink="false">identitybrief-8cbc814816d1752c</guid>
-      <pubDate>Fri, 26 Jun 2026 12:31:56 +0000</pubDate>
-      <category>breach</category>
-      <description>CISA added an RCE flaw in PTC Windchill software to its exploited vulnerabilities list. Notably, lifecycle management systems using this software are at risk if not patched. It's a targeted concern, currently limited to those using this specific tech stack.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant</title>
-      <link>https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html</link>
-      <guid isPermaLink="false">identitybrief-19198b655dcbc700</guid>
-      <pubDate>Fri, 26 Jun 2026 09:27:12 +0000</pubDate>
-      <category>breach</category>
-      <description>A phishing campaign targets hotels using node.js malware, says Microsoft. The focus here is on the hospitality industry's email vigilance. It's primarily a concern for hospitality in Europe and Asia but underlines the need for expanded phishing defenses everywhere.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories</title>
-      <link>https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html</link>
-      <guid isPermaLink="false">identitybrief-7cea7b66cab52ad7</guid>
-      <pubDate>Thu, 25 Jun 2026 12:24:43 +0000</pubDate>
-      <category>breach</category>
-      <description>A roundup of recent security issues, from smart TV proxyware to a decades-old curl bug. It reminds teams of the persistent need for vigilance against varied threats. However, no single issue is the focus; it's a general warning.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>UK school’s network left wide open for invasion, student found</title>
-      <link>https://www.theregister.com/security/2026/06/25/uk-schools-network-left-wide-open-for-invasion-student-found/5261567</link>
-      <guid isPermaLink="false">identitybrief-d5bcd51aaa8546fe</guid>
-      <pubDate>Thu, 25 Jun 2026 07:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>A UK school's network was vulnerable due to a simple password left in an Active Directory field. It's a textbook example of poor password management risking exposure. The lesson is specific: Always avoid putting sensitive credentials in directory descriptions.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Kahneman, ‘Where’s Waldo’ and the Nexus pass: A CISO’s mental model for the AI era</title>
-      <link>https://www.csoonline.com/article/4188477/kahneman-wheres-waldo-and-the-nexus-pass-a-cisos-mental-model-for-the-ai-era.html</link>
-      <guid isPermaLink="false">identitybrief-00d234645a718b16</guid>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A CISO outlines using AI for security with a 'Where’s Waldo' approach to threat detection. It's meant to refine how security teams leverage AI for pattern recognition. The catch: it's a mental model, not a technical solution ready to implement.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Indicio a Platinum Winner at Juniper Research’s 2026 Future Digital Awards for Innovative Bank Fraud Solution</title>
-      <link>https://indicio.tech/blog/verifiable-credentials-fraud-prevention-juniper-award/</link>
-      <guid isPermaLink="false">identitybrief-42d0d34ef1280e33</guid>
-      <pubDate>Wed, 24 Jun 2026 12:33:07 +0000</pubDate>
-      <category>did</category>
-      <description>Indicio wins an award for its credential-verification tech against fraud. By turning biometrics into verifiable credentials, they promise streamlined, secure authentication processes. The focus is narrow: It's an acknowledgment, not a market-wide change.
-
-— via Indicio</description>
     </item>
 </channel></rss>
