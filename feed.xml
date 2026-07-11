@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Incode brings on-device processing to age estimation for privacy-focused verification</title>
+      <link>https://www.helpnetsecurity.com/2026/07/10/incode-on-device-age-estimation/</link>
+      <guid isPermaLink="false">identitybrief-1a8c75466ad3f6cb</guid>
+      <pubDate>Fri, 10 Jul 2026 12:24:18 +0000</pubDate>
+      <category>did</category>
+      <description>Incode has launched On-Device Age Estimation, an age verification capability that performs age estimation and liveness detection directly on the user’s device, without transmitting facial data off the device. The company’s age estimation models are now available to run entirely on-device. The solution combines on-device age estimation with deepfake and…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>The Replicant in Your Directory: AI Agents and the Identity Security Gap</title>
+      <link>https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/</link>
+      <guid isPermaLink="false">identitybrief-54ec7b5ffa091abe</guid>
+      <pubDate>Fri, 10 Jul 2026 14:00:10 +0000</pubDate>
+      <category>iam</category>
+      <description>AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers</title>
+      <link>https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/</link>
+      <guid isPermaLink="false">identitybrief-ba85140559c455e3</guid>
+      <pubDate>Fri, 10 Jul 2026 11:06:36 +0000</pubDate>
+      <category>breach</category>
+      <description>The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages. The post Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access</title>
+      <link>https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html</link>
+      <guid isPermaLink="false">identitybrief-f9a9ab9988a01a39</guid>
+      <pubDate>Fri, 10 Jul 2026 10:30:20 +0000</pubDate>
+      <category>breach</category>
+      <description>A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AI agents require governance and permissions just the same as humans</title>
+      <link>https://identityweek.net/ai-agents-require-governance-and-permissions-just-the-same-as-humans/</link>
+      <guid isPermaLink="false">identitybrief-cf64c6afdc16f7d7</guid>
+      <pubDate>Fri, 10 Jul 2026 11:03:02 +0000</pubDate>
+      <category>auth</category>
+      <description>For decades, cybersecurity has been anchored to the simple premise of authenticating the human and we’ve built multi-factor authentication, zero trust frameworks and firewalls to deliver advanced protection to authorise access to users, employees and citizens. AI agents have made it necessary to treat AI agents as identities that require governance and…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Authologic partnering with Google to bring Google Wallet credentials to businesses</title>
+      <link>https://identityweek.net/authologic-partnering-with-google-to-bring-google-wallet-credentials-to-businesses/</link>
+      <guid isPermaLink="false">identitybrief-2d1330f5c5dadb68</guid>
+      <pubDate>Fri, 10 Jul 2026 10:21:51 +0000</pubDate>
+      <category>fraud</category>
+      <description>This is another step towards a future where identity verification is finally fast, seamless, and no longer depends on users uploading photos of physical documents. Google Wallet already lets users store verified identity credentials issued by governments, banks, or Google itself on their phones. Using our OmniID platform, businesses can now accept all these…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</title>
+      <link>https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/</link>
+      <guid isPermaLink="false">identitybrief-f6765812c7841f59</guid>
+      <pubDate>Fri, 10 Jul 2026 15:01:19 +0000</pubDate>
+      <category>breach</category>
+      <description>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws</title>
+      <link>https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html</link>
+      <guid isPermaLink="false">identitybrief-0a2c3e9bef381190</guid>
+      <pubDate>Fri, 10 Jul 2026 14:19:50 +0000</pubDate>
+      <category>breach</category>
+      <description>Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score:…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>First-Class Identity for Digital Actors</title>
+      <link>https://blog.identity.foundation/first-class-identity-for-digital-actors/</link>
+      <guid isPermaLink="false">identitybrief-72372c14fee7915c</guid>
+      <pubDate>Thu, 09 Jul 2026 15:00:22 +0000</pubDate>
+      <category>iam</category>
+      <description>A position paper on identity infrastructure for AI agents and other software-recognizable subjects Written by Christian Saucier , co-chair of the DID Methods Working Group Abstract AI agents and other software-defined actors are being deployed into production at a pace the identity layer beneath them cannot absorb. The
+
+— via DIF</description>
+    </item>
+    <item>
+      <title>Workato expands Agent Studio with Headless API, AI guardrails</title>
+      <link>https://www.helpnetsecurity.com/2026/07/10/workato-headless-api-agent-guardrails/</link>
+      <guid isPermaLink="false">identitybrief-189a8a1380905dbb</guid>
+      <pubDate>Fri, 10 Jul 2026 07:02:12 +0000</pubDate>
+      <category>iam</category>
+      <description>Workato has announced two new capabilities for Agent Studio: Headless API and Agent Guardrails. Headless API lets Genies, Workato’s AI agents built on Agent Studio, be embedded into any business application surface, on web, mobile, or inside another agent’s own environment. Agent Guardrails are configurable to the business and ensure that wherever a Genie…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>AI Gateways Offer Attackers the Keys to the Kingdom</title>
+      <link>https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom</link>
+      <guid isPermaLink="false">identitybrief-58bfb84988460a81</guid>
+      <pubDate>Thu, 09 Jul 2026 13:01:00 +0000</pubDate>
+      <category>iam</category>
+      <description>A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Palo Alto Networks Patches 13 Vulnerabilities</title>
+      <link>https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/</link>
+      <guid isPermaLink="false">identitybrief-48d592c1d2782ebb</guid>
+      <pubDate>Thu, 09 Jul 2026 13:49:42 +0000</pubDate>
+      <category>auth</category>
+      <description>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software. The post Palo Alto Networks Patches 13 Vulnerabilities appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Threshold Authorization Without Threshold Signatures: Signature-Agnostic MPC Custody</title>
+      <link>http://arxiv.org/abs/2607.08226v1</link>
+      <guid isPermaLink="false">identitybrief-7dee3c654b1291a8</guid>
+      <pubDate>Thu, 09 Jul 2026 08:20:45 +0000</pubDate>
+      <category>research</category>
+      <description>Digital-asset custody has been built on threshold multi-party approval: no operation proceeds unless $t$ of $n$ parties approve, and fewer than t compromised parties can neither authorize nor learn the authorization secret. Threshold signature schemes (TSS) have been the standard mechanism, but the post-quantum transition disrupts this model: standardized…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Don’t bring exposed developer credentials to Black Hat</title>
+      <link>https://1password.com/blog/developer-credential-security-black-hat-2026</link>
+      <guid isPermaLink="false">identitybrief-9a6f8221acd68549</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Black Hat is where the security industry gathers to compare notes on what works. In recent years, supply chain attacks have been a recurring topic, and the 2026 Verizon Data Breach Investigations Report shows security teams are struggling to find a solution. According to the report, third-party involvement increased by 60% over the last year and now…
+
+— via 1Password</description>
+    </item>
+    <item>
       <title>Only 28% of financial workforce MFA is phishing-resistant</title>
       <link>https://www.helpnetsecurity.com/2026/07/10/financial-identity-security-trends-report/</link>
       <guid isPermaLink="false">identitybrief-50adaca10a96403b</guid>
@@ -1362,145 +1502,5 @@
       <description>A study highlights how robocalls contribute to massive fraud losses. It underscores the global nature of phone-based scams and their adaptability. Tackling it means navigating complex multi-jurisdictional and privacy issues.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>The Decomposition Is the Fingerprint: Per-Component Identity for Agent Skills</title>
-      <link>http://arxiv.org/abs/2606.31272v1</link>
-      <guid isPermaLink="false">identitybrief-7139cd5e971a72e4</guid>
-      <pubDate>Tue, 30 Jun 2026 07:45:33 +0000</pubDate>
-      <category>research</category>
-      <description>A paper suggests using per-component fingerprints for AI skill identity. This aims to ensure ownership and tracking of AI agent skills in a decentralized manner. The practical implementation, however, requires significant standardization efforts.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>​​What’s new in Microsoft Security: June 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/</link>
-      <guid isPermaLink="false">identitybrief-5303666b627eff33</guid>
-      <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft's June updates focus on multicloud identity and data protection. These improvements aim to bolster identity foundations integral to cybersecurity defenses. Yet, organizations must ensure compatibility with their existing systems.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History</title>
-      <link>https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/</link>
-      <guid isPermaLink="false">identitybrief-218efe7a2ae30e65</guid>
-      <pubDate>Tue, 30 Jun 2026 11:48:40 +0000</pubDate>
-      <category>iam</category>
-      <description>The Supreme Court's ruling extends privacy protections for location data. This enhances privacy rights regarding geofence warrants. The broader implications for law enforcement are yet to be clarified.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Identity is the Foundation for Secure Quantum Innovation</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2ZIU194VTZ4N2lMMTFRZVV1cVB2LW5YeEIxa2VQS2VUQTg3VHFfRzZsU3h3N1JNdHNKbDFhUmllZHY4RXpuZXlYczY3dzByRkZJYmM5SS0tVlFJdWM3bk01emh6R0FrTFFMSlRlUlRkWTdEZVdGcE82OXByMEJPMXhvVGVFNnk4dVBRV0JCak9ZbTBNaDhZU2V2SjNOX3A0MWloNA?oc=5</link>
-      <guid isPermaLink="false">identitybrief-a2fdbc19b3724bbd</guid>
-      <pubDate>Wed, 01 Jul 2026 00:35:55 +0000</pubDate>
-      <category>iam</category>
-      <description>Ping Identity discusses secure quantum innovation hinged on identity. It emphasizes safeguarding identity in emerging tech landscapes. However, real-world application of these principles is only beginning.
-
-— via Ping Identity</description>
-    </item>
-    <item>
-      <title>Product showcase: Scam calls, phishing, and data breaches? Meet AVG Mobile Security</title>
-      <link>https://www.helpnetsecurity.com/2026/06/30/product-showcase-avg-mobile-security-ios/</link>
-      <guid isPermaLink="false">identitybrief-a85cafe092e7f9c3</guid>
-      <pubDate>Tue, 30 Jun 2026 05:45:06 +0000</pubDate>
-      <category>fraud</category>
-      <description>AVG Mobile Security for iOS offers a suite of features to counter online threats. Integrating such tools can aid personal device safety, especially with phishing and scam detection. The honest catch: it's one of many similar offerings, so real value hinges on user uptake and usage.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Cybersecurity jobs available right now: June 30, 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/06/30/cybersecurity-jobs-available-right-now-june-30-2026/</link>
-      <guid isPermaLink="false">identitybrief-75d3c035cd52d9af</guid>
-      <pubDate>Tue, 30 Jun 2026 04:00:38 +0000</pubDate>
-      <category>breach</category>
-      <description>Job postings highlight the demand for roles in offensive security and identity management. It’s a reminder that skills in AI-driven security and directory services are in high demand. The industry catch: the right expertise is scarce, making hiring slow and competitive.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hopae extends reach to 1.45 billion people in India via Hopae Connect integration</title>
-      <link>https://www.biometricupdate.com/202606/hopae-extends-reach-to-1-45-billion-people-in-india-via-hopae-connect-integration</link>
-      <guid isPermaLink="false">identitybrief-03c2a901921698c6</guid>
-      <pubDate>Mon, 29 Jun 2026 19:48:16 +0000</pubDate>
-      <category>did</category>
-      <description>Hopae Connect now integrates with India’s DigiLocker and PAN, reaching 1.45 billion users. This simplifies identity verification for businesses targeting the Indian market. The downside: effectiveness depends on the stability and accessibility of the underlying Indian infrastructure.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Australia considers fee amount for myID transactions by businesses</title>
-      <link>https://www.biometricupdate.com/202606/australia-considers-fee-amount-for-myid-transactions-by-businesses</link>
-      <guid isPermaLink="false">identitybrief-7df95a7159a1aaa2</guid>
-      <pubDate>Mon, 29 Jun 2026 18:34:57 +0000</pubDate>
-      <category>did</category>
-      <description>Australia’s myID will introduce fees for digital identity verifications. Businesses using myID may face additional costs, impacting budgeting and competitive positioning. The catch: without clear competitive benefits, alternative state-issued digital IDs might eclipse its adoption.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>'Djinn' Stealer Targets Cloud, AI Credentials</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials</link>
-      <guid isPermaLink="false">identitybrief-252a095ec3a112c3</guid>
-      <pubDate>Mon, 29 Jun 2026 21:29:15 +0000</pubDate>
-      <category>breach</category>
-      <description>The 'Djinn' stealer targets cloud and AI credentials, via a SimpleHelp vulnerability. It exposes the risk of not safeguarding admin environments linked to wider systems. The catch is that this vulnerability subtly links developmental and operational spaces, complicating defenses.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Wultra raises €6.8M to scale EUDI Wallet, quantum-safe authentication</title>
-      <link>https://www.biometricupdate.com/202606/wultra-raises-e6-8m-to-scale-eudi-wallet-quantum-safe-authentication</link>
-      <guid isPermaLink="false">identitybrief-3071008e80fac766</guid>
-      <pubDate>Mon, 29 Jun 2026 16:04:42 +0000</pubDate>
-      <category>did</category>
-      <description>Wultra raises funds to scale its EUDI Wallet and quantum-safe authentication. Its focus on post-quantum security solutions aligns neatly with future-proofing digital identities. However, widespread adoption depends on how quickly financial services update their infrastructures.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>The lifecycle of customers authentication: Building a picture of identity over time as opposed to a single point in time for an individual</title>
-      <link>https://identityweek.net/the-lifecycle-of-customers-authentication-building-a-picture-of-identity-over-time-as-opposed-to-a-single-point-in-time-for-an-individual/</link>
-      <guid isPermaLink="false">identitybrief-5aa85e1018743705</guid>
-      <pubDate>Mon, 29 Jun 2026 11:41:25 +0000</pubDate>
-      <category>fraud</category>
-      <description>An approach to customer authentication over time is emerging, as opposed to single points. This could provide a more resilient fraud prevention method. The challenge? Businesses must overhaul their verification processes to fully implement lifecycle-based models.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Nissan discloses employee data breach linked to Oracle zero-day attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/</link>
-      <guid isPermaLink="false">identitybrief-bc8472aa0832507c</guid>
-      <pubDate>Mon, 29 Jun 2026 20:40:44 +0000</pubDate>
-      <category>breach</category>
-      <description>Nissan confirms a data breach linking back to a known Oracle vulnerability. This underscores the vulnerability of enterprise software exploits and employee data security. The complication: Many companies don’t have the immediate resources to patch and mitigate zero-day attacks.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Incode acquires Identiq in $100M fraud prevention push</title>
-      <link>https://identityweek.net/incode-acquires-identiq-in-100m-fraud-prevention-push/</link>
-      <guid isPermaLink="false">identitybrief-3eed5eb9579055ef</guid>
-      <pubDate>Mon, 29 Jun 2026 09:55:42 +0000</pubDate>
-      <category>fraud</category>
-      <description>Identiq joins Incode to strengthen fraud prevention tech. It promises better privacy and sensitivity in handling shared fraud signals. The reality: Integrating cryptographic solutions can be cumbersome, demanding significant alignment across participant systems.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>JumpServer: Open-Source Privileged Access Management</title>
-      <link>https://github.com/jumpserver/jumpserver</link>
-      <guid isPermaLink="false">identitybrief-c04564ab27282018</guid>
-      <pubDate>Mon, 29 Jun 2026 19:06:17 +0000</pubDate>
-      <category>iam</category>
-      <description>JumpServer offers open-source privileged access management. It's gaining traction for those looking for cost-effective PAM solutions without vendor lock-in. The limitation is the need for in-house expertise to set up and maintain—it's not plug-and-play.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
