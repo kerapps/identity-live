@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>NEC, Ava Labs building on-chain verification layer for AI agents, stablecoins</title>
+      <link>https://www.biometricupdate.com/202607/nec-ava-labs-building-on-chain-verification-layer-for-ai-agents-stablecoins</link>
+      <guid isPermaLink="false">identitybrief-50454aeb36a3196b</guid>
+      <pubDate>Mon, 13 Jul 2026 21:21:36 +0000</pubDate>
+      <category>research</category>
+      <description>NEC has signed a memorandum of understanding (MoU) with blockchain firm Ava Labs , to “promote the consideration of next-generation on-chain services,” including biometric Verifiable Credentials (VC), according to a release. The companies have also collaborated on a white paper, “A Unified Framework Leveraging Biometric Decentralized Identity and Avalanche… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Startup deepidv doubles deepfake detection options and forms research partnership</title>
+      <link>https://www.biometricupdate.com/202607/startup-deepidv-doubles-deepfake-detection-options-and-forms-research-partnership</link>
+      <guid isPermaLink="false">identitybrief-27108c9eca777619</guid>
+      <pubDate>Mon, 13 Jul 2026 21:06:14 +0000</pubDate>
+      <category>fraud</category>
+      <description>Deepfake detection teams at Canadian startup deepidv and fraud prevention developer Scam.AI will work together under a new partnership that also includes software integration. The partners will share datasets and perform joint research into deepfake detection. They say in a joint announcement the result is greater access to the latest synthetic media for… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>PNG advances digital identity with AI laws, SevisPass integration, QUT partnership</title>
+      <link>https://www.biometricupdate.com/202607/png-advances-digital-identity-with-ai-laws-sevispass-integration-qut-partnership</link>
+      <guid isPermaLink="false">identitybrief-49b1b97417031f95</guid>
+      <pubDate>Mon, 13 Jul 2026 16:49:14 +0000</pubDate>
+      <category>did</category>
+      <description>Papua New Guinea advances its digital transformation with a new international partnership, fresh AI‑safety reforms and deeper integration of its national digital identity system, SevisPass. Acting ICT Minister Peter Tsiamalili Jr. announced an agreement with the Queensland University of Technology (QUT), which was signed in Brisbane and witnessed by PNG…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Fake OAuth client IDs are helping attackers slip past sign-in logs</title>
+      <link>https://www.helpnetsecurity.com/2026/07/13/entra-id-oauth-client-id-spoofing/</link>
+      <guid isPermaLink="false">identitybrief-639a7caf2b4bb592</guid>
+      <pubDate>Mon, 13 Jul 2026 12:10:50 +0000</pubDate>
+      <category>auth</category>
+      <description>Attackers running account enumeration against Microsoft cloud tenants have added a step that keeps their probing out of the usual telemetry. They spoof the OAuth client ID, the globally unique identifier assigned to an application and passed as client_id in an authentication request. Microsoft Entra ID records that value as the application ID in its sign-in…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Your vendor’s vendor might be the real breach risk</title>
+      <link>https://www.helpnetsecurity.com/2026/07/14/vendor-breach-risk-video/</link>
+      <guid isPermaLink="false">identitybrief-0f578d19320e2df1</guid>
+      <pubDate>Tue, 14 Jul 2026 05:00:29 +0000</pubDate>
+      <category>breach</category>
+      <description>In this Help Net Security video, Chris Boehm, Field CTO, Zero Networks, breaks down how a vendor breach can become your breach. He explains that attackers now target the subcontractors behind your trusted vendors. A compromised credential at a company you have never heard of can open access into your systems, because your vendor’s vendor holds keys you… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</link>
+      <guid isPermaLink="false">identitybrief-c8c9fabc2dff9c81</guid>
+      <pubDate>Mon, 13 Jul 2026 17:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare. The post Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID appeared first on Microsoft Security Blog .
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Defending SaaS-based applications against ShinyHunters OAuth abuse</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</link>
+      <guid isPermaLink="false">identitybrief-343526deefa06acd</guid>
+      <pubDate>Mon, 13 Jul 2026 22:02:41 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications. The post Defending SaaS-based applications against ShinyHunters OAuth abuse appeared first on… It landed in the last few hours.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Prezta: Provable Remote Execution of Zero-Trust Authorization using SNARKs</title>
+      <link>http://arxiv.org/abs/2607.11466v1</link>
+      <guid isPermaLink="false">identitybrief-a1108d1219a8d55b</guid>
+      <pubDate>Mon, 13 Jul 2026 12:21:08 +0000</pubDate>
+      <category>research</category>
+      <description>Modernizing the security of operational technology systems that control critical infrastructure has become a pressing challenge. Because edge devices have limited capabilities, modernization has relied on application gateways that interface with identity management systems and enforce access policies. These gateways are powerful enough to perform complex…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>RabbitMQ flaws expose OAuth secrets, risk complete takeover of the broker</title>
+      <link>https://www.csoonline.com/article/4196093/rabbitmq-flaws-expose-oauth-secrets-risk-complete-takeover-of-the-broker.html</link>
+      <guid isPermaLink="false">identitybrief-199fc2147abde529</guid>
+      <pubDate>Mon, 13 Jul 2026 12:01:44 +0000</pubDate>
+      <category>breach</category>
+      <description>RabbitMQ has patched two access control vulnerabilities affecting the widely used open-source message broker that could expose enterprise application data and, in some deployments, allow attackers to gain complete control over the messaging infrastructure. The flaws, discovered by Miggo Security, exposed OAuth secrets to unauthenticated attackers, letting…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>New CrashStealer malware poses as Apple crash reporting tool</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/</link>
+      <guid isPermaLink="false">identitybrief-72f51296de25f074</guid>
+      <pubDate>Mon, 13 Jul 2026 19:04:02 +0000</pubDate>
+      <category>auth</category>
+      <description>A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory</title>
+      <link>http://arxiv.org/abs/2607.11707v1</link>
+      <guid isPermaLink="false">identitybrief-88e83c2017bd6193</guid>
+      <pubDate>Mon, 13 Jul 2026 15:36:19 +0000</pubDate>
+      <category>research</category>
+      <description>Following the rapid progress of generative Artificial Intelligence, there is a growing threat posed by conversational scams. These scams often span over multiple weeks or months, gradually build trust and request for money or sensitive information. Existing scam-detection systems mainly focus on isolated messages, which renders them inadequate against this…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Effective Synthetic Image Detection via Noise Residual Clustering</title>
+      <link>http://arxiv.org/abs/2607.10695v1</link>
+      <guid isPermaLink="false">identitybrief-d4e998efc1fcd3a6</guid>
+      <pubDate>Sun, 12 Jul 2026 10:38:18 +0000</pubDate>
+      <category>research</category>
+      <description>The rapid advancement of generative artificial intelligence (AI) has made synthetic images remarkably realistic, posing security threats such as misinformation and fraud. It is significant to detect the synthetic image in the manner of passive and blind image authentication. Most existing detectors rely on supervised training with large labeled datasets,… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Lessons Learned from CISA’s Recent GitHub Leak</title>
+      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
+      <guid isPermaLink="false">identitybrief-8d04f0e15f85ea30</guid>
+      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
+      <category>breach</category>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response…
+
+— via Krebs on Security</description>
+    </item>
+    <item>
+      <title>What's new in SCIM 2.0: Pagination, events, and device schema</title>
+      <link>https://workos.com/blog/whats-new-in-scim-2-0-pagination-events-and-device-schema</link>
+      <guid isPermaLink="false">identitybrief-747de75ddd88f3cd</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Three new RFCs quietly updated the SCIM spec in the last year. Here's what cursor based pagination, standardized events, and device schema actually change for your integration.
+
+— via WorkOS</description>
+    </item>
+    <item>
       <title>US, CARICOM establish regional biometric data-sharing partnership</title>
       <link>https://www.biometricupdate.com/202607/us-caricom-establish-regional-biometric-data-sharing-partnership</link>
       <guid isPermaLink="false">identitybrief-507f9484c7da95d1</guid>
@@ -1362,145 +1502,5 @@
       <description>ToddyCat's Umbrij malware exploits Google API for unauthorized email access. It's a reminder of the potential risks in API usage, even with secure providers. Organizations must ensure API interactions are properly scoped and monitored.
 
 — via The Hacker News</description>
-    </item>
-    <item>
-      <title>FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks</title>
-      <link>https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/</link>
-      <guid isPermaLink="false">identitybrief-a27ec2b75ba51e8a</guid>
-      <pubDate>Thu, 02 Jul 2026 12:34:29 +0000</pubDate>
-      <category>breach</category>
-      <description>The FortiBleed campaign links credential theft from FortiGate firewalls to ransomware attacks. Protecting firewall credentials is crucial as this malware targets firewall vulnerabilities. Updating security protocols for firewalls should be a priority.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Largest funding bill in U.S. history signed off for border tech across CBP, DHS and ICE</title>
-      <link>https://identityweek.net/largest-funding-bill-in-u-s-history-signed-off-for-border-tech-across-cbp-dhs-and-ice/</link>
-      <guid isPermaLink="false">identitybrief-6502a37fafab77d5</guid>
-      <pubDate>Thu, 02 Jul 2026 11:41:57 +0000</pubDate>
-      <category>auth</category>
-      <description>The U.S. has approved its largest funding bill ever for border technology, heavily focusing on biometrics. This will enhance border security but also raises privacy concerns. Agencies will need to balance security improvements with transparency and rights protections.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Your Free All-Access Pass (worth $2,495) to our largest agenda yet!</title>
-      <link>https://identityweek.net/your-free-all-access-pass-worth-2495-to-our-largest-agenda-yet/</link>
-      <guid isPermaLink="false">identitybrief-bff38c145b95b67c</guid>
-      <pubDate>Thu, 02 Jul 2026 11:12:04 +0000</pubDate>
-      <category>iam</category>
-      <description>Identity Week America announces a free pass to an extensive agenda on secure identity. For professionals, it's an opportunity to learn from leaders and share best practices. The challenge is making time to attend and incorporate learnings into routines.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Made a self-hosted Entra ID governance portal for app/identity sprawl (open source)</title>
-      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRU83ZGFFSzMxUDlnZERaQVMxaUt1dnZpb0FQM3Y1Ty1NTE45S0J2ZW8wNzBMb3VWMEtjajctR0M2OEhlOVZvc0hhSUQ4cTZMVVpyalkxbHlQQkttLUEyeUtRU2NIeG44VnhIQ1hzMXVsdS1jRlZ6aDkwTDZSLThOMDQyNUhjMW51TGRSSWljdGcwa2FpMEN0QmxKeEZwNl9LS0N1Y3o0SXdCaXg1ZW9NekVabUV6SGFfalhCMnJuZjdjVm9qS3lYZ2x6U21DcV9ZdXpvTmduNEFXWEp3bTh5TVB1bm53UUE?oc=5</link>
-      <guid isPermaLink="false">identitybrief-b5876ba23f0c6270</guid>
-      <pubDate>Sat, 04 Jul 2026 03:18:38 +0000</pubDate>
-      <category>iam</category>
-      <description>An open-source Entra ID governance portal can help manage app and identity sprawl. This tool can streamline identity management tasks and foster better governance. However, setup and ongoing maintenance require sustained effort and resources.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Deepfakes, Digital Deception, and the Future of Biometric Assurance</title>
-      <link>https://www.biometricupdate.com/202607/deepfakes-digital-deception-and-the-future-of-biometric-assurance</link>
-      <guid isPermaLink="false">identitybrief-a25b1da6534b0959</guid>
-      <pubDate>Thu, 02 Jul 2026 22:36:24 +0000</pubDate>
-      <category>fraud</category>
-      <description>Deepfakes threaten biometric security by faking facial recognition and voice models. It makes identity systems less trustworthy, especially as biometrics are supposed to guarantee real, live interactions. The challenge is ensuring vigilant testing and updates to biometric systems, which isn't a small task.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>AI fraud drives identity verification toward continuous trust and layered assurance</title>
-      <link>https://www.biometricupdate.com/202607/ai-fraud-drives-identity-verification-toward-continuous-trust-and-layered-assurance</link>
-      <guid isPermaLink="false">identitybrief-2c79986f7fcb1258</guid>
-      <pubDate>Thu, 02 Jul 2026 20:02:32 +0000</pubDate>
-      <category>fraud</category>
-      <description>A survey shows organizations don't fully trust current identity verification methods, especially biometrics. This exposes users to fraud risk, as basic liveness checks may fail to authenticate live users correctly. The issue is partly because synthetic identities are hard to detect and trace, requiring more robust solutions.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>EU consortium demonstrates SSI alignment with EUDI Wallets in 2 initial pilots</title>
-      <link>https://www.biometricupdate.com/202607/eu-consortium-demonstrates-ssi-alignment-with-eudi-wallets-in-2-initial-pilots</link>
-      <guid isPermaLink="false">identitybrief-05dd2ee05d35dd01</guid>
-      <pubDate>Thu, 02 Jul 2026 19:43:34 +0000</pubDate>
-      <category>did</category>
-      <description>European Union pilots align self-sovereign identity (SSI) with EUDI wallets, focusing on user privacy and data control. This moves digital ID towards greater user empowerment and security. But, it’s still in the pilot phase, and scaling it broadly across the EU will be a big hurdle.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Microsoft Entra ID: New updates include external MFA integrations, credential registration, and password reset</title>
-      <link>https://identityweek.net/microsoft-entra-id-new-updates-include-external-mfa-integrations-credential-registration-and-password-reset/</link>
-      <guid isPermaLink="false">identitybrief-0fe26ad9591d64cf</guid>
-      <pubDate>Thu, 02 Jul 2026 13:48:15 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft Entra ID will integrate more closely with external MFA systems for consistent access controls. This change can simplify policy enforcement for organizations using varied environments. However, transitioning away from custom controls may mean reworking existing integrations.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds</title>
-      <link>https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/</link>
-      <guid isPermaLink="false">identitybrief-9276c3af33cd1141</guid>
-      <pubDate>Thu, 02 Jul 2026 14:00:10 +0000</pubDate>
-      <category>breach</category>
-      <description>ConsentFix and ClickFix attacks exploit OAuth flows to hijack Microsoft 365 accounts. They bypass MFA by tricking users into granting permissions via fake prompts. Preventing such attacks requires solid user education and OAuth token monitoring, not just relying on traditional MFA.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials</title>
-      <link>https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html</link>
-      <guid isPermaLink="false">identitybrief-176ebf5d897f3158</guid>
-      <pubDate>Thu, 02 Jul 2026 18:30:33 +0000</pubDate>
-      <category>breach</category>
-      <description>The Anubis ransomware group exploits Citrix Bleed 2 vulnerabilities for access. Attackers use legitimate tools post-intrusion, increasing their stealth. Patch management and monitoring RMM tools are key, but outdated systems remain a risk.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Identity Lifecycle Management Wasn't Built for AI Agents</title>
-      <link>https://thehackernews.com/2026/07/identity-lifecycle-management.html</link>
-      <guid isPermaLink="false">identitybrief-9359c9a5b2cd173b</guid>
-      <pubDate>Thu, 02 Jul 2026 11:30:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Traditional identity management overlooks AI agents in its governance model. These autonomous agents introduce identity governance blind spots. Current tools aren't built to manage non-human entities properly, posing significant security challenges.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Show HN: Bramble – Local-first password manager</title>
-      <link>https://github.com/flythenimbus/bramble</link>
-      <guid isPermaLink="false">identitybrief-36ca339712c76a1c</guid>
-      <pubDate>Thu, 02 Jul 2026 19:29:58 +0000</pubDate>
-      <category>auth</category>
-      <description>Bramble is a new open-source password manager that uses local-first and P2P sync instead of cloud storage. It offers more privacy because your data isn’t sent off-device, and now stores passkeys too. The catch? It's still new and might miss features found in established managers, plus iOS support is pending.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ransomware Thugs Masquerade as Interpol to Entice Small Biz</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses</link>
-      <guid isPermaLink="false">identitybrief-472127cccadcedb2</guid>
-      <pubDate>Thu, 02 Jul 2026 18:07:40 +0000</pubDate>
-      <category>breach</category>
-      <description>Posing as Interpol, ransomware attackers trick small businesses into breaches. It's a timestamp for social engineering tactics hitting smaller entities globally. These businesses need robust awareness training, but many lack resources to implement it effectively.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Steerability via constraints: a substrate for scalable oversight of coding agents</title>
-      <link>http://arxiv.org/abs/2607.02389v1</link>
-      <guid isPermaLink="false">identitybrief-c7c64ce814f61714</guid>
-      <pubDate>Thu, 02 Jul 2026 16:24:47 +0000</pubDate>
-      <category>research</category>
-      <description>A paper suggests using constraints to manage coding agent workflows securely. This applies established access controls and coding policies to AI coding agents. The barrier is implementing these measures effectively across diverse tools and technologies.
-
-— via arXiv</description>
     </item>
 </channel></rss>
