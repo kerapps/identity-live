@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Funding gap puts Sri Lanka’s digital ID project under review</title>
+      <link>https://www.biometricupdate.com/202607/funding-gap-puts-sri-lankas-digital-id-project-under-review</link>
+      <guid isPermaLink="false">identitybrief-b5a20f412e7a7ac8</guid>
+      <pubDate>Tue, 14 Jul 2026 21:53:30 +0000</pubDate>
+      <category>did</category>
+      <description>The Sri Lanka Unique Digital Identity ( SL-UDI ) project faces a budget gap , with quotes from Indian companies surpassing the Indian government's INR 3 billion grant (about LKR 10.5 billion) by more than double. It is now under review by the Sri Lankan government, which is studying options to either secure extra funding or adjust the project's scope to… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>HMLR missing the net with Qualified Electronic Signatures, says UK digital ID sector</title>
+      <link>https://www.biometricupdate.com/202607/hmlr-missing-the-net-with-qualified-electronic-signatures-says-uk-digital-id-sector</link>
+      <guid isPermaLink="false">identitybrief-8d55e6e1fc86b900</guid>
+      <pubDate>Tue, 14 Jul 2026 21:21:03 +0000</pubDate>
+      <category>did</category>
+      <description>The UK’s digital identity sector is appealing to the HM Land Registry (HMLR), the government agency that registers ownership of land and property in England and Wales, over how HMLR uses qualified electronic signatures (QES) for conveyancing. The registry began accepting QES for effecting registrable dispositions in August 2025 – a move that the industry… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Court rejects deal, reopens Clearview AI lawsuit over biometric data collection</title>
+      <link>https://www.biometricupdate.com/202607/court-rejects-deal-reopens-clearview-ai-lawsuit-over-biometric-data-collection</link>
+      <guid isPermaLink="false">identitybrief-a714478e0ebbb73c</guid>
+      <pubDate>Tue, 14 Jul 2026 21:55:54 +0000</pubDate>
+      <category>auth</category>
+      <description>A novel court settlement that resolved a legal complaint against the data collection practices of facial recognition provider Clearview AI has been thrown out by the U.S. Seventh Circuit Court of Appeals. The settlement gave class members (and their attorneys) a stake that would lead to a payout equivalent to 23 percent of Clearview’s value in the case of… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Microsoft Entra ID gets passkeys default authentication starting September</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/</link>
+      <guid isPermaLink="false">identitybrief-5d8fc1f8358e2a09</guid>
+      <pubDate>Tue, 14 Jul 2026 12:49:56 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Google adds FIDO2 keys and phone passkeys to Windows login via GCPW</title>
+      <link>https://www.helpnetsecurity.com/2026/07/14/security-key-windows-login-google-workspace/</link>
+      <guid isPermaLink="false">identitybrief-307ddd5612025983</guid>
+      <pubDate>Tue, 14 Jul 2026 10:35:48 +0000</pubDate>
+      <category>auth</category>
+      <description>Google has started rolling out FIDO2-compliant physical security key support as a second factor for authentication in Google Credential Provider for Windows (GCPW) to all Google Workspace customers. GCPW is a free tool that lets users sign in to Windows computers with their Google Workspace account instead of, or alongside, a Windows username and password.…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials</title>
+      <link>https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</link>
+      <guid isPermaLink="false">identitybrief-fc7f385d4632daeb</guid>
+      <pubDate>Tue, 14 Jul 2026 11:21:35 +0000</pubDate>
+      <category>breach</category>
+      <description>At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>New phishing kits target Microsoft 365 accounts, evade MFA</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/</link>
+      <guid isPermaLink="false">identitybrief-c74394b9407ee758</guid>
+      <pubDate>Tue, 14 Jul 2026 12:49:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members</title>
+      <link>https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</link>
+      <guid isPermaLink="false">identitybrief-b61849c71d16b2bd</guid>
+      <pubDate>Tue, 14 Jul 2026 14:12:39 +0000</pubDate>
+      <category>auth</category>
+      <description>It's pulling 86pts/day — real momentum for something this new, not a one-day spike. Still under the radar (54pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>European "age verification" "app" forcing everyone to use Android or iOS</title>
+      <link>https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19</link>
+      <guid isPermaLink="false">identitybrief-544f53bd4c769105</guid>
+      <pubDate>Tue, 14 Jul 2026 08:34:57 +0000</pubDate>
+      <category>fraud</category>
+      <description>It's pulling 573pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Call for Participation: Demonstrate MCP-based AI agent security with open identity standards</title>
+      <link>https://openid.net/call-for-participation-demonstrate-mcp-based-ai-agent-security-with-open-identity-standards-2/</link>
+      <guid isPermaLink="false">identitybrief-60136d6c87ee5421</guid>
+      <pubDate>Tue, 14 Jul 2026 19:11:39 +0000</pubDate>
+      <category>auth</category>
+      <description>Prove that MCP clients, gateways, and servers from different vendors can secure AI agents together — within and across enterprises. The OpenID Foundation’s Artificial Intelligence Identity Management Community Group (AIIM CG) is running an interoperability event to show that Model Context Protocol (MCP) flows can be secured with open identity standards.… It landed in the last few hours.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Microsoft is forcing an enterprise transition to passkeys</title>
+      <link>https://www.csoonline.com/article/4197086/microsoft-is-forcing-an-enterprise-transition-to-passkeys-2.html</link>
+      <guid isPermaLink="false">identitybrief-e2365f97309a4510</guid>
+      <pubDate>Wed, 15 Jul 2026 02:08:45 +0000</pubDate>
+      <category>auth</category>
+      <description>Passkeys have been around for some time, but enterprise-wide adoption to this point has been slow for a number of reasons. But soon, many Microsoft customers won’t have a choice. Starting September 1, Microsoft will roll out passkeys as the default authentication method in its cloud-based identity and access management (IAM) service Entra ID. And following… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>AuthZEN at Identiverse 2026: authorization in the agent era</title>
+      <link>https://openid.net/authzen-at-identiverse-2026-authorization-in-the-agent-era/</link>
+      <guid isPermaLink="false">identitybrief-d8c4437df51c82c3</guid>
+      <pubDate>Tue, 14 Jul 2026 18:34:39 +0000</pubDate>
+      <category>auth</category>
+      <description>By Alex Olivier Authorization, and specifically authorization for AI agents, emerged as the defining challenge of the year. That shift was visible at Identiverse 2026. One marker of how far the work has come is that the AuthZEN sessions ran as a full masterclass and a main-program talk rather than the side birds-of-a-feather slots such […] The post AuthZEN… It landed in the last few hours.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>A Scalable Cloud-Orchestrated and Service-Oriented Multi-Domain QKD Network with PQC Integration</title>
+      <link>http://arxiv.org/abs/2607.12765v1</link>
+      <guid isPermaLink="false">identitybrief-96b45aa273965643</guid>
+      <pubDate>Tue, 14 Jul 2026 13:37:28 +0000</pubDate>
+      <category>research</category>
+      <description>Quantum key distribution (QKD) offers unconditional security but existing QKD networks remain difficult to scale across heterogeneous infrastructures and administrative domains due to vendor-specific interfaces, trusted-node constraints, and limited interoperability. This work presents a flexible multi-domain and multi-site quantum-secure network…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Threat modeling with AI: Enhancing cybersecurity workflows</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5aMlBIaHI2SVI4MEhJd1F5UVBSdlJqckFoRVV2enFwTlFOVVRMUU5sdk5QRHU0bUFROEpJVFdoTzgwWk9fanJVbEZENlpyVVFhbUFlSkpWWWVLSVhfN2FOSnpGMkdfSExOeUh6RnRzVnU?oc=5</link>
+      <guid isPermaLink="false">identitybrief-232ab02d74f33228</guid>
+      <pubDate>Tue, 14 Jul 2026 22:51:32 +0000</pubDate>
+      <category>iam</category>
+      <description>Threat modeling with AI: Enhancing cybersecurity workflows Okta It landed in the last few hours.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>NEC, Ava Labs building on-chain verification layer for AI agents, stablecoins</title>
       <link>https://www.biometricupdate.com/202607/nec-ava-labs-building-on-chain-verification-layer-for-ai-agents-stablecoins</link>
       <guid isPermaLink="false">identitybrief-50454aeb36a3196b</guid>
@@ -1362,145 +1502,5 @@
       <description>Okta is promoting cross-application access for SAML-based enterprise apps. This feature enhances usability without sacrificing security in identity management systems. The limitation is it requires specific configuration, so not all existing setups will benefit without further adjustments.
 
 — via Okta</description>
-    </item>
-    <item>
-      <title>Google Play Services adds support for NFC-enabled FIDO2 security keys: How Yubico makes Android passkey authentication seamless</title>
-      <link>https://www.yubico.com/blog/google-play-services-adds-support-for-nfc-enabled-fido2-security-keys-how-yubico-makes-android-passkey-authentication-seamless/</link>
-      <guid isPermaLink="false">identitybrief-436774b3531138d3</guid>
-      <pubDate>Wed, 01 Jul 2026 15:01:25 +0000</pubDate>
-      <category>did</category>
-      <description>Google Play Services now supports NFC-enabled FIDO2 security keys on Android. This addition improves secure key usage across Android devices, enhancing mobile authentication. However, it requires users to own compatible devices and understand the setup process, potentially limiting its immediate uptake.
-
-— via Yubico</description>
-    </item>
-    <item>
-      <title>Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack</title>
-      <link>https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/</link>
-      <guid isPermaLink="false">identitybrief-e485313c8d0043f6</guid>
-      <pubDate>Sun, 05 Jul 2026 05:10:59 +0000</pubDate>
-      <category>breach</category>
-      <description>Weekly security updates show continued vulnerabilities being exploited. Notably, the trends towards AI and LLM vulnerabilities demand faster patch cycles. The real challenge is organizations often lag behind in recognizing and addressing these emerging threats promptly.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>NetNut proxy network disrupted, 2 million infected devices cut off</title>
-      <link>https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/</link>
-      <guid isPermaLink="false">identitybrief-57a571c828f1a78e</guid>
-      <pubDate>Fri, 03 Jul 2026 17:50:04 +0000</pubDate>
-      <category>breach</category>
-      <description>A significant disruption has cut off NetNut's proxy network, affecting millions of infected Android devices. This clampdown is a critical win for reducing botnet activity. Yet, the pervasive nature of these evasive networks means persistent efforts are required to prevent their resurgence.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</title>
-      <link>https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/</link>
-      <guid isPermaLink="false">identitybrief-e8e4f8e3c6d51804</guid>
-      <pubDate>Fri, 03 Jul 2026 15:10:42 +0000</pubDate>
-      <category>iam</category>
-      <description>Bits of the hacking world that may have slipped under your radar: Canadian hacker linked to Anonymous jailed, open-source zero-days exposed, ATM jackpot perpetrators sentenced. These underscore the persistent threats from both digital and physical security exploits. The actionable insight is to constantly monitor such risks to adjust defenses accordingly.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Wallet interoperability takes shape as Google’s influence grows</title>
-      <link>https://www.biometricupdate.com/202607/wallet-interoperability-takes-shape-as-googles-influence-grows</link>
-      <guid isPermaLink="false">identitybrief-7571d238e18dba28</guid>
-      <pubDate>Fri, 03 Jul 2026 19:50:30 +0000</pubDate>
-      <category>did</category>
-      <description>Major tech players are forming partnerships to push a multi-wallet digital identity ecosystem, with Google and Apple's influence growing. This could streamline user experiences by integrating identity verification across platforms. The downside is increased European dependency on US tech giants.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Incode adds biometric verification to Auth0 password resets</title>
-      <link>https://www.biometricupdate.com/202607/incode-adds-biometric-verification-to-auth0-password-resets</link>
-      <guid isPermaLink="false">identitybrief-2534878ed0e3db82</guid>
-      <pubDate>Fri, 03 Jul 2026 18:10:16 +0000</pubDate>
-      <category>fraud</category>
-      <description>Incode adds biometric verification to Okta's Auth0 password resets. This makes recovering accounts more secure by adding a layer of biometric identity proofing. However, it requires integration into the current system, which might not be straightforward for all teams.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>MOSIP ecosystem insiders to share real-world experience in July 9th webinar</title>
-      <link>https://www.biometricupdate.com/202607/mosip-ecosystem-insiders-to-share-real-world-experience-in-july-9th-webinar</link>
-      <guid isPermaLink="false">identitybrief-8ef74c213de44b17</guid>
-      <pubDate>Fri, 03 Jul 2026 19:18:26 +0000</pubDate>
-      <category>did</category>
-      <description>An upcoming webinar will shed light on real-world use of the MOSIP platform for national IDs and digital wallets. Understanding this platform can help avoid vendor lock-in through its open-source approach. But learning curves and initial setup could be obstacles.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>New Avalon Malware Framework Packs CrownX Ransomware Capabilities</title>
-      <link>https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html</link>
-      <guid isPermaLink="false">identitybrief-b4661c9790f5e269</guid>
-      <pubDate>Fri, 03 Jul 2026 18:55:24 +0000</pubDate>
-      <category>breach</category>
-      <description>A new malware framework named Avalon exploits phishing techniques to bypass security controls. It combines various attack vectors, including credential theft and ransomware deployment. The immediate risk is its ability to sneak past existing defenses, requiring proactive patching and vigilance.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Biometrics to anchor 175 billion digital ID checks by 2030 as Gen AI makes doc forgery easy</title>
-      <link>https://identityweek.net/biometrics-to-anchor-175-billion-digital-id-checks-by-2030-as-gen-ai-makes-doc-forgery-easy/</link>
-      <guid isPermaLink="false">identitybrief-7ff0ef89e619d8fd</guid>
-      <pubDate>Fri, 03 Jul 2026 11:46:17 +0000</pubDate>
-      <category>did</category>
-      <description>Biometric checks are set to underpin 175 billion digital identity verifications by 2030. Biometrics can significantly reduce fraud, especially as AI enables more sophisticated threats. Yet, the infrastructure for widespread deployment needs scaling, posing a challenge to current systems.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit</title>
-      <link>https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/</link>
-      <guid isPermaLink="false">identitybrief-d0fcbcd5a45e4bdf</guid>
-      <pubDate>Fri, 03 Jul 2026 14:12:22 +0000</pubDate>
-      <category>breach</category>
-      <description>The ARToken platform supports phishing as a service targeting Microsoft 365 users. This gives attackers a powerful toolkit for compromising accounts on a wide scale. Organizations must tighten security protocols around 365 accounts and watch for unusual activity.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Medtronic Data Breach Impacts 3.8 Million People</title>
-      <link>https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/</link>
-      <guid isPermaLink="false">identitybrief-be54cb8442126844</guid>
-      <pubDate>Fri, 03 Jul 2026 10:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Medtronic suffered a data breach affecting 3.8 million people's medical data. Such breaches elevate the risk of identity theft given the sensitive nature of the data. Monitoring for misuse and updating incident response plans becomes crucial.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Introducción a passkeys</title>
-      <link>https://fidoalliance.org/introduccion-a-passkeys/</link>
-      <guid isPermaLink="false">identitybrief-ac1d432ccf065ac3</guid>
-      <pubDate>Fri, 03 Jul 2026 12:41:12 +0000</pubDate>
-      <category>auth</category>
-      <description>A new webinar introduces passkeys — simpler, secure credentials without passwords. This moves the needle on anti-phishing efforts by making them more accessible to users. The catch is it's another session to schedule amidst competing priorities.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Improving security posture across the Microsoft partner ecosystem</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/</link>
-      <guid isPermaLink="false">identitybrief-f16f336606129605</guid>
-      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft is boosting security for partners via strict vetting and least privilege access. This aims to fortify ecosystems against unauthorized access by reducing attack surfaces. Partners need to align promptly as these changes roll out.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API</title>
-      <link>https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html</link>
-      <guid isPermaLink="false">identitybrief-9f005df124587702</guid>
-      <pubDate>Thu, 02 Jul 2026 13:04:13 +0000</pubDate>
-      <category>breach</category>
-      <description>ToddyCat's Umbrij malware exploits Google API for unauthorized email access. It's a reminder of the potential risks in API usage, even with secure providers. Organizations must ensure API interactions are properly scoped and monitored.
-
-— via The Hacker News</description>
     </item>
 </channel></rss>
