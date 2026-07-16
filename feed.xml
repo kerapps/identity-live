@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Regula combines identity signals as layered identity verification gains ground</title>
+      <link>https://www.biometricupdate.com/202607/regula-combines-identity-signals-as-layered-identity-verification-gains-ground</link>
+      <guid isPermaLink="false">identitybrief-20db2c762cc10aa6</guid>
+      <pubDate>Wed, 15 Jul 2026 19:36:21 +0000</pubDate>
+      <category>fraud</category>
+      <description>Regula Forensics has announced the launch of an enhanced, multimodal biometric verification service with integrated liveness detection. A release says the product includes facial recognition, fingerprint verification, iris recognition, voice recognition, behavioral biometrics and hand geometry analysis, to support remote onboarding, authentication and… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>AI fraud fuels debate over continuous identity verification</title>
+      <link>https://www.biometricupdate.com/202607/ai-fraud-fuels-debate-over-continuous-identity-verification</link>
+      <guid isPermaLink="false">identitybrief-f9e8b54b14c22e80</guid>
+      <pubDate>Wed, 15 Jul 2026 23:27:44 +0000</pubDate>
+      <category>fraud</category>
+      <description>Artificial intelligence allows organized fraud rings to manufacture thousands of synthetic identities, generate fraudulent documents and deepfake videos, and attack government benefit programs at a scale that federal identity systems were not built to withstand, according to authorities at a hearing Wednesday before the House Committee on Oversight and… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>OfDIA confirms commitment to DVS trust framework in annual report</title>
+      <link>https://www.biometricupdate.com/202607/ofdia-confirms-commitment-to-dvs-trust-framework-in-annual-report</link>
+      <guid isPermaLink="false">identitybrief-05ba77d957b7761b</guid>
+      <pubDate>Wed, 15 Jul 2026 19:45:29 +0000</pubDate>
+      <category>did</category>
+      <description>A new annual report from the UK’s Office for Digital Identities and Attributes (OfDIA) refreshes its commitment to support biometrics and digital identity providers certified under the Digital Verification Services (DVS) trust framework. The report on the Data (Use and Access) Act 2025 “sets out the government’s progress in establishing and maintaining the… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Finance phishing works because it sounds boringly normal</title>
+      <link>https://www.helpnetsecurity.com/2026/07/16/cofense-finance-phishing-tactics-report/</link>
+      <guid isPermaLink="false">identitybrief-be276e1817b35bb4</guid>
+      <pubDate>Thu, 16 Jul 2026 03:30:16 +0000</pubDate>
+      <category>breach</category>
+      <description>Finance departments process a constant stream of invoices, contracts, payment notices, and procurement emails, making email one of the most common initial access vectors for threat actors. According to Cofense, attackers exploit those workflows with phishing emails that resemble legitimate business correspondence rather than relying on urgency-based lures.… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Identity Attacks Overtake Exploits as Top Ransomware Cause</title>
+      <link>https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause</link>
+      <guid isPermaLink="false">identitybrief-4a1c8b34a3069de2</guid>
+      <pubDate>Wed, 15 Jul 2026 20:16:13 +0000</pubDate>
+      <category>breach</category>
+      <description>Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Socure rolls out Remote Verifier for higher-risk identity checks</title>
+      <link>https://www.helpnetsecurity.com/2026/07/15/socure-rolls-out-remote-verifier-for-higher-risk-identity-checks/</link>
+      <guid isPermaLink="false">identitybrief-c9965969ebef857d</guid>
+      <pubDate>Wed, 15 Jul 2026 13:51:39 +0000</pubDate>
+      <category>fraud</category>
+      <description>Socure has launched Remote Verifier in RiskOS, a new identity verification tool that helps organizations verify identities requiring additional review while reducing manual effort. Socure’s AI-powered document verification solution instantly verifies more than 99% of identities on the first try, compared to an industry average of 64%. The Remote Verifier is…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Zoom warns of critical account takeover vulnerability</title>
+      <link>https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/</link>
+      <guid isPermaLink="false">identitybrief-2b41cb8c20431e36</guid>
+      <pubDate>Wed, 15 Jul 2026 20:16:02 +0000</pubDate>
+      <category>fraud</category>
+      <description>Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Biometric Update: Microsoft and Google push passkeys deeper into workplace authentication</title>
+      <link>https://fidoalliance.org/biometric-update-microsoft-and-google-push-passkeys-deeper-into-workplace-authentication/</link>
+      <guid isPermaLink="false">identitybrief-df05f182b3abef63</guid>
+      <pubDate>Wed, 15 Jul 2026 18:43:16 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft and Google are pushing passkeys and hardware security keys deeper into workplace authentication, with Microsoft preparing to make passkeys the default authentication experience in Entra ID, and Google adding FIDO2-compliant […] It landed in the last few hours.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Launch HN: Coasty (YC S26) – An API for computer-use agents</title>
+      <link>https://coasty.ai/docs</link>
+      <guid isPermaLink="false">identitybrief-fcb5e65c66087d37</guid>
+      <pubDate>Wed, 15 Jul 2026 15:51:20 +0000</pubDate>
+      <category>auth</category>
+      <description>Hey HN, we’re Nitish and Prateek, the founders of Coasty ( https://coasty.ai/computer-use ). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs. Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser… It's pulling 52pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>How we got here: what six decades of identity history tell us about the agent age</title>
+      <link>https://openid.net/how-we-got-here-what-six-decades-of-identity-history-tell-us-about-the-agent-age/</link>
+      <guid isPermaLink="false">identitybrief-5f5e7ed61e646d53</guid>
+      <pubDate>Wed, 15 Jul 2026 08:15:12 +0000</pubDate>
+      <category>auth</category>
+      <description>By Sar Haidar, Platform Engineer at MIT Open Learning Every identity standard we work with today was built to solve a problem someone was staring at right then. OAuth, OIDC, SAML, the token flows we spend our careers refining: each one began as an urgent answer to an immediate question. That was the premise of […] The post How we got here: what six decades…
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Ransom demands are down, email is the top way attackers get in</title>
+      <link>https://www.helpnetsecurity.com/2026/07/16/sophos-state-of-ransomware-2026/</link>
+      <guid isPermaLink="false">identitybrief-2f3586f268b10b93</guid>
+      <pubDate>Thu, 16 Jul 2026 05:00:58 +0000</pubDate>
+      <category>breach</category>
+      <description>An employee opens an email that looks like any other, clicks a link, and gives up a password without noticing. A stolen login opens a door deeper in the network. Files stop opening a few days later. That chain now sits at the front of most ransomware cases. Malicious email and phishing together account for half of all incidents, based on a survey of 2,158… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>From Classification to Consistent Templates: Multiple Permuted-Label Classifier Encoding for Biometric Template Protection</title>
+      <link>http://arxiv.org/abs/2607.13845v1</link>
+      <guid isPermaLink="false">identitybrief-8489c32f3663135c</guid>
+      <pubDate>Wed, 15 Jul 2026 13:52:35 +0000</pubDate>
+      <category>research</category>
+      <description>Biometric template protection (BTP) must secure stored templates while tolerating intra-class variations. Existing methods rely on protected-domain similarity matching, error correction, or predefined-template mappings, potentially retaining exploitable similarity structures, introducing helper-data risks, depending on artificial targets, or coupling…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>NPM ecosystem hit with two new supply chain compromises</title>
+      <link>https://www.csoonline.com/article/4197499/npm-ecosystem-hit-with-two-new-supply-chain-compromises.html</link>
+      <guid isPermaLink="false">identitybrief-272536473bd41972</guid>
+      <pubDate>Wed, 15 Jul 2026 20:33:40 +0000</pubDate>
+      <category>breach</category>
+      <description>Attacks targeting developer ecosystems are increasing in frequency and sophistication, with Node.js developers firmly in this week’s crosshairs, as multiple npm packages belonging to the open-source AsyncAPI and Jscrambler Code Integrity were poisoned with malware following compromised development credentials. The incidents highlight the cascading effect of… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>ADF - Support for Federated Identity Credentials</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDVqajZPbE1mazhET3hmY3ZMMUJLa0N6a1ZhdW9UMkgtMXBEWVNPWFVQNnJtczItNmZxb3NMT3NxSG1YSWRpQXItNGU3VTBLTGJuLTFKNVRpZ190Vm9HRXBTSXBiNVFyRjF4eGtWREZGQTlfcFBUczhNRksxYXFKOXZMbE1tU1VYWWF3RTFnZWFCRDd4ZmM2WWNpZWdpb3A2aElwbWNyMFNwUFBuc3RkUm1oU0EzYXRHYndSNjJR?oc=5</link>
+      <guid isPermaLink="false">identitybrief-780aab3ca1f1c9ad</guid>
+      <pubDate>Thu, 16 Jul 2026 00:51:50 +0000</pubDate>
+      <category>auth</category>
+      <description>ADF - Support for Federated Identity Credentials Microsoft Community Hub It landed in the last few hours.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Funding gap puts Sri Lanka’s digital ID project under review</title>
       <link>https://www.biometricupdate.com/202607/funding-gap-puts-sri-lankas-digital-id-project-under-review</link>
       <guid isPermaLink="false">identitybrief-b5a20f412e7a7ac8</guid>
@@ -1362,145 +1502,5 @@
       <description>JadePuffer ransomware used an AI agent to run an entire attack. This automation shows how AI can streamline malicious operations, increasing their efficiency. The catch: Such setups are complex and require significant resources, possibly limiting their immediate proliferation.
 
 — via BleepingComputer</description>
-    </item>
-    <item>
-      <title>U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case</title>
-      <link>https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html</link>
-      <guid isPermaLink="false">identitybrief-dfe2e4f3f58fedb8</guid>
-      <pubDate>Sat, 04 Jul 2026 12:47:53 +0000</pubDate>
-      <category>breach</category>
-      <description>A U.S. government entity paid $1 million to prevent data-leak extortion by a group called Kairos. The case blurs lines between typical ransomware and extortion based on stolen data. The catch: it's not clear if this group can always be classified under traditional cyber-criminal categories.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign</title>
-      <link>https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html</link>
-      <guid isPermaLink="false">identitybrief-b47da85789fe35b4</guid>
-      <pubDate>Sat, 04 Jul 2026 11:17:24 +0000</pubDate>
-      <category>breach</category>
-      <description>North Korean hackers deployed 108 malicious software packages. These exploit weaknesses in digital platforms, primarily targeting web development ecosystems. The catch: vigilance gets harder as these packages blend in with legitimate tools.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices</title>
-      <link>https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html</link>
-      <guid isPermaLink="false">identitybrief-ba9042eaa49775b7</guid>
-      <pubDate>Fri, 03 Jul 2026 20:19:31 +0000</pubDate>
-      <category>iam</category>
-      <description>Unpatched flaws in the FatFs library affect millions of embedded devices. These vulnerabilities pose a broad security risk across diverse technologies. The catch: remediation needs coordination with many vendors, delaying patch rollouts.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Chinese LLMs Broaden the Gap Between Attackers &amp;amp; Defenders</title>
-      <link>https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders</link>
-      <guid isPermaLink="false">identitybrief-62fe71a0465c37d0</guid>
-      <pubDate>Fri, 03 Jul 2026 13:01:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Chinese language models are advancing, creating a gap in cyber defense capabilities. These models potentially enhance malicious operations faster than defense strategies can adapt. The catch: it's unclear how long this gap will persist or what partnerships might close it.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Digital identity wallets present big choices as EUDI preparations ramp up</title>
-      <link>https://www.biometricupdate.com/202607/digital-identity-wallets-present-big-choices-as-eudi-preparations-ramp-up</link>
-      <guid isPermaLink="false">identitybrief-1d1835320082c613</guid>
-      <pubDate>Sat, 04 Jul 2026 14:52:31 +0000</pubDate>
-      <category>did</category>
-      <description>Digital identity wallets are becoming a hot topic as the EU prepares for new identity regulations. These wallets promise more individual control over personal data and interactions with the private sector. However, there's uncertainty about who will control the technology and who will provide these wallets, which could influence user trust and adoption.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>MOSIP ecosystem insiders to share real-world experience in July 7th webinar</title>
-      <link>https://www.biometricupdate.com/202607/mosip-ecosystem-insiders-to-share-real-world-experience-in-july-7th-webinar</link>
-      <guid isPermaLink="false">identitybrief-ebb39c8deebfb111</guid>
-      <pubDate>Fri, 03 Jul 2026 19:18:26 +0000</pubDate>
-      <category>did</category>
-      <description>MOSIP, an open-source identity platform, is gaining traction worldwide. It aims to offer interoperable digital ID solutions without vendor lock-in, appealing to governments and organizations. But as a new entrant, it doesn't have the established reputation of other long-standing systems yet.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Facephi expands digital trust footprint across regulated gaming, fintech</title>
-      <link>https://www.biometricupdate.com/202607/facephi-expands-digital-trust-footprint-across-regulated-gaming-fintech</link>
-      <guid isPermaLink="false">identitybrief-d8ff9778be84c353</guid>
-      <pubDate>Fri, 03 Jul 2026 18:07:38 +0000</pubDate>
-      <category>did</category>
-      <description>Facephi is broadening its digital trust applications, notably in gaming and fintech. Their tools reportedly reduce fraud and scams significantly, especially in Peru's gaming sector. The challenge remains in scaling these solutions effectively across other regions and sectors with differing compliance requirements.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Opera rolls out Paste Protect feature to fight ClickFix attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/</link>
-      <guid isPermaLink="false">identitybrief-07094e5dbe69beb3</guid>
-      <pubDate>Thu, 02 Jul 2026 10:46:58 +0000</pubDate>
-      <category>iam</category>
-      <description>Opera's new Paste Protect feature targets ClickFix social engineering attacks that misuse clipboard contents. By safeguarding user inputs, this feature helps prevent inadvertent command execution. The limitation is its availability—it only helps Opera users for now, leaving other browser users exposed.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack</title>
-      <link>https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html</link>
-      <guid isPermaLink="false">identitybrief-62118d09ae8aadbb</guid>
-      <pubDate>Thu, 02 Jul 2026 09:13:13 +0000</pubDate>
-      <category>breach</category>
-      <description>A new AI agent has fully automated a ransomware attack process, from breaking in to encryption. This development highlights the growing sophistication of threat actors using AI to scale and automate attacks. However, this is a cutting-edge threat, and widespread use isn't yet seen, giving some time for defenses to adapt.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations</title>
-      <link>https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html</link>
-      <guid isPermaLink="false">identitybrief-15d74939641faa58</guid>
-      <pubDate>Thu, 02 Jul 2026 08:00:49 +0000</pubDate>
-      <category>breach</category>
-      <description>The FortiBleed credential theft campaign has been tied to INC and Lynx ransomware groups. Stolen credentials lead directly to ransomware deployment, increasing the threat's immediacy. However, identifying and breaking the link between credential theft and ransomware can significantly mitigate its impact if done promptly.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Registered digital verification services to conduct alcohol age checks in England and Wales</title>
-      <link>https://identityweek.net/registered-digital-verification-services-to-conduct-alcohol-age-checks-in-england-and-wales/</link>
-      <guid isPermaLink="false">identitybrief-e10ba3706e230732</guid>
-      <pubDate>Wed, 01 Jul 2026 10:04:52 +0000</pubDate>
-      <category>did</category>
-      <description>Digital IDs will soon replace physical IDs for alcohol purchases in England and Wales. This shift is part of a legal reform aimed at streamlining age verification. Yet, the reliance on digital infrastructure raises questions about accessibility and robustness in varied local environments.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Coalition of banks and UK Finance work on voluntary digital verification service</title>
-      <link>https://identityweek.net/coalition-of-banks-and-uk-finance-work-on-voluntary-digital-verification-service/</link>
-      <guid isPermaLink="false">identitybrief-30df8d85cdc2acdc</guid>
-      <pubDate>Wed, 01 Jul 2026 09:03:49 +0000</pubDate>
-      <category>iam</category>
-      <description>A coalition of UK banks and UK Finance is working on a digital verification service. This initiative aims to eliminate repeated uploads of physical documents, enhancing convenience. However, as a voluntary scheme, its success depends on whether enough stakeholders agree to participate and trust the system.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware</title>
-      <link>https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html</link>
-      <guid isPermaLink="false">identitybrief-52b8107ec60ccdeb</guid>
-      <pubDate>Wed, 01 Jul 2026 07:20:51 +0000</pubDate>
-      <category>breach</category>
-      <description>Phantom squatting is a new phishing technique using AI-generated fake domains. These fake sites are used for phishing, making detection more challenging. The catch is that countermeasures need to evolve to identify these ever-changing threats quickly.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Enabling Cross App Access for SAML-Based Enterprise Apps</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE16UlVGUnhsbGk0SHdDaEJYUkVsYklTenF4QXloNWRaZ3I1alExaWZPNEt4b1F0VVpnTVp2UUVpcWtuNXdMZnBvc09MTm83eUpyaDFSR1AyYVdjbVZlSGdycGtyazJ1TXFNN0FycGl2YXNGUQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-4f7079568cb25c59</guid>
-      <pubDate>Fri, 03 Jul 2026 20:19:12 +0000</pubDate>
-      <category>auth</category>
-      <description>Okta is promoting cross-application access for SAML-based enterprise apps. This feature enhances usability without sacrificing security in identity management systems. The limitation is it requires specific configuration, so not all existing setups will benefit without further adjustments.
-
-— via Okta</description>
     </item>
 </channel></rss>
