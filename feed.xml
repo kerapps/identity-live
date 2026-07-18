@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>EUDI What? As wallet deadline looms, awareness remains low</title>
+      <link>https://www.biometricupdate.com/202607/eudi-what-as-wallet-deadline-looms-awareness-remains-low</link>
+      <guid isPermaLink="false">identitybrief-a0cd5b0a4cb42751</guid>
+      <pubDate>Fri, 17 Jul 2026 16:39:53 +0000</pubDate>
+      <category>did</category>
+      <description>New consumer research from IDnow shows that only about half of French and German customers have heard of the European Digital Identity Wallet (EUDI Wallet). To readers of Biometric Update , this may seem impossible; the EU is rolling steadily toward the December 2026 deadline it set for Member States to offer a digital wallet to citizens. As such, it is a…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Kantara updates digital identity certification criteria for latest NIST revision</title>
+      <link>https://www.biometricupdate.com/202607/kantara-updates-digital-identity-certification-criteria-for-latest-nist-revision</link>
+      <guid isPermaLink="false">identitybrief-93107a0aeab725de</guid>
+      <pubDate>Fri, 17 Jul 2026 15:33:49 +0000</pubDate>
+      <category>did</category>
+      <description>The Kantara Initiative has expanded its certification program for NIST’s Digital Identity Guidelines by releasing new criteria for their latest version. NIST SP 800-63 Revision 4 introduces new requirements to the Guidelines, including for biometric injection attack detection (IAD). NIST updated its Digital Identity Guidelines just under a year ago, adding…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Gradiant reports record year as digital identity portfolio expands</title>
+      <link>https://www.biometricupdate.com/202607/gradiant-reports-record-year-as-digital-identity-portfolio-expands</link>
+      <guid isPermaLink="false">identitybrief-048d42fadf203faa</guid>
+      <pubDate>Fri, 17 Jul 2026 15:14:29 +0000</pubDate>
+      <category>did</category>
+      <description>Spanish research and technology company Gradiant reported revenue growth of more than €17 million (approximately US$19.4 million) in 2025, which is an increase of 20 percent from the previous year. The business-related activities accounted for 66 percent of revenue, and intellectual property sales contributed 11 percent. The company secured €6.4 million…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Inside the Search for "Clean" Residential Proxies for Carding</title>
+      <link>https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/</link>
+      <guid isPermaLink="false">identitybrief-ae70329bc20c2614</guid>
+      <pubDate>Fri, 17 Jul 2026 14:00:10 +0000</pubDate>
+      <category>fraud</category>
+      <description>Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek "clean" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Scammers weaponize FaceTime to drain bank accounts</title>
+      <link>https://www.helpnetsecurity.com/2026/07/17/apple-facetime-calls-scams/</link>
+      <guid isPermaLink="false">identitybrief-3519ea66478cbe29</guid>
+      <pubDate>Fri, 17 Jul 2026 10:02:21 +0000</pubDate>
+      <category>fraud</category>
+      <description>Apple is warning iPhone and iPad users that scammers are using FaceTime calls to trick them into handing over money and account details. According to Apple, scammers pose as trusted organizations and use social engineering to convince people to hand over account credentials, security codes, and financial information. Apple says a caller can fake its number…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Claude can now sign into websites with 1Password without exposing your credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/07/17/1password-anthropic-claude-integration/</link>
+      <guid isPermaLink="false">identitybrief-a80fa332f03d6069</guid>
+      <pubDate>Fri, 17 Jul 2026 09:17:44 +0000</pubDate>
+      <category>auth</category>
+      <description>1Password has introduced 1Password for Claude, a beta integration that lets Anthropic’s AI assistant complete browser tasks requiring authentication without accessing users’ passwords or other secrets. The integration is available to paid Claude subscribers (Pro, Max, Team, and Enterprise) using Claude Desktop on macOS and to 1Password customers on…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Ernst &amp; Young discloses data breach after support system hack</title>
+      <link>https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/</link>
+      <guid isPermaLink="false">identitybrief-33c049c38897727a</guid>
+      <pubDate>Fri, 17 Jul 2026 14:55:28 +0000</pubDate>
+      <category>breach</category>
+      <description>Ernst &amp; Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>RSA and the FIDO Alliance Champion the Enterprise Passkey Revolution</title>
+      <link>https://fidoalliance.org/rsa-and-the-fido-alliance-champion-the-enterprise-passkey-revolution/</link>
+      <guid isPermaLink="false">identitybrief-8bc7e290d9916841</guid>
+      <pubDate>Fri, 17 Jul 2026 13:31:12 +0000</pubDate>
+      <category>breach</category>
+      <description>In this joint briefing, RSA Security’s Jim Taylor and the FIDO Alliance’s Andrew Shikiar detailed the global transition away from legacy passwords toward robust, phishing-resistant authentication methods. Andrew highlighted the explosive growth of consumer passkeys, noting […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Microsoft and Google push passkeys deeper into workplace authentication</title>
+      <link>https://fidoalliance.org/microsoft-and-google-push-passkeys-deeper-into-workplace-authentication/</link>
+      <guid isPermaLink="false">identitybrief-3357efc6211f7107</guid>
+      <pubDate>Fri, 17 Jul 2026 13:29:22 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft and Google are pushing passkeys and hardware security keys deeper into workplace authentication, with Microsoft preparing to make passkeys the default authentication experience in Entra ID, and Google adding FIDO2-compliant […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Public Review Period for Proposed OpenID Connect Ephemeral Subject Identifier 1.0 Final Specification</title>
+      <link>https://openid.net/public-review-period-for-proposed-openid-connect-ephemeral-subject-identifier-1-0-final-specification/</link>
+      <guid isPermaLink="false">identitybrief-9b0cc29e83965484</guid>
+      <pubDate>Fri, 17 Jul 2026 18:43:14 +0000</pubDate>
+      <category>auth</category>
+      <description>The OpenID Connect Working Group recommends approval of the following specification as an OpenID Final Specification: OpenID Connect Ephemeral Subject Identifier 1.0 A Final Specification provides intellectual property protections to implementers of the specification and is not subject to further revision. This note starts the 60-day public review period… It landed in the last few hours.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests</title>
+      <link>https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html</link>
+      <guid isPermaLink="false">identitybrief-c77a96e5b932eaa8</guid>
+      <pubDate>Fri, 17 Jul 2026 20:20:53 +0000</pubDate>
+      <category>iam</category>
+      <description>Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Fake TTF files deliver stealthy malware in global phishing campaign</title>
+      <link>https://www.csoonline.com/article/4198165/fake-ttf-files-deliver-stealthy-malware-in-global-phishing-campaign.html</link>
+      <guid isPermaLink="false">identitybrief-cdbb11b4623e2d73</guid>
+      <pubDate>Fri, 17 Jul 2026 08:45:04 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors are now abusing an ordinary font file to deliver low-detection malware capable of stealing credentials and establishing persistence on compromised Windows systems. According to a new research from Fortinet’s FortiGuard Labs, a global phishing campaign is actively using heavily obfuscated JavaScript and a Lua-based loader posing as a TrueType…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>xChk: Bring Your Own Identity -- Heterogeneous Assurance with Verifier-Determined Sufficiency</title>
+      <link>http://arxiv.org/abs/2607.13369v1</link>
+      <guid isPermaLink="false">identitybrief-860dad607a9699df</guid>
+      <pubDate>Wed, 15 Jul 2026 01:19:35 +0000</pubDate>
+      <category>research</category>
+      <description>We present xChk, a reference identity provider for Bring Your Own Identity (BYOI): users enroll via heterogeneous proofs (government KYC, corporate SSO, WebAuthn/FIDO2, professional networks, live verification, longitudinal activity, behavioral signals) and disclose them as portfolio claims in standard OAuth 2.0 / OpenID Connect (OIDC) tokens, while each…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>OAuth's rough month: What five recent vulnerabilities say about token trust</title>
+      <link>https://workos.com/blog/oauth-vulnerabilities-2026</link>
+      <guid isPermaLink="false">identitybrief-b611f3875c06d691</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Five bugs, four codebases, one recurring mistake: checking that a token is valid instead of checking that it's valid for who it claims to be.
+
+— via WorkOS</description>
+    </item>
+    <item>
       <title>New infosec products of the week: July 17, 2026</title>
       <link>https://www.helpnetsecurity.com/2026/07/17/new-infosec-products-of-the-week-july-17-2026/</link>
       <guid isPermaLink="false">identitybrief-ed1cb39c52790c45</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Tue, 07 Jul 2026 10:05:41 +0000</pubDate>
       <category>auth</category>
       <description>OpenID Foundation is reviewing drafts for two new federation extensions. These aim to enhance identity federation by streamlining endpoint management. These drafts are still under review and not finalized for broad adoption yet.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>aiAuthZ: Off-Host, Identity-Bound Authorization for AI Agents</title>
-      <link>http://arxiv.org/abs/2607.05518v1</link>
-      <guid isPermaLink="false">identitybrief-f608298fc76ac277</guid>
-      <pubDate>Mon, 06 Jul 2026 18:00:49 +0000</pubDate>
-      <category>research</category>
-      <description>Research introduces aiAuthZ for off-host, identity-bound authorization in AI agents. It aims to prevent unauthorized tool calls in AI systems. Still, its deployment requires both technical expertise and system changes within organizations.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Critical Gitea Flaw Under Active Exploitation, Researchers Warn</title>
-      <link>https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/</link>
-      <guid isPermaLink="false">identitybrief-590290665a14d93c</guid>
-      <pubDate>Tue, 07 Jul 2026 17:17:19 +0000</pubDate>
-      <category>breach</category>
-      <description>A critical vulnerability in Gitea allows attackers to bypass authentication with minimal effort. This could lead to unauthorized access to sensitive repos and secrets. Immediate patching is required, but awareness and action can lag behind disclosure.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>REAN: Reconstruction-aware ECG Anonymization Based on Privacy--Utility Orthogonality</title>
-      <link>http://arxiv.org/abs/2607.06037v1</link>
-      <guid isPermaLink="false">identitybrief-2752ad5f5c5383b7</guid>
-      <pubDate>Tue, 07 Jul 2026 09:12:53 +0000</pubDate>
-      <category>research</category>
-      <description>New research proposes REAN for anonymizing ECG data without losing utility. This addresses privacy concerns in shared biomedical data. However, the technique's practical effectiveness needs real-world testing.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Works with YubiKey Spotlight: Translating YubiKey logistics into enterprise cyber resilience with EgoMind’s Appterix</title>
-      <link>https://www.yubico.com/blog/works-with-yubikey-spotlight-translating-yubikey-logistics-into-enterprise-cyber-resilience-with-egominds-appterix/</link>
-      <guid isPermaLink="false">identitybrief-53b5ddd2a1eee1d1</guid>
-      <pubDate>Tue, 07 Jul 2026 15:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>YubiKey partners with EgoMind to simplify enterprise deployment of its hardware keys. This can enhance cybersecurity resilience across large organizations. Still, the logistical complexities of mass deployment remain a challenge.
-
-— via Yubico</description>
-    </item>
-    <item>
-      <title>Your company already adopted AI and nobody is governing access</title>
-      <link>https://www.helpnetsecurity.com/2026/07/07/ai-attack-surface-video/</link>
-      <guid isPermaLink="false">identitybrief-b0a58c1f661c865b</guid>
-      <pubDate>Tue, 07 Jul 2026 05:30:27 +0000</pubDate>
-      <category>auth</category>
-      <description>AI tools are often adopted without proper access governance, creating vulnerabilities. This matters because every unreviewed AI integration could inadvertently expose credentials or data to unauthorized parties. The catch: AI adoption isn't going to slow, so security reviews need to catch up quickly.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>eIDAS Dashboard evolving to meet Europe’s broad digital ID ambitions</title>
-      <link>https://www.biometricupdate.com/202607/eidas-dashboard-evolving-to-meet-europes-broad-digital-id-ambitions</link>
-      <guid isPermaLink="false">identitybrief-639ac9c6d7e85341</guid>
-      <pubDate>Mon, 06 Jul 2026 18:07:23 +0000</pubDate>
-      <category>did</category>
-      <description>The eIDAS Dashboard is crucial for Europe's digital ID framework, helping share trust information among EU states. This supports smoother international digital identity operations. The limitation is it's region-specific, only affecting European entities.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Namirial Wallet earns France Identité interoperability recognition</title>
-      <link>https://www.biometricupdate.com/202607/namirial-wallet-earns-france-identite-interoperability-recognition</link>
-      <guid isPermaLink="false">identitybrief-d8bf964917c55d79</guid>
-      <pubDate>Mon, 06 Jul 2026 16:38:55 +0000</pubDate>
-      <category>did</category>
-      <description>Namirial's digital identity wallet is now interoperable with France's ID system, marking compliance with EUDI standards. This allows seamless identity verification in cross-border EU transactions. But, it's primarily for those in the EU Digital Identity Wallet ecosystem.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>TSA expands biometric identity checks to airline crews</title>
-      <link>https://www.biometricupdate.com/202607/tsa-expands-biometric-identity-checks-to-airline-crews</link>
-      <guid isPermaLink="false">identitybrief-18e9e6046a44eb47</guid>
-      <pubDate>Mon, 06 Jul 2026 21:59:35 +0000</pubDate>
-      <category>auth</category>
-      <description>TSA is moving airline crew identity checks to facial recognition from manual ID and barcode. This change could streamline airport security processes significantly. The catch: it raises privacy concerns among crew who must adapt to biometric data sharing.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Phishing poses as big-brand job interview to steal Google accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/</link>
-      <guid isPermaLink="false">identitybrief-efdedf5318894982</guid>
-      <pubDate>Mon, 06 Jul 2026 20:27:37 +0000</pubDate>
-      <category>breach</category>
-      <description>A phishing attempt is using fake job interviews to steal Google account credentials. This poses a direct risk to user credentials, particularly for marketing professionals. The key issue here is the broad trust some users place in seemingly authentic communications without verification.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>PaymentsJournal: EMVCo Proposes Standards for Stronger Payment Authentication</title>
-      <link>https://fidoalliance.org/paymentsjournal-emvco-proposes-standards-for-stronger-payment-authentication/</link>
-      <guid isPermaLink="false">identitybrief-d0fab94414312371</guid>
-      <pubDate>Mon, 06 Jul 2026 13:52:33 +0000</pubDate>
-      <category>did</category>
-      <description>EMVCo has drafted a framework for stronger digital payment credential standards. This could lead to easier and more secure online transactions by standardizing credential use. However, it's still a draft — implementation across providers will take time.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA</title>
-      <link>https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html</link>
-      <guid isPermaLink="false">identitybrief-8e85bcf7191591cd</guid>
-      <pubDate>Tue, 07 Jul 2026 05:16:51 +0000</pubDate>
-      <category>breach</category>
-      <description>BeyondTrust patched critical authentication vulnerabilities in its Remote Support and Privileged Remote Access products. This prevents attackers from taking control of systems without authenticating. The limitation is that the fix depends on organizations applying these updates promptly.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Insignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk</title>
-      <link>https://www.csoonline.com/article/4193554/insignary-closes-sbom-accuracy-gap-with-binary-level-clarity-for-regulatory-risk.html</link>
-      <guid isPermaLink="false">identitybrief-ae6683f55e1c33a6</guid>
-      <pubDate>Tue, 07 Jul 2026 04:00:40 +0000</pubDate>
-      <category>auth</category>
-      <description>Insignary's new tool gives better insights into actual deployed code, not just declared components. This offers clearer software composition analysis and reduces hidden vulnerabilities. The drawback: adoption requires a shift from traditional methods many teams still use.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Identity: The operational control plane for agentic AI</title>
-      <link>https://www.csoonline.com/article/4193274/identity-the-operational-control-plane-for-agentic-ai.html</link>
-      <guid isPermaLink="false">identitybrief-70fe5b77681b7c32</guid>
-      <pubDate>Mon, 06 Jul 2026 14:39:49 +0000</pubDate>
-      <category>auth</category>
-      <description>Organizations need robust ways to manage identity for AI agents, as current models aren't sufficient. It highlights the need for adaptive security mechanisms in dynamic agent environments. The challenge: solutions are still very much in development, with no quick fixes available.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>OIDF proud to support BIS Innovation Hub’s Aperta Report</title>
-      <link>https://openid.net/oidf-proud-to-support-bis-innovation-hubs-aperta-report/</link>
-      <guid isPermaLink="false">identitybrief-834ef8f7376389cf</guid>
-      <pubDate>Mon, 06 Jul 2026 13:00:30 +0000</pubDate>
-      <category>auth</category>
-      <description>The BIS's Aperta Report is a step towards continuity in cross-border open finance and involves OpenID standards. It stresses the importance of interoperability in digital finance. The limitation is that real-world application and adoption will take time.
 
 — via OpenID Foundation</description>
     </item>
