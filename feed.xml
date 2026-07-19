@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Age assurance explained: The laws reshaping the internet</title>
+      <link>https://www.biometricupdate.com/202607/age-assurance-explained-the-laws-reshaping-the-internet</link>
+      <guid isPermaLink="false">identitybrief-dc5ac52f6e30bb0f</guid>
+      <pubDate>Sat, 18 Jul 2026 17:11:23 +0000</pubDate>
+      <category>did</category>
+      <description>A year ago, age assurance was a niche topic and the biometrics industry was still anticipating the effect that the UK’s Online Safety Act would have on adult content sites. Today it sits at the center of a global debate over online safety, privacy and digital identity. In December 2025, Australia introduced the world’s first law restricting large social…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Biometric age assurance market gears up for rapid expansion as rules clarify</title>
+      <link>https://www.biometricupdate.com/202607/biometric-age-assurance-market-gears-up-for-rapid-expansion-as-rules-clarify</link>
+      <guid isPermaLink="false">identitybrief-ed9b8bd7fb039962</guid>
+      <pubDate>Sat, 18 Jul 2026 17:17:36 +0000</pubDate>
+      <category>did</category>
+      <description>Biometric age assurance was turned up to 11 this week, as in 11 different Biometric Update articles on efforts to keep children off of certain types of apps and websites. Among the highlights; the impact of VPNs appears to be less than thought, law are advancing from Bulgaria to Missouri, Jumio has a contract and Tik Tok is facing an investigation. Even in…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>The Future of Age Verification: Your Face Never Leaves Your Device</title>
+      <link>https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/</link>
+      <guid isPermaLink="false">identitybrief-3e99fedf837b788f</guid>
+      <pubDate>Sat, 18 Jul 2026 13:15:24 +0000</pubDate>
+      <category>fraud</category>
+      <description>As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting compliance. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Microsoft warns of surge in ACR Stealer attacks on customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/</link>
+      <guid isPermaLink="false">identitybrief-b2af4e8486937e95</guid>
+      <pubDate>Sat, 18 Jul 2026 14:17:19 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Zetrix expands digital identity, AI ambitions ahead of Nasdaq listing</title>
+      <link>https://www.biometricupdate.com/202607/zetrix-expands-digital-identity-ai-ambitions-ahead-of-nasdaq-listing</link>
+      <guid isPermaLink="false">identitybrief-8f410d237ebdf2c5</guid>
+      <pubDate>Fri, 17 Jul 2026 15:25:08 +0000</pubDate>
+      <category>did</category>
+      <description>Malaysia-based firm Zetrix AI is pursuing an approach that links up blockchain, digital identity, and agentic AI as the backbone of digital public infrastructure (DPI) and the global digital economy. Recently, the company announced a number of wins including progress in its financial figures, and a Memorandum of Understanding (MoU) with the Philippines to…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>OpenAI Will Gate Its Most Capable Cyber Models Behind a Physical Security Key</title>
+      <link>https://fidoalliance.org/openai-will-gate-its-most-capable-cyber-models-behind-a-physical-security-key/</link>
+      <guid isPermaLink="false">identitybrief-ab4bf249b976756e</guid>
+      <pubDate>Fri, 17 Jul 2026 13:26:34 +0000</pubDate>
+      <category>breach</category>
+      <description>Access to OpenAI’s most cyber-capable AI models will soon require something no phishing email can steal: a physical security key tapped against a phone or plugged into a laptop. From […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint</title>
+      <link>https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/</link>
+      <guid isPermaLink="false">identitybrief-f35ae90f9f937cf7</guid>
+      <pubDate>Fri, 17 Jul 2026 14:27:54 +0000</pubDate>
+      <category>breach</category>
+      <description>Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images</title>
+      <link>https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html</link>
+      <guid isPermaLink="false">identitybrief-66b19a41d9303d11</guid>
+      <pubDate>Fri, 17 Jul 2026 13:48:56 +0000</pubDate>
+      <category>auth</category>
+      <description>North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. "Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>The script, not the voice, is what makes AI voice phishing work</title>
+      <link>https://www.helpnetsecurity.com/2026/07/17/research-ai-voice-phishing/</link>
+      <guid isPermaLink="false">identitybrief-5b969215a3710002</guid>
+      <pubDate>Fri, 17 Jul 2026 05:30:56 +0000</pubDate>
+      <category>breach</category>
+      <description>The call comes in at 4:40 on a Friday. The voice belongs to a senior manager, or sounds close enough, and she needs a password reset before a flight. She is polite, she is in a hurry, and she has the last four of the badge number. Researchers at Harvard Kennedy School, Meta and elsewhere ran a version of that moment past 4,100 US adults, using six…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>1M+ Emails Use Hidden Text to Dupe AI Security Filters</title>
+      <link>https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters</link>
+      <guid isPermaLink="false">identitybrief-1d35deb3748aae34</guid>
+      <pubDate>Thu, 16 Jul 2026 19:41:31 +0000</pubDate>
+      <category>breach</category>
+      <description>Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata</title>
+      <link>https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html</link>
+      <guid isPermaLink="false">identitybrief-88ec909701ada578</guid>
+      <pubDate>Tue, 14 Jul 2026 13:48:07 +0000</pubDate>
+      <category>auth</category>
+      <description>Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one "leaks…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Zoom Patches Critical Windows Flaw That Could Enable Account Takeover</title>
+      <link>https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html</link>
+      <guid isPermaLink="false">identitybrief-291a71049912d9b8</guid>
+      <pubDate>Thu, 16 Jul 2026 07:22:44 +0000</pubDate>
+      <category>fraud</category>
+      <description>Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Workplace for Windows before version 7.0.0 and Zoom Workplace VDI Client for Windows before version 7.0.10, 6.6.15, and 6.5.18 in their…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Assessing the Forensic Viability of Android Memory Analysis Across Production Builds: A Cross-Version Study of Security Hardening and Structure Preservation</title>
+      <link>http://arxiv.org/abs/2607.13821v1</link>
+      <guid isPermaLink="false">identitybrief-2491aafdcfe97823</guid>
+      <pubDate>Wed, 15 Jul 2026 13:29:37 +0000</pubDate>
+      <category>research</category>
+      <description>Android memory forensics recovers evidence that never touches disk: decrypted messages, session credentials, and the live internal state of a running application. The tools that perform this recovery depend on debug symbols embedded in libart.so, the Android Runtime library, to locate data structures and interpret their layout. Across recent releases Google…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Enable Your SAML Requesting App for Cross App Access</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBhNGgwRnluTVVIeV9Hb1JZYnFQekI5OEEtNHhkVkJNOUg5RGxkalpzVTl0SlE3V2tFcTFiRWVQd1hHUHVzMGNrZFFiUjN0U3RSZDIzaXNZc1Badk9vdThYbElZRkl0M0lfdEJ5MXNB?oc=5</link>
+      <guid isPermaLink="false">identitybrief-168efec8c3ab2f9e</guid>
+      <pubDate>Sat, 18 Jul 2026 05:07:10 +0000</pubDate>
+      <category>auth</category>
+      <description>Enable Your SAML Requesting App for Cross App Access Okta Developer
+
+— via Okta</description>
+    </item>
+    <item>
       <title>EUDI What? As wallet deadline looms, awareness remains low</title>
       <link>https://www.biometricupdate.com/202607/eudi-what-as-wallet-deadline-looms-awareness-remains-low</link>
       <guid isPermaLink="false">identitybrief-a0cd5b0a4cb42751</guid>
@@ -1362,145 +1502,5 @@
       <description>A direct message arrives on Reddit from a stranger, and it invites a reply. That reply is the point. This scheme runs on social engineering, with no malware and no malicious links, and it has spread across Reddit, Discord, and similar platforms. The goal is a single piece of information: a login or verification code that hands your account to someone else.… It landed in the last few hours.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Product showcase: Protect your iPhone with McAfee Mobile Security</title>
-      <link>https://www.helpnetsecurity.com/2026/07/09/product-showcase-mcafee-mobile-security-ios/</link>
-      <guid isPermaLink="false">identitybrief-a534f827fcd3fa01</guid>
-      <pubDate>Thu, 09 Jul 2026 05:00:52 +0000</pubDate>
-      <category>fraud</category>
-      <description>McAfee Mobile Security for iOS combines scam protection, web protection, VPN, Wi-Fi security, and device security checks in a single app. It is also available for Android. After downloading the app from the App Store, I created an account and completed a short onboarding process. The app asks whether you want to receive notifications before offering to run… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs</title>
-      <link>http://arxiv.org/abs/2607.07371v1</link>
-      <guid isPermaLink="false">identitybrief-733a24a15ab3403b</guid>
-      <pubDate>Wed, 08 Jul 2026 13:05:19 +0000</pubDate>
-      <category>research</category>
-      <description>The automotive industry is transitioning to Zonal-oriented Architectures (ZoA) for Software-Defined Vehicles (SDVs), enabling frequent over-the-air (OTA) updates for 100+ Electronic Control Units (ECUs). While OTA updates improve efficiency, they introduce safety-critical security risks. Current standards like Uptane and AUTOSAR Adaptive rely on Public-Key… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours</title>
-      <link>https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment</link>
-      <guid isPermaLink="false">identitybrief-76161646416a8be4</guid>
-      <pubDate>Wed, 08 Jul 2026 20:32:22 +0000</pubDate>
-      <category>breach</category>
-      <description>The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Beyond the buzzword: 3 practical steps to achieve least privilege today</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzT1RPNWZaQ1pBUGotQ3UwTzZFbVE5eTFUcGZhSEdvNnY4ZlpQbUJaTzJrZHAzLUZETWhpcU9SVEU5eXk4cTRFems2QmxueDNzbTFFSk96bEFEaXdZbEZtVjVhVFNJNW1m?oc=5</link>
-      <guid isPermaLink="false">identitybrief-218aad33249a0c5c</guid>
-      <pubDate>Wed, 08 Jul 2026 20:43:46 +0000</pubDate>
-      <category>iam</category>
-      <description>Beyond the buzzword: 3 practical steps to achieve least privilege today SailPoint It landed in the last few hours.
-
-— via SailPoint</description>
-    </item>
-    <item>
-      <title>AEPD makes case for alternatives to EUDI Wallet, biometric authentication</title>
-      <link>https://www.biometricupdate.com/202607/aepd-makes-case-for-alternatives-to-eudi-wallet-biometric-authentication</link>
-      <guid isPermaLink="false">identitybrief-b94ef918b0e74167</guid>
-      <pubDate>Tue, 07 Jul 2026 17:29:16 +0000</pubDate>
-      <category>did</category>
-      <description>Spain's data protection watchdog critiques the EUDI Wallet's biometric authentication. It warns of digital exclusion for those without biometric capabilities. However, the debate is region-specific, and the EUDI Wallet remains popular in other parts of the EU.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Amadeus liveness detection for biometric travel passes BixeLab Level 1 and 2 PAD tests</title>
-      <link>https://www.biometricupdate.com/202607/amadeus-liveness-detection-for-biometric-travel-passes-bixelab-level-1-and-2-pad-tests</link>
-      <guid isPermaLink="false">identitybrief-33d7804958557e24</guid>
-      <pubDate>Tue, 07 Jul 2026 19:40:56 +0000</pubDate>
-      <category>fraud</category>
-      <description>Amadeus' liveness detection tech passes BixeLab PAD tests for biometric systems. This is crucial for airports relying on quick, fool-proof identity checks. The limitation: effectiveness hinges on using certified devices, which are not yet universally adopted.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Big Brand Jobs Scam Targets Marketing Pros' Google Accounts</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts</link>
-      <guid isPermaLink="false">identitybrief-c281e65ab05aa96c</guid>
-      <pubDate>Tue, 07 Jul 2026 21:02:29 +0000</pubDate>
-      <category>fraud</category>
-      <description>A phishing scam targets Google Accounts of marketing professionals using clever redirect tactics. It's a stark reminder of how sophisticated phishing tactics have become and the need for vigilance. The downside: it primarily impacts users in the marketing sector.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Bahrain nears complete public service digitalization and MyGov integration</title>
-      <link>https://www.biometricupdate.com/202607/bahrain-nears-complete-public-service-digitalization-and-mygov-integration</link>
-      <guid isPermaLink="false">identitybrief-930f0f1d5f8179d4</guid>
-      <pubDate>Tue, 07 Jul 2026 15:44:41 +0000</pubDate>
-      <category>did</category>
-      <description>Bahrain is close to fully digitizing public services via biometric national IDs. This centralization promises streamlined identity services for citizens. The drawback: full implementation depends on biometric verification, which not all citizens may support or have access to.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Barracuda adds PAM and identity protection with Evo Security acquisition</title>
-      <link>https://www.helpnetsecurity.com/2026/07/07/barracuda-evo-security-acquisition/</link>
-      <guid isPermaLink="false">identitybrief-12d4bf2eeca6b911</guid>
-      <pubDate>Tue, 07 Jul 2026 13:51:15 +0000</pubDate>
-      <category>iam</category>
-      <description>Barracuda Networks expands into PAM with Evo Security acquisition. This enhances their identity security offerings on a single platform. However, integration takes time, and immediate benefit may vary across different enterprise setups.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Webinar tomorrow: Why modern email attacks require a new approach to defense</title>
-      <link>https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/</link>
-      <guid isPermaLink="false">identitybrief-d06bbcc639e55d98</guid>
-      <pubDate>Tue, 07 Jul 2026 12:12:20 +0000</pubDate>
-      <category>fraud</category>
-      <description>A webinar explores using AI to counter modern email threats. This aims to reduce phishing risks with advanced detection. But, it’s theoretical unless organizations adopt and implement these solutions effectively.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Supreme Court allows Texas app law requiring age verification to take effect</title>
-      <link>https://therecord.media/supreme-court-allows-texas-app-law-age-verification-to-take-effect</link>
-      <guid isPermaLink="false">identitybrief-3adca4fee40bb8ed</guid>
-      <pubDate>Tue, 07 Jul 2026 16:05:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>Supreme Court upholds a Texas law making age verification mandatory for app users. This could set a precedent for digital identity and verification standards nationwide. But it's controversial and might face further legal challenges.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Tenda firmware (multiple versions) contains hidden authentication backdoor</title>
-      <link>https://kb.cert.org/vuls/id/213560</link>
-      <guid isPermaLink="false">identitybrief-36af1a570f670a6b</guid>
-      <pubDate>Wed, 08 Jul 2026 00:08:51 +0000</pubDate>
-      <category>auth</category>
-      <description>Tenda firmware has a hidden authentication backdoor across multiple versions. This means certain models can be accessed without proper authentication, posing a significant security risk. The challenge: affected versions need firmware updates urgently, but not all users will update promptly or know how.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Cyber Insider: ExpressVPN adds passkeys on password manager, passes security audit</title>
-      <link>https://fidoalliance.org/cyber-insider-expressvpn-adds-passkeys-on-password-manager-passes-security-audit/</link>
-      <guid isPermaLink="false">identitybrief-2377bc5515875257</guid>
-      <pubDate>Tue, 07 Jul 2026 18:29:56 +0000</pubDate>
-      <category>auth</category>
-      <description>ExpressVPN has integrated passkeys into its password manager and passed a security audit. This move aims to bolster credential security by making weak passwords less relevant. The catch: these updates only benefit ExpressVPN users who adopt the standalone ExpressKeys manager.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Public Review Period for Proposed Implementer’s Drafts of Two OpenID Federation Extensions</title>
-      <link>https://openid.net/public-review-period-for-proposed-implementers-drafts-of-two-openid-federation-extensions/</link>
-      <guid isPermaLink="false">identitybrief-ee406d15e0907bcc</guid>
-      <pubDate>Tue, 07 Jul 2026 10:05:41 +0000</pubDate>
-      <category>auth</category>
-      <description>OpenID Foundation is reviewing drafts for two new federation extensions. These aim to enhance identity federation by streamlining endpoint management. These drafts are still under review and not finalized for broad adoption yet.
-
-— via OpenID Foundation</description>
     </item>
 </channel></rss>
