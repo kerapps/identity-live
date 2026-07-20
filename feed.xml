@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Product showcase: ZoneAlarm Mobile Security adds customizable content filtering to mobile security</title>
+      <link>https://www.helpnetsecurity.com/2026/07/20/product-showcase-zonealarm-mobile-security-adds-customizable-content-filtering-to-mobile-security/</link>
+      <guid isPermaLink="false">identitybrief-3a407d4870491eb5</guid>
+      <pubDate>Mon, 20 Jul 2026 04:30:34 +0000</pubDate>
+      <category>fraud</category>
+      <description>ZoneAlarm Mobile Security is a security app from Check Point designed to protect mobile devices against phishing, malicious websites, unsafe networks, and fraudulent links. It is available for iPhone, iPad, Android, and can run on Apple silicon Macs through the App Store. Getting started The onboarding process begins with a request for notification… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Grocery Outlet stores deploy SAFR facial recognition to ID suspected shoplifters</title>
+      <link>https://www.biometricupdate.com/202607/grocery-outlet-stores-deploy-safr-facial-recognition-to-id-suspected-shoplifters</link>
+      <guid isPermaLink="false">identitybrief-d0f9f4691427213c</guid>
+      <pubDate>Sun, 19 Jul 2026 20:05:20 +0000</pubDate>
+      <category>auth</category>
+      <description>Facial recognition systems are scanning shoppers as they enter a growing number of Grocery Outlet stores in the San Francisco Bay Area, comparing their faces against watchlists of people suspected of theft, violence, or other unlawful conduct. Signs disclosing the use of biometric face-matching software have been documented at Grocery Outlet stores in… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Week in review: High severity WordPress vulnerabilities, fake OAuth IDs bypass sign-in logs</title>
+      <link>https://www.helpnetsecurity.com/2026/07/19/week-in-review-oauth-client-ids-spoofed-sonicwall-sma-appliances-targeted-in-zero-day-attacks/</link>
+      <guid isPermaLink="false">identitybrief-648e4b8b64b7c4a3</guid>
+      <pubDate>Sun, 19 Jul 2026 07:09:58 +0000</pubDate>
+      <category>auth</category>
+      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Two new high severity WordPress vulnerabilities, patch immediately! The 7.0.2 WordPress security release addresses one critical and one high severity security issue. Cynative: Open-source deep research agent Running a large language model against a live cloud…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>More alerts are making your team slower, and an outcome-based SOC fixes that</title>
+      <link>https://www.helpnetsecurity.com/2026/07/20/outcome-based-soc-video/</link>
+      <guid isPermaLink="false">identitybrief-20d5c8ea5396c600</guid>
+      <pubDate>Mon, 20 Jul 2026 05:30:26 +0000</pubDate>
+      <category>breach</category>
+      <description>In this Help Net Security video, Thom Langford, EMEA CTO, Rapid7, explains why piling on more security alerts makes a SOC slower to respond. Attackers log in with stolen credentials and use trusted tools like PowerShell instead of custom malware. He shares a case where attackers called a help desk, reset a privileged cloud account, and exposed thousands of… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent</title>
+      <link>https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html</link>
+      <guid isPermaLink="false">identitybrief-b28632a33ec75ec5</guid>
+      <pubDate>Mon, 20 Jul 2026 05:27:26 +0000</pubDate>
+      <category>breach</category>
+      <description>In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. "We identified unauthorized access to a limited set of internal… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines</title>
+      <link>https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html</link>
+      <guid isPermaLink="false">identitybrief-44e4de974c084c5c</guid>
+      <pubDate>Mon, 20 Jul 2026 05:15:39 +0000</pubDate>
+      <category>auth</category>
+      <description>Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Within line of sight – personal issue police drones are on the horizon</title>
+      <link>https://www.biometricupdate.com/202607/within-line-of-sight-personal-issue-police-drones-are-on-the-horizon</link>
+      <guid isPermaLink="false">identitybrief-b86044ef8e4e3080</guid>
+      <pubDate>Sun, 19 Jul 2026 19:35:33 +0000</pubDate>
+      <category>auth</category>
+      <description>By Professor Fraser Sampson, former UK Biometrics &amp; Surveillance Camera Commissioner The announcement by the Metropolitan Police Service that they are to deploy drones across all 32 London boroughs shouldn’t come as a surprise - at least not to anyone involved in providing police aerial capability. The popular image of police air support is the ‘Blue… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>GoSerpent campaign used coordinated malware chain to steal government files</title>
+      <link>https://www.biometricupdate.com/202607/goserpent-campaign-used-coordinated-malware-chain-to-steal-government-files</link>
+      <guid isPermaLink="false">identitybrief-1d89d4faf0f26fe3</guid>
+      <pubDate>Sun, 19 Jul 2026 19:20:07 +0000</pubDate>
+      <category>breach</category>
+      <description>A previously undocumented malware campaign targeting government and diplomatic organizations in Southeast Asia used a succession of remote access, credential theft and data exfiltration tools designed to remain inside compromised networks for months before removing the information it had collected. Kaspersky said it discovered the activity in February,… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>From Neural Intent to Cryptographic Authorization: Governing Agentic Workflows</title>
+      <link>http://arxiv.org/abs/2607.15596v1</link>
+      <guid isPermaLink="false">identitybrief-223704c2c5b9c8bf</guid>
+      <pubDate>Fri, 17 Jul 2026 03:44:05 +0000</pubDate>
+      <category>research</category>
+      <description>The rapid adoption of artificial intelligence (AI)-driven and agentic workflows is transforming traditional government and enterprise systems into language-based, tool-using and increasingly autonomous infrastructures. Conventional key management services authenticate who may invoke a cryptographic primitive, but remain agnostic to which workflow steps are…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Intentional Electromagnetic Interference Attacks on Facial Recognition</title>
+      <link>http://arxiv.org/abs/2607.15512v1</link>
+      <guid isPermaLink="false">identitybrief-d2fbf46ca58259bb</guid>
+      <pubDate>Thu, 16 Jul 2026 23:55:15 +0000</pubDate>
+      <category>research</category>
+      <description>Attacks on general computer vision algorithms are often relegated to the digital domain, with the optimization performed purely in the digital world and then translated to physical mediums for implementation. In the field of biometrics, including facial recognition, physical presentation attacks targeting biometric sensors are dominant and present…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>DICOMHawk: A Cyber Deception Framework for Medical Imaging Infrastructure</title>
+      <link>http://arxiv.org/abs/2607.15754v1</link>
+      <guid isPermaLink="false">identitybrief-b2cfbad2b94d8a7e</guid>
+      <pubDate>Fri, 17 Jul 2026 08:41:43 +0000</pubDate>
+      <category>research</category>
+      <description>Cyber-attacks against exposed healthcare infrastructure threaten sensitive patient data and clinical operations, yet existing defensive tools for DICOM-based medical imaging systems provide limited interaction and are easily fingerprinted. We introduce DICOMHawk, a cyber-deception framework that emulates DICOM and PACS services using realistic interactions,…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Google fixing Android lock screen bug that lets Gemini send SMS without a PIN</title>
+      <link>https://www.theregister.com/security/2026/07/17/google-fixing-android-lock-screen-bug-that-lets-gemini-send-sms-without-a-pin/5273027</link>
+      <guid isPermaLink="false">identitybrief-debdfef9f9efbb48</guid>
+      <pubDate>Fri, 17 Jul 2026 09:15:00 +0000</pubDate>
+      <category>auth</category>
+      <description>A specific multi-touch gesture bypasses an authentication prompt, allowing anyone to send messages
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files</title>
+      <link>https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html</link>
+      <guid isPermaLink="false">identitybrief-6899f60b43c6c9e3</guid>
+      <pubDate>Fri, 17 Jul 2026 08:56:39 +0000</pubDate>
+      <category>breach</category>
+      <description>ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders. It gets in because someone pasted a command into a Run box and pressed Enter. Microsoft laid out two of the delivery chains on…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Understanding Microsoft Entra ID Group Membership Caching and Azure SQL Authentication Timing</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWlVZ3V2dTBEVmZnODBwZElzenhidEtTZnVBYVNWbkxuM2hkcGJVQ3RDRFc5VEFxc0pDdWdRYkF5bVVmVzZpWklOQ2hseWdHQkpMVEkxTHUtdE9zRW56ckFpM1JKQmZZZVhKY1JlVWtwNUx2ZEp0X0JERjRaOXRWYndGT0pUT0x6Nk9LUlN2ZWtPRUZFS1VlZ2pMX2dEcDJSSjFPTmJNZ1FCTEM5STJSRGpFX0EzbkJ5eVNTVmstX2lJYkRwandZWVZHSWpsV1lmSk9BeDItYjZja0FZ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-16a5c6ab4a67fa73</guid>
+      <pubDate>Fri, 17 Jul 2026 10:19:34 +0000</pubDate>
+      <category>auth</category>
+      <description>Understanding Microsoft Entra ID Group Membership Caching and Azure SQL Authentication Timing Microsoft Community Hub
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Age assurance explained: The laws reshaping the internet</title>
       <link>https://www.biometricupdate.com/202607/age-assurance-explained-the-laws-reshaping-the-internet</link>
       <guid isPermaLink="false">identitybrief-dc5ac52f6e30bb0f</guid>
@@ -1362,145 +1502,5 @@
       <description>Carlsbad, Calif., July 9, 2026 – The FIDO Alliance has announced the agenda for Authenticate U.S. 2026, the only industry conference dedicated to digital identity and authentication. The event will […]
 
 — via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Public Review Period for Proposed Implementer’s Draft of OpenID Connect Key Binding</title>
-      <link>https://openid.net/public-review-period-for-proposed-implementers-draft-of-openid-connect-key-binding/</link>
-      <guid isPermaLink="false">identitybrief-0511a333046b885a</guid>
-      <pubDate>Thu, 09 Jul 2026 18:51:07 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Connect Working Group recommends approval of the following specification as an OpenID Implementer’s Draft: OpenID Connect Key Binding 1.0 This would be the first Implementer’s Draft of this specification. An Implementer’s Draft is a stable version of a specification providing intellectual property protections to implementers of the specification.… It landed in the last few hours.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>As AltID launches, Danish media seek OIDF view</title>
-      <link>https://openid.net/as-altid-launches-danish-media-seek-oidf-view/</link>
-      <guid isPermaLink="false">identitybrief-88a1cf2cf246b5cb</guid>
-      <pubDate>Thu, 09 Jul 2026 08:46:23 +0000</pubDate>
-      <category>did</category>
-      <description>Denmark’s launch of AltID, a government-backed digital wallet, prompted questions about what the new technology means for citizens and how it differs from existing digital identity systems. Major Danish national media outlets, including DR, reported on the new technology. Several leading publications, including Ekstra Bladet, Input Magazine, Mere Mobil and…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Mini-Programs, Mega-Problems: Unveiling OAuth-based Authentication Misuses in Mini-Programs via Dynamic Analysis</title>
-      <link>http://arxiv.org/abs/2607.08232v1</link>
-      <guid isPermaLink="false">identitybrief-7218350fb2f04fca</guid>
-      <pubDate>Thu, 09 Jul 2026 08:28:57 +0000</pubDate>
-      <category>research</category>
-      <description>Mini-programs have become a dominant paradigm for lightweight application deployment within super apps such as WeChat. To support seamless integration, super apps provide OAuth mechanisms for user login. However, improper integration of OAuth-based Authentication (OBA) flows by third-party developers can lead to critical security flaws. In this paper, we…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members to log into ChatGPT accounts</title>
-      <link>https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</link>
-      <guid isPermaLink="false">identitybrief-2be5a727c802d551</guid>
-      <pubDate>Thu, 09 Jul 2026 21:45:00 +0000</pubDate>
-      <category>breach</category>
-      <description>The rapid advancement of AI is changing the global cybersecurity landscape. As these technologies become more powerful, safeguarding access to them is increasingly critical — particularly for the security researchers and defenders working to identify vulnerabilities, strengthen software and improve cyber resilience. People need advanced account protection… It landed in the last few hours.
-
-— via Yubico</description>
-    </item>
-    <item>
-      <title>Parsons launches multimodal biometric identity platform</title>
-      <link>https://www.biometricupdate.com/202607/parsons-launches-multimodal-biometric-identity-platform</link>
-      <guid isPermaLink="false">identitybrief-d42a5b869c5fd439</guid>
-      <pubDate>Wed, 08 Jul 2026 18:09:44 +0000</pubDate>
-      <category>fraud</category>
-      <description>Parsons Corporation has launched AresNXT, a new biometric identity management platform designed for use in critical infrastructure, national security operations, and large public events, expanding the company’s role in a market increasingly built around rapid identity verification in the field. The Chantilly, Virginia-based company said AresNXT can collect,…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Advice from the MOSIP ecosystem, from biometric quality to sustainability</title>
-      <link>https://www.biometricupdate.com/202607/advice-from-the-mosip-ecosystem-from-biometric-quality-to-sustainability</link>
-      <guid isPermaLink="false">identitybrief-6debb22449b28a9c</guid>
-      <pubDate>Wed, 08 Jul 2026 18:38:19 +0000</pubDate>
-      <category>did</category>
-      <description>MOSIP has gained traction as an option for countries establishing or upgrading digital identity systems due to its promise of reduced cost through the flexibility and shared resources made possible by open-source ecosystems. Governments considering adopting MOSIP and the biometrics and identity technology providers that serve them are still grappling with… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>UK Digital ID sector analysis shows tentative growth amid political change</title>
-      <link>https://www.biometricupdate.com/202607/uk-digital-id-sector-analysis-shows-tentative-growth-amid-political-change</link>
-      <guid isPermaLink="false">identitybrief-310360a5b17baa57</guid>
-      <pubDate>Wed, 08 Jul 2026 18:32:28 +0000</pubDate>
-      <category>did</category>
-      <description>The UK digital identity market sits in a kind of limbo . As Keir Starmer prepares to step down as prime minister, his government’s signature digital ID policy suddenly finds itself adrift: an easy target for opponents and competitors to point to as a bungled effort, fraught with miscues and U-turns. The private sector remains unsatisfied that certified… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>3 Ways AI Powers Service Desk Attacks and How to Prevent Them</title>
-      <link>https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/</link>
-      <guid isPermaLink="false">identitybrief-cb85be529cc25b36</guid>
-      <pubDate>Wed, 08 Jul 2026 14:01:11 +0000</pubDate>
-      <category>fraud</category>
-      <description>Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>The Verification Step Is the New ATO Battleground in 2026</title>
-      <link>https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html</link>
-      <guid isPermaLink="false">identitybrief-077d2e7f408e0277</guid>
-      <pubDate>Wed, 08 Jul 2026 11:30:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers gave up, but because the front door finally got harder to…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Deepfakes, mobile IDs, and quantum threats: IDEMIA’s top trends</title>
-      <link>https://identityweek.net/deepfakes-mobile-ids-and-quantum-threats-idemias-top-trends/</link>
-      <guid isPermaLink="false">identitybrief-1a9cc4305678957a</guid>
-      <pubDate>Wed, 08 Jul 2026 10:56:30 +0000</pubDate>
-      <category>fraud</category>
-      <description>Teresa Wu, Vice President at IDEMIA, sat down with our Editor in 2024 to discuss how the industry is navigating the massive influx of artificial intelligence, shifting consumer expectations, and looming next-generation threats. According to Wu, the sector is locked in a high-stakes arms race, forcing identity providers to constantly innovate to stay ahead…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/</link>
-      <guid isPermaLink="false">identitybrief-8b694e83f79c5f4a</guid>
-      <pubDate>Wed, 08 Jul 2026 19:54:59 +0000</pubDate>
-      <category>auth</category>
-      <description>Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Blackpoint AI SOC Agent autonomously contains identity-based attacks</title>
-      <link>https://www.helpnetsecurity.com/2026/07/08/blackpoint-cyber-ai-soc-agent/</link>
-      <guid isPermaLink="false">identitybrief-655afdc410a1ee1d</guid>
-      <pubDate>Wed, 08 Jul 2026 13:32:54 +0000</pubDate>
-      <category>auth</category>
-      <description>Blackpoint Cyber has unveiled the generally available autonomous response capability, Blackpoint AI SOC Agent for identity threat detection and response (ITDR). Using an AI + human hybrid model, the AI SOC Agent acts on high-confidence threats targeting Microsoft 365 and Google Workspace accounts, enabling Blackpoint to contain credential-based attacks in…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Errata to OpenID Identity Assurance Specifications Approved</title>
-      <link>https://openid.net/errata-to-openid-identity-assurance-specifications-approved/</link>
-      <guid isPermaLink="false">identitybrief-03b9ac7d774a18bb</guid>
-      <pubDate>Wed, 08 Jul 2026 19:09:11 +0000</pubDate>
-      <category>auth</category>
-      <description>Errata to the following specifications have been approved by a vote of the OpenID Foundation members: First Errata Set for OpenID Connect for Identity Assurance 1.0: This extension to OpenID Connect standardizes how relying parties request and receive identity information with additional assurance metadata. First Errata Set for OpenID Identity Assurance… It landed in the last few hours.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>The fake report message that ends with a stolen Reddit account</title>
-      <link>https://www.helpnetsecurity.com/2026/07/09/reddit-false-report-scam-direct-message/</link>
-      <guid isPermaLink="false">identitybrief-500b888e90678dea</guid>
-      <pubDate>Thu, 09 Jul 2026 05:30:10 +0000</pubDate>
-      <category>auth</category>
-      <description>A direct message arrives on Reddit from a stranger, and it invites a reply. That reply is the point. This scheme runs on social engineering, with no malware and no malicious links, and it has spread across Reddit, Discord, and similar platforms. The goal is a single piece of information: a login or verification code that hands your account to someone else.… It landed in the last few hours.
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
