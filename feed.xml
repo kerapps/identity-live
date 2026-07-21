@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>BixeLab to unveil biometric assurance management platform, share trust insights</title>
+      <link>https://www.biometricupdate.com/202607/bixelab-to-unveil-biometric-assurance-management-platform-share-trust-insights</link>
+      <guid isPermaLink="false">identitybrief-64389ac663a4dcbf</guid>
+      <pubDate>Mon, 20 Jul 2026 19:45:14 +0000</pubDate>
+      <category>did</category>
+      <description>Emerging threats like deepfakes and sophisticated synthetic identities pose new challenges to biometric systems, and to maintaining trust in them. But there are ways biometrics providers can show trustworthiness and indications organizations can look for, and Australia-based global biometrics testing leader BixeLab will explore them in a webinar hosted by… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>iiDENTIFii, IDEX strengthen leadership teams; Token, GLEIF add advisors</title>
+      <link>https://www.biometricupdate.com/202607/iidentifii-idex-strengthen-leadership-teams-token-gleif-add-advisors</link>
+      <guid isPermaLink="false">identitybrief-51889dad2805fee8</guid>
+      <pubDate>Mon, 20 Jul 2026 18:43:28 +0000</pubDate>
+      <category>did</category>
+      <description>Identity and biometrics companies are continuing to strengthen their leadership teams as the market shifts toward AI-driven fraud prevention, trusted digital identity infrastructure and commercial scale. South African identity verification provider iiDENTIFii has appointed co-founder and former CTO Marco Wagener as CEO, formalizing a leadership transition… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ATARC publishes implementation guide for NIST SP 800-63-4</title>
+      <link>https://www.biometricupdate.com/202607/atarc-publishes-implementation-guide-for-nist-sp-800-63-4</link>
+      <guid isPermaLink="false">identitybrief-1821f31c5a5c0a25</guid>
+      <pubDate>Mon, 20 Jul 2026 19:38:41 +0000</pubDate>
+      <category>did</category>
+      <description>Organizations preparing to implement NIST SP 800-63-4 now have a practical roadmap to accompany the new digital identity standard. This month, the ATARC Identity Management Working Group published “ Implementation Guide: Transitioning from NIST SP 800-63-3 to SP 800-63-4 ,” a companion document that translates NIST’s requirements into actionable… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Estée Lauder discloses data breach via Oracle E-Business flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/</link>
+      <guid isPermaLink="false">identitybrief-caf1df38cdcc8be9</guid>
+      <pubDate>Mon, 20 Jul 2026 22:39:30 +0000</pubDate>
+      <category>breach</category>
+      <description>Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Italy fines WINDTRE €1.7 million over security flaws behind two data breaches</title>
+      <link>https://www.helpnetsecurity.com/2026/07/20/italy-windtre-1-7-million-fine/</link>
+      <guid isPermaLink="false">identitybrief-643dbbb2ec2c93df</guid>
+      <pubDate>Mon, 20 Jul 2026 13:19:05 +0000</pubDate>
+      <category>breach</category>
+      <description>Italy’s data protection authority, the Garante per la Protezione dei Dati Personali, fined WINDTRE €1.7 million over “serious data security shortcomings” that let hackers breach its systems twice and exfiltrate personal data belonging to more than 365,000 customers. The regulator opened its investigation after WINDTRE, one of Italy’s major telecom…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Attackers Combo Up Evasion Tactics for BEC Phishing</title>
+      <link>https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing</link>
+      <guid isPermaLink="false">identitybrief-b5c91208390dc121</guid>
+      <pubDate>Mon, 20 Jul 2026 18:30:22 +0000</pubDate>
+      <category>breach</category>
+      <description>"The TFF Trap" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign</title>
+      <link>https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html</link>
+      <guid isPermaLink="false">identitybrief-010b054fbb789b70</guid>
+      <pubDate>Mon, 20 Jul 2026 17:29:50 +0000</pubDate>
+      <category>breach</category>
+      <description>A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AI agents are still logging in as humans</title>
+      <link>https://www.helpnetsecurity.com/2026/07/21/report-enterprise-ai-identity-risk/</link>
+      <guid isPermaLink="false">identitybrief-1f8b9ef184f4d34c</guid>
+      <pubDate>Tue, 21 Jul 2026 04:30:16 +0000</pubDate>
+      <category>iam</category>
+      <description>Most large companies run more than one AI platform at the same time. Developers pull up coding assistants, marketing teams lean on writing tools, and analysts query enterprise search across separate vendors. Single-provider setups keep giving way to mixed stacks as companies keep their options open. Sanctioned tools and personal accounts sit side by side… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>New ACR Stealer campaigns use WebDAV, MSHTA to evade detection</title>
+      <link>https://www.csoonline.com/article/4198788/new-acr-stealer-campaigns-use-webdav-mshta-to-evade-detection.html</link>
+      <guid isPermaLink="false">identitybrief-cdb2cfa267a388b8</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:24 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft has issued a warning about a recent surge in ACR Stealer activity that uses ClickFix-style social engineering to steal credentials, browser data, and sensitive business documents. In a new report, Microsoft researchers detailed two separate campaigns observed between late April and mid-June 2026 that use different execution techniques for the same…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>ServiceNow pre-auth RCE exploited in the wild (CVE-2026-6875)</title>
+      <link>https://www.helpnetsecurity.com/2026/07/20/servicenow-cve-2026-6875-exploited/</link>
+      <guid isPermaLink="false">identitybrief-546406b28f4fee0e</guid>
+      <pubDate>Mon, 20 Jul 2026 14:32:31 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers have begun exploiting CVE-2026-6875, a critical pre-authentication vulnerability in the ServiceNow AI Platform, according to threat intelligence firm Defused. About the vulnerability ServiceNow AI is a Platform-as-a-Service that lets organizations build and automate digital workflows. CVE-2026-6875 is a code injection vulnerability that lets…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Patch now: WordPress REST API bug allows remote code execution</title>
+      <link>https://www.csoonline.com/article/4198791/patch-now-wordpress-rest-api-bug-allows-remote-code-execution.html</link>
+      <guid isPermaLink="false">identitybrief-34f3eb71aa952514</guid>
+      <pubDate>Mon, 20 Jul 2026 12:30:13 +0000</pubDate>
+      <category>breach</category>
+      <description>Organizations running recent versions of WordPress are being asked to patch a newly detailed pre-authentication remote code execution (RCE) vulnerability affecting the platform’s built-in REST Batch API. The flaw, dubbed wp2shell, enables attackers to execute arbitrary code against a default WordPress installation without requiring plugins, authentication,…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Hugging Face warns an autonomous AI agent hacked its network</title>
+      <link>https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/</link>
+      <guid isPermaLink="false">identitybrief-30f739b6778a83b7</guid>
+      <pubDate>Mon, 20 Jul 2026 11:56:28 +0000</pubDate>
+      <category>breach</category>
+      <description>The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcri</title>
+      <link>http://arxiv.org/abs/2607.17147v1</link>
+      <guid isPermaLink="false">identitybrief-249ba25d1b0b1c01</guid>
+      <pubDate>Sun, 19 Jul 2026 09:13:08 +0000</pubDate>
+      <category>research</category>
+      <description>LLM agents can leak privacy (e.g., paths, emails) and credentials (e.g., API keys) as agent observations (e.g., tool outputs, shell logs, and file reads) are appended to provider-bound transcripts. Existing placeholder redaction is brittle: it can miss embedded or cross-turn references, over-redact benign lookalikes, and destroy the structure useful for… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Why KYC is Important (and What it Actually Means)</title>
+      <link>https://www.jumio.com/kyc-know-your-customer/</link>
+      <guid isPermaLink="false">identitybrief-fe2a31a533daa276</guid>
+      <pubDate>Mon, 20 Jul 2026 11:00:30 +0000</pubDate>
+      <category>fraud</category>
+      <description>In a world where financial crime and identity fraud are more sophisticated than ever, Know Your Customer (KYC) regulations have become the foundation of modern compliance programs. But for many, the term remains vague; something mentioned during account sign-ups or whispered during onboarding discussions. So, why is KYC important, really? KYC is a process…
+
+— via Jumio</description>
+    </item>
+    <item>
       <title>Product showcase: ZoneAlarm Mobile Security adds customizable content filtering to mobile security</title>
       <link>https://www.helpnetsecurity.com/2026/07/20/product-showcase-zonealarm-mobile-security-adds-customizable-content-filtering-to-mobile-security/</link>
       <guid isPermaLink="false">identitybrief-3a407d4870491eb5</guid>
@@ -1362,145 +1502,5 @@
       <description>Workato has announced two new capabilities for Agent Studio: Headless API and Agent Guardrails. Headless API lets Genies, Workato’s AI agents built on Agent Studio, be embedded into any business application surface, on web, mobile, or inside another agent’s own environment. Agent Guardrails are configurable to the business and ensure that wherever a Genie…
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>AI Gateways Offer Attackers the Keys to the Kingdom</title>
-      <link>https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom</link>
-      <guid isPermaLink="false">identitybrief-58bfb84988460a81</guid>
-      <pubDate>Thu, 09 Jul 2026 13:01:00 +0000</pubDate>
-      <category>iam</category>
-      <description>A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Palo Alto Networks Patches 13 Vulnerabilities</title>
-      <link>https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/</link>
-      <guid isPermaLink="false">identitybrief-48d592c1d2782ebb</guid>
-      <pubDate>Thu, 09 Jul 2026 13:49:42 +0000</pubDate>
-      <category>auth</category>
-      <description>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software. The post Palo Alto Networks Patches 13 Vulnerabilities appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Threshold Authorization Without Threshold Signatures: Signature-Agnostic MPC Custody</title>
-      <link>http://arxiv.org/abs/2607.08226v1</link>
-      <guid isPermaLink="false">identitybrief-7dee3c654b1291a8</guid>
-      <pubDate>Thu, 09 Jul 2026 08:20:45 +0000</pubDate>
-      <category>research</category>
-      <description>Digital-asset custody has been built on threshold multi-party approval: no operation proceeds unless $t$ of $n$ parties approve, and fewer than t compromised parties can neither authorize nor learn the authorization secret. Threshold signature schemes (TSS) have been the standard mechanism, but the post-quantum transition disrupts this model: standardized…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Don’t bring exposed developer credentials to Black Hat</title>
-      <link>https://1password.com/blog/developer-credential-security-black-hat-2026</link>
-      <guid isPermaLink="false">identitybrief-9a6f8221acd68549</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Black Hat is where the security industry gathers to compare notes on what works. In recent years, supply chain attacks have been a recurring topic, and the 2026 Verizon Data Breach Investigations Report shows security teams are struggling to find a solution. According to the report, third-party involvement increased by 60% over the last year and now…
-
-— via 1Password</description>
-    </item>
-    <item>
-      <title>Only 28% of financial workforce MFA is phishing-resistant</title>
-      <link>https://www.helpnetsecurity.com/2026/07/10/financial-identity-security-trends-report/</link>
-      <guid isPermaLink="false">identitybrief-50adaca10a96403b</guid>
-      <pubDate>Fri, 10 Jul 2026 04:30:59 +0000</pubDate>
-      <category>breach</category>
-      <description>Passwords remain part of many workforce authentication flows in financial organizations, making phishing and credential theft major identity security risks, according to a new Secret Double Octopus report. Key challenges preventing universal implementation of phishing-resistant MFA (Source: Secret Double Octopus) Workforce authentication trends Banks and… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Turning software supply chain security into a daily habit</title>
-      <link>https://www.helpnetsecurity.com/2026/07/10/software-supply-chain-security-video/</link>
-      <guid isPermaLink="false">identitybrief-8bb8c5e1c1971b05</guid>
-      <pubDate>Fri, 10 Jul 2026 05:30:03 +0000</pubDate>
-      <category>breach</category>
-      <description>In this Help Net Security video, Anastasia Tikhonova, Global Threat Research Lead at Group-IB, explains how to operationalize software supply chain risk. Instead of filing an SBOM away as a compliance document, she argues teams should use it every day for vulnerability triage, vendor access reviews, identity monitoring, and incident response. Drawing on… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Dock Labs maps where the EUDI Wallet market begins</title>
-      <link>https://www.biometricupdate.com/202607/dock-labs-maps-where-the-eudi-wallet-market-begins</link>
-      <guid isPermaLink="false">identitybrief-2f55a8330789a976</guid>
-      <pubDate>Thu, 09 Jul 2026 21:51:24 +0000</pubDate>
-      <category>did</category>
-      <description>It’s going to change the world. That’s the verdict of Dock Lab ’s Richard Esplin, as he and colleague Agne Caunt looked at “what actually matters” when it comes to the EU Digital Identity Wallet. In a webinar focused on practical steps, the two acknowledged the growing need for guidance on mobile driver’s licenses (mDLs) and the European Digital ID (EUDI)… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Boom ID integrates Innovatrics’ palm biometrics for mobile enterprise authorization</title>
-      <link>https://www.biometricupdate.com/202607/boom-id-integrates-innovatrics-palm-biometrics-for-mobile-enterprise-authorization</link>
-      <guid isPermaLink="false">identitybrief-e1bcd5f51b904a8d</guid>
-      <pubDate>Thu, 09 Jul 2026 21:33:51 +0000</pubDate>
-      <category>fraud</category>
-      <description>Startup Boom ID has integrated palm recognition capabilities from Innovatrics to bring contactless biometric authentication and transaction authorization on user’s mobile devices to the enterprise. The partnership brings together two parts of the identity stack. Innovatrics provides the biometric layer through its contactless palm biometrics and liveness… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>AWS gives its ERP agent deny-by-default rules and a separate identity</title>
-      <link>https://www.helpnetsecurity.com/2026/07/10/aws-agentic-ai-erp-automation/</link>
-      <guid isPermaLink="false">identitybrief-0a72a34f9fe27c0b</guid>
-      <pubDate>Fri, 10 Jul 2026 05:00:52 +0000</pubDate>
-      <category>iam</category>
-      <description>Accounts receivable teams at large companies spend hours each day matching incoming bank payments to invoices by hand. When those payments sit unmatched for days, cash flow suffers and days sales outstanding climbs. The same pattern repeats across blocked invoices, purchase order approval holds, month-end close, and intercompany reconciliations in almost… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>New Helix vishing group emerges in SharePoint data theft attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/</link>
-      <guid isPermaLink="false">identitybrief-dd7216551ed6bf6c</guid>
-      <pubDate>Thu, 09 Jul 2026 17:08:29 +0000</pubDate>
-      <category>breach</category>
-      <description>A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Digital travel credentials to top 1.2B users by 2035, passports remain until 2040</title>
-      <link>https://www.biometricupdate.com/202607/digital-travel-credentials-to-top-1-2b-users-by-2035-passports-remain-until-2040</link>
-      <guid isPermaLink="false">identitybrief-a5f788d85e02e25c</guid>
-      <pubDate>Thu, 09 Jul 2026 14:23:22 +0000</pubDate>
-      <category>did</category>
-      <description>Digital travel credentials (DTC) are set for explosive growth over the next decade, with global adoption projected to exceed 1.2 billion passengers by 2035, according to new research from Juniper Research. The figure marks a jump from 105.4 million in 2027, representing growth of more than 1,000 percent. “The technical components of biometric travel are…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>AI Agents Are a New Kind of Identity &amp;amp; Most Organizations Aren't Ready</title>
-      <link>https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready</link>
-      <guid isPermaLink="false">identitybrief-4f92c195b6dedcb0</guid>
-      <pubDate>Thu, 09 Jul 2026 19:16:02 +0000</pubDate>
-      <category>iam</category>
-      <description>If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
-      <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
-      <guid isPermaLink="false">identitybrief-b9c20bf1d216f301</guid>
-      <pubDate>Thu, 09 Jul 2026 16:49:02 +0000</pubDate>
-      <category>auth</category>
-      <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in -…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>FIDO Alliance Releases Authenticate U.S. 2026 Agenda</title>
-      <link>https://fidoalliance.org/fido-alliance-releases-authenticate-u-s-2026-agenda/</link>
-      <guid isPermaLink="false">identitybrief-846cff8c6c74000f</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-      <category>did</category>
-      <description>Carlsbad, Calif., July 9, 2026 – The FIDO Alliance has announced the agenda for Authenticate U.S. 2026, the only industry conference dedicated to digital identity and authentication. The event will […]
-
-— via FIDO Alliance</description>
     </item>
 </channel></rss>
