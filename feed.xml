@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Nigeria’s ID authority takes on new duties to secure growing digital ecosystem</title>
+      <link>https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem</link>
+      <guid isPermaLink="false">identitybrief-fb9a155c492578fd</guid>
+      <pubDate>Tue, 21 Jul 2026 20:25:48 +0000</pubDate>
+      <category>did</category>
+      <description>Nigeria has taken steps to consolidate its digital identity system under the National Identity Management Commission (NIMC) as it operationalizes its legal framework. NIMC is taking responsibility for the country’s public key infrastructure (PKI) from the National Information Technology Development Agency, even as more digital services become available to… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>IAD, zero-retention biometrics can bridge EU-UK governance gap</title>
+      <link>https://www.biometricupdate.com/202607/iad-zero-retention-biometrics-can-bridge-eu-uk-governance-gap</link>
+      <guid isPermaLink="false">identitybrief-d0351459a189bf2c</guid>
+      <pubDate>Tue, 21 Jul 2026 21:14:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Threats tend to wax and wane, especially in tech, where constant innovation drives advances in fraud. Early in 2025, the UK government declared deepfakes to be “ the greatest challenge of the online age ” – a scourge requiring urgent attention from legislators and biometrics providers. Deepfake detection was about to come into its own. A year and half… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Auror expands UK facial recognition rollout for violent retail offenders</title>
+      <link>https://www.biometricupdate.com/202607/auror-expands-uk-facial-recognition-rollout-for-violent-retail-offenders</link>
+      <guid isPermaLink="false">identitybrief-5b06ebc795017688</guid>
+      <pubDate>Tue, 21 Jul 2026 20:43:21 +0000</pubDate>
+      <category>auth</category>
+      <description>Auror has rolled out a new facial recognition system in UK stores that aims to reduce violent retail crime by giving staff real‑time alerts about known high‑harm offenders. Auror Subject Recognition uses retailers’ existing crime data and applies facial recognition solely for crime prevention and store safety, with retailer-controlled watchlists, human… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Police dismantle Kratos phishing platform, arrest developer</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/</link>
+      <guid isPermaLink="false">identitybrief-780698129ccf9633</guid>
+      <pubDate>Tue, 21 Jul 2026 23:07:33 +0000</pubDate>
+      <category>breach</category>
+      <description>Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Teleport enhances Identity Security platform with new AI agent behavior controls</title>
+      <link>https://www.helpnetsecurity.com/2026/07/21/teleport-identity-security-platform-expanded/</link>
+      <guid isPermaLink="false">identitybrief-218ca01e653726e1</guid>
+      <pubDate>Tue, 21 Jul 2026 14:05:50 +0000</pubDate>
+      <category>research</category>
+      <description>Teleport has expanded its Identity Security platform with three new capabilities designed to ensure that agent behavior remains within defined boundaries: Beams Session Summaries, Agentic Classifiers, and Risk Scoring. They give enterprises a foundational harness for identifying and preventing agent misalignment as autonomous agents take on greater…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Closing the Identity Gaps in Critical Infrastructure Security</title>
+      <link>https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/</link>
+      <guid isPermaLink="false">identitybrief-a6ff42a695cfc2ef</guid>
+      <pubDate>Tue, 21 Jul 2026 14:00:10 +0000</pubDate>
+      <category>breach</category>
+      <description>Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Shufti simplifies cross-border compliance with the Glocal Platform</title>
+      <link>https://www.helpnetsecurity.com/2026/07/21/shufti-simplifies-cross-border-compliance-with-the-glocal-platform/</link>
+      <guid isPermaLink="false">identitybrief-a8fd06bad539ce00</guid>
+      <pubDate>Tue, 21 Jul 2026 11:06:36 +0000</pubDate>
+      <category>fraud</category>
+      <description>Shufti has launched the Shufti Glocal Platform, a compliance lifecycle management solution designed to help organizations manage identity verification, fraud prevention, risk assessment, and regulatory compliance through a single platform across every industry, every region, and every use case. For decades, global expansion has come with an unwritten rule:…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Japan-EU pilot succeeds to move cross-border credential presentation, issuance and verification</title>
+      <link>https://identityweek.net/japan-eu-pilot-succeeds-to-move-cross-border-credential-presentation-issuance-and-verification/</link>
+      <guid isPermaLink="false">identitybrief-67de4bd2c6dee9f0</guid>
+      <pubDate>Tue, 21 Jul 2026 11:05:00 +0000</pubDate>
+      <category>did</category>
+      <description>A pilot initiative between Japan and the EU has successfully implemented cross-border credential presentation, issuance and verification scenarios. The pilot will test the feasibility of cross border exchange – interoperability – of learning credentials between the EU digital ID Wallet and the Japanese environment. As the EU digital Wallet development and…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access</title>
+      <link>https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html</link>
+      <guid isPermaLink="false">identitybrief-76c3e9e80b2c3760</guid>
+      <pubDate>Tue, 21 Jul 2026 14:04:57 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Critical Palo Alto VPN bug now exploited by Qilin ransomware gang</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/</link>
+      <guid isPermaLink="false">identitybrief-a3309e460c94dd20</guid>
+      <pubDate>Tue, 21 Jul 2026 10:12:24 +0000</pubDate>
+      <category>breach</category>
+      <description>The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Opaque, Interoperable Passkey Records (and a Go API)</title>
+      <link>https://words.filippo.io/passkey-record/</link>
+      <guid isPermaLink="false">identitybrief-23c6e441fd161fb1</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:29 +0000</pubDate>
+      <category>auth</category>
+      <description>It's pulling 40pts/day — real momentum for something this new, not a one-day spike. Still under the radar (52pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>PTSan: A Practical Memory Safety Sanitizer for C/C++ with Pointer-Object Authority</title>
+      <link>http://arxiv.org/abs/2607.19246v1</link>
+      <guid isPermaLink="false">identitybrief-ffc8b5accfca15c2</guid>
+      <pubDate>Tue, 21 Jul 2026 16:16:27 +0000</pubDate>
+      <category>research</category>
+      <description>Memory safety errors remain the dominant source of severe vulnerabilities in C and C++. Pointer-based sanitizers provide stronger guarantees than location-based tools such as LLVM's ASan, but their overhead and compatibility limitations have constrained production use. We present PTSan, an LLVM sanitizer that makes pointer-based checking practical by…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Kratos phishing-as-a-service kit loses its battle with international law enforcement</title>
+      <link>https://www.theregister.com/security/2026/07/21/german-authorities-lead-takedown-of-kratos-phishing-platform/5275666</link>
+      <guid isPermaLink="false">identitybrief-8b37ada23ba0c7b6</guid>
+      <pubDate>Tue, 21 Jul 2026 16:17:54 +0000</pubDate>
+      <category>breach</category>
+      <description>Alleged developer arrested in Indonesia after more than 200 servers slain
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Beyond the login: Top 3 things developers need to know about YubiKey 5.8</title>
+      <link>https://www.yubico.com/blog/beyond-the-login-top-3-things-developers-need-to-know-about-yubikey-5-8/</link>
+      <guid isPermaLink="false">identitybrief-3ac0b68b0eac88b0</guid>
+      <pubDate>Tue, 21 Jul 2026 13:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>With today’s launch of the YubiKey 5.8, we’re excited to continue efforts toward shifting passkeys from a mechanism for trusted authentication into a standard for verifiable, digital authorization. For organizations and developers, YubiKey 5.8 now expands the role of identity from simply verifying who a user is to authorizing what they can do with verified…
+
+— via Yubico</description>
+    </item>
+    <item>
       <title>BixeLab to unveil biometric assurance management platform, share trust insights</title>
       <link>https://www.biometricupdate.com/202607/bixelab-to-unveil-biometric-assurance-management-platform-share-trust-insights</link>
       <guid isPermaLink="false">identitybrief-64389ac663a4dcbf</guid>
@@ -1362,145 +1502,5 @@
       <description>Securing human identity is the foundation of national security, global commerce, and technological trust. Identity Week America 2026 will draw over 3,000 professionals, 250 exhibitors, and a powerful line-up of speakers, serving as the convergence point for the entire identity ecosystem. Across two days, technologists, leaders, and policymakers will anchor…
 
 — via Identity Week</description>
-    </item>
-    <item>
-      <title>Prismata: Confining Cross-Site Prompt Injection in Web Agents</title>
-      <link>http://arxiv.org/abs/2607.08147v1</link>
-      <guid isPermaLink="false">identitybrief-dd74814031f9bd91</guid>
-      <pubDate>Thu, 09 Jul 2026 06:37:52 +0000</pubDate>
-      <category>research</category>
-      <description>Autonomous web agents promise to automate everyday browsing tasks, but inherit one of the web's oldest attack surfaces. Cross-Site Scripting proved that mixing trusted and untrusted content is dangerous, even on benign pages. Agents resurface this risk by interpreting natural language as instructions, allowing third-party and user-generated content to…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Calls to suspend EES during peak travel chaos and absence of border staff</title>
-      <link>https://identityweek.net/calls-to-suspend-ees-during-peak-travel-chaos-and-absence-of-border-staff/</link>
-      <guid isPermaLink="false">identitybrief-5078cf40d4949b2e</guid>
-      <pubDate>Thu, 09 Jul 2026 11:18:11 +0000</pubDate>
-      <category>auth</category>
-      <description>The Entry/Exit System, the digital information system for checking EU documents, is causing disruption for travellers during the peak holiday season, months after its deployment. Not only are the queues getting longer, prompting airports and airlines to call for the checks to be suspended, frustrated travellers are complaining that border officials are…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Modeling Failure Dynamics in Time-Constrained Authentication Systems: Evidence of a Success Cliff in USSD Workflows</title>
-      <link>http://arxiv.org/abs/2607.07650v1</link>
-      <guid isPermaLink="false">identitybrief-eea5f4fa21f1db44</guid>
-      <pubDate>Wed, 08 Jul 2026 17:06:30 +0000</pubDate>
-      <category>research</category>
-      <description>Time-constrained interactive systems such as USSD (Unstructured Supplementary Service Data)-based financial services operate under strict session limits and sequential user interaction. While stronger authentication mechanisms improve security, they also increase interaction complexity and time burden, potentially reducing transaction completion. In this…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>What FedRAMP High authorization actually proves about identity risk</title>
-      <link>https://delinea.com/blog/fedramp-high-authorization-proves-about-identity-risk</link>
-      <guid isPermaLink="false">identitybrief-06de71bc5d163f58</guid>
-      <pubDate>Wed, 08 Jul 2026 12:00:03 +0000</pubDate>
-      <category>iam</category>
-      <description>The biggest identity risk in Federal environments probably isn’t human Ask a Federal CISO what their biggest identity risk is right now, and most will say AI. Non-human identities (NHIs), service accounts, bots, and now AI agents out number Federal personnel by more than 20 to 1, per Federal News Network’s recent reporting on Federal insider risk . The…
-
-— via Delinea</description>
-    </item>
-    <item>
-      <title>Incode brings on-device processing to age estimation for privacy-focused verification</title>
-      <link>https://www.helpnetsecurity.com/2026/07/10/incode-on-device-age-estimation/</link>
-      <guid isPermaLink="false">identitybrief-1a8c75466ad3f6cb</guid>
-      <pubDate>Fri, 10 Jul 2026 12:24:18 +0000</pubDate>
-      <category>did</category>
-      <description>Incode has launched On-Device Age Estimation, an age verification capability that performs age estimation and liveness detection directly on the user’s device, without transmitting facial data off the device. The company’s age estimation models are now available to run entirely on-device. The solution combines on-device age estimation with deepfake and…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>The Replicant in Your Directory: AI Agents and the Identity Security Gap</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/</link>
-      <guid isPermaLink="false">identitybrief-54ec7b5ffa091abe</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:10 +0000</pubDate>
-      <category>iam</category>
-      <description>AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers</title>
-      <link>https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/</link>
-      <guid isPermaLink="false">identitybrief-ba85140559c455e3</guid>
-      <pubDate>Fri, 10 Jul 2026 11:06:36 +0000</pubDate>
-      <category>breach</category>
-      <description>The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages. The post Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access</title>
-      <link>https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html</link>
-      <guid isPermaLink="false">identitybrief-f9a9ab9988a01a39</guid>
-      <pubDate>Fri, 10 Jul 2026 10:30:20 +0000</pubDate>
-      <category>breach</category>
-      <description>A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>AI agents require governance and permissions just the same as humans</title>
-      <link>https://identityweek.net/ai-agents-require-governance-and-permissions-just-the-same-as-humans/</link>
-      <guid isPermaLink="false">identitybrief-cf64c6afdc16f7d7</guid>
-      <pubDate>Fri, 10 Jul 2026 11:03:02 +0000</pubDate>
-      <category>auth</category>
-      <description>For decades, cybersecurity has been anchored to the simple premise of authenticating the human and we’ve built multi-factor authentication, zero trust frameworks and firewalls to deliver advanced protection to authorise access to users, employees and citizens. AI agents have made it necessary to treat AI agents as identities that require governance and…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Authologic partnering with Google to bring Google Wallet credentials to businesses</title>
-      <link>https://identityweek.net/authologic-partnering-with-google-to-bring-google-wallet-credentials-to-businesses/</link>
-      <guid isPermaLink="false">identitybrief-2d1330f5c5dadb68</guid>
-      <pubDate>Fri, 10 Jul 2026 10:21:51 +0000</pubDate>
-      <category>fraud</category>
-      <description>This is another step towards a future where identity verification is finally fast, seamless, and no longer depends on users uploading photos of physical documents. Google Wallet already lets users store verified identity credentials issued by governments, banks, or Google itself on their phones. Using our OmniID platform, businesses can now accept all these…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</title>
-      <link>https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/</link>
-      <guid isPermaLink="false">identitybrief-f6765812c7841f59</guid>
-      <pubDate>Fri, 10 Jul 2026 15:01:19 +0000</pubDate>
-      <category>breach</category>
-      <description>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws</title>
-      <link>https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html</link>
-      <guid isPermaLink="false">identitybrief-0a2c3e9bef381190</guid>
-      <pubDate>Fri, 10 Jul 2026 14:19:50 +0000</pubDate>
-      <category>breach</category>
-      <description>Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score:…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>First-Class Identity for Digital Actors</title>
-      <link>https://blog.identity.foundation/first-class-identity-for-digital-actors/</link>
-      <guid isPermaLink="false">identitybrief-72372c14fee7915c</guid>
-      <pubDate>Thu, 09 Jul 2026 15:00:22 +0000</pubDate>
-      <category>iam</category>
-      <description>A position paper on identity infrastructure for AI agents and other software-recognizable subjects Written by Christian Saucier , co-chair of the DID Methods Working Group Abstract AI agents and other software-defined actors are being deployed into production at a pace the identity layer beneath them cannot absorb. The
-
-— via DIF</description>
-    </item>
-    <item>
-      <title>Workato expands Agent Studio with Headless API, AI guardrails</title>
-      <link>https://www.helpnetsecurity.com/2026/07/10/workato-headless-api-agent-guardrails/</link>
-      <guid isPermaLink="false">identitybrief-189a8a1380905dbb</guid>
-      <pubDate>Fri, 10 Jul 2026 07:02:12 +0000</pubDate>
-      <category>iam</category>
-      <description>Workato has announced two new capabilities for Agent Studio: Headless API and Agent Guardrails. Headless API lets Genies, Workato’s AI agents built on Agent Studio, be embedded into any business application surface, on web, mobile, or inside another agent’s own environment. Agent Guardrails are configurable to the business and ensure that wherever a Genie…
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
