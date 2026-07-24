@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>The best-funded companies open the most phishing attachments</title>
+      <link>https://www.helpnetsecurity.com/2026/07/24/phishing-simulation-benchmark-report/</link>
+      <guid isPermaLink="false">identitybrief-9206c2227dc57912</guid>
+      <pubDate>Fri, 24 Jul 2026 05:00:30 +0000</pubDate>
+      <category>breach</category>
+      <description>An employee gets an email dressed as a password reset. She clicks the link, types her credentials into a page built to copy her company’s login screen, and moves on with her morning. She tells no one. That silence is the exposure. Across 13.9 million simulated phishing messages, one in ten recipients flagged the attempt to their security team. The rest let… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Sri Lanka asks India for more funding after digital ID bids exceed grant</title>
+      <link>https://www.biometricupdate.com/202607/sri-lanka-asks-india-for-more-funding-after-digital-id-bids-exceed-grant</link>
+      <guid isPermaLink="false">identitybrief-1f18f05bba154786</guid>
+      <pubDate>Thu, 23 Jul 2026 20:46:12 +0000</pubDate>
+      <category>did</category>
+      <description>Negotiations are underway for the Sri Lanka Unique Digital Identity (SL-UDI) project funding gap, after bids from shortlisted vendors came in at more than double the INR 3 billion (approximately US$35 million) grant initially pledged by the Indian government. The SL-UDI project uses a hybrid implementation model with an Indian Master System Integrator ( MSI… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>European citizens initiative to add safeguards to digital ID, age checks advances</title>
+      <link>https://www.biometricupdate.com/202607/european-citizens-initiative-to-add-safeguards-to-digital-id-age-checks-advances</link>
+      <guid isPermaLink="false">identitybrief-7d7261963956c32d</guid>
+      <pubDate>Thu, 23 Jul 2026 17:55:00 +0000</pubDate>
+      <category>did</category>
+      <description>The European Commission has officially registered an initiative brought by the Pirate Party to force it to propose new legislation to ensure digital identity and age assurance systems provide choice and protect Europeans’ digital privacy. The text of the European Citizens' Initiative (ECI) titled “ Stop Killing The Internet: No Digital ID &amp; No Age… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Hopae adds Brazil’s digital driver’s license to IDV platform</title>
+      <link>https://www.biometricupdate.com/202607/hopae-adds-brazils-digital-drivers-license-to-idv-platform</link>
+      <guid isPermaLink="false">identitybrief-0d1572d0354fc4a7</guid>
+      <pubDate>Thu, 23 Jul 2026 14:42:03 +0000</pubDate>
+      <category>did</category>
+      <description>Hopae has revealed that its Hopae Connect platform can now conduct real-time identity verification (IDV) for Brazil's digital driver's license (digital CNH) to curb identity fraud and speed up customer onboarding. This comes as the company seeks to extend its market footprint into Latin America (LATAM), according to a product update announcement . It also…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Biometrics Is the Most Trusted Identity Verification Method — but Fewer Than Half Rank It First, Global Study Finds</title>
+      <link>https://identityweek.net/biometrics-is-the-most-trusted-identity-verification-method-but-fewer-than-half-rank-it-first-global-study-finds/</link>
+      <guid isPermaLink="false">identitybrief-57a420f94007e0aa</guid>
+      <pubDate>Thu, 23 Jul 2026 10:30:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>No single form of identity evidence is trusted most by a majority of organizations, according to Regula’s global survey of 850 fraud prevention and financial crime decision-makers. Biometrics lead, but trust is spread across documents, credentials, and device signals. As AI-assisted fraud targets every layer of the verification process, strong identity…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>How Synthetic Identity Fraud is Coming for Machine Identities</title>
+      <link>https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html</link>
+      <guid isPermaLink="false">identitybrief-f173b3f24f021d75</guid>
+      <pubDate>Thu, 23 Jul 2026 11:45:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points with fabricated ones to create a person who doesn't exist.…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Chick-fil-A Accounts Get Fried in Credential Stuffing Attack</title>
+      <link>https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/</link>
+      <guid isPermaLink="false">identitybrief-1b126dd3438a214b</guid>
+      <pubDate>Thu, 23 Jul 2026 14:55:19 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Australian energy provider Origin says data breach exposes client data</title>
+      <link>https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/</link>
+      <guid isPermaLink="false">identitybrief-5cf66c2491f15ca3</guid>
+      <pubDate>Thu, 23 Jul 2026 20:14:35 +0000</pubDate>
+      <category>breach</category>
+      <description>Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents</title>
+      <link>https://github.com/onecli/onecli</link>
+      <guid isPermaLink="false">identitybrief-386614ef70549e77</guid>
+      <pubDate>Thu, 23 Jul 2026 15:42:40 +0000</pubDate>
+      <category>auth</category>
+      <description>hey HN, Jonathan and Guy here, creators of OneCLI ( https://onecli.sh/ ). OneCLI is an open source vault for AI Agents. Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe. We figured that in the agent's world, this is not the case, as you don't know what happens… It's pulling 148pts/day — real momentum for something this new, not a one-day spike. Still under the radar (86pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AgentForger proves AI agents can become persistent insider threats</title>
+      <link>https://www.csoonline.com/article/4200978/agentforger-proves-ai-agents-can-become-persistent-insider-threats.html</link>
+      <guid isPermaLink="false">identitybrief-211c5e564d003592</guid>
+      <pubDate>Fri, 24 Jul 2026 00:29:34 +0000</pubDate>
+      <category>breach</category>
+      <description>A new attack method found by Zenity Labs reveals that AI agents are becoming persistent insiders that attackers can recruit, rather than malware they have to install. Its researchers have discovered AgentForger , a phishing-based attack that silently creates and launches a fully autonomous AI agent within OpenAI workspaces. Once running, the agent has full… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation</title>
+      <link>http://arxiv.org/abs/2607.21325v1</link>
+      <guid isPermaLink="false">identitybrief-eb022b335bf33071</guid>
+      <pubDate>Thu, 23 Jul 2026 13:55:02 +0000</pubDate>
+      <category>research</category>
+      <description>Autonomous AI agents increasingly execute actions, invoke tools, and operate on protected resources with limited human oversight. Existing authentication and authorization mechanisms establish identity and delegate authority, but do not inherently provide cryptographic evidence that a concrete request issued by a specific agent satisfies the applicable…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets</link>
+      <guid isPermaLink="false">identitybrief-c5a991f7bc322f3e</guid>
+      <pubDate>Thu, 23 Jul 2026 21:23:18 +0000</pubDate>
+      <category>breach</category>
+      <description>A state-sponsored threat group, dubbed "Laundry Bear," sends "half-click" phishing emails that require a victim only to open or preview the message. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Email threat landscape: Q2 2026 trends and insights</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</link>
+      <guid isPermaLink="false">identitybrief-e122c9c3599c5519</guid>
+      <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains. The post Email threat landscape: Q2 2026…
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Modernize SAP Identity Management with Microsoft Entra</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUZPY3pXOEtfYk1acVhSdlViTjFfUVhrQjQxMUprSkVHRXo0UVl5VUZxU1dmODRfS3V0YjV3Yll6Vk5XUHY0TW1ZMzMxZHk0YWJlT1BhcUx3Q3pzOHdiQUdMa2Y4NlIzbmdsZ3RqZnozTDRDaUJ6OXNiNUtUby1UZjVRV29rS1ZWYjAzOU9LN05oX0VHbF9FMEdaaWs3cnJQajdLUTk3T2xJSWVmWjBKSDhLcVQwZkp6TjJwXzJ5elpVUQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-30b101147108a286</guid>
+      <pubDate>Thu, 23 Jul 2026 20:08:07 +0000</pubDate>
+      <category>iam</category>
+      <description>Modernize SAP Identity Management with Microsoft Entra Microsoft Community Hub It landed in the last few hours.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Product Showcase: AppViewX Agent Identity Security</title>
       <link>https://www.helpnetsecurity.com/2026/07/23/product-showcase-appviewx-agent-identity-security/</link>
       <guid isPermaLink="false">identitybrief-d2ff3f3d65a1258d</guid>
@@ -1362,145 +1502,5 @@
       <description>A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...] It landed in the last few hours.
 
 — via BleepingComputer</description>
-    </item>
-    <item>
-      <title>An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory</title>
-      <link>http://arxiv.org/abs/2607.11707v1</link>
-      <guid isPermaLink="false">identitybrief-88e83c2017bd6193</guid>
-      <pubDate>Mon, 13 Jul 2026 15:36:19 +0000</pubDate>
-      <category>research</category>
-      <description>Following the rapid progress of generative Artificial Intelligence, there is a growing threat posed by conversational scams. These scams often span over multiple weeks or months, gradually build trust and request for money or sensitive information. Existing scam-detection systems mainly focus on isolated messages, which renders them inadequate against this…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Effective Synthetic Image Detection via Noise Residual Clustering</title>
-      <link>http://arxiv.org/abs/2607.10695v1</link>
-      <guid isPermaLink="false">identitybrief-d4e998efc1fcd3a6</guid>
-      <pubDate>Sun, 12 Jul 2026 10:38:18 +0000</pubDate>
-      <category>research</category>
-      <description>The rapid advancement of generative artificial intelligence (AI) has made synthetic images remarkably realistic, posing security threats such as misinformation and fraud. It is significant to detect the synthetic image in the manner of passive and blind image authentication. Most existing detectors rely on supervised training with large labeled datasets,… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Lessons Learned from CISA’s Recent GitHub Leak</title>
-      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <guid isPermaLink="false">identitybrief-8d04f0e15f85ea30</guid>
-      <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
-      <category>breach</category>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response…
-
-— via Krebs on Security</description>
-    </item>
-    <item>
-      <title>What's new in SCIM 2.0: Pagination, events, and device schema</title>
-      <link>https://workos.com/blog/whats-new-in-scim-2-0-pagination-events-and-device-schema</link>
-      <guid isPermaLink="false">identitybrief-747de75ddd88f3cd</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Three new RFCs quietly updated the SCIM spec in the last year. Here's what cursor based pagination, standardized events, and device schema actually change for your integration.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>US, CARICOM establish regional biometric data-sharing partnership</title>
-      <link>https://www.biometricupdate.com/202607/us-caricom-establish-regional-biometric-data-sharing-partnership</link>
-      <guid isPermaLink="false">identitybrief-507f9484c7da95d1</guid>
-      <pubDate>Sun, 12 Jul 2026 19:46:21 +0000</pubDate>
-      <category>auth</category>
-      <description>The Department of Homeland Security (DHS) and the Caribbean Community’s (CARICOM) regional security agency, Implementation Agency for Crime and Security (IMPACS), signed an agreement to create the first multilateral biometric information sharing arrangement established by DHS, extending U.S. immigration vetting and border security checks across… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>TSA plans sole-source contract for credentialing technology support</title>
-      <link>https://www.biometricupdate.com/202607/tsa-plans-sole-source-contract-for-credentialing-technology-support</link>
-      <guid isPermaLink="false">identitybrief-e28865654d1d3eec</guid>
-      <pubDate>Sun, 12 Jul 2026 19:10:26 +0000</pubDate>
-      <category>auth</category>
-      <description>The Transportation Security Administration (TSA) plans to award Identification Technology Partners (IDTP) a sole-source contract for technical support involving credentials issued through the agency’s security threat assessment process. TSA said the proposed contract would support requirements within its security technology office and provide specialized… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Week in review: Accenture data breach, great open-source cybersecurity tools</title>
-      <link>https://www.helpnetsecurity.com/2026/07/12/week-in-review-accenture-data-breach-great-open-source-cybersecurity-tools/</link>
-      <guid isPermaLink="false">identitybrief-90819a475c455ce0</guid>
-      <pubDate>Sun, 12 Jul 2026 08:00:07 +0000</pubDate>
-      <category>breach</category>
-      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Securing the inbox: Where identity, brand and security meet Getting a verified logo to appear next to your email has traditionally meant having to work with two separate entities. You have to work with a DMARC partner for setting up DMARC and BIMI, then use a…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS</title>
-      <link>https://scrapfly.dev/posts/browser-math-os-fingerprint/</link>
-      <guid isPermaLink="false">identitybrief-da52a635776f6887</guid>
-      <pubDate>Sun, 12 Jul 2026 21:12:11 +0000</pubDate>
-      <category>auth</category>
-      <description>It landed in the last few hours. It's pulling 1061pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>SFDS: Selective File Disclosure System</title>
-      <link>http://arxiv.org/abs/2607.09370v1</link>
-      <guid isPermaLink="false">identitybrief-58dbe3db2655f7bb</guid>
-      <pubDate>Fri, 10 Jul 2026 12:50:45 +0000</pubDate>
-      <category>research</category>
-      <description>Access control to networked resources has been a longstanding challenge. The conventional solution relies on authentication mechanisms, which introduce additional complexities associated with Identity and Access Management (IAM). Such systems require user authentication, identity management, and authorization services, while also introducing security risks…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Proof, Enigma link KYB to authorized people, AI agents with biometrics</title>
-      <link>https://www.biometricupdate.com/202607/proof-enigma-link-kyb-to-authorized-people-ai-agents-with-biometrics</link>
-      <guid isPermaLink="false">identitybrief-2f06759fd9844587</guid>
-      <pubDate>Fri, 10 Jul 2026 19:38:03 +0000</pubDate>
-      <category>auth</category>
-      <description>Proof and Enigma have launched Business Certificates, a cryptographic credential that connects a verified business identity to the people and digital systems authorized to act on its behalf. Enigma provides the know-your-business (KYB) data used to verify a company’s identity, confirm whether it remains active and in good standing, and identify its owners…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Proof-of-Continuity: A Temporal Model for Authority Propagation in Distributed Systems and AI Agents</title>
-      <link>http://arxiv.org/abs/2607.08906v1</link>
-      <guid isPermaLink="false">identitybrief-3128ee1a1f7aa9cb</guid>
-      <pubDate>Thu, 09 Jul 2026 19:59:29 +0000</pubDate>
-      <category>research</category>
-      <description>Proof-of-Possession authorization models derive authority from the possession of artifacts such as tokens, credentials, or capabilities. This paper argues that possession is insufficient for discrete execution chains, whether they span multiple services or occur as separated steps within the same machine, because it does not guarantee preservation of the…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems</title>
-      <link>http://arxiv.org/abs/2607.09528v1</link>
-      <guid isPermaLink="false">identitybrief-2c50f8cb45da2f29</guid>
-      <pubDate>Fri, 10 Jul 2026 15:36:13 +0000</pubDate>
-      <category>research</category>
-      <description>The emergence of metaverse platforms has created virtual economies that introduce new challenges related to fraud, bot activity, and illicit financial behavior. Despite growing interest in trustworthy metaverse analytics, existing datasets typically focus on user behavior, authentication, or financial transactions in isolation, limiting the development and…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers</title>
-      <link>https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html</link>
-      <guid isPermaLink="false">identitybrief-bdb3650c837946c4</guid>
-      <pubDate>Wed, 08 Jul 2026 17:02:12 +0000</pubDate>
-      <category>auth</category>
-      <description>Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack. Decrypting browser credentials, listing what…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS</title>
-      <link>https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html</link>
-      <guid isPermaLink="false">identitybrief-d7d18a06566a1950</guid>
-      <pubDate>Wed, 08 Jul 2026 14:38:05 +0000</pubDate>
-      <category>breach</category>
-      <description>Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of vulnerabilities is as follows - CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi…
-
-— via The Hacker News</description>
     </item>
 </channel></rss>
