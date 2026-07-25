@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>YubiKey 5.8 brings hardware-backed authorization to passkeys</title>
+      <link>https://www.biometricupdate.com/202607/yubikey-5-8-brings-hardware-backed-authorization-to-passkeys</link>
+      <guid isPermaLink="false">identitybrief-100747433fc1e5a6</guid>
+      <pubDate>Fri, 24 Jul 2026 14:43:02 +0000</pubDate>
+      <category>did</category>
+      <description>Yubico has launched YubiKey 5.8 to expand the role of its hardware-backed passkeys to support digital signatures and authorization workflows. The firmware adds support for CTAP 2.3 and introduces capabilities for applications such as identity wallets, document signing, and high-assurance workflow approvals. Previously, we covered the upcoming firmware ahead…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>IDnow appoints Philippe Morel as CEO to lead next growth phase</title>
+      <link>https://www.biometricupdate.com/202607/idnow-appoints-philippe-morel-as-ceo-to-lead-next-growth-phase</link>
+      <guid isPermaLink="false">identitybrief-edb8a8909e3be8db</guid>
+      <pubDate>Fri, 24 Jul 2026 14:37:57 +0000</pubDate>
+      <category>fraud</category>
+      <description>IDnow has named Philippe Morel as its new chief executive. Morel succeeds Andreas Bodczek, who steps down after more than seven years at the helm. The appointment comes shortly after IDnow’s unveiled the IDnow Trust Platform in June , a major launch for the company. The platform looks to help regulated organizations move from one‑time Know Your Customer…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Yoti, Licensing Connect prepare UK pubs for digital proof-of-age</title>
+      <link>https://www.biometricupdate.com/202607/yoti-licensing-connect-prepare-uk-pubs-for-digital-proof-of-age</link>
+      <guid isPermaLink="false">identitybrief-94d0da55da825617</guid>
+      <pubDate>Fri, 24 Jul 2026 14:45:16 +0000</pubDate>
+      <category>did</category>
+      <description>It’s a good day for UK pubs. On top of the new prime minister’s announcement of a 20 percent cut in business rates for drinking establishments, Yoti has announced a partnership with Licensing Connect, aiming to help hospitality and retail businesses adopt certified digital age verification ahead of promised changes to the Mandatory Licensing Conditions. It…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Chick-fil-A data breach affects more than 13,000 customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/</link>
+      <guid isPermaLink="false">identitybrief-ab0a8636c9fd7d5f</guid>
+      <pubDate>Fri, 24 Jul 2026 14:04:29 +0000</pubDate>
+      <category>breach</category>
+      <description>Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Default Azure Automation Setting Enables Cross-Tenant Identity Takeover</title>
+      <link>https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover</link>
+      <guid isPermaLink="false">identitybrief-dc85501186579681</guid>
+      <pubDate>Fri, 24 Jul 2026 12:48:16 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do</title>
+      <link>https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html</link>
+      <guid isPermaLink="false">identitybrief-7774107641221c44</guid>
+      <pubDate>Fri, 24 Jul 2026 11:30:00 +0000</pubDate>
+      <category>iam</category>
+      <description>AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery</title>
+      <link>https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</link>
+      <guid isPermaLink="false">identitybrief-68327402f2a76e00</guid>
+      <pubDate>Fri, 24 Jul 2026 15:12:35 +0000</pubDate>
+      <category>breach</category>
+      <description>The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. "BlueNoroff has operationalised trust abuse by combining compromised…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller</title>
+      <link>https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html</link>
+      <guid isPermaLink="false">identitybrief-91710fe58c4b6956</guid>
+      <pubDate>Fri, 24 Jul 2026 14:15:21 +0000</pubDate>
+      <category>breach</category>
+      <description>Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Meta tackles AI-generated accounts with a free Facebook verification badge</title>
+      <link>https://www.helpnetsecurity.com/2026/07/24/meta-facebook-verified-badge-selfie-verification/</link>
+      <guid isPermaLink="false">identitybrief-9d7cef701fd3cd1d</guid>
+      <pubDate>Fri, 24 Jul 2026 13:03:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>Meta has introduced Facebook Verified, a free badge meant to show that a person behind a profile has completed identity verification through a selfie check. (Source: Meta) The company says the goal is to give users a signal that they are dealing with a person, not a bot or an AI-generated account, when browsing Marketplace listings, dating profiles, or…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>The Secure America Act: How the $69.5B law transforms biometrics and federal contracting</title>
+      <link>https://identityweek.net/the-secure-america-act-how-the-69-5b-law-transforms-biometrics-and-federal-contracting/</link>
+      <guid isPermaLink="false">identitybrief-97e7809a2f8eafc2</guid>
+      <pubDate>Fri, 24 Jul 2026 11:24:39 +0000</pubDate>
+      <category>auth</category>
+      <description>Summary of the IBIA’s analysis of the Secure America Act, signed June 20. Signed into law as Public Law 119-98 on June 10, 2026, the Secure America Act represents one of the most substantial infusions of federal funding for homeland security and border technology in United States history. Allocating $69.545 billion through fiscal year 2029, […]
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Ransomware groups are hammering your vulnerable VPNs</title>
+      <link>https://www.csoonline.com/article/4201019/ransomware-groups-are-hammering-your-vulnerable-vpns.html</link>
+      <guid isPermaLink="false">identitybrief-119e188e26f40b2c</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybercriminals are actively exploiting a recently discovered vulnerability in Palo Alto Networks firewall and VPN appliances to deploy the Qilin ransomware strain. A critical authentication bypass flaw ( CVE-2026-0257 ) in Palo Alto GlobalProtect portal and gateway was the common link in a series of intrusions in June, Arctic Wolf Labs warns. Exploitation…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Tycoon2FA takedown reshapes the phishing landscape</title>
+      <link>https://www.csoonline.com/article/4201146/tycoon2fa-takedown-reshapes-the-phishing-landscape.html</link>
+      <guid isPermaLink="false">identitybrief-d75601d0971b8860</guid>
+      <pubDate>Fri, 24 Jul 2026 10:23:03 +0000</pubDate>
+      <category>breach</category>
+      <description>Traditional phishing techniques are in decline as a result of the disruption of the Tycoon2FA phishing-as-a-service (PHaaS) platform , Microsoft said in a new report, “Email threat landscape: Q2 2026 trends and insights”. “Phishing volume linked to the platform fell 92% from pre-disruption averages, including QR code phishing and CAPTCHA-gated phishing both…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Where You Tap Matters: A Probe-and-Model Benchmark for Open-Set RF Fingerprinting</title>
+      <link>http://arxiv.org/abs/2607.21564v1</link>
+      <guid isPermaLink="false">identitybrief-7f1643655825c0ab</guid>
+      <pubDate>Thu, 23 Jul 2026 17:48:38 +0000</pubDate>
+      <category>research</category>
+      <description>Radio Frequency Fingerprint Identification (RFFI) enables transmitter identification at the physical layer by learning device-specific impairments from received signals, yet the literature is inconsistent about where in the receiver chain those samples should be collected. Since distinct transformations are applied to the signal by the different receiver…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>RIP SMS: Microsoft transitioning to passkeys as default authentication method for Entra ID</title>
+      <link>https://www.yubico.com/blog/rip-sms-microsoft-transitioning-to-passkeys-as-default-authentication-method-for-entra-id/</link>
+      <guid isPermaLink="false">identitybrief-4c77870e2fe72674</guid>
+      <pubDate>Fri, 24 Jul 2026 15:00:00 +0000</pubDate>
+      <category>did</category>
+      <description>The rules of digital identity are changing fast. In fact, identity has become the primary attack surface for modern cybercriminals globally, with 86% of phishing attacks now being AI-driven. Faced with this new AI-powered threat landscape, Microsoft recently announced that passkeys will now be the default authentication experience in Microsoft Entra ID –…
+
+— via Yubico</description>
+    </item>
+    <item>
       <title>The best-funded companies open the most phishing attachments</title>
       <link>https://www.helpnetsecurity.com/2026/07/24/phishing-simulation-benchmark-report/</link>
       <guid isPermaLink="false">identitybrief-9206c2227dc57912</guid>
@@ -1362,145 +1502,5 @@
       <description>Prove that MCP clients, gateways, and servers from different vendors can secure AI agents together — within and across enterprises. The OpenID Foundation’s Artificial Intelligence Identity Management Community Group (AIIM CG) is running an interoperability event to show that Model Context Protocol (MCP) flows can be secured with open identity standards.… It landed in the last few hours.
 
 — via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Microsoft is forcing an enterprise transition to passkeys</title>
-      <link>https://www.csoonline.com/article/4197086/microsoft-is-forcing-an-enterprise-transition-to-passkeys-2.html</link>
-      <guid isPermaLink="false">identitybrief-e2365f97309a4510</guid>
-      <pubDate>Wed, 15 Jul 2026 02:08:45 +0000</pubDate>
-      <category>auth</category>
-      <description>Passkeys have been around for some time, but enterprise-wide adoption to this point has been slow for a number of reasons. But soon, many Microsoft customers won’t have a choice. Starting September 1, Microsoft will roll out passkeys as the default authentication method in its cloud-based identity and access management (IAM) service Entra ID. And following… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>AuthZEN at Identiverse 2026: authorization in the agent era</title>
-      <link>https://openid.net/authzen-at-identiverse-2026-authorization-in-the-agent-era/</link>
-      <guid isPermaLink="false">identitybrief-d8c4437df51c82c3</guid>
-      <pubDate>Tue, 14 Jul 2026 18:34:39 +0000</pubDate>
-      <category>auth</category>
-      <description>By Alex Olivier Authorization, and specifically authorization for AI agents, emerged as the defining challenge of the year. That shift was visible at Identiverse 2026. One marker of how far the work has come is that the AuthZEN sessions ran as a full masterclass and a main-program talk rather than the side birds-of-a-feather slots such […] The post AuthZEN… It landed in the last few hours.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>A Scalable Cloud-Orchestrated and Service-Oriented Multi-Domain QKD Network with PQC Integration</title>
-      <link>http://arxiv.org/abs/2607.12765v1</link>
-      <guid isPermaLink="false">identitybrief-96b45aa273965643</guid>
-      <pubDate>Tue, 14 Jul 2026 13:37:28 +0000</pubDate>
-      <category>research</category>
-      <description>Quantum key distribution (QKD) offers unconditional security but existing QKD networks remain difficult to scale across heterogeneous infrastructures and administrative domains due to vendor-specific interfaces, trusted-node constraints, and limited interoperability. This work presents a flexible multi-domain and multi-site quantum-secure network…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Threat modeling with AI: Enhancing cybersecurity workflows</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5aMlBIaHI2SVI4MEhJd1F5UVBSdlJqckFoRVV2enFwTlFOVVRMUU5sdk5QRHU0bUFROEpJVFdoTzgwWk9fanJVbEZENlpyVVFhbUFlSkpWWWVLSVhfN2FOSnpGMkdfSExOeUh6RnRzVnU?oc=5</link>
-      <guid isPermaLink="false">identitybrief-232ab02d74f33228</guid>
-      <pubDate>Tue, 14 Jul 2026 22:51:32 +0000</pubDate>
-      <category>iam</category>
-      <description>Threat modeling with AI: Enhancing cybersecurity workflows Okta It landed in the last few hours.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>NEC, Ava Labs building on-chain verification layer for AI agents, stablecoins</title>
-      <link>https://www.biometricupdate.com/202607/nec-ava-labs-building-on-chain-verification-layer-for-ai-agents-stablecoins</link>
-      <guid isPermaLink="false">identitybrief-50454aeb36a3196b</guid>
-      <pubDate>Mon, 13 Jul 2026 21:21:36 +0000</pubDate>
-      <category>research</category>
-      <description>NEC has signed a memorandum of understanding (MoU) with blockchain firm Ava Labs , to “promote the consideration of next-generation on-chain services,” including biometric Verifiable Credentials (VC), according to a release. The companies have also collaborated on a white paper, “A Unified Framework Leveraging Biometric Decentralized Identity and Avalanche… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Startup deepidv doubles deepfake detection options and forms research partnership</title>
-      <link>https://www.biometricupdate.com/202607/startup-deepidv-doubles-deepfake-detection-options-and-forms-research-partnership</link>
-      <guid isPermaLink="false">identitybrief-27108c9eca777619</guid>
-      <pubDate>Mon, 13 Jul 2026 21:06:14 +0000</pubDate>
-      <category>fraud</category>
-      <description>Deepfake detection teams at Canadian startup deepidv and fraud prevention developer Scam.AI will work together under a new partnership that also includes software integration. The partners will share datasets and perform joint research into deepfake detection. They say in a joint announcement the result is greater access to the latest synthetic media for… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>PNG advances digital identity with AI laws, SevisPass integration, QUT partnership</title>
-      <link>https://www.biometricupdate.com/202607/png-advances-digital-identity-with-ai-laws-sevispass-integration-qut-partnership</link>
-      <guid isPermaLink="false">identitybrief-49b1b97417031f95</guid>
-      <pubDate>Mon, 13 Jul 2026 16:49:14 +0000</pubDate>
-      <category>did</category>
-      <description>Papua New Guinea advances its digital transformation with a new international partnership, fresh AI‑safety reforms and deeper integration of its national digital identity system, SevisPass. Acting ICT Minister Peter Tsiamalili Jr. announced an agreement with the Queensland University of Technology (QUT), which was signed in Brisbane and witnessed by PNG…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Fake OAuth client IDs are helping attackers slip past sign-in logs</title>
-      <link>https://www.helpnetsecurity.com/2026/07/13/entra-id-oauth-client-id-spoofing/</link>
-      <guid isPermaLink="false">identitybrief-639a7caf2b4bb592</guid>
-      <pubDate>Mon, 13 Jul 2026 12:10:50 +0000</pubDate>
-      <category>auth</category>
-      <description>Attackers running account enumeration against Microsoft cloud tenants have added a step that keeps their probing out of the usual telemetry. They spoof the OAuth client ID, the globally unique identifier assigned to an application and passed as client_id in an authentication request. Microsoft Entra ID records that value as the application ID in its sign-in…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Your vendor’s vendor might be the real breach risk</title>
-      <link>https://www.helpnetsecurity.com/2026/07/14/vendor-breach-risk-video/</link>
-      <guid isPermaLink="false">identitybrief-0f578d19320e2df1</guid>
-      <pubDate>Tue, 14 Jul 2026 05:00:29 +0000</pubDate>
-      <category>breach</category>
-      <description>In this Help Net Security video, Chris Boehm, Field CTO, Zero Networks, breaks down how a vendor breach can become your breach. He explains that attackers now target the subcontractors behind your trusted vendors. A compromised credential at a company you have never heard of can open access into your systems, because your vendor’s vendor holds keys you… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</link>
-      <guid isPermaLink="false">identitybrief-c8c9fabc2dff9c81</guid>
-      <pubDate>Mon, 13 Jul 2026 17:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare. The post Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID appeared first on Microsoft Security Blog .
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Defending SaaS-based applications against ShinyHunters OAuth abuse</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</link>
-      <guid isPermaLink="false">identitybrief-343526deefa06acd</guid>
-      <pubDate>Mon, 13 Jul 2026 22:02:41 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications. The post Defending SaaS-based applications against ShinyHunters OAuth abuse appeared first on… It landed in the last few hours.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Prezta: Provable Remote Execution of Zero-Trust Authorization using SNARKs</title>
-      <link>http://arxiv.org/abs/2607.11466v1</link>
-      <guid isPermaLink="false">identitybrief-a1108d1219a8d55b</guid>
-      <pubDate>Mon, 13 Jul 2026 12:21:08 +0000</pubDate>
-      <category>research</category>
-      <description>Modernizing the security of operational technology systems that control critical infrastructure has become a pressing challenge. Because edge devices have limited capabilities, modernization has relied on application gateways that interface with identity management systems and enforce access policies. These gateways are powerful enough to perform complex…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>RabbitMQ flaws expose OAuth secrets, risk complete takeover of the broker</title>
-      <link>https://www.csoonline.com/article/4196093/rabbitmq-flaws-expose-oauth-secrets-risk-complete-takeover-of-the-broker.html</link>
-      <guid isPermaLink="false">identitybrief-199fc2147abde529</guid>
-      <pubDate>Mon, 13 Jul 2026 12:01:44 +0000</pubDate>
-      <category>breach</category>
-      <description>RabbitMQ has patched two access control vulnerabilities affecting the widely used open-source message broker that could expose enterprise application data and, in some deployments, allow attackers to gain complete control over the messaging infrastructure. The flaws, discovered by Miggo Security, exposed OAuth secrets to unauthenticated attackers, letting…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>New CrashStealer malware poses as Apple crash reporting tool</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/</link>
-      <guid isPermaLink="false">identitybrief-72f51296de25f074</guid>
-      <pubDate>Mon, 13 Jul 2026 19:04:02 +0000</pubDate>
-      <category>auth</category>
-      <description>A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
     </item>
 </channel></rss>
