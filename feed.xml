@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Biometrics standards, regulations set up growth in QR codes, DVS</title>
+      <link>https://www.biometricupdate.com/202607/biometrics-standards-regulations-set-up-growth-in-qr-codes-dvs</link>
+      <guid isPermaLink="false">identitybrief-d71ddbb5d4cb1166</guid>
+      <pubDate>Sat, 25 Jul 2026 17:20:40 +0000</pubDate>
+      <category>did</category>
+      <description>Trust in biometrics, like the applications that use the technology to provide assurance, depends heavily on compliance. Biometrics must meet technical standards, while the financial, government and other services that rely on them must comply with regulation. As standards mature and regulations evolve, they don't just govern existing technologies; they…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking</title>
+      <link>https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html</link>
+      <guid isPermaLink="false">identitybrief-5b9586162dea04a0</guid>
+      <pubDate>Sat, 25 Jul 2026 10:14:21 +0000</pubDate>
+      <category>breach</category>
+      <description>For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused phishing operations reveal a more…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>ShinyHunters data leaks fuel $2,000 sextortion email scam</title>
+      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/</link>
+      <guid isPermaLink="false">identitybrief-fa67f7b73f788728</guid>
+      <pubDate>Sat, 25 Jul 2026 14:16:26 +0000</pubDate>
+      <category>fraud</category>
+      <description>Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available</title>
+      <link>https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html</link>
+      <guid isPermaLink="false">identitybrief-41ac194d5fcc7887</guid>
+      <pubDate>Sat, 25 Jul 2026 12:52:43 +0000</pubDate>
+      <category>breach</category>
+      <description>Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE</title>
+      <link>https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html</link>
+      <guid isPermaLink="false">identitybrief-74666cf2751e2bf8</guid>
+      <pubDate>Sat, 25 Jul 2026 10:14:03 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. "Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Tech Times: YubiKey 5.8 Ships Hardware-Backed Authorization for AI Agent Workflows</title>
+      <link>https://fidoalliance.org/tech-times-yubikey-5-8-ships-hardware-backed-authorization-for-ai-agent-workflows/</link>
+      <guid isPermaLink="false">identitybrief-75b335622d527c4d</guid>
+      <pubDate>Fri, 24 Jul 2026 13:44:44 +0000</pubDate>
+      <category>iam</category>
+      <description>Touch a YubiKey to log in, and you’ve proven who you are. Touch a YubiKey to approve a database schema change ordered by an autonomous AI agent, and you’ve proven […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Greece floats massive €415M biometrics, passport and ID contract</title>
+      <link>https://www.biometricupdate.com/202607/greece-floats-massive-e415m-biometrics-passport-and-id-contract</link>
+      <guid isPermaLink="false">identitybrief-ec5cf68cd695bca7</guid>
+      <pubDate>Fri, 24 Jul 2026 17:14:13 +0000</pubDate>
+      <category>did</category>
+      <description>Greece has begun the process to tender a massive contract for new digital ID cards and digital government service capabilities, with a tender for a contract with an estimated worth of 415.6 million euros (roughly US$472.8 million) plus VAT. The contract includes the production of ID cards for both Greek police and citizens as part of a new Integrated…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Synthetic face datasets show potential for biometrics benchmarking</title>
+      <link>https://www.biometricupdate.com/202607/synthetic-face-datasets-show-potential-for-biometrics-benchmarking</link>
+      <guid isPermaLink="false">identitybrief-da88b7ad1c51868e</guid>
+      <pubDate>Fri, 24 Jul 2026 14:49:45 +0000</pubDate>
+      <category>auth</category>
+      <description>Generative AI has made it possible to create artificial identities with enough variation to support the development of facial recognition models. But this practice only addresses part of the challenge of collecting sufficiently useful biometric data in an ethical and legal way. Once a model has been trained , researchers still need to test how accurately it…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>OnTrac notifies customers of data breach after network hack</title>
+      <link>https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/</link>
+      <guid isPermaLink="false">identitybrief-5f1938524c1f0729</guid>
+      <pubDate>Fri, 24 Jul 2026 19:55:01 +0000</pubDate>
+      <category>breach</category>
+      <description>OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Microsoft tightens Windows enterprise activation security</title>
+      <link>https://www.helpnetsecurity.com/2026/07/24/microsoft-kms-tpm-security-update/</link>
+      <guid isPermaLink="false">identitybrief-a3ba5494d121aa7d</guid>
+      <pubDate>Fri, 24 Jul 2026 09:52:24 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft is making Trusted Platform Module (TPM)-backed attestation a requirement for Windows Key Management Service (KMS), the on-premises service used for Windows volume activation, replacing the software-only trust model with hardware-backed verification to strengthen enterprise activation security. Attestation will become mandatory with the next…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Identity Week Europe 2026 was unforgettable – and the highlights are in our Post-Event Report!</title>
+      <link>https://identityweek.net/identity-week-europe-2026-was-unforgettable-and-the-highlights-are-in-our-post-event-report/</link>
+      <guid isPermaLink="false">identitybrief-d82d9590b5abb3b3</guid>
+      <pubDate>Fri, 24 Jul 2026 09:44:09 +0000</pubDate>
+      <category>iam</category>
+      <description>We have officially dropped the 2026 Post-Event Report following another successful gathering at the RAI Amsterdam. The comprehensive document offers key industry insights, session summaries, and demographic data from this year’s Identity Week Europe conference and exhibition. Thank you to everyone who made this year such a success! The 2026 edition convened…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Classical Acceptance Is Not Hybrid Authentication: Measuring X.509 Verifier Semantics in Post-Quantum Migration</title>
+      <link>http://arxiv.org/abs/2607.20800v1</link>
+      <guid isPermaLink="false">identitybrief-3b9502ce63364353</guid>
+      <pubDate>Thu, 23 Jul 2026 00:04:32 +0000</pubDate>
+      <category>research</category>
+      <description>A relying party validating a hybrid X.509 certificate --- carrying both a classical and a post-quantum credential --- must distinguish whether its accepting judgment rests on the post-quantum evidence or only on the classical path. To preserve compatibility, the separable designs place that evidence where classical path validation may ignore it. A verifier…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Governing Al agents at scale: Lessons from the leaders who’ve done it</title>
+      <link>https://www.helpnetsecurity.com/2026/07/24/governing-al-agents-at-scale-video/</link>
+      <guid isPermaLink="false">identitybrief-4ed912c5c4d34e16</guid>
+      <pubDate>Fri, 24 Jul 2026 06:00:28 +0000</pubDate>
+      <category>iam</category>
+      <description>Enterprise AI leaders from ZoomInfo, Docusign and AppViewX share what it took to build AI Centers of Excellence and govern agent identities inside two companies operating at scale. What you’ll take away: What an AI Center of Excellence looks like day to day at ZoomInfo and Docusign How to govern agent identities without standing up a parallel identity stack…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Verification — Identity Checks, KYC &amp; Biometric Tools | The Sumsuber</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE50amphNXF3bTFYQURsNlVIaThpYkFXTFdSSTJtWWVtb1huU1dUdHdwNE9Wc04yQ2RwcDBicHU0ODNxQm9PWlFsbTdRTkhBcU42cjg0ZzliOTFSeHhScmJ2Nw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-55ddca6827e5915a</guid>
+      <pubDate>Sat, 25 Jul 2026 05:25:08 +0000</pubDate>
+      <category>fraud</category>
+      <description>Verification — Identity Checks, KYC &amp; Biometric Tools | The Sumsuber Sumsub
+
+— via Sumsub</description>
+    </item>
+    <item>
       <title>YubiKey 5.8 brings hardware-backed authorization to passkeys</title>
       <link>https://www.biometricupdate.com/202607/yubikey-5-8-brings-hardware-backed-authorization-to-passkeys</link>
       <guid isPermaLink="false">identitybrief-100747433fc1e5a6</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 15 Jul 2026 08:15:12 +0000</pubDate>
       <category>auth</category>
       <description>By Sar Haidar, Platform Engineer at MIT Open Learning Every identity standard we work with today was built to solve a problem someone was staring at right then. OAuth, OIDC, SAML, the token flows we spend our careers refining: each one began as an urgent answer to an immediate question. That was the premise of […] The post How we got here: what six decades…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Ransom demands are down, email is the top way attackers get in</title>
-      <link>https://www.helpnetsecurity.com/2026/07/16/sophos-state-of-ransomware-2026/</link>
-      <guid isPermaLink="false">identitybrief-2f3586f268b10b93</guid>
-      <pubDate>Thu, 16 Jul 2026 05:00:58 +0000</pubDate>
-      <category>breach</category>
-      <description>An employee opens an email that looks like any other, clicks a link, and gives up a password without noticing. A stolen login opens a door deeper in the network. Files stop opening a few days later. That chain now sits at the front of most ransomware cases. Malicious email and phishing together account for half of all incidents, based on a survey of 2,158… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>From Classification to Consistent Templates: Multiple Permuted-Label Classifier Encoding for Biometric Template Protection</title>
-      <link>http://arxiv.org/abs/2607.13845v1</link>
-      <guid isPermaLink="false">identitybrief-8489c32f3663135c</guid>
-      <pubDate>Wed, 15 Jul 2026 13:52:35 +0000</pubDate>
-      <category>research</category>
-      <description>Biometric template protection (BTP) must secure stored templates while tolerating intra-class variations. Existing methods rely on protected-domain similarity matching, error correction, or predefined-template mappings, potentially retaining exploitable similarity structures, introducing helper-data risks, depending on artificial targets, or coupling…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>NPM ecosystem hit with two new supply chain compromises</title>
-      <link>https://www.csoonline.com/article/4197499/npm-ecosystem-hit-with-two-new-supply-chain-compromises.html</link>
-      <guid isPermaLink="false">identitybrief-272536473bd41972</guid>
-      <pubDate>Wed, 15 Jul 2026 20:33:40 +0000</pubDate>
-      <category>breach</category>
-      <description>Attacks targeting developer ecosystems are increasing in frequency and sophistication, with Node.js developers firmly in this week’s crosshairs, as multiple npm packages belonging to the open-source AsyncAPI and Jscrambler Code Integrity were poisoned with malware following compromised development credentials. The incidents highlight the cascading effect of… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>ADF - Support for Federated Identity Credentials</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDVqajZPbE1mazhET3hmY3ZMMUJLa0N6a1ZhdW9UMkgtMXBEWVNPWFVQNnJtczItNmZxb3NMT3NxSG1YSWRpQXItNGU3VTBLTGJuLTFKNVRpZ190Vm9HRXBTSXBiNVFyRjF4eGtWREZGQTlfcFBUczhNRksxYXFKOXZMbE1tU1VYWWF3RTFnZWFCRDd4ZmM2WWNpZWdpb3A2aElwbWNyMFNwUFBuc3RkUm1oU0EzYXRHYndSNjJR?oc=5</link>
-      <guid isPermaLink="false">identitybrief-780aab3ca1f1c9ad</guid>
-      <pubDate>Thu, 16 Jul 2026 00:51:50 +0000</pubDate>
-      <category>auth</category>
-      <description>ADF - Support for Federated Identity Credentials Microsoft Community Hub It landed in the last few hours.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Funding gap puts Sri Lanka’s digital ID project under review</title>
-      <link>https://www.biometricupdate.com/202607/funding-gap-puts-sri-lankas-digital-id-project-under-review</link>
-      <guid isPermaLink="false">identitybrief-b5a20f412e7a7ac8</guid>
-      <pubDate>Tue, 14 Jul 2026 21:53:30 +0000</pubDate>
-      <category>did</category>
-      <description>The Sri Lanka Unique Digital Identity ( SL-UDI ) project faces a budget gap , with quotes from Indian companies surpassing the Indian government's INR 3 billion grant (about LKR 10.5 billion) by more than double. It is now under review by the Sri Lankan government, which is studying options to either secure extra funding or adjust the project's scope to… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>HMLR missing the net with Qualified Electronic Signatures, says UK digital ID sector</title>
-      <link>https://www.biometricupdate.com/202607/hmlr-missing-the-net-with-qualified-electronic-signatures-says-uk-digital-id-sector</link>
-      <guid isPermaLink="false">identitybrief-8d55e6e1fc86b900</guid>
-      <pubDate>Tue, 14 Jul 2026 21:21:03 +0000</pubDate>
-      <category>did</category>
-      <description>The UK’s digital identity sector is appealing to the HM Land Registry (HMLR), the government agency that registers ownership of land and property in England and Wales, over how HMLR uses qualified electronic signatures (QES) for conveyancing. The registry began accepting QES for effecting registrable dispositions in August 2025 – a move that the industry… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Court rejects deal, reopens Clearview AI lawsuit over biometric data collection</title>
-      <link>https://www.biometricupdate.com/202607/court-rejects-deal-reopens-clearview-ai-lawsuit-over-biometric-data-collection</link>
-      <guid isPermaLink="false">identitybrief-a714478e0ebbb73c</guid>
-      <pubDate>Tue, 14 Jul 2026 21:55:54 +0000</pubDate>
-      <category>auth</category>
-      <description>A novel court settlement that resolved a legal complaint against the data collection practices of facial recognition provider Clearview AI has been thrown out by the U.S. Seventh Circuit Court of Appeals. The settlement gave class members (and their attorneys) a stake that would lead to a payout equivalent to 23 percent of Clearview’s value in the case of… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Microsoft Entra ID gets passkeys default authentication starting September</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/</link>
-      <guid isPermaLink="false">identitybrief-5d8fc1f8358e2a09</guid>
-      <pubDate>Tue, 14 Jul 2026 12:49:56 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Google adds FIDO2 keys and phone passkeys to Windows login via GCPW</title>
-      <link>https://www.helpnetsecurity.com/2026/07/14/security-key-windows-login-google-workspace/</link>
-      <guid isPermaLink="false">identitybrief-307ddd5612025983</guid>
-      <pubDate>Tue, 14 Jul 2026 10:35:48 +0000</pubDate>
-      <category>auth</category>
-      <description>Google has started rolling out FIDO2-compliant physical security key support as a second factor for authentication in Google Credential Provider for Windows (GCPW) to all Google Workspace customers. GCPW is a free tool that lets users sign in to Windows computers with their Google Workspace account instead of, or alongside, a Windows username and password.…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials</title>
-      <link>https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</link>
-      <guid isPermaLink="false">identitybrief-fc7f385d4632daeb</guid>
-      <pubDate>Tue, 14 Jul 2026 11:21:35 +0000</pubDate>
-      <category>breach</category>
-      <description>At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>New phishing kits target Microsoft 365 accounts, evade MFA</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/</link>
-      <guid isPermaLink="false">identitybrief-c74394b9407ee758</guid>
-      <pubDate>Tue, 14 Jul 2026 12:49:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members</title>
-      <link>https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</link>
-      <guid isPermaLink="false">identitybrief-b61849c71d16b2bd</guid>
-      <pubDate>Tue, 14 Jul 2026 14:12:39 +0000</pubDate>
-      <category>auth</category>
-      <description>It's pulling 86pts/day — real momentum for something this new, not a one-day spike. Still under the radar (54pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>European "age verification" "app" forcing everyone to use Android or iOS</title>
-      <link>https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19</link>
-      <guid isPermaLink="false">identitybrief-544f53bd4c769105</guid>
-      <pubDate>Tue, 14 Jul 2026 08:34:57 +0000</pubDate>
-      <category>fraud</category>
-      <description>It's pulling 573pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Call for Participation: Demonstrate MCP-based AI agent security with open identity standards</title>
-      <link>https://openid.net/call-for-participation-demonstrate-mcp-based-ai-agent-security-with-open-identity-standards-2/</link>
-      <guid isPermaLink="false">identitybrief-60136d6c87ee5421</guid>
-      <pubDate>Tue, 14 Jul 2026 19:11:39 +0000</pubDate>
-      <category>auth</category>
-      <description>Prove that MCP clients, gateways, and servers from different vendors can secure AI agents together — within and across enterprises. The OpenID Foundation’s Artificial Intelligence Identity Management Community Group (AIIM CG) is running an interoperability event to show that Model Context Protocol (MCP) flows can be secured with open identity standards.… It landed in the last few hours.
 
 — via OpenID Foundation</description>
     </item>
