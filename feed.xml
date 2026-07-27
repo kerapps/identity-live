@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Innovatrics strengthens biometric defenses with PAD, injection attack validation</title>
+      <link>https://www.biometricupdate.com/202607/innovatrics-strengthens-biometric-defenses-with-pad-injection-attack-validation</link>
+      <guid isPermaLink="false">identitybrief-c86b0a04405ffd9c</guid>
+      <pubDate>Mon, 27 Jul 2026 05:38:42 +0000</pubDate>
+      <category>fraud</category>
+      <description>As deepfakes and synthetic identities become easier to create, identity verification vendors face a new challenge: proving their systems can defend against attacks both in front of the camera and behind it. Traditional presentation attacks rely on printed photos, masks or video replays shown to a camera. Injection attacks are different. Instead of fooling… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>What the identity attack surface looks like when trust becomes the target</title>
+      <link>https://www.helpnetsecurity.com/2026/07/27/identity-attack-surface-video/</link>
+      <guid isPermaLink="false">identitybrief-d4159a69bd0edad0</guid>
+      <pubDate>Mon, 27 Jul 2026 05:00:33 +0000</pubDate>
+      <category>breach</category>
+      <description>In this Help Net Security video, Joel Moses, VP, Strategic Engineering at F5, explains how attackers use identity instead of breaking through it. He walks through MFA fatigue, session token theft, and consent given to malicious applications, using the 2022 Uber breach as an example. He also covers how cloud and on-premises trust relationships give attackers… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Product showcase: LastPass Authenticator brings Face ID, Apple Watch, and cloud backup to 2FA</title>
+      <link>https://www.helpnetsecurity.com/2026/07/27/product-showcase-lastpass-authenticator/</link>
+      <guid isPermaLink="false">identitybrief-96ac3966ea6559a8</guid>
+      <pubDate>Mon, 27 Jul 2026 04:30:44 +0000</pubDate>
+      <category>auth</category>
+      <description>LastPass Authenticator is a free app that provides two-factor authentication (2FA) for accounts and any service that supports time-based one-time passwords (TOTP). It supports push notifications for one-tap approvals and generates six-digit verification codes for online accounts. The app is available for iPhone, iPad, Apple Watch, and Android devices.… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>2026 Age Assurance &amp; Digital Age Credentials Market Report</title>
+      <link>https://www.biometricupdate.com/202607/2026-age-assurance-digital-age-credentials-market-report</link>
+      <guid isPermaLink="false">identitybrief-0f1814a9d4144321</guid>
+      <pubDate>Mon, 27 Jul 2026 00:21:45 +0000</pubDate>
+      <category>did</category>
+      <description>Age assurance has rapidly evolved from a niche compliance requirement into one of the fastest-growing segments of digital identity. Governments around the world are introducing legislation requiring online platforms to determine whether users are children, while technology providers race to develop privacy-preserving methods that balance child protection,… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Unico adds ISO 42001 AI governance certification to identity platform</title>
+      <link>https://www.biometricupdate.com/202607/unico-adds-iso-42001-ai-governance-certification-to-identity-platform</link>
+      <guid isPermaLink="false">identitybrief-e2186abacd63030a</guid>
+      <pubDate>Mon, 27 Jul 2026 03:19:52 +0000</pubDate>
+      <category>fraud</category>
+      <description>Unico has secured ISO/IEC 42001 certification for the AI management system used in its IDCloud identity platform. ISO/IEC 42001 provides a framework for managing the development, deployment, and ongoing oversight of AI systems, including risk management, accountability, monitoring, and auditability. “This certification recognizes the maturity with which we… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>MCBS Data Breach Affects 1.2 Million Individuals</title>
+      <link>https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/</link>
+      <guid isPermaLink="false">identitybrief-2e083b030aa38d6c</guid>
+      <pubDate>Mon, 27 Jul 2026 04:51:32 +0000</pubDate>
+      <category>breach</category>
+      <description>The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek . It landed in the last few hours.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Nono: Open-source sandbox for AI agents</title>
+      <link>https://www.helpnetsecurity.com/2026/07/27/nono-open-source-ai-agent-sandboxing/</link>
+      <guid isPermaLink="false">identitybrief-64bafcb42ff0ac72</guid>
+      <pubDate>Mon, 27 Jul 2026 05:30:09 +0000</pubDate>
+      <category>auth</category>
+      <description>An AI coding agent opens a terminal, reads a config file, and finds a live cloud key sitting in plaintext. It runs with the permissions of the person who launched it. Every file that person can read, the agent reads. Every credential in the environment, the agent can use. That reach is where the damage starts. A prompt injection, a mistyped command, or a… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Golden Chickens Resurfaces With Four New Malware Families and Modular Implants</title>
+      <link>https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html</link>
+      <guid isPermaLink="false">identitybrief-97652cd4ceb226e4</guid>
+      <pubDate>Fri, 24 Jul 2026 10:09:24 +0000</pubDate>
+      <category>fraud</category>
+      <description>The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken,…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>M365, Entra ID, Google Password Manager Passkeys</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTBkdW1RM3AzT2tiVHdvZzdDeVV1bF9QSXVaM1l5d3dZbmIwaFZHTkxyRmVrX3AxR0FzZkRtUDVvTGJSUk1IemhERlNhRE5Xc1ZKaUJFZ053YlVJd2dCeU9ndHhZa1psTWE1NVI5ZkFhR2lNcmtPS3hTTmJUXzM2bXJSOHpPT0NkVWZ4WkctUTZOTE9XY3FBNDZkRGNKajJXZkFoaDJRQWpCSXlOZV9VekZEVjUzUQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-02eb4dd9d3f353e4</guid>
+      <pubDate>Sun, 26 Jul 2026 21:33:09 +0000</pubDate>
+      <category>auth</category>
+      <description>M365, Entra ID, Google Password Manager Passkeys Microsoft Community Hub It landed in the last few hours.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
+      <title>Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access</title>
+      <link>https://thehackernews.com/2026/07/check-point-patches-exploited.html</link>
+      <guid isPermaLink="false">identitybrief-a982ab7248bdfa96</guid>
+      <pubDate>Thu, 23 Jul 2026 06:34:36 +0000</pubDate>
+      <category>breach</category>
+      <description>Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Flaws in Passkey Implementation Show Old Attacks Still Work</title>
+      <link>https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work</link>
+      <guid isPermaLink="false">identitybrief-b94ae4772c0f201e</guid>
+      <pubDate>Wed, 22 Jul 2026 23:50:01 +0000</pubDate>
+      <category>breach</category>
+      <description>Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link</title>
+      <link>https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html</link>
+      <guid isPermaLink="false">identitybrief-6bef077b53cc3baf</guid>
+      <pubDate>Fri, 24 Jul 2026 11:53:55 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Data Breach Confirmed After Australian Energy Giant Origin Is Hacked</title>
+      <link>https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/</link>
+      <guid isPermaLink="false">identitybrief-e8168de4a4942ad3</guid>
+      <pubDate>Fri, 24 Jul 2026 05:52:31 +0000</pubDate>
+      <category>breach</category>
+      <description>A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>International alert spotlights Russia-linked attacks on Zimbra webmail</title>
+      <link>https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear</link>
+      <guid isPermaLink="false">identitybrief-a43bfb637d12f233</guid>
+      <pubDate>Thu, 23 Jul 2026 16:58:00 +0000</pubDate>
+      <category>breach</category>
+      <description>A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.
+
+— via The Record</description>
+    </item>
+    <item>
       <title>Biometrics standards, regulations set up growth in QR codes, DVS</title>
       <link>https://www.biometricupdate.com/202607/biometrics-standards-regulations-set-up-growth-in-qr-codes-dvs</link>
       <guid isPermaLink="false">identitybrief-d71ddbb5d4cb1166</guid>
@@ -1362,145 +1502,5 @@
       <description>A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...] It landed in the last few hours.
 
 — via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Zoom patches account takeover hole</title>
-      <link>https://www.csoonline.com/article/4197962/zoom-patches-account-takeover-hole-2.html</link>
-      <guid isPermaLink="false">identitybrief-c686a79c967b2e08</guid>
-      <pubDate>Thu, 16 Jul 2026 17:30:44 +0000</pubDate>
-      <category>fraud</category>
-      <description>Zoom has identified, and patched, a critical security hole that “may allow an unauthenticated user to conduct an account takeover via network access.” The issue is especially significant given Zoom’s extensive reach; it reportedly has more than 300 million daily active users, including 470,000 paying business customers. Given that reach, Zoom has been… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>C'mon, just copy this text string and paste it into your macOS Terminal – it'll fix your computer, honest</title>
-      <link>https://www.theregister.com/cyber-crime/2026/07/16/cmon-just-copy-this-text-string-and-paste-it-into-your-macos-terminal-itll-fix-your-computer-honest/5273701</link>
-      <guid isPermaLink="false">identitybrief-8c9f50aaafb2127d</guid>
-      <pubDate>Thu, 16 Jul 2026 15:33:01 +0000</pubDate>
-      <category>iam</category>
-      <description>Newly documented stealer ClickLock comes for the more trusting Mac user with spot of social engineering
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>FlowGuard: From Signals to Evidence for MCP Security Detection</title>
-      <link>http://arxiv.org/abs/2607.14754v1</link>
-      <guid isPermaLink="false">identitybrief-e21015c8817766b6</guid>
-      <pubDate>Thu, 16 Jul 2026 09:41:17 +0000</pubDate>
-      <category>research</category>
-      <description>The Model Context Protocol (MCP) enables LLM agents to interact with external tools through metadata exchange, tool invocation, and response consumption. Existing MCP security scanners primarily reason about suspicious semantic signals rather than real execution behaviors, which can lead to unreliable risk assessment. For example, credential-like strings…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Microsoft Passkey Provisioning API: Your Questions, Answered</title>
-      <link>https://www.hypr.com/blog/microsoft-passkey-provisioning-api-your-questions-answered</link>
-      <guid isPermaLink="false">identitybrief-28f910509ff95c79</guid>
-      <pubDate>Thu, 16 Jul 2026 19:43:42 +0000</pubDate>
-      <category>auth</category>
-      <description>What is the Passkey Provisioning API? The Passkey Provisioning API enables organizations to issue passkeys to employees directly, instead of relying on each user to set one up through self-service enrollment. It landed in the last few hours.
-
-— via HYPR</description>
-    </item>
-    <item>
-      <title>Regula combines identity signals as layered identity verification gains ground</title>
-      <link>https://www.biometricupdate.com/202607/regula-combines-identity-signals-as-layered-identity-verification-gains-ground</link>
-      <guid isPermaLink="false">identitybrief-20db2c762cc10aa6</guid>
-      <pubDate>Wed, 15 Jul 2026 19:36:21 +0000</pubDate>
-      <category>fraud</category>
-      <description>Regula Forensics has announced the launch of an enhanced, multimodal biometric verification service with integrated liveness detection. A release says the product includes facial recognition, fingerprint verification, iris recognition, voice recognition, behavioral biometrics and hand geometry analysis, to support remote onboarding, authentication and… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>AI fraud fuels debate over continuous identity verification</title>
-      <link>https://www.biometricupdate.com/202607/ai-fraud-fuels-debate-over-continuous-identity-verification</link>
-      <guid isPermaLink="false">identitybrief-f9e8b54b14c22e80</guid>
-      <pubDate>Wed, 15 Jul 2026 23:27:44 +0000</pubDate>
-      <category>fraud</category>
-      <description>Artificial intelligence allows organized fraud rings to manufacture thousands of synthetic identities, generate fraudulent documents and deepfake videos, and attack government benefit programs at a scale that federal identity systems were not built to withstand, according to authorities at a hearing Wednesday before the House Committee on Oversight and… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>OfDIA confirms commitment to DVS trust framework in annual report</title>
-      <link>https://www.biometricupdate.com/202607/ofdia-confirms-commitment-to-dvs-trust-framework-in-annual-report</link>
-      <guid isPermaLink="false">identitybrief-05ba77d957b7761b</guid>
-      <pubDate>Wed, 15 Jul 2026 19:45:29 +0000</pubDate>
-      <category>did</category>
-      <description>A new annual report from the UK’s Office for Digital Identities and Attributes (OfDIA) refreshes its commitment to support biometrics and digital identity providers certified under the Digital Verification Services (DVS) trust framework. The report on the Data (Use and Access) Act 2025 “sets out the government’s progress in establishing and maintaining the… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Finance phishing works because it sounds boringly normal</title>
-      <link>https://www.helpnetsecurity.com/2026/07/16/cofense-finance-phishing-tactics-report/</link>
-      <guid isPermaLink="false">identitybrief-be276e1817b35bb4</guid>
-      <pubDate>Thu, 16 Jul 2026 03:30:16 +0000</pubDate>
-      <category>breach</category>
-      <description>Finance departments process a constant stream of invoices, contracts, payment notices, and procurement emails, making email one of the most common initial access vectors for threat actors. According to Cofense, attackers exploit those workflows with phishing emails that resemble legitimate business correspondence rather than relying on urgency-based lures.… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Identity Attacks Overtake Exploits as Top Ransomware Cause</title>
-      <link>https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause</link>
-      <guid isPermaLink="false">identitybrief-4a1c8b34a3069de2</guid>
-      <pubDate>Wed, 15 Jul 2026 20:16:13 +0000</pubDate>
-      <category>breach</category>
-      <description>Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Socure rolls out Remote Verifier for higher-risk identity checks</title>
-      <link>https://www.helpnetsecurity.com/2026/07/15/socure-rolls-out-remote-verifier-for-higher-risk-identity-checks/</link>
-      <guid isPermaLink="false">identitybrief-c9965969ebef857d</guid>
-      <pubDate>Wed, 15 Jul 2026 13:51:39 +0000</pubDate>
-      <category>fraud</category>
-      <description>Socure has launched Remote Verifier in RiskOS, a new identity verification tool that helps organizations verify identities requiring additional review while reducing manual effort. Socure’s AI-powered document verification solution instantly verifies more than 99% of identities on the first try, compared to an industry average of 64%. The Remote Verifier is…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Zoom warns of critical account takeover vulnerability</title>
-      <link>https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/</link>
-      <guid isPermaLink="false">identitybrief-2b41cb8c20431e36</guid>
-      <pubDate>Wed, 15 Jul 2026 20:16:02 +0000</pubDate>
-      <category>fraud</category>
-      <description>Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Biometric Update: Microsoft and Google push passkeys deeper into workplace authentication</title>
-      <link>https://fidoalliance.org/biometric-update-microsoft-and-google-push-passkeys-deeper-into-workplace-authentication/</link>
-      <guid isPermaLink="false">identitybrief-df05f182b3abef63</guid>
-      <pubDate>Wed, 15 Jul 2026 18:43:16 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft and Google are pushing passkeys and hardware security keys deeper into workplace authentication, with Microsoft preparing to make passkeys the default authentication experience in Entra ID, and Google adding FIDO2-compliant […] It landed in the last few hours.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Launch HN: Coasty (YC S26) – An API for computer-use agents</title>
-      <link>https://coasty.ai/docs</link>
-      <guid isPermaLink="false">identitybrief-fcb5e65c66087d37</guid>
-      <pubDate>Wed, 15 Jul 2026 15:51:20 +0000</pubDate>
-      <category>auth</category>
-      <description>Hey HN, we’re Nitish and Prateek, the founders of Coasty ( https://coasty.ai/computer-use ). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs. Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser… It's pulling 52pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>How we got here: what six decades of identity history tell us about the agent age</title>
-      <link>https://openid.net/how-we-got-here-what-six-decades-of-identity-history-tell-us-about-the-agent-age/</link>
-      <guid isPermaLink="false">identitybrief-5f5e7ed61e646d53</guid>
-      <pubDate>Wed, 15 Jul 2026 08:15:12 +0000</pubDate>
-      <category>auth</category>
-      <description>By Sar Haidar, Platform Engineer at MIT Open Learning Every identity standard we work with today was built to solve a problem someone was staring at right then. OAuth, OIDC, SAML, the token flows we spend our careers refining: each one began as an urgent answer to an immediate question. That was the premise of […] The post How we got here: what six decades…
-
-— via OpenID Foundation</description>
     </item>
 </channel></rss>
