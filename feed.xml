@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Pakistan fast-tracks digital identity as Digital Nation Act takes effect</title>
+      <link>https://www.biometricupdate.com/202607/pakistan-fast-tracks-digital-identity-as-digital-nation-act-takes-effect</link>
+      <guid isPermaLink="false">identitybrief-9f15fddcbeff0dca</guid>
+      <pubDate>Thu, 30 Jul 2026 19:48:04 +0000</pubDate>
+      <category>did</category>
+      <description>Pakistan is moving to speed deployment of core digital infrastructure. The GSMA’s Digital Pakistan 2030 report urges a shift while the Digital Nation Pakistan Act 2025 gives the Pakistan Digital Authority the legal mandate to build national digital plumbing. At the same time, PTA’s fines over flawed SIM issuance highlight risks in the country’s biometric… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>DHS looks to consolidate aging biometric examination tools</title>
+      <link>https://www.biometricupdate.com/202607/dhs-looks-to-consolidate-aging-biometric-examination-tools</link>
+      <guid isPermaLink="false">identitybrief-ae36d35acbeea67d</guid>
+      <pubDate>Thu, 30 Jul 2026 20:15:05 +0000</pubDate>
+      <category>auth</category>
+      <description>The Department of Homeland Security (DHS) is exploring the acquisition of a multimodal examination platform that would allow government biometric specialists to review fingerprints, facial images, irises, and latent prints from within a single integrated environment. A Request for Information (RFI) issued by DHS’s Office of Biometric Identity Management (… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Okta to Acquire Identity Threat Detection Firm Permiso</title>
+      <link>https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/</link>
+      <guid isPermaLink="false">identitybrief-2dc618d172e5aa65</guid>
+      <pubDate>Thu, 30 Jul 2026 19:10:26 +0000</pubDate>
+      <category>iam</category>
+      <description>The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response. The post Okta to Acquire Identity Threat Detection Firm Permiso appeared first on SecurityWeek . It landed in the last few hours.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>JetBrains warns of critical TeamCity remote code execution flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/</link>
+      <guid isPermaLink="false">identitybrief-ff923696379f32ff</guid>
+      <pubDate>Thu, 30 Jul 2026 22:01:31 +0000</pubDate>
+      <category>breach</category>
+      <description>JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Beyond the password: Why behavioral biometrics is becoming banking’s last line of defense</title>
+      <link>https://www.biometricupdate.com/202607/beyond-the-password-why-behavioral-biometrics-is-becoming-bankings-last-line-of-defense</link>
+      <guid isPermaLink="false">identitybrief-9aea5a3fabe0a8b0</guid>
+      <pubDate>Thu, 30 Jul 2026 16:01:41 +0000</pubDate>
+      <category>fraud</category>
+      <description>By Divija Vijaya Ganiga, IEEE Senior Member A fraudster does not need to break down the door if they already have a working copy of the key. That is the uncomfortable reality behind account takeover fraud, commonly known as ATO. It also explains why ATO losses continue to rise even as multi-factor authentication becomes standard across the financial…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>What’s next for biometric security</title>
+      <link>https://identityweek.net/whats-next-for-biometric-security/</link>
+      <guid isPermaLink="false">identitybrief-0cd0fa3dbbfaffb8</guid>
+      <pubDate>Thu, 30 Jul 2026 14:46:35 +0000</pubDate>
+      <category>fraud</category>
+      <description>We have traditionally examined fingerprint ink and standard 2D facial scans at the forefront of identity verification at Identity Week America, which returns from 2-3 September. But what happens when traditional biometric modalities are not enough? Review the real-world applications of recent innovations in biometric technologies, beyond the fingerprint.…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>South Korea fines telco giant KT $39 million for customer data breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-0c3f004d2e3a5f83</guid>
+      <pubDate>Thu, 30 Jul 2026 22:28:30 +0000</pubDate>
+      <category>breach</category>
+      <description>South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>U.S. aviation systems only partially complete security upgrades</title>
+      <link>https://identityweek.net/u-s-aviation-systems-only-partially-complete-security-upgrades/</link>
+      <guid isPermaLink="false">identitybrief-f16be2c698df3b31</guid>
+      <pubDate>Thu, 30 Jul 2026 15:59:27 +0000</pubDate>
+      <category>iam</category>
+      <description>Federal agencies tasked with protecting U.S. travel systems from major cyberattacks have only partly carried out important security upgrades, according to a new audit. The research showed that the Federal Aviation Administration (FAA) had not updated its surveillance monitoring and critical identity management systems despite having shared responsibility…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Veratad Technologies launches the Veratad VX℠ agent toolkit, giving AI agents built-in identity and age verification</title>
+      <link>https://identityweek.net/veratad-technologies-launches-the-veratad-vx%e2%84%a0-agent-toolkit-giving-ai-agents-built-in-identity-and-age-verification/</link>
+      <guid isPermaLink="false">identitybrief-1a0a985e64328b26</guid>
+      <pubDate>Thu, 30 Jul 2026 14:11:04 +0000</pubDate>
+      <category>fraud</category>
+      <description>The future of digital trust is evolving. Veratad Technologies explores how AI agents can operate with greater confidence through built-in identity and age verification with the launch of the Veratad VX℠ Agent Toolkit. Read the latest innovation from Veratad and connect with their team at Identity Week America 2026, where they will be showcasing their […]
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Semiconductor chip titan Analog Devices reports data breach</title>
+      <link>https://therecord.media/analog-devices-semiconductor-company-data-breach</link>
+      <guid isPermaLink="false">identitybrief-ecd0cf366963fdf2</guid>
+      <pubDate>Thu, 30 Jul 2026 19:10:00 +0000</pubDate>
+      <category>breach</category>
+      <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation. It landed in the last few hours.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>New infosec products of the week: July 31, 2026</title>
+      <link>https://www.helpnetsecurity.com/2026/07/31/new-infosec-products-of-the-week-july-31-2026/</link>
+      <guid isPermaLink="false">identitybrief-3ec1d529c67d2cec</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:37 +0000</pubDate>
+      <category>fraud</category>
+      <description>Here’s a look at the most interesting products from the past week, featuring releases from BlackCloak, Contrast Security, Dropzone AI, PortSwigger, Realm Security, Reco, Root Evidence, and ZeroFox. BlackCloak extends deepfake protection to the executive’s trusted circle Deepfakes have made one of our oldest assumptions unreliable: that you can trust a… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests</title>
+      <link>https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/</link>
+      <guid isPermaLink="false">identitybrief-e8ce51642f01ce30</guid>
+      <pubDate>Fri, 31 Jul 2026 00:57:25 +0000</pubDate>
+      <category>breach</category>
+      <description>One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Checking Information Flow in Cloud-based IoT Access Control Policies (Extended Version)</title>
+      <link>http://arxiv.org/abs/2607.28088v1</link>
+      <guid isPermaLink="false">identitybrief-d04d0dd0a95cf923</guid>
+      <pubDate>Thu, 30 Jul 2026 11:54:36 +0000</pubDate>
+      <category>research</category>
+      <description>Many cloud providers for IoT technologies offer access control mechanisms whose proper configuration is critical for security. However, verifying permissions in isolation is insufficient in a setting where devices have different levels of trust or are compartmentalised in various subsystems. This work analyses IoT access control policies to identify…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>What Is Device Binding, and How Does It Keep a Stolen Digital ID From Being Reused?</title>
+      <link>https://blog.spruceid.com/what-is-device-binding-and-how-does-it-keep-a-stolen-digital-id-from-being-reused/</link>
+      <guid isPermaLink="false">identitybrief-430087f30bca739c</guid>
+      <pubDate>Thu, 30 Jul 2026 20:34:34 +0000</pubDate>
+      <category>did</category>
+      <description>Device binding is the cryptographic layer that turns a verifiable digital credential from something that can be copied into something that can only be used by its rightful holder. It landed in the last few hours.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>Product showcase: Dashlane Password Manager is more security toolkit than password vault</title>
       <link>https://www.helpnetsecurity.com/2026/07/30/product-showcase-dashlane-password-manager/</link>
       <guid isPermaLink="false">identitybrief-1fa13297a9a1593f</guid>
@@ -1362,145 +1502,5 @@
       <description>Attackers have begun exploiting CVE-2026-6875, a critical pre-authentication vulnerability in the ServiceNow AI Platform, according to threat intelligence firm Defused. About the vulnerability ServiceNow AI is a Platform-as-a-Service that lets organizations build and automate digital workflows. CVE-2026-6875 is a code injection vulnerability that lets…
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Patch now: WordPress REST API bug allows remote code execution</title>
-      <link>https://www.csoonline.com/article/4198791/patch-now-wordpress-rest-api-bug-allows-remote-code-execution.html</link>
-      <guid isPermaLink="false">identitybrief-34f3eb71aa952514</guid>
-      <pubDate>Mon, 20 Jul 2026 12:30:13 +0000</pubDate>
-      <category>breach</category>
-      <description>Organizations running recent versions of WordPress are being asked to patch a newly detailed pre-authentication remote code execution (RCE) vulnerability affecting the platform’s built-in REST Batch API. The flaw, dubbed wp2shell, enables attackers to execute arbitrary code against a default WordPress installation without requiring plugins, authentication,…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Hugging Face warns an autonomous AI agent hacked its network</title>
-      <link>https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/</link>
-      <guid isPermaLink="false">identitybrief-30f739b6778a83b7</guid>
-      <pubDate>Mon, 20 Jul 2026 11:56:28 +0000</pubDate>
-      <category>breach</category>
-      <description>The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcri</title>
-      <link>http://arxiv.org/abs/2607.17147v1</link>
-      <guid isPermaLink="false">identitybrief-249ba25d1b0b1c01</guid>
-      <pubDate>Sun, 19 Jul 2026 09:13:08 +0000</pubDate>
-      <category>research</category>
-      <description>LLM agents can leak privacy (e.g., paths, emails) and credentials (e.g., API keys) as agent observations (e.g., tool outputs, shell logs, and file reads) are appended to provider-bound transcripts. Existing placeholder redaction is brittle: it can miss embedded or cross-turn references, over-redact benign lookalikes, and destroy the structure useful for… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Why KYC is Important (and What it Actually Means)</title>
-      <link>https://www.jumio.com/kyc-know-your-customer/</link>
-      <guid isPermaLink="false">identitybrief-fe2a31a533daa276</guid>
-      <pubDate>Mon, 20 Jul 2026 11:00:30 +0000</pubDate>
-      <category>fraud</category>
-      <description>In a world where financial crime and identity fraud are more sophisticated than ever, Know Your Customer (KYC) regulations have become the foundation of modern compliance programs. But for many, the term remains vague; something mentioned during account sign-ups or whispered during onboarding discussions. So, why is KYC important, really? KYC is a process…
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>Product showcase: ZoneAlarm Mobile Security adds customizable content filtering to mobile security</title>
-      <link>https://www.helpnetsecurity.com/2026/07/20/product-showcase-zonealarm-mobile-security-adds-customizable-content-filtering-to-mobile-security/</link>
-      <guid isPermaLink="false">identitybrief-3a407d4870491eb5</guid>
-      <pubDate>Mon, 20 Jul 2026 04:30:34 +0000</pubDate>
-      <category>fraud</category>
-      <description>ZoneAlarm Mobile Security is a security app from Check Point designed to protect mobile devices against phishing, malicious websites, unsafe networks, and fraudulent links. It is available for iPhone, iPad, Android, and can run on Apple silicon Macs through the App Store. Getting started The onboarding process begins with a request for notification… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Grocery Outlet stores deploy SAFR facial recognition to ID suspected shoplifters</title>
-      <link>https://www.biometricupdate.com/202607/grocery-outlet-stores-deploy-safr-facial-recognition-to-id-suspected-shoplifters</link>
-      <guid isPermaLink="false">identitybrief-d0f9f4691427213c</guid>
-      <pubDate>Sun, 19 Jul 2026 20:05:20 +0000</pubDate>
-      <category>auth</category>
-      <description>Facial recognition systems are scanning shoppers as they enter a growing number of Grocery Outlet stores in the San Francisco Bay Area, comparing their faces against watchlists of people suspected of theft, violence, or other unlawful conduct. Signs disclosing the use of biometric face-matching software have been documented at Grocery Outlet stores in… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Week in review: High severity WordPress vulnerabilities, fake OAuth IDs bypass sign-in logs</title>
-      <link>https://www.helpnetsecurity.com/2026/07/19/week-in-review-oauth-client-ids-spoofed-sonicwall-sma-appliances-targeted-in-zero-day-attacks/</link>
-      <guid isPermaLink="false">identitybrief-648e4b8b64b7c4a3</guid>
-      <pubDate>Sun, 19 Jul 2026 07:09:58 +0000</pubDate>
-      <category>auth</category>
-      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Two new high severity WordPress vulnerabilities, patch immediately! The 7.0.2 WordPress security release addresses one critical and one high severity security issue. Cynative: Open-source deep research agent Running a large language model against a live cloud…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>More alerts are making your team slower, and an outcome-based SOC fixes that</title>
-      <link>https://www.helpnetsecurity.com/2026/07/20/outcome-based-soc-video/</link>
-      <guid isPermaLink="false">identitybrief-20d5c8ea5396c600</guid>
-      <pubDate>Mon, 20 Jul 2026 05:30:26 +0000</pubDate>
-      <category>breach</category>
-      <description>In this Help Net Security video, Thom Langford, EMEA CTO, Rapid7, explains why piling on more security alerts makes a SOC slower to respond. Attackers log in with stolen credentials and use trusted tools like PowerShell instead of custom malware. He shares a case where attackers called a help desk, reset a privileged cloud account, and exposed thousands of… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent</title>
-      <link>https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html</link>
-      <guid isPermaLink="false">identitybrief-b28632a33ec75ec5</guid>
-      <pubDate>Mon, 20 Jul 2026 05:27:26 +0000</pubDate>
-      <category>breach</category>
-      <description>In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. "We identified unauthorized access to a limited set of internal… It landed in the last few hours.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines</title>
-      <link>https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html</link>
-      <guid isPermaLink="false">identitybrief-44e4de974c084c5c</guid>
-      <pubDate>Mon, 20 Jul 2026 05:15:39 +0000</pubDate>
-      <category>auth</category>
-      <description>Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo… It landed in the last few hours.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Within line of sight – personal issue police drones are on the horizon</title>
-      <link>https://www.biometricupdate.com/202607/within-line-of-sight-personal-issue-police-drones-are-on-the-horizon</link>
-      <guid isPermaLink="false">identitybrief-b86044ef8e4e3080</guid>
-      <pubDate>Sun, 19 Jul 2026 19:35:33 +0000</pubDate>
-      <category>auth</category>
-      <description>By Professor Fraser Sampson, former UK Biometrics &amp; Surveillance Camera Commissioner The announcement by the Metropolitan Police Service that they are to deploy drones across all 32 London boroughs shouldn’t come as a surprise - at least not to anyone involved in providing police aerial capability. The popular image of police air support is the ‘Blue… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>GoSerpent campaign used coordinated malware chain to steal government files</title>
-      <link>https://www.biometricupdate.com/202607/goserpent-campaign-used-coordinated-malware-chain-to-steal-government-files</link>
-      <guid isPermaLink="false">identitybrief-1d89d4faf0f26fe3</guid>
-      <pubDate>Sun, 19 Jul 2026 19:20:07 +0000</pubDate>
-      <category>breach</category>
-      <description>A previously undocumented malware campaign targeting government and diplomatic organizations in Southeast Asia used a succession of remote access, credential theft and data exfiltration tools designed to remain inside compromised networks for months before removing the information it had collected. Kaspersky said it discovered the activity in February,… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>From Neural Intent to Cryptographic Authorization: Governing Agentic Workflows</title>
-      <link>http://arxiv.org/abs/2607.15596v1</link>
-      <guid isPermaLink="false">identitybrief-223704c2c5b9c8bf</guid>
-      <pubDate>Fri, 17 Jul 2026 03:44:05 +0000</pubDate>
-      <category>research</category>
-      <description>The rapid adoption of artificial intelligence (AI)-driven and agentic workflows is transforming traditional government and enterprise systems into language-based, tool-using and increasingly autonomous infrastructures. Conventional key management services authenticate who may invoke a cryptographic primitive, but remain agnostic to which workflow steps are…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Intentional Electromagnetic Interference Attacks on Facial Recognition</title>
-      <link>http://arxiv.org/abs/2607.15512v1</link>
-      <guid isPermaLink="false">identitybrief-d2fbf46ca58259bb</guid>
-      <pubDate>Thu, 16 Jul 2026 23:55:15 +0000</pubDate>
-      <category>research</category>
-      <description>Attacks on general computer vision algorithms are often relegated to the digital domain, with the optimization performed purely in the digital world and then translated to physical mediums for implementation. In the field of biometrics, including facial recognition, physical presentation attacks targeting biometric sensors are dominant and present…
-
-— via arXiv</description>
     </item>
 </channel></rss>
