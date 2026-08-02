@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Many roads to sustainable DPI run through private sector biometric authentication</title>
+      <link>https://www.biometricupdate.com/202608/many-roads-to-sustainable-dpi-run-through-private-sector-biometric-authentication</link>
+      <guid isPermaLink="false">identitybrief-1b92c83425bb73ca</guid>
+      <pubDate>Sat, 01 Aug 2026 17:17:21 +0000</pubDate>
+      <category>did</category>
+      <description>Biometrics contracts from the global push for digital public infrastructure make the biggest waves on the public sector side, between transparency and population scale. But some of the main paths to sustainable digital government service delivery over time involve the private sector far beyond registration and issuance drives; in particular for biometric…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>First Take: Cyera Buys Its Way Into Identity With Planned Acquisition of Oasis Security</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9qNlVkMTltcWIwOXhTZDRDSTlIZU5jc1VUTWZYU0xDa1p5cEJVU05rdm9Sb19LX3o4LTdCb09ESVBUMU9DbXY1VHgzdE5BaEhicDN5NktqVTJDOFZGS3hBRjRsNVBUR3VsblQta21KOS1qOVBTWnM0TWhaOWM?oc=5</link>
+      <guid isPermaLink="false">identitybrief-0f3f05ec23bdea2e</guid>
+      <pubDate>Sat, 01 Aug 2026 00:31:26 +0000</pubDate>
+      <category>iam</category>
+      <description>First Take: Cyera Buys Its Way Into Identity With Planned Acquisition of Oasis Security KuppingerCole Analysts
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction</title>
+      <link>https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html</link>
+      <guid isPermaLink="false">identitybrief-b94013c6f502307a</guid>
+      <pubDate>Sat, 01 Aug 2026 07:12:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Why Veridas and Fourthline are building a new kind of identity platform</title>
+      <link>https://www.biometricupdate.com/202607/why-veridas-and-fourthline-are-building-a-new-kind-of-identity-platform</link>
+      <guid isPermaLink="false">identitybrief-aee8af1f2abb1577</guid>
+      <pubDate>Fri, 31 Jul 2026 20:43:52 +0000</pubDate>
+      <category>auth</category>
+      <description>Consolidation in the biometrics industry continues, as firms find synergies in technology, regulatory coverage, and customer base. Recently, Veridas announced a merger with Fourthline. Eduardo Azanza, CEO of Veridas, says the two companies complement one another in terms of geography, the type of customers they’re courting, and their product portfolio.…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Agentic sprawl creates security gap as governance struggles to keep pace</title>
+      <link>https://www.biometricupdate.com/202607/agentic-sprawl-creates-security-gap-as-governance-struggles-to-keep-pace</link>
+      <guid isPermaLink="false">identitybrief-c45dc75ac52114fb</guid>
+      <pubDate>Fri, 31 Jul 2026 17:20:31 +0000</pubDate>
+      <category>iam</category>
+      <description>Identity security’s next big challenge isn’t human. Enterprise-scale agentic identity sprawl is upon us – raising the question, “when every AI agent becomes an identity, who governs them? ” According to research from Gartner, by 2028, the average global Fortune 500 enterprise will have over 150,000 agents in use. This is a problem, given the other side of…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Criminals used AI and children’s coding software to build a multimillion-dollar ad fraud empire</title>
+      <link>https://www.helpnetsecurity.com/2026/07/31/fuyao-ad-fraud-botnet-android-tv-boxes/</link>
+      <guid isPermaLink="false">identitybrief-319bd83c92664a59</guid>
+      <pubDate>Fri, 31 Jul 2026 12:19:31 +0000</pubDate>
+      <category>fraud</category>
+      <description>A security investigation into inexpensive Android TV boxes led researchers to an ad fraud operation that had remained unnoticed for several years. Fuyao apps ecosystem (Source: Bitsight) According to Bitsight, the operation, named Fuyao, uses preinstalled Android apps, device identity spoofing, AI-generated websites, and residential proxy services to…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw</title>
+      <link>https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html</link>
+      <guid isPermaLink="false">identitybrief-8e306e9cb719c6c1</guid>
+      <pubDate>Fri, 31 Jul 2026 11:55:00 +0000</pubDate>
+      <category>research</category>
+      <description>An academic study has disclosed a "widespread class" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session. The findings have been released by a group of researchers from…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>JetBrains says a crafted HTTP request could break TeamCity</title>
+      <link>https://www.csoonline.com/article/4203872/jetbrains-says-a-crafted-http-request-could-break-teamcity.html</link>
+      <guid isPermaLink="false">identitybrief-c84bebcf940b551c</guid>
+      <pubDate>Fri, 31 Jul 2026 10:46:30 +0000</pubDate>
+      <category>breach</category>
+      <description>JetBrains is warning of a critical security vulnerability in its TeamCity DevOps platform that could allow unauthenticated attackers to execute arbitrary operating system commands on vulnerable servers. “If exploited, this vulnerability may allow an unauthenticated attacker with HTTP(S) access to a TeamCity server to bypass authentication checks and execute…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels</title>
+      <link>https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/</link>
+      <guid isPermaLink="false">identitybrief-17454e05afa7284c</guid>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Matthew Thompson on why new account fraud is winning the prioritization fight</title>
+      <link>https://liminal.co/articles/new-account-fraud-matt-thompson-friday-five/</link>
+      <guid isPermaLink="false">identitybrief-6570b10c5a7576e1</guid>
+      <pubDate>Fri, 31 Jul 2026 09:12:30 +0000</pubDate>
+      <category>fraud</category>
+      <description>Every fraud loss has an origin story, and most start at the same place: the moment an account is opened. New account fraud is what happens when that front door fails, when a fraudster uses stolen, fabricated, or synthetic credentials to create an account that looks legitimate from day one. Once they are inside, everything […] The post Matthew Thompson on…
+
+— via Liminal</description>
+    </item>
+    <item>
+      <title>Horizon3.ai expands NodeZero with automated web application attack path testing</title>
+      <link>https://www.helpnetsecurity.com/2026/07/31/horizon3-ai-nodezero-webapp-pentesting/</link>
+      <guid isPermaLink="false">identitybrief-90248c2f854dd5e6</guid>
+      <pubDate>Fri, 31 Jul 2026 08:06:59 +0000</pubDate>
+      <category>breach</category>
+      <description>Horizon3.ai has expanded its NodeZero platform with AI-powered web application pentesting. The platform can now autonomously test web applications and identify attack paths that chain application vulnerabilities, credential theft, lateral movement, cloud access, and data exposure. Web applications have never been more exposed or more critical to secure. The…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>CareCloud Data Breach Impacts Over 350,000</title>
+      <link>https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/</link>
+      <guid isPermaLink="false">identitybrief-e0301e0131f3b428</guid>
+      <pubDate>Fri, 31 Jul 2026 07:51:43 +0000</pubDate>
+      <category>breach</category>
+      <description>In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs</title>
+      <link>http://arxiv.org/abs/2607.27267v1</link>
+      <guid isPermaLink="false">identitybrief-eb2da2f9b73e5b6c</guid>
+      <pubDate>Wed, 29 Jul 2026 09:41:07 +0000</pubDate>
+      <category>research</category>
+      <description>Large language model (LLM) agents autonomously interleave semantic reasoning with complex system operations. In these dynamic environments, static tool-level permissions are fundamentally insufficient; safe authorization is highly context-dependent and heavily reliant on evolving runtime states and data flows. We present FAVA (Formal Authorization for…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>An AI agent is not a service app: Securing agentic identity</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1YcUdkS3kwbEdnRVRaM0VtZTg1SGtVYmpqRGdCYXZwY0FWck9yb3VWeGlnQk5DMWN4Z3YtWnBJeGFLeUhDUFpJWk40NkdZS3otb2dfSENFbVZQSDZ4NkRtWDdIRk9PSTREelNoQXZWcFU?oc=5</link>
+      <guid isPermaLink="false">identitybrief-a62335a4b5610069</guid>
+      <pubDate>Thu, 30 Jul 2026 17:38:35 +0000</pubDate>
+      <category>iam</category>
+      <description>An AI agent is not a service app: Securing agentic identity Okta
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Argentina launches IOTA decentralized IDs, blockchain for organ transplants</title>
       <link>https://www.biometricupdate.com/202607/argentina-launches-iota-decentralized-ids-blockchain-for-organ-transplants</link>
       <guid isPermaLink="false">identitybrief-334e20ab2f0e692c</guid>
@@ -1362,145 +1502,5 @@
       <description>Edge Intelligence (EI) has emerged as a transformative model for mission-critical unmanned platforms, such as drone swarms, by enabling collaborative model training at the network periphery. However, the security of FL deployments depends on both network availability and robust client authentication mechanisms. This paper investigates a chained attack…
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>German law enforcement claims to have ‘dismantled’ mega phishing-as-a-service group Kratos</title>
-      <link>https://www.csoonline.com/article/4200215/german-law-enforcement-claims-to-have-dismantled-mega-phishing-as-a-service-group-kratos.html</link>
-      <guid isPermaLink="false">identitybrief-01d8d2362d0048b5</guid>
-      <pubDate>Wed, 22 Jul 2026 23:48:12 +0000</pubDate>
-      <category>breach</category>
-      <description>A global law enforcement crackdown has seized infrastructure serving the massive phishing-as-a-service (PhaaS) group Kratos, as well resulting in the arrest of an unnamed Kratos “developer and technical administrator” in Indonesia. The effort was managed by German law enforcement and involved agencies from the US, Indonesia and other countries. Although a… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Oracle’s July update fixes ten 10.0 vulnerabilities in Fusion Middleware</title>
-      <link>https://www.csoonline.com/article/4200184/oracles-july-update-fixes-ten-10-0-vulnerabilities-in-fusion-middleware.html</link>
-      <guid isPermaLink="false">identitybrief-e082208e9be88a08</guid>
-      <pubDate>Wed, 22 Jul 2026 18:14:27 +0000</pubDate>
-      <category>breach</category>
-      <description>Oracle’s July 2026 Critical Patch Update, its largest ever, contains 1,449 new security patches spanning 32 product families, from Oracle Database and E-Business Suite to PeopleSoft, GoldenGate, Java SE, and Fusion Middleware. Fusion Middleware was particularly hard hit, with new security patches for 355 security vulnerabilities, 219 of them remotely… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill</title>
-      <link>https://therecord.media/cisa-2015-extension-passes-house-ndaa</link>
-      <guid isPermaLink="false">identitybrief-d2471b2eca22c7c0</guid>
-      <pubDate>Wed, 22 Jul 2026 20:39:35 +0000</pubDate>
-      <category>iam</category>
-      <description>A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill. It landed in the last few hours.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>MCP in Azure: Using API Management for Authentication, Access, Logging &amp; Governance</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWjZlSlNJaUNpd29GRmtWSjNnOE91WEZzck1FQmxRV3NsWDVSMHJyYVl5Y25xVlRuLTFGSl9jN241QS1seWN1eUNoaUNjeW5hM21nSUpWSkJGdmU4Mm43ZmtFbXJnTXhWWWRidENXT1AxUnBRUVd6UnRQWHJFNk4wX1dESVUtTzRuVHlXZ2Z1aE11NHJMdXRfOHg5bFlNZGVhbU5iOTNvbVg3UWl3c2QwSDFiRWJtUEpOdFlHTjQ5QUVndlkzWjF0NVNidFp6Zkg4SzRqWG9pSlVWaVA1?oc=5</link>
-      <guid isPermaLink="false">identitybrief-b9b861af5ee283b8</guid>
-      <pubDate>Wed, 22 Jul 2026 16:59:29 +0000</pubDate>
-      <category>auth</category>
-      <description>MCP in Azure: Using API Management for Authentication, Access, Logging &amp; Governance Microsoft Community Hub
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Nigeria’s ID authority takes on new duties to secure growing digital ecosystem</title>
-      <link>https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem</link>
-      <guid isPermaLink="false">identitybrief-fb9a155c492578fd</guid>
-      <pubDate>Tue, 21 Jul 2026 20:25:48 +0000</pubDate>
-      <category>did</category>
-      <description>Nigeria has taken steps to consolidate its digital identity system under the National Identity Management Commission (NIMC) as it operationalizes its legal framework. NIMC is taking responsibility for the country’s public key infrastructure (PKI) from the National Information Technology Development Agency, even as more digital services become available to… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>IAD, zero-retention biometrics can bridge EU-UK governance gap</title>
-      <link>https://www.biometricupdate.com/202607/iad-zero-retention-biometrics-can-bridge-eu-uk-governance-gap</link>
-      <guid isPermaLink="false">identitybrief-d0351459a189bf2c</guid>
-      <pubDate>Tue, 21 Jul 2026 21:14:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>Threats tend to wax and wane, especially in tech, where constant innovation drives advances in fraud. Early in 2025, the UK government declared deepfakes to be “ the greatest challenge of the online age ” – a scourge requiring urgent attention from legislators and biometrics providers. Deepfake detection was about to come into its own. A year and half… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Auror expands UK facial recognition rollout for violent retail offenders</title>
-      <link>https://www.biometricupdate.com/202607/auror-expands-uk-facial-recognition-rollout-for-violent-retail-offenders</link>
-      <guid isPermaLink="false">identitybrief-5b06ebc795017688</guid>
-      <pubDate>Tue, 21 Jul 2026 20:43:21 +0000</pubDate>
-      <category>auth</category>
-      <description>Auror has rolled out a new facial recognition system in UK stores that aims to reduce violent retail crime by giving staff real‑time alerts about known high‑harm offenders. Auror Subject Recognition uses retailers’ existing crime data and applies facial recognition solely for crime prevention and store safety, with retailer-controlled watchlists, human… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Police dismantle Kratos phishing platform, arrest developer</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/</link>
-      <guid isPermaLink="false">identitybrief-780698129ccf9633</guid>
-      <pubDate>Tue, 21 Jul 2026 23:07:33 +0000</pubDate>
-      <category>breach</category>
-      <description>Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Teleport enhances Identity Security platform with new AI agent behavior controls</title>
-      <link>https://www.helpnetsecurity.com/2026/07/21/teleport-identity-security-platform-expanded/</link>
-      <guid isPermaLink="false">identitybrief-218ca01e653726e1</guid>
-      <pubDate>Tue, 21 Jul 2026 14:05:50 +0000</pubDate>
-      <category>research</category>
-      <description>Teleport has expanded its Identity Security platform with three new capabilities designed to ensure that agent behavior remains within defined boundaries: Beams Session Summaries, Agentic Classifiers, and Risk Scoring. They give enterprises a foundational harness for identifying and preventing agent misalignment as autonomous agents take on greater…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Closing the Identity Gaps in Critical Infrastructure Security</title>
-      <link>https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/</link>
-      <guid isPermaLink="false">identitybrief-a6ff42a695cfc2ef</guid>
-      <pubDate>Tue, 21 Jul 2026 14:00:10 +0000</pubDate>
-      <category>breach</category>
-      <description>Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Shufti simplifies cross-border compliance with the Glocal Platform</title>
-      <link>https://www.helpnetsecurity.com/2026/07/21/shufti-simplifies-cross-border-compliance-with-the-glocal-platform/</link>
-      <guid isPermaLink="false">identitybrief-a8fd06bad539ce00</guid>
-      <pubDate>Tue, 21 Jul 2026 11:06:36 +0000</pubDate>
-      <category>fraud</category>
-      <description>Shufti has launched the Shufti Glocal Platform, a compliance lifecycle management solution designed to help organizations manage identity verification, fraud prevention, risk assessment, and regulatory compliance through a single platform across every industry, every region, and every use case. For decades, global expansion has come with an unwritten rule:…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Japan-EU pilot succeeds to move cross-border credential presentation, issuance and verification</title>
-      <link>https://identityweek.net/japan-eu-pilot-succeeds-to-move-cross-border-credential-presentation-issuance-and-verification/</link>
-      <guid isPermaLink="false">identitybrief-67de4bd2c6dee9f0</guid>
-      <pubDate>Tue, 21 Jul 2026 11:05:00 +0000</pubDate>
-      <category>did</category>
-      <description>A pilot initiative between Japan and the EU has successfully implemented cross-border credential presentation, issuance and verification scenarios. The pilot will test the feasibility of cross border exchange – interoperability – of learning credentials between the EU digital ID Wallet and the Japanese environment. As the EU digital Wallet development and…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access</title>
-      <link>https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html</link>
-      <guid isPermaLink="false">identitybrief-76c3e9e80b2c3760</guid>
-      <pubDate>Tue, 21 Jul 2026 14:04:57 +0000</pubDate>
-      <category>breach</category>
-      <description>Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Critical Palo Alto VPN bug now exploited by Qilin ransomware gang</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/</link>
-      <guid isPermaLink="false">identitybrief-a3309e460c94dd20</guid>
-      <pubDate>Tue, 21 Jul 2026 10:12:24 +0000</pubDate>
-      <category>breach</category>
-      <description>The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]
-
-— via BleepingComputer</description>
     </item>
 </channel></rss>
