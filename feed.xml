@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>The 25th NextGen Payments and RegTech Forum</title>
+      <link>https://www.biometricupdate.com/202608/the-25th-nextgen-payments-and-regtech-forum</link>
+      <guid isPermaLink="false">identitybrief-839251ded6a09438</guid>
+      <pubDate>Mon, 03 Aug 2026 02:09:53 +0000</pubDate>
+      <category>did</category>
+      <description>The 25th NextGen Payments and RegTech Forum Athens, Greece October 14, 2026 The 25th NextGen Payments &amp; RegTech Forum takes place on 14 October 2026 at the Marriott Hotel in Athens, Greece. The forum brings together senior executives from banking, payments, regulatory technology, compliance, and financial services to examine developments shaping digital… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Product showcase: Guardio Mobile Security turns breach alerts into a recovery plan</title>
+      <link>https://www.helpnetsecurity.com/2026/08/03/product-showcase-guardio-mobile-security/</link>
+      <guid isPermaLink="false">identitybrief-ae4959e359e4ac64</guid>
+      <pubDate>Mon, 03 Aug 2026 04:30:11 +0000</pubDate>
+      <category>fraud</category>
+      <description>Guardio Mobile Security brings several protection features to iPhone and Android, allowing users to monitor exposed personal information, identify phishing attempts, and receive alerts about emerging threats from a single application. It is available on smartphones and tablets, while browser extensions support Chrome and Microsoft Edge on laptops and… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>AI cut phishing from hours to seconds, which is where DMARC and BIMI come in</title>
+      <link>https://www.helpnetsecurity.com/2026/08/03/dmarc-and-bimi-video/</link>
+      <guid isPermaLink="false">identitybrief-e0c82fbfbc0bf490</guid>
+      <pubDate>Mon, 03 Aug 2026 05:00:38 +0000</pubDate>
+      <category>breach</category>
+      <description>In this Help Net Security video, Mike Boyle, VP of Business Units at GMO GlobalSign, and Rahul Powar, CEO and founder of Red Sift, unpack the evolution of email security and why it matters for business trust. With a combined 45+ years worth of experience in tech, they dissect email from the very beginning, before SPF, spam filtering and DMARC, up to today’s… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>EU Age Verification Project Mandates Hardware-Bound Attestation</title>
+      <link>https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</link>
+      <guid isPermaLink="false">identitybrief-daedfea134fbc65b</guid>
+      <pubDate>Sun, 02 Aug 2026 20:44:24 +0000</pubDate>
+      <category>fraud</category>
+      <description>It landed in the last few hours. It's pulling 451pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Rooting, firmware analysis and persistent credentials of TP-Link TL-841N</title>
+      <link>https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/</link>
+      <guid isPermaLink="false">identitybrief-3b42a346b2b90c3c</guid>
+      <pubDate>Sun, 02 Aug 2026 16:19:17 +0000</pubDate>
+      <category>auth</category>
+      <description>It's pulling 168pts/day — real momentum for something this new, not a one-day spike. Still under the radar (96pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Harvesting SSH Credentials: Insights from My Honeypot Network</title>
+      <link>https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</link>
+      <guid isPermaLink="false">identitybrief-41fec52b78fd1e59</guid>
+      <pubDate>Sun, 02 Aug 2026 17:45:51 +0000</pubDate>
+      <category>auth</category>
+      <description>It's pulling 78pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released</title>
+      <link>https://www.helpnetsecurity.com/2026/08/02/week-in-review-claude-breached-three-companies-during-tests-ad-cs-domain-takeover-poc-released/</link>
+      <guid isPermaLink="false">identitybrief-963ee1089f0b709e</guid>
+      <pubDate>Sun, 02 Aug 2026 08:00:17 +0000</pubDate>
+      <category>breach</category>
+      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Nono: Open-source sandbox for AI agents AI coding agents run with the same permissions as their users, meaning they can access sensitive files, credentials, and production systems. A prompt injection, hallucinated command, or simple mistake can quickly turn…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers</title>
+      <link>http://arxiv.org/abs/2607.29417v1</link>
+      <guid isPermaLink="false">identitybrief-c57ec716cfb46040</guid>
+      <pubDate>Fri, 31 Jul 2026 13:40:00 +0000</pubDate>
+      <category>research</category>
+      <description>Version control systems (VCS), including central VCS (CVCS) and distributed VCS (DVCS), are widely adopted to manage changes to software code and various types of documents. Unlike CVCS, where entities obtain data from a central server, each entity in DVCS stores the entire repository and shares it independently. In VCS, existing access control schemes…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass</title>
+      <link>https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html</link>
+      <guid isPermaLink="false">identitybrief-4eaf5eb02f1e21a4</guid>
+      <pubDate>Wed, 29 Jul 2026 08:58:27 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>How MFA gets hacked — and strategies to prevent it</title>
+      <link>https://www.csoonline.com/article/570795/how-to-hack-2fa.html</link>
+      <guid isPermaLink="false">identitybrief-169a554f51517898</guid>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>The security benefits of multifactor authentication (MFA) are well-known, yet MFA continues to be poorly, sporadically, and inconsistently implemented, undercutting its effectiveness as a security tool while often saddling users with an extra workflow burden — one of many obstacles to MFA’s success. Frequent news stories that describe innovative ways to…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>A Biometric Sensor Network to Enable Real-Time Measurement of Individual Student Engagement in STEM Lecture Environments</title>
+      <link>http://arxiv.org/abs/2607.28944v1</link>
+      <guid isPermaLink="false">identitybrief-390eb531d71b1840</guid>
+      <pubDate>Fri, 31 Jul 2026 01:54:08 +0000</pubDate>
+      <category>research</category>
+      <description>Student engagement (SE) is a critical predictor of academic performance and retention in STEM education, yet existing measurement approaches are often intrusive, manually intensive, or unsuitable for real-time classroom use. This thesis proposes a novel $\textit{Biometric Sensor Network}$ (BSN) designed to enable real-time measurement and continuous…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Blockchain Transaction Simulation Phishing</title>
+      <link>http://arxiv.org/abs/2607.28747v1</link>
+      <guid isPermaLink="false">identitybrief-6683f43dc19c5b12</guid>
+      <pubDate>Thu, 30 Jul 2026 18:09:56 +0000</pubDate>
+      <category>research</category>
+      <description>Cryptocurrency users have increasingly become targets of phishing and scam attacks. To mitigate these threats, leading crypto wallets (e.g., MetaMask) have introduced transaction simulation, which previews a transaction's balance changes before on-chain execution. While effective against traditional fund-draining attacks, we show that this defense can…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Critical Code Execution Vulnerability Patched in TeamCity</title>
+      <link>https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/</link>
+      <guid isPermaLink="false">identitybrief-72490d79536b4a6a</guid>
+      <pubDate>Fri, 31 Jul 2026 06:50:30 +0000</pubDate>
+      <category>breach</category>
+      <description>Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>How to build a stateless MCP server on 2026-07-28, secured with AuthKit</title>
+      <link>https://workos.com/blog/build-stateless-mcp-server-2026-07-28-authkit</link>
+      <guid isPermaLink="false">identitybrief-67749b4ecd0ff491</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>A hands-on guide to deploying a spec-compliant remote MCP server on the final 2026-07-28 release, with AuthKit as the OAuth 2.1 authorization server, plus what to change if you're migrating off an earlier draft.
+
+— via WorkOS</description>
+    </item>
+    <item>
       <title>Many roads to sustainable DPI run through private sector biometric authentication</title>
       <link>https://www.biometricupdate.com/202608/many-roads-to-sustainable-dpi-run-through-private-sector-biometric-authentication</link>
       <guid isPermaLink="false">identitybrief-1b92c83425bb73ca</guid>
@@ -1362,145 +1502,5 @@
       <description>A new attack method found by Zenity Labs reveals that AI agents are becoming persistent insiders that attackers can recruit, rather than malware they have to install. Its researchers have discovered AgentForger , a phishing-based attack that silently creates and launches a fully autonomous AI agent within OpenAI workspaces. Once running, the agent has full… It landed in the last few hours.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation</title>
-      <link>http://arxiv.org/abs/2607.21325v1</link>
-      <guid isPermaLink="false">identitybrief-eb022b335bf33071</guid>
-      <pubDate>Thu, 23 Jul 2026 13:55:02 +0000</pubDate>
-      <category>research</category>
-      <description>Autonomous AI agents increasingly execute actions, invoke tools, and operate on protected resources with limited human oversight. Existing authentication and authorization mechanisms establish identity and delegate authority, but do not inherently provide cryptographic evidence that a concrete request issued by a specific agent satisfies the applicable…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets</link>
-      <guid isPermaLink="false">identitybrief-c5a991f7bc322f3e</guid>
-      <pubDate>Thu, 23 Jul 2026 21:23:18 +0000</pubDate>
-      <category>breach</category>
-      <description>A state-sponsored threat group, dubbed "Laundry Bear," sends "half-click" phishing emails that require a victim only to open or preview the message. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Email threat landscape: Q2 2026 trends and insights</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</link>
-      <guid isPermaLink="false">identitybrief-e122c9c3599c5519</guid>
-      <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains. The post Email threat landscape: Q2 2026…
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Modernize SAP Identity Management with Microsoft Entra</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUZPY3pXOEtfYk1acVhSdlViTjFfUVhrQjQxMUprSkVHRXo0UVl5VUZxU1dmODRfS3V0YjV3Yll6Vk5XUHY0TW1ZMzMxZHk0YWJlT1BhcUx3Q3pzOHdiQUdMa2Y4NlIzbmdsZ3RqZnozTDRDaUJ6OXNiNUtUby1UZjVRV29rS1ZWYjAzOU9LN05oX0VHbF9FMEdaaWs3cnJQajdLUTk3T2xJSWVmWjBKSDhLcVQwZkp6TjJwXzJ5elpVUQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-30b101147108a286</guid>
-      <pubDate>Thu, 23 Jul 2026 20:08:07 +0000</pubDate>
-      <category>iam</category>
-      <description>Modernize SAP Identity Management with Microsoft Entra Microsoft Community Hub It landed in the last few hours.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Product Showcase: AppViewX Agent Identity Security</title>
-      <link>https://www.helpnetsecurity.com/2026/07/23/product-showcase-appviewx-agent-identity-security/</link>
-      <guid isPermaLink="false">identitybrief-d2ff3f3d65a1258d</guid>
-      <pubDate>Thu, 23 Jul 2026 05:30:01 +0000</pubDate>
-      <category>auth</category>
-      <description>AI is multiplying enterprise identities as quantum computing reshapes the cryptographic trust that secures them, and enterprises need to solve both together. Traditional identity security was built for people with predictable, auditable access, not autonomous, short-lived agents that share credentials and break those patterns. Gartner predicts that by 2028,… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Biometrics top identity verification, but no single signal wins trust</title>
-      <link>https://www.biometricupdate.com/202607/biometrics-top-identity-verification-but-no-single-signal-wins-trust</link>
-      <guid isPermaLink="false">identitybrief-9377cd68a75c4779</guid>
-      <pubDate>Wed, 22 Jul 2026 21:07:26 +0000</pubDate>
-      <category>fraud</category>
-      <description>Regula’s newest global study suggests biometrics may be the most trusted form of identity verification, but trust is far from unanimous. The survey of 850 fraud prevention and financial crime leaders shows that organizations increasingly rely on biometric checks, but fewer than half consider them their most reliable evidence. When prompted to say which type… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>NIST shifts focus from mobile driver’s license technology to adoption</title>
-      <link>https://www.biometricupdate.com/202607/nist-shifts-focus-from-mobile-drivers-license-technology-to-adoption</link>
-      <guid isPermaLink="false">identitybrief-3f8bf1ed1f2fbb3f</guid>
-      <pubDate>Wed, 22 Jul 2026 21:32:05 +0000</pubDate>
-      <category>did</category>
-      <description>Speaking at a recent Cybersecurity Connections event hosted by NIST and the National Cybersecurity Center of Excellence (NCCoE), Ryan Galluzzo, identity program lead for NIST, starts with a hard truth: online identity verification isn’t easy. “I think in general people understand that there are major challenges with how we identify who we’re interacting… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Jumio expansion beyond biometric onboarding roots yields Q2 growth</title>
-      <link>https://www.biometricupdate.com/202607/jumio-expansion-beyond-biometric-onboarding-roots-yields-q2-growth</link>
-      <guid isPermaLink="false">identitybrief-0066b92800fa33a3</guid>
-      <pubDate>Wed, 22 Jul 2026 19:18:48 +0000</pubDate>
-      <category>did</category>
-      <description>California-based Jumio added customers, expanded its platform further beyond biometric onboarding with more identity intelligence capabilities and refreshed its leadership ranks during the second quarter of fiscal 2026. The company highlights customer wins in the financial services and gaming industries, a partnership with Trinsic that enables Jumio to… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>ThreatDown expands security visibility to AI tools and machine identities</title>
-      <link>https://www.helpnetsecurity.com/2026/07/22/threatdown-ai-visibility/</link>
-      <guid isPermaLink="false">identitybrief-718e27d98cc92c37</guid>
-      <pubDate>Wed, 22 Jul 2026 13:38:33 +0000</pubDate>
-      <category>auth</category>
-      <description>ThreatDown has announced a synchronized expansion of its AI and identity security capabilities to protect organizations from emerging, unmanaged risks. The company launched AI visibility, giving security and managed service provider (MSP) teams a full inventory of the AI tools running across their environments, while simultaneously extending its ITDR…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover</title>
-      <link>https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/</link>
-      <guid isPermaLink="false">identitybrief-d9704ff44bdb1bf2</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge. The post When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>South Korea discloses data breach impacting diplomats worldwide</title>
-      <link>https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/</link>
-      <guid isPermaLink="false">identitybrief-e72da0e742fbc7fc</guid>
-      <pubDate>Wed, 22 Jul 2026 20:06:54 +0000</pubDate>
-      <category>breach</category>
-      <description>South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Passkeys were invented by engineers with zero understanding of consumer brain</title>
-      <link>https://twitter.com/nikitabier/status/2079787406300266743</link>
-      <guid isPermaLink="false">identitybrief-40aaf286f01bacf0</guid>
-      <pubDate>Wed, 22 Jul 2026 14:25:13 +0000</pubDate>
-      <category>auth</category>
-      <description>https://xcancel.com/nikitabier/status/2079787406300266743 It's pulling 756pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Significant Donations from DID:Webvh Community</title>
-      <link>https://blog.identity.foundation/significant-donations-from-did-webvh-community/</link>
-      <guid isPermaLink="false">identitybrief-2848a37ec4c0f365</guid>
-      <pubDate>Wed, 22 Jul 2026 15:30:14 +0000</pubDate>
-      <category>did</category>
-      <description>Juan Caballero , Community Manager at Decentralized Identity Foundation Stephen Curran , Founder at Cloud Compass The did:webvh work item in the Identifiers &amp; Discovery WG is a quiet but steadily progressing item within DIF, addressing the essential work driving wider adoption of DIDs. If you’ve been following over
-
-— via DIF</description>
-    </item>
-    <item>
-      <title>Chained Attacks on Drone-Based Federated Learning: From Network Disruption to Device Impersonation</title>
-      <link>http://arxiv.org/abs/2607.20280v1</link>
-      <guid isPermaLink="false">identitybrief-60d54705de941f11</guid>
-      <pubDate>Wed, 22 Jul 2026 15:28:36 +0000</pubDate>
-      <category>research</category>
-      <description>Edge Intelligence (EI) has emerged as a transformative model for mission-critical unmanned platforms, such as drone swarms, by enabling collaborative model training at the network periphery. However, the security of FL deployments depends on both network availability and robust client authentication mechanisms. This paper investigates a chained attack…
-
-— via arXiv</description>
     </item>
 </channel></rss>
