@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Product showcase: Material unifies Google Workspace email, file &amp; OAuth defense</title>
+      <link>https://www.helpnetsecurity.com/2026/08/05/product-showcase-material-security-platform/</link>
+      <guid isPermaLink="false">identitybrief-0e6a7a4e82b27d20</guid>
+      <pubDate>Wed, 05 Aug 2026 05:00:48 +0000</pubDate>
+      <category>breach</category>
+      <description>Here’s an uncomfortable truth: the attack that gets you won’t look like an attack. It’ll look like a normal login, a normal file share, a normal permission request you clicked past without reading. You don’t have a phishing problem, a DLP problem, or an OAuth problem. You have one problem wearing three masks, and most security stacks aren’t built to address… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens</title>
+      <link>https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html</link>
+      <guid isPermaLink="false">identitybrief-8a2b5a5d083e921b</guid>
+      <pubDate>Tue, 04 Aug 2026 17:27:39 +0000</pubDate>
+      <category>breach</category>
+      <description>The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts. "Greatness supports AiTM…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Governments converge on age assurance but diverge on how to implement it</title>
+      <link>https://www.biometricupdate.com/202608/governments-converge-on-age-assurance-but-diverge-on-how-to-implement-it</link>
+      <guid isPermaLink="false">identitybrief-46acbe33c8a51a94</guid>
+      <pubDate>Tue, 04 Aug 2026 19:03:20 +0000</pubDate>
+      <category>did</category>
+      <description>Governments around the world are increasingly aligned on the view that minors need stronger protections against online harms, in the form of age assurance. The specific models of age assurance they are arriving at, however, are as diverse as the harms they are prioritizing. Competing models are emerging. Australia and the UK are setting up marketplaces of… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Germany’s EUDI Wallet push highlights Europe’s implementation gap</title>
+      <link>https://www.biometricupdate.com/202608/germanys-eudi-wallet-push-highlights-europes-implementation-gap</link>
+      <guid isPermaLink="false">identitybrief-300fafeba8f78036</guid>
+      <pubDate>Tue, 04 Aug 2026 19:01:08 +0000</pubDate>
+      <category>did</category>
+      <description>Pop psychology promotes the art of manifesting – the would-be ability to will one’s desires into reality by visualizing them. There is a touch of the practice in how Germany is approaching the launch of the EU Digital Identity Wallet ( EUDI Wallet ) ecosystem. The country is continuing to work toward the scheduled January 2027 deadline for implementation,… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>New Zealand sets thresholds for liveness detection in rules defining trusted assurance</title>
+      <link>https://www.biometricupdate.com/202608/new-zealand-sets-thresholds-for-liveness-detection-in-rules-defining-trusted-assurance</link>
+      <guid isPermaLink="false">identitybrief-abaf49d4e7785fd9</guid>
+      <pubDate>Tue, 04 Aug 2026 16:39:10 +0000</pubDate>
+      <category>did</category>
+      <description>New Zealand recently enacted the Digital Identity Services Trust Framework Amendment Rules 2026, which amend the Digital Identity Services Trust Framework Rules 2024 by formally defining levels of assurance and streamlining accreditation renewals for partners. Digital identity providers who wish to be accredited under the Trust Framework Authority must be…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Phishing service spoofs RingCentral to steal Microsoft 365 accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/</link>
+      <guid isPermaLink="false">identitybrief-9e99dee5a2978062</guid>
+      <pubDate>Tue, 04 Aug 2026 21:45:36 +0000</pubDate>
+      <category>breach</category>
+      <description>The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Pass the Passkey: A Novel Attack Surface in Passwordless Authentication</title>
+      <link>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</link>
+      <guid isPermaLink="false">identitybrief-f2e464b41832f1a6</guid>
+      <pubDate>Tue, 04 Aug 2026 23:22:37 +0000</pubDate>
+      <category>auth</category>
+      <description>It landed in the last few hours. It's pulling 175pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165</link>
+      <guid isPermaLink="false">identitybrief-494bf38f893221bb</guid>
+      <pubDate>Wed, 05 Aug 2026 01:55:54 +0000</pubDate>
+      <category>iam</category>
+      <description>Models used social engineering and collaborated among themselves to solve a security challenge It landed in the last few hours.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>ChainDrop supply chain compromise: Anatomy of a self-propagating worm</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
+      <guid isPermaLink="false">identitybrief-c888e1330ca1419a</guid>
+      <pubDate>Tue, 04 Aug 2026 23:46:41 +0000</pubDate>
+      <category>breach</category>
+      <description>A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating… It landed in the last few hours.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>OpenAI, Anthropic AI agents targeted real people and systems in cyber tests</title>
+      <link>https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/</link>
+      <guid isPermaLink="false">identitybrief-66c844b38986e0a2</guid>
+      <pubDate>Tue, 04 Aug 2026 23:39:59 +0000</pubDate>
+      <category>breach</category>
+      <description>OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Internalising the Identity Primitive: Cryptographic Individuality for an Autonomous Agent on a Public Blockchain</title>
+      <link>http://arxiv.org/abs/2608.02986v1</link>
+      <guid isPermaLink="false">identitybrief-eddb7a7710702a3f</guid>
+      <pubDate>Tue, 04 Aug 2026 00:47:13 +0000</pubDate>
+      <category>research</category>
+      <description>A software agent on a public blockchain accumulates authority and economic stakes, raising the engineering question of what makes it count as an individual. The paper's central contribution is a shift of trust root for the key-to-weights binding of agent identity: from hardware, operator, or wrapper trust to cryptographic assumptions enforced by a pinned… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Secure Long-Range Autonomous Valet Parking: A Reservation Scheme With Three-Factor Authentication and Key Agreement</title>
+      <link>http://arxiv.org/abs/2608.03590v1</link>
+      <guid isPermaLink="false">identitybrief-a5dd4f2a173cb6ae</guid>
+      <pubDate>Tue, 04 Aug 2026 12:43:24 +0000</pubDate>
+      <category>research</category>
+      <description>Long-range autonomous valet parking (LAVP) is increasingly adopted to alleviate traffic congestion and parking difficulties. For large-scale parking demand, reservation can improve parking management. However, existing schemes mainly focus on parking request verification and parking check-in, and do not adequately protect identity legitimacy and…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ChainDrop credential stealing worm infects over 400 npm packages</title>
+      <link>https://www.csoonline.com/article/4205276/chaindrop-credential-stealing-worm-infects-over-400-npm-packages.html</link>
+      <guid isPermaLink="false">identitybrief-cfff149fc38d5124</guid>
+      <pubDate>Tue, 04 Aug 2026 22:37:24 +0000</pubDate>
+      <category>breach</category>
+      <description>A self-propagating worm-like attack is hitting the npm registry, having infected 444 packages from more than a dozen publishers so far. The impact is massive, with the packages affected amounting to more than 2 billion monthly downloads combined. The attack began with the compromise of a GitHub account belonging to Jared Wray, who maintains Keyv, a package… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Know Your Worker: Badges Don’t Prove Identity or Authorization. Digital Workforce Credentials Do</title>
+      <link>https://indicio.tech/blog/digital-workforce-credentials-explained/</link>
+      <guid isPermaLink="false">identitybrief-9a5d907e5a9b2b13</guid>
+      <pubDate>Tue, 04 Aug 2026 16:10:45 +0000</pubDate>
+      <category>auth</category>
+      <description>What happens when a worker badges in? All you know is that a badge worked. It tells you nothing about who presented it or whether their certifications and licenses have lapsed. Digital workforce credentials let you check a worker’s status in real time. They can’t be shared, stolen, or faked, because they’re bound to the worker, and they can carry everything…
+
+— via Indicio</description>
+    </item>
+    <item>
       <title>New Pass-ta-key attacks let malware hijack Google-synced passkeys</title>
       <link>https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/</link>
       <guid isPermaLink="false">identitybrief-f5ae9732d162ac0e</guid>
@@ -1362,145 +1502,5 @@
       <description>Microsoft is making Trusted Platform Module (TPM)-backed attestation a requirement for Windows Key Management Service (KMS), the on-premises service used for Windows volume activation, replacing the software-only trust model with hardware-backed verification to strengthen enterprise activation security. Attestation will become mandatory with the next…
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Identity Week Europe 2026 was unforgettable – and the highlights are in our Post-Event Report!</title>
-      <link>https://identityweek.net/identity-week-europe-2026-was-unforgettable-and-the-highlights-are-in-our-post-event-report/</link>
-      <guid isPermaLink="false">identitybrief-d82d9590b5abb3b3</guid>
-      <pubDate>Fri, 24 Jul 2026 09:44:09 +0000</pubDate>
-      <category>iam</category>
-      <description>We have officially dropped the 2026 Post-Event Report following another successful gathering at the RAI Amsterdam. The comprehensive document offers key industry insights, session summaries, and demographic data from this year’s Identity Week Europe conference and exhibition. Thank you to everyone who made this year such a success! The 2026 edition convened…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Classical Acceptance Is Not Hybrid Authentication: Measuring X.509 Verifier Semantics in Post-Quantum Migration</title>
-      <link>http://arxiv.org/abs/2607.20800v1</link>
-      <guid isPermaLink="false">identitybrief-3b9502ce63364353</guid>
-      <pubDate>Thu, 23 Jul 2026 00:04:32 +0000</pubDate>
-      <category>research</category>
-      <description>A relying party validating a hybrid X.509 certificate --- carrying both a classical and a post-quantum credential --- must distinguish whether its accepting judgment rests on the post-quantum evidence or only on the classical path. To preserve compatibility, the separable designs place that evidence where classical path validation may ignore it. A verifier…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Governing Al agents at scale: Lessons from the leaders who’ve done it</title>
-      <link>https://www.helpnetsecurity.com/2026/07/24/governing-al-agents-at-scale-video/</link>
-      <guid isPermaLink="false">identitybrief-4ed912c5c4d34e16</guid>
-      <pubDate>Fri, 24 Jul 2026 06:00:28 +0000</pubDate>
-      <category>iam</category>
-      <description>Enterprise AI leaders from ZoomInfo, Docusign and AppViewX share what it took to build AI Centers of Excellence and govern agent identities inside two companies operating at scale. What you’ll take away: What an AI Center of Excellence looks like day to day at ZoomInfo and Docusign How to govern agent identities without standing up a parallel identity stack…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Verification — Identity Checks, KYC &amp; Biometric Tools | The Sumsuber</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE50amphNXF3bTFYQURsNlVIaThpYkFXTFdSSTJtWWVtb1huU1dUdHdwNE9Wc04yQ2RwcDBicHU0ODNxQm9PWlFsbTdRTkhBcU42cjg0ZzliOTFSeHhScmJ2Nw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-55ddca6827e5915a</guid>
-      <pubDate>Sat, 25 Jul 2026 05:25:08 +0000</pubDate>
-      <category>fraud</category>
-      <description>Verification — Identity Checks, KYC &amp; Biometric Tools | The Sumsuber Sumsub
-
-— via Sumsub</description>
-    </item>
-    <item>
-      <title>YubiKey 5.8 brings hardware-backed authorization to passkeys</title>
-      <link>https://www.biometricupdate.com/202607/yubikey-5-8-brings-hardware-backed-authorization-to-passkeys</link>
-      <guid isPermaLink="false">identitybrief-100747433fc1e5a6</guid>
-      <pubDate>Fri, 24 Jul 2026 14:43:02 +0000</pubDate>
-      <category>did</category>
-      <description>Yubico has launched YubiKey 5.8 to expand the role of its hardware-backed passkeys to support digital signatures and authorization workflows. The firmware adds support for CTAP 2.3 and introduces capabilities for applications such as identity wallets, document signing, and high-assurance workflow approvals. Previously, we covered the upcoming firmware ahead…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>IDnow appoints Philippe Morel as CEO to lead next growth phase</title>
-      <link>https://www.biometricupdate.com/202607/idnow-appoints-philippe-morel-as-ceo-to-lead-next-growth-phase</link>
-      <guid isPermaLink="false">identitybrief-edb8a8909e3be8db</guid>
-      <pubDate>Fri, 24 Jul 2026 14:37:57 +0000</pubDate>
-      <category>fraud</category>
-      <description>IDnow has named Philippe Morel as its new chief executive. Morel succeeds Andreas Bodczek, who steps down after more than seven years at the helm. The appointment comes shortly after IDnow’s unveiled the IDnow Trust Platform in June , a major launch for the company. The platform looks to help regulated organizations move from one‑time Know Your Customer…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Yoti, Licensing Connect prepare UK pubs for digital proof-of-age</title>
-      <link>https://www.biometricupdate.com/202607/yoti-licensing-connect-prepare-uk-pubs-for-digital-proof-of-age</link>
-      <guid isPermaLink="false">identitybrief-94d0da55da825617</guid>
-      <pubDate>Fri, 24 Jul 2026 14:45:16 +0000</pubDate>
-      <category>did</category>
-      <description>It’s a good day for UK pubs. On top of the new prime minister’s announcement of a 20 percent cut in business rates for drinking establishments, Yoti has announced a partnership with Licensing Connect, aiming to help hospitality and retail businesses adopt certified digital age verification ahead of promised changes to the Mandatory Licensing Conditions. It…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Chick-fil-A data breach affects more than 13,000 customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/</link>
-      <guid isPermaLink="false">identitybrief-ab0a8636c9fd7d5f</guid>
-      <pubDate>Fri, 24 Jul 2026 14:04:29 +0000</pubDate>
-      <category>breach</category>
-      <description>Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Default Azure Automation Setting Enables Cross-Tenant Identity Takeover</title>
-      <link>https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover</link>
-      <guid isPermaLink="false">identitybrief-dc85501186579681</guid>
-      <pubDate>Fri, 24 Jul 2026 12:48:16 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do</title>
-      <link>https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html</link>
-      <guid isPermaLink="false">identitybrief-7774107641221c44</guid>
-      <pubDate>Fri, 24 Jul 2026 11:30:00 +0000</pubDate>
-      <category>iam</category>
-      <description>AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery</title>
-      <link>https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</link>
-      <guid isPermaLink="false">identitybrief-68327402f2a76e00</guid>
-      <pubDate>Fri, 24 Jul 2026 15:12:35 +0000</pubDate>
-      <category>breach</category>
-      <description>The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. "BlueNoroff has operationalised trust abuse by combining compromised…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller</title>
-      <link>https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html</link>
-      <guid isPermaLink="false">identitybrief-91710fe58c4b6956</guid>
-      <pubDate>Fri, 24 Jul 2026 14:15:21 +0000</pubDate>
-      <category>breach</category>
-      <description>Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Meta tackles AI-generated accounts with a free Facebook verification badge</title>
-      <link>https://www.helpnetsecurity.com/2026/07/24/meta-facebook-verified-badge-selfie-verification/</link>
-      <guid isPermaLink="false">identitybrief-9d7cef701fd3cd1d</guid>
-      <pubDate>Fri, 24 Jul 2026 13:03:19 +0000</pubDate>
-      <category>fraud</category>
-      <description>Meta has introduced Facebook Verified, a free badge meant to show that a person behind a profile has completed identity verification through a selfie check. (Source: Meta) The company says the goal is to give users a signal that they are dealing with a person, not a bot or an AI-generated account, when browsing Marketplace listings, dating profiles, or…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>The Secure America Act: How the $69.5B law transforms biometrics and federal contracting</title>
-      <link>https://identityweek.net/the-secure-america-act-how-the-69-5b-law-transforms-biometrics-and-federal-contracting/</link>
-      <guid isPermaLink="false">identitybrief-97e7809a2f8eafc2</guid>
-      <pubDate>Fri, 24 Jul 2026 11:24:39 +0000</pubDate>
-      <category>auth</category>
-      <description>Summary of the IBIA’s analysis of the Secure America Act, signed June 20. Signed into law as Public Law 119-98 on June 10, 2026, the Secure America Act represents one of the most substantial infusions of federal funding for homeland security and border technology in United States history. Allocating $69.545 billion through fiscal year 2029, […]
-
-— via Identity Week</description>
     </item>
 </channel></rss>
