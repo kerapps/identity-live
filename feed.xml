@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Dispel launches biometric identity proofing for OT remote access</title>
+      <link>https://www.biometricupdate.com/202608/dispel-launches-biometric-identity-proofing-for-ot-remote-access</link>
+      <guid isPermaLink="false">identitybrief-c5b260356cf2b91a</guid>
+      <pubDate>Wed, 05 Aug 2026 20:50:33 +0000</pubDate>
+      <category>fraud</category>
+      <description>Dispel has added government ID verification, facial matching and liveness detection to its operational technology (OT) remote access platform, allowing organizations to verify the real-world identity of users before granting access to industrial systems. Dispel Identity validates a government-issued identity document and compares a live facial image with… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Incode launches GovFaceMatch for DMV-based identity verification</title>
+      <link>https://www.biometricupdate.com/202608/incode-launches-govfacematch-for-dmv-based-identity-verification</link>
+      <guid isPermaLink="false">identitybrief-67fbf6a849b27ca7</guid>
+      <pubDate>Wed, 05 Aug 2026 20:51:40 +0000</pubDate>
+      <category>fraud</category>
+      <description>Incode has announced the launch of GovFaceMatch, which a blog post calls “the first identity solution to verify biometrics directly against state DMV records in real time.” The company says that, in the face of complex, sophisticated AI attacks that hobble traditional identity verification systems, “the only viable solution is to tie identity directly to an… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>EUDI Wallet provides baseline target for standards to enable agentic commerce</title>
+      <link>https://www.biometricupdate.com/202608/eudi-wallet-provides-baseline-target-for-standards-to-enable-agentic-commerce</link>
+      <guid isPermaLink="false">identitybrief-b885c1a4d0cfefeb</guid>
+      <pubDate>Wed, 05 Aug 2026 21:06:56 +0000</pubDate>
+      <category>auth</category>
+      <description>A new non-paper from the WE BUILD Consortium offers a policy vision for Europe’s chance to build a trusted identity layer for AI agents. “Trusted Identities for AI Agents: An Opportunity for Europe” takes as its starting point the presumed transformation of the world by agentic AI. “By 2030, billions of AI agents will operate across borders,” it says . “The… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Canadian man pleads guilty to Snowflake hacks that led to 165 breaches</title>
+      <link>https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka</link>
+      <guid isPermaLink="false">identitybrief-f74cef71d9643ac7</guid>
+      <pubDate>Wed, 05 Aug 2026 20:15:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake. It landed in the last few hours.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning</title>
+      <link>https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning</link>
+      <guid isPermaLink="false">identitybrief-45f72942977d44f0</guid>
+      <pubDate>Wed, 05 Aug 2026 19:08:36 +0000</pubDate>
+      <category>iam</category>
+      <description>Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Report: Passkey security issues could allow account takeover</title>
+      <link>https://www.csoonline.com/article/4205751/report-passkey-security-issues-could-allow-account-takeover.html</link>
+      <guid isPermaLink="false">identitybrief-5762ab07abdbab6b</guid>
+      <pubDate>Wed, 05 Aug 2026 23:51:39 +0000</pubDate>
+      <category>fraud</category>
+      <description>Given the widespread enterprise adoption of passkeys to replace passwords, a Palo Alto Networks Unit 42 report disclosing ways attackers are getting around passkey protections is concerning, analysts say, but they stress that the demonstrated attacks can only happen after a successful intrusion. They also pointed out that the issues are not strictly caused… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Non-human identities are 91% of everything active in production</title>
+      <link>https://www.helpnetsecurity.com/2026/08/06/non-human-identities-active-in-production/</link>
+      <guid isPermaLink="false">identitybrief-63762fcb4fbbd419</guid>
+      <pubDate>Thu, 06 Aug 2026 04:45:29 +0000</pubDate>
+      <category>auth</category>
+      <description>A backup job fires at two in the morning. A scanner walks the same AWS account an hour later, a deployment pipeline assumes a role at four, and a logging agent runs straight through the night. Each of those actions carries a credential issued to a machine. An attacker holding one of those credentials inherits the same cover. Only 20% of non-human activity… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Visa To Acquire Behavioral Biometrics Specialist BioCatch For $2.4 Billion</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHdLNmdrSkJCUjVRVzZJN3R4TEJWTl9EUGFkX1VJSXE0cEVEdFZFdnV1UjY0NTJmakNVVVJsZEhDSFhwRmdiOG5XeS1zMkRWRE5FU2xkNkE0VFM2WFB4ZnRZRGpMV1VndlByb1dXbFI3VTVXMjZfMnZjSWxLdy1LTkd6UENKb0h4NlZVLTlwZmt4b3luOEQzaFFTOHpFUXJhVWZ4a2JnaTN2QQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-d0b3bf0720598c27</guid>
+      <pubDate>Wed, 05 Aug 2026 16:28:44 +0000</pubDate>
+      <category>auth</category>
+      <description>Visa To Acquire Behavioral Biometrics Specialist BioCatch For $2.4 Billion Forrester
+
+— via Forrester</description>
+    </item>
+    <item>
+      <title>AI Sends Global Crime Syndicates Into Fraud Nirvana</title>
+      <link>https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana</link>
+      <guid isPermaLink="false">identitybrief-edad84330a03112d</guid>
+      <pubDate>Wed, 05 Aug 2026 23:35:28 +0000</pubDate>
+      <category>fraud</category>
+      <description>Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>NEBULA: A Language - Independent Specification for Opaque Rotating Refresh Tokens</title>
+      <link>http://arxiv.org/abs/2608.04115v1</link>
+      <guid isPermaLink="false">identitybrief-dbfddab3a4690a78</guid>
+      <pubDate>Tue, 04 Aug 2026 18:10:55 +0000</pubDate>
+      <category>research</category>
+      <description>Refresh tokens are among the most sensitive credentials in modern authentication systems: long-lived, bearer-style, and sufficient to mint access tokens for days or weeks. RFC 9700, the current Best Current Practice for OAuth 2.0 security, mandates that refresh tokens issued to public clients be rotated on every use with replay (reuse) detection, or be… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents</title>
+      <link>http://arxiv.org/abs/2608.04741v1</link>
+      <guid isPermaLink="false">identitybrief-3d27be7e202f30fe</guid>
+      <pubDate>Wed, 05 Aug 2026 12:08:16 +0000</pubDate>
+      <category>research</category>
+      <description>LLM-based web agents automate user tasks by observing webpages and executing browser actions on behalf of users. As these agents operate on real web services, login becomes a sensitive authentication boundary because it involves credentials and sensitive information. Existing work shows that malicious webpage content can manipulate web agent actions, but it…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>103 Passkey Deployments: Not One Passed</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBNbUN2NmttRjFjVnVWTTIyakNfQzY1eERaY2JGaXBsYWVPdkJ2NDlwS2NtS0ZwWnFwVURiUkVOUUJnUi1fTGtjYnJwUHhIVlBsX2s1c1p5eDhWanRuVXU4OFpNYnIzLXM5U0ZHS3lQeGdzNElGWUE?oc=5</link>
+      <guid isPermaLink="false">identitybrief-68d1a11e6fa6af48</guid>
+      <pubDate>Wed, 05 Aug 2026 10:15:50 +0000</pubDate>
+      <category>auth</category>
+      <description>103 Passkey Deployments: Not One Passed KuppingerCole Analysts
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>HoRFFI: High-Openness RF Fingerprint Identification with a Similarity-Enhanced Variational Information Bottleneck</title>
+      <link>http://arxiv.org/abs/2608.04881v1</link>
+      <guid isPermaLink="false">identitybrief-94929789112ef61c</guid>
+      <pubDate>Wed, 05 Aug 2026 14:07:52 +0000</pubDate>
+      <category>research</category>
+      <description>Radio frequency fingerprint identification (RFFI) is a promising technique for wireless device authentication. However, practical RFFI systems must enroll newly authorized devices while rejecting previously unseen ones, even when the feature extractor is trained on only a few labeled base-device classes, giving rise to a high-openness RFFI problem. Existing…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SCIM Deprovisioning Is a Promise Your App Probably Breaks</title>
+      <link>https://workos.com/blog/scim-deprovisioning-promise-your-app-breaks</link>
+      <guid isPermaLink="false">identitybrief-e311e1adca3ff2c9</guid>
+      <pubDate>Thu, 06 Aug 2026 01:29:36 +0000</pubDate>
+      <category>iam</category>
+      <description>SCIM tells you a user is gone, but sessions, refresh tokens, and API keys often outlive deprovisioning. Here's why offboarding needs more than a user row. It landed in the last few hours.
+
+— via WorkOS</description>
+    </item>
+    <item>
       <title>Product showcase: Material unifies Google Workspace email, file &amp; OAuth defense</title>
       <link>https://www.helpnetsecurity.com/2026/08/05/product-showcase-material-security-platform/</link>
       <guid isPermaLink="false">identitybrief-0e6a7a4e82b27d20</guid>
@@ -1362,145 +1502,5 @@
       <description>Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point…
 
 — via The Hacker News</description>
-    </item>
-    <item>
-      <title>Flaws in Passkey Implementation Show Old Attacks Still Work</title>
-      <link>https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work</link>
-      <guid isPermaLink="false">identitybrief-b94ae4772c0f201e</guid>
-      <pubDate>Wed, 22 Jul 2026 23:50:01 +0000</pubDate>
-      <category>breach</category>
-      <description>Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link</title>
-      <link>https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html</link>
-      <guid isPermaLink="false">identitybrief-6bef077b53cc3baf</guid>
-      <pubDate>Fri, 24 Jul 2026 11:53:55 +0000</pubDate>
-      <category>breach</category>
-      <description>Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Data Breach Confirmed After Australian Energy Giant Origin Is Hacked</title>
-      <link>https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/</link>
-      <guid isPermaLink="false">identitybrief-e8168de4a4942ad3</guid>
-      <pubDate>Fri, 24 Jul 2026 05:52:31 +0000</pubDate>
-      <category>breach</category>
-      <description>A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>International alert spotlights Russia-linked attacks on Zimbra webmail</title>
-      <link>https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear</link>
-      <guid isPermaLink="false">identitybrief-a43bfb637d12f233</guid>
-      <pubDate>Thu, 23 Jul 2026 16:58:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Biometrics standards, regulations set up growth in QR codes, DVS</title>
-      <link>https://www.biometricupdate.com/202607/biometrics-standards-regulations-set-up-growth-in-qr-codes-dvs</link>
-      <guid isPermaLink="false">identitybrief-d71ddbb5d4cb1166</guid>
-      <pubDate>Sat, 25 Jul 2026 17:20:40 +0000</pubDate>
-      <category>did</category>
-      <description>Trust in biometrics, like the applications that use the technology to provide assurance, depends heavily on compliance. Biometrics must meet technical standards, while the financial, government and other services that rely on them must comply with regulation. As standards mature and regulations evolve, they don't just govern existing technologies; they…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking</title>
-      <link>https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html</link>
-      <guid isPermaLink="false">identitybrief-5b9586162dea04a0</guid>
-      <pubDate>Sat, 25 Jul 2026 10:14:21 +0000</pubDate>
-      <category>breach</category>
-      <description>For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused phishing operations reveal a more…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>ShinyHunters data leaks fuel $2,000 sextortion email scam</title>
-      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/</link>
-      <guid isPermaLink="false">identitybrief-fa67f7b73f788728</guid>
-      <pubDate>Sat, 25 Jul 2026 14:16:26 +0000</pubDate>
-      <category>fraud</category>
-      <description>Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available</title>
-      <link>https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html</link>
-      <guid isPermaLink="false">identitybrief-41ac194d5fcc7887</guid>
-      <pubDate>Sat, 25 Jul 2026 12:52:43 +0000</pubDate>
-      <category>breach</category>
-      <description>Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE</title>
-      <link>https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html</link>
-      <guid isPermaLink="false">identitybrief-74666cf2751e2bf8</guid>
-      <pubDate>Sat, 25 Jul 2026 10:14:03 +0000</pubDate>
-      <category>breach</category>
-      <description>Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. "Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Tech Times: YubiKey 5.8 Ships Hardware-Backed Authorization for AI Agent Workflows</title>
-      <link>https://fidoalliance.org/tech-times-yubikey-5-8-ships-hardware-backed-authorization-for-ai-agent-workflows/</link>
-      <guid isPermaLink="false">identitybrief-75b335622d527c4d</guid>
-      <pubDate>Fri, 24 Jul 2026 13:44:44 +0000</pubDate>
-      <category>iam</category>
-      <description>Touch a YubiKey to log in, and you’ve proven who you are. Touch a YubiKey to approve a database schema change ordered by an autonomous AI agent, and you’ve proven […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Greece floats massive €415M biometrics, passport and ID contract</title>
-      <link>https://www.biometricupdate.com/202607/greece-floats-massive-e415m-biometrics-passport-and-id-contract</link>
-      <guid isPermaLink="false">identitybrief-ec5cf68cd695bca7</guid>
-      <pubDate>Fri, 24 Jul 2026 17:14:13 +0000</pubDate>
-      <category>did</category>
-      <description>Greece has begun the process to tender a massive contract for new digital ID cards and digital government service capabilities, with a tender for a contract with an estimated worth of 415.6 million euros (roughly US$472.8 million) plus VAT. The contract includes the production of ID cards for both Greek police and citizens as part of a new Integrated…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Synthetic face datasets show potential for biometrics benchmarking</title>
-      <link>https://www.biometricupdate.com/202607/synthetic-face-datasets-show-potential-for-biometrics-benchmarking</link>
-      <guid isPermaLink="false">identitybrief-da88b7ad1c51868e</guid>
-      <pubDate>Fri, 24 Jul 2026 14:49:45 +0000</pubDate>
-      <category>auth</category>
-      <description>Generative AI has made it possible to create artificial identities with enough variation to support the development of facial recognition models. But this practice only addresses part of the challenge of collecting sufficiently useful biometric data in an ethical and legal way. Once a model has been trained , researchers still need to test how accurately it…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>OnTrac notifies customers of data breach after network hack</title>
-      <link>https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/</link>
-      <guid isPermaLink="false">identitybrief-5f1938524c1f0729</guid>
-      <pubDate>Fri, 24 Jul 2026 19:55:01 +0000</pubDate>
-      <category>breach</category>
-      <description>OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Microsoft tightens Windows enterprise activation security</title>
-      <link>https://www.helpnetsecurity.com/2026/07/24/microsoft-kms-tpm-security-update/</link>
-      <guid isPermaLink="false">identitybrief-a3ba5494d121aa7d</guid>
-      <pubDate>Fri, 24 Jul 2026 09:52:24 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft is making Trusted Platform Module (TPM)-backed attestation a requirement for Windows Key Management Service (KMS), the on-premises service used for Windows volume activation, replacing the software-only trust model with hardware-backed verification to strengthen enterprise activation security. Attestation will become mandatory with the next…
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
