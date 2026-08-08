@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Brazil age assurance challenge overlooks privacy-preserving options</title>
+      <link>https://www.biometricupdate.com/202608/brazil-age-assurance-challenge-overlooks-privacy-preserving-options</link>
+      <guid isPermaLink="false">identitybrief-a8b92a4ad83a17f1</guid>
+      <pubDate>Fri, 07 Aug 2026 17:05:52 +0000</pubDate>
+      <category>did</category>
+      <description>Where there are online safety laws, there is litigation aiming to curb them. So it goes in Brazil, where the country’s rules requiring biometric verification for age assurance to access selected online content are facing a constitutional challenge from upstart political party Partido Missão (Mission Party). The party argues that “requiring adults to submit… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Post-quantum identity expands beyond cryptography</title>
+      <link>https://www.biometricupdate.com/202608/post-quantum-identity-expands-beyond-cryptography</link>
+      <guid isPermaLink="false">identitybrief-7ac8bf4171f3735a</guid>
+      <pubDate>Fri, 07 Aug 2026 17:03:28 +0000</pubDate>
+      <category>did</category>
+      <description>As governments and enterprises prepare for practical quantum computing, the focus has largely been on post-quantum cryptography. IBM is targeting 2029 for the launch of a large-scale, fault-tolerant quantum computer. DARPA wants the U.S. government to be able to use one by 2033. Daon argues that securing digital identity will require more than quantum-safe… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Glide brings SIM-based authentication to all major US carriers</title>
+      <link>https://www.biometricupdate.com/202608/glide-brings-sim-based-authentication-to-all-major-us-carriers</link>
+      <guid isPermaLink="false">identitybrief-03a9e6dc68e84acd</guid>
+      <pubDate>Fri, 07 Aug 2026 12:02:48 +0000</pubDate>
+      <category>did</category>
+      <description>Glide.id has launched public beta availability of its MagicalAuth platform across AT&amp;T, T-Mobile and Verizon, making SIM-based cryptographic authentication available nationwide for iOS and Android users in the United States. The platform authenticates users through their mobile carriers using carrier-issued cryptographic credentials instead of SMS one-time…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access</title>
+      <link>https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html</link>
+      <guid isPermaLink="false">identitybrief-d2ca685e7bfeaff2</guid>
+      <pubDate>Fri, 07 Aug 2026 08:52:11 +0000</pubDate>
+      <category>auth</category>
+      <description>Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Framework discloses data breach via Metabase 0-day</title>
+      <link>https://community.frame.work/t/framework-data-breach-discussion/83939</link>
+      <guid isPermaLink="false">identitybrief-a93d9acf3ccd2ee4</guid>
+      <pubDate>Fri, 07 Aug 2026 05:17:57 +0000</pubDate>
+      <category>breach</category>
+      <description>It's pulling 150pts/day — real momentum for something this new, not a one-day spike. Still under the radar (142pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>OpenID Foundation completes conformance programme for widely adopted digital identity standards</title>
+      <link>https://openid.net/oidf-completes-conformance-programme-for-widely-adopted-digital-identity-standards/</link>
+      <guid isPermaLink="false">identitybrief-b001afd649b3f1b9</guid>
+      <pubDate>Fri, 07 Aug 2026 15:17:35 +0000</pubDate>
+      <category>did</category>
+      <description>Governments, wallet providers, issuers, verifiers, and vendors now have a proven, free path to declare their verifiable credentials implementations ready. Early movers who self-certify now will carry greater weight with ecosystem partners, regulators and customers. San Ramon, CA, 07 August 2026 – The OpenID Foundation has completed the conformance test…
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>OpenID4VP and OpenID4VCI conformance tests are complete and open for self-certification</title>
+      <link>https://openid.net/openid4vp-and-openid4vci-conformance-tests-are-complete-and-open-for-self-certification/</link>
+      <guid isPermaLink="false">identitybrief-7b7e4dbe91c45a3e</guid>
+      <pubDate>Fri, 07 Aug 2026 15:19:22 +0000</pubDate>
+      <category>did</category>
+      <description>The OpenID Foundation calls on implementers to self-certify now and be among the first to go on record. The OpenID Foundation is pleased to announce that the conformance test suites for both the OpenID for Verifiable Presentations (OpenID4VP) and OpenID for Verifiable Credential Issuance (OpenID4VCI) protocols used with the High Assurance Interoperability…
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Notice of Vote to Approve Proposed Implementer’s Drafts of Two OpenID Federation Extensions</title>
+      <link>https://openid.net/notice-of-vote-to-approve-proposed-implementers-drafts-of-two-openid-federation-extensions/</link>
+      <guid isPermaLink="false">identitybrief-b19db944e55baf2e</guid>
+      <pubDate>Fri, 07 Aug 2026 15:52:35 +0000</pubDate>
+      <category>auth</category>
+      <description>The two-week voting period will be between Friday, August 21, 2026 to Friday, September 4, 2026, once the 45 day review of the specification has been completed. The OpenID Connect working group page https://openid.net/wg/connect/. If you’re not already a member, or if your membership has expired, please consider joining to participate in the approval vote.…
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Unlimited Technology Systems breach impacts 3.8 million people</title>
+      <link>https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/</link>
+      <guid isPermaLink="false">identitybrief-4c7ffa80a746dce3</guid>
+      <pubDate>Fri, 07 Aug 2026 19:30:41 +0000</pubDate>
+      <category>breach</category>
+      <description>Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets</title>
+      <link>https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</link>
+      <guid isPermaLink="false">identitybrief-0e3a028652add14d</guid>
+      <pubDate>Fri, 07 Aug 2026 18:29:08 +0000</pubDate>
+      <category>auth</category>
+      <description>ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data</title>
+      <link>https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</link>
+      <guid isPermaLink="false">identitybrief-547060d28e7488d5</guid>
+      <pubDate>Fri, 07 Aug 2026 18:16:13 +0000</pubDate>
+      <category>breach</category>
+      <description>A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. "UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>What does a data breach cost? AI is a sizable factor</title>
+      <link>https://www.csoonline.com/article/567697/what-is-the-cost-of-a-data-breach-3.html</link>
+      <guid isPermaLink="false">identitybrief-206a2ad009871caa</guid>
+      <pubDate>Fri, 07 Aug 2026 08:25:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>The financial impact of a data breach is substantial for any modern business, regardless of industry or size. IBM’s latest Cost of a Data Breach report discovered that, from March 2025 to February 2026, the average cost of a data breach rose to $6 million, up 35% from $4.44 million a year earlier. The 2026 report, conducted by Ponemon Institute and…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>The Vulnerability With No CVE: Managing Persistent Gaps Between Mandate and Authority in AI Coding Agents</title>
+      <link>http://arxiv.org/abs/2608.05884v1</link>
+      <guid isPermaLink="false">identitybrief-0122f92700fd75f9</guid>
+      <pubDate>Thu, 06 Aug 2026 11:06:06 +0000</pubDate>
+      <category>research</category>
+      <description>Existing guidance identifies excessive agency, excessive permission, weak task-bound authorization, and inadequate agent controls as important risks. Control frameworks also describe capabilities for constraining, authorizing, observing, validating, and responding to agent activity. Yet security programs still need a way to manage persistent deployed…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Platform SSO + Secure Enclave: True Passwordless macOS Sign-in with Entra ID?</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNXZyWVNDMGxPa1NMUjlNV0RWQ2FUU2ZWREtfdUtOR0xoa3BSVWNrSGZCeS1wbzY1LUxxWXF1NzNJQXdXQ3VIVktZZS1WNVZ6NWhCOUQ4SENqcUcyZTZjWURZRDlPREp3WmRaX2VwSk1mQzB1OG44dWEyMkRIWmwzOGhjUWZBVVRGQU9PV0J3RTVnWVFGa09BNm02aXB3enFFWnptQWZQcko3bGdqYkNyZm1aNTVfd20yT3RvUG1MYWQwcjhVYjBDelllWGJmTUpfaEUyemtVSDc1MmEyVk4tQQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-a1df938ab7c99c89</guid>
+      <pubDate>Fri, 07 Aug 2026 20:20:32 +0000</pubDate>
+      <category>auth</category>
+      <description>Platform SSO + Secure Enclave: True Passwordless macOS Sign-in with Entra ID? Microsoft Community Hub It landed in the last few hours.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Gut feeling does nothing against AI spear phishing texts</title>
       <link>https://www.helpnetsecurity.com/2026/08/07/ai-spear-phishing-research/</link>
       <guid isPermaLink="false">identitybrief-6b91b58c9b72b824</guid>
@@ -1362,145 +1502,5 @@
       <description>This paper describes the participation of team "Go To Germany" in the ImageCLEF 2026 Deepfake Detection and Generation Task. For the image generation task, we employ FLUX.1-dev with PuLID for identity-preserving face synthesis, combined with a multi-model PGD adversarial attack targeting 12 detectors simultaneously (DiffJPEG-in-loop, MI/DI/EoT, adaptive…
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Detecting CSAM Text-to-Image LoRAs From Weights</title>
-      <link>http://arxiv.org/abs/2607.25750v1</link>
-      <guid isPermaLink="false">identitybrief-7d704221dcb486e6</guid>
-      <pubDate>Tue, 28 Jul 2026 14:12:52 +0000</pubDate>
-      <category>research</category>
-      <description>Low-rank adaptation (LoRA) fine-tuning has made it cheap and easy to customize open-weight image generation models for specific tasks, including the production of child sexual abuse material (CSAM). Existing moderation relies on metadata or generated outputs, but metadata can be deceptive and generating outputs may itself be unacceptable or illegal. We show…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process</title>
-      <link>https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</link>
-      <guid isPermaLink="false">identitybrief-444f0bed861e7401</guid>
-      <pubDate>Tue, 28 Jul 2026 15:01:33 +0000</pubDate>
-      <category>breach</category>
-      <description>A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force. Tengu…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Cyera Acquiring Oasis Security in $1 Billion Deal</title>
-      <link>https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/</link>
-      <guid isPermaLink="false">identitybrief-fee748a5cf075196</guid>
-      <pubDate>Tue, 28 Jul 2026 14:55:30 +0000</pubDate>
-      <category>iam</category>
-      <description>Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>KYC vs AML: Complete Guide to Key Differences and Compliance Requirements</title>
-      <link>https://www.jumio.com/kyc-aml-differences/</link>
-      <guid isPermaLink="false">identitybrief-24d680c21bfb8506</guid>
-      <pubDate>Tue, 28 Jul 2026 21:42:23 +0000</pubDate>
-      <category>fraud</category>
-      <description>In today’s complex regulatory environment, financial institutions and digital platforms must balance user experience with stringent compliance standards. Two of the most critical acronyms in this space are Know Your Customer (KYC) and Anti-Money Laundering (AML). While often used interchangeably, these concepts represent distinct yet interconnected pillars… It landed in the last few hours.
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>Cybersecurity jobs available right now: July 28, 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/07/28/cybersecurity-jobs-available-right-now-july-28-2026/</link>
-      <guid isPermaLink="false">identitybrief-d4ccc2306595f3c8</guid>
-      <pubDate>Tue, 28 Jul 2026 04:00:11 +0000</pubDate>
-      <category>iam</category>
-      <description>Cloud Security Engineer Toyota Automated Logistics | USA | On-site – View job details As a Cloud Security Engineer, you will design and enforce security controls across Azure and on-premises environments, strengthen identity and access management, and maintain cloud security posture through policy automation, monitoring, and incident response. You will work… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Ninth Conference on Transit Ticketing &amp; Fare Collection APAC 2026</title>
-      <link>https://www.biometricupdate.com/202607/ninth-conference-on-transit-ticketing-fare-collection-apac-2026</link>
-      <guid isPermaLink="false">identitybrief-e10b7dd7cf2d3272</guid>
-      <pubDate>Tue, 28 Jul 2026 03:19:36 +0000</pubDate>
-      <category>did</category>
-      <description>Ninth Conference on Transit Ticketing &amp; Fare Collection APAC 2026 Singapore October 14-15, 2026 The mission of the Transit Ticketing &amp; Fare Collection APAC 2026 Conference is to provide a premier platform for transport authorities, operators, payment providers, technology companies and mobility innovators to exchange knowledge, share implementation… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Origin Energy Data Breach Affects 900,000 Australians</title>
-      <link>https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/</link>
-      <guid isPermaLink="false">identitybrief-1938d2aa507493fd</guid>
-      <pubDate>Tue, 28 Jul 2026 05:01:05 +0000</pubDate>
-      <category>breach</category>
-      <description>The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek . It landed in the last few hours.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Asia becomes testing ground for social media age assurance models</title>
-      <link>https://www.biometricupdate.com/202607/asia-becomes-testing-ground-for-social-media-age-assurance-models</link>
-      <guid isPermaLink="false">identitybrief-c5fef480a659766b</guid>
-      <pubDate>Mon, 27 Jul 2026 18:30:24 +0000</pubDate>
-      <category>did</category>
-      <description>As with any territory being explored for the first time, the map of the global age assurance landscape continues to diversify and grow in both scale and complexity. Some of the fastest growth is happening in Asia, where differing technical approaches are converging on platform responsibility, and governments are experimenting with different combinations of… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Vietnam considers digital identity law for assets, data and transactions</title>
-      <link>https://www.biometricupdate.com/202607/vietnam-considers-digital-identity-law-for-assets-data-and-transactions</link>
-      <guid isPermaLink="false">identitybrief-0b3617e5d6fba796</guid>
-      <pubDate>Mon, 27 Jul 2026 18:20:49 +0000</pubDate>
-      <category>did</category>
-      <description>Vietnam is weighing a significant expansion of state‑managed digital identity. A new proposal from the Ministry of Public Security (MPS) would assign electronic identities not only to people and organizations but also to physical assets, digital property and everyday transactions. The draft Law on Electronic Identification and Authentication is open for… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Ajay Gupta: Joining a like-minded agenda of promoting digital credentials</title>
-      <link>https://identityweek.net/ajay-gupta-joining-a-like-minded-agenda-of-promoting-digital-credentials/</link>
-      <guid isPermaLink="false">identitybrief-c8239791ffef314d</guid>
-      <pubDate>Mon, 27 Jul 2026 14:16:35 +0000</pubDate>
-      <category>did</category>
-      <description>Ajay Gupta, Chief Digital Transformation Officer for the California Department of Motor Vehicles has joined the conversation and like-minded agenda of promoting digital credentials at this year’s Identity Week America to create a stronger identity ecosystem. Ajay will present on digital public infrastructure and how it’s evolving to meet global demand.…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Ernst &amp; Young data breach claimed by ShinyHunters extortion gang</title>
-      <link>https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/</link>
-      <guid isPermaLink="false">identitybrief-23a9e5dd878a6ffd</guid>
-      <pubDate>Mon, 27 Jul 2026 15:12:27 +0000</pubDate>
-      <category>breach</category>
-      <description>The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst &amp; Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Public Review Period for Proposed OpenID CAEP Interoperability Profile Final Specification</title>
-      <link>https://openid.net/public-review-period-for-proposed-openid-caep-interoperbility-profile-final-specification/</link>
-      <guid isPermaLink="false">identitybrief-a50a4a77dfc74204</guid>
-      <pubDate>Mon, 27 Jul 2026 18:13:32 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Shared Signals Working Group recommends approval of the following specification as an OpenID Final Specification: OpenID OpenID CAEP Interoperability Profile A Final Specification provides intellectual property protections to implementers of the specification and is not subject to further revision. This note starts the 60-day public review period… It landed in the last few hours.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Call of Duty Mobile scam uses fake free points giveaway to hijack players’ accounts</title>
-      <link>https://www.helpnetsecurity.com/2026/07/28/call-of-duty-mobile-players-scam/</link>
-      <guid isPermaLink="false">identitybrief-d6b8fb3a33854f9a</guid>
-      <pubDate>Tue, 28 Jul 2026 04:30:39 +0000</pubDate>
-      <category>fraud</category>
-      <description>Call of Duty Mobile players should watch out for a phishing campaign disguised as a free Call of Duty Points giveaway, Malwarebytes researchers have warned. Victims are asked to log in with their email address and password to claim free Call of Duty Points (CP), the game’s premium currency, before being redirected to a second page requesting their 2FA code.… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hackers are compromising hotel Wi-Fi gateways to hijack Microsoft 365 accounts</title>
-      <link>https://www.csoonline.com/article/4202067/hackers-are-compromising-hotel-wi-fi-gateways-to-hijack-microsoft-365-accounts.html</link>
-      <guid isPermaLink="false">identitybrief-0a1e3d281bc54f7a</guid>
-      <pubDate>Tue, 28 Jul 2026 02:28:22 +0000</pubDate>
-      <category>auth</category>
-      <description>Traveling enterprise employees beware: Think twice before you log onto that oh-so-convenient public Wi-Fi. Since at least June, threat actors have been compromising “captive” Wi-Fi gateways and other portal appliances at hotels, conference centers, and similar shared venues to hijack users’ Microsoft 365 accounts, according to the ReliaQuest Threat Research… It landed in the last few hours.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
