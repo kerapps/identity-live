@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Biometrics consolidation reflects shift to continuous identity</title>
+      <link>https://www.biometricupdate.com/202608/biometrics-consolidation-reflects-shift-to-continuous-identity</link>
+      <guid isPermaLink="false">identitybrief-4ed3875ff67cdc7a</guid>
+      <pubDate>Sat, 08 Aug 2026 14:41:06 +0000</pubDate>
+      <category>fraud</category>
+      <description>AI-driven fraud is reshaping the biometrics industry. This week's acquisitions, product launches and market developments all point toward the same destination: continuous identity, layered assurance and trust infrastructure spanning the entire customer lifecycle. Digital sovereignty, however, could limit consolidation in some markets. Deepfake dynamism…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Australia’s national face matching system expands with NSW participation</title>
+      <link>https://www.biometricupdate.com/202608/australias-national-face-matching-system-expands-with-nsw-participation</link>
+      <guid isPermaLink="false">identitybrief-58ded436d7c5a152</guid>
+      <pubDate>Sat, 08 Aug 2026 14:19:24 +0000</pubDate>
+      <category>fraud</category>
+      <description>New South Wales (NSW) is joining Australia's national face matching network, allowing driver licence and photo card images to be shared through the National Driver Licence Facial Recognition Solution ( NDLFRS ) to combat identity fraud and organized crime. Per the release, “if a person’s driver licence, Medicare details or other identity information are…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication</title>
+      <link>https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</link>
+      <guid isPermaLink="false">identitybrief-bb61cbf6cb78eb68</guid>
+      <pubDate>Sat, 08 Aug 2026 06:58:31 +0000</pubDate>
+      <category>breach</category>
+      <description>Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Itsme says shared identity infrastructure can reduce cost, fraud and friction</title>
+      <link>https://www.biometricupdate.com/202608/itsme-says-shared-identity-infrastructure-can-reduce-cost-fraud-and-friction</link>
+      <guid isPermaLink="false">identitybrief-157ddd5764bb37df</guid>
+      <pubDate>Fri, 07 Aug 2026 13:04:04 +0000</pubDate>
+      <category>did</category>
+      <description>The local can be universal and vice versa. In recent conference presentations from Itsme, the Belgian digital identity platform shared learnings as it expands into the Netherlands in preparation for the EUDI Wallet era. Itsme has cautioned Dutch organizations that fragmented identity processes can drive costs up, increase fraud risk and frustrate customers.…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Microsoft, Apple Release Fresh Security Updates</title>
+      <link>https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/</link>
+      <guid isPermaLink="false">identitybrief-cd6621a46b263e5e</guid>
+      <pubDate>Fri, 07 Aug 2026 09:09:54 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass. The post Microsoft, Apple Release Fresh Security Updates appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Trojanized AI skills gain 1.7M installs in agent-targeted attack</title>
+      <link>https://www.csoonline.com/article/4206851/trojanized-ai-skills-gain-1-7m-installs-in-agent-targeted-attack.html</link>
+      <guid isPermaLink="false">identitybrief-9f903da6057a8376</guid>
+      <pubDate>Fri, 07 Aug 2026 17:45:11 +0000</pubDate>
+      <category>auth</category>
+      <description>Researchers have uncovered an extremely effective attack campaign that involved AI agent skills trojanized to deploy a credential stealer. The incident is part of a growing trend in which attackers are targeting the AI software supply chain by poisoning sharable instruction and configuration files for agentic tools. Discovered by researchers from security…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Levi Strauss &amp; Co. says hackers stole corporate data in cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/</link>
+      <guid isPermaLink="false">identitybrief-26be9f314b3ef90f</guid>
+      <pubDate>Fri, 07 Aug 2026 15:48:20 +0000</pubDate>
+      <category>iam</category>
+      <description>Levi Strauss &amp; Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street</title>
+      <link>https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/</link>
+      <guid isPermaLink="false">identitybrief-ea13d04562e80bc4</guid>
+      <pubDate>Fri, 07 Aug 2026 14:26:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP</title>
+      <link>https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</link>
+      <guid isPermaLink="false">identitybrief-d4fa171fab39b8bd</guid>
+      <pubDate>Fri, 07 Aug 2026 12:56:23 +0000</pubDate>
+      <category>breach</category>
+      <description>WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>200 accounts compromised in Swiss government’s Microsoft SharePoint breach</title>
+      <link>https://www.helpnetsecurity.com/2026/08/07/swiss-government-microsoft-sharepoint-vulnerabilities/</link>
+      <guid isPermaLink="false">identitybrief-0ffaf4ac1257ed26</guid>
+      <pubDate>Fri, 07 Aug 2026 12:29:26 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers exploited vulnerabilities in Microsoft SharePoint servers belonging to Switzerland’s Federal Office of Information Technology, Systems and Telecommunication (BIT), compromising the login credentials of around 200 accounts. On July 28, BIT’s security specialists noticed unusual activity on the SharePoint servers. Once the intrusion was confirmed, BIT…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails</title>
+      <link>https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html</link>
+      <guid isPermaLink="false">identitybrief-3193878ce9c75f53</guid>
+      <pubDate>Fri, 07 Aug 2026 10:38:27 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers have called attention to an active "widespread email-driven phishing campaign" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. "The campaign uses residential proxies to disguise malicious…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>3.8 Million Impacted by Unlimited Technology Systems Data Breach</title>
+      <link>https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-9fedd09f93eaeb1b</guid>
+      <pubDate>Fri, 07 Aug 2026 07:22:05 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Blockchain Empowered Trustworthy Agent Networks: Foundations, Taxonomy, and Future Directions</title>
+      <link>http://arxiv.org/abs/2608.04626v1</link>
+      <guid isPermaLink="false">identitybrief-a43d80781fe3830d</guid>
+      <pubDate>Wed, 05 Aug 2026 09:32:35 +0000</pubDate>
+      <category>research</category>
+      <description>AI agents are evolving from isolated task executors into networked autonomous entities that can communicate, delegate tasks, invoke tools, access external knowledge, and participate in cross-platform service and economic workflows. This evolution gives rise to open agent networks, where heterogeneous agents owned by different stakeholders interact without…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>How Decentralized Identity Changes Data Minimization Compliance</title>
+      <link>https://www.jumio.com/decentralized-identity-data-minimization-compliance/</link>
+      <guid isPermaLink="false">identitybrief-4e0c8a4541184a43</guid>
+      <pubDate>Fri, 07 Aug 2026 13:00:26 +0000</pubDate>
+      <category>did</category>
+      <description>In 2025, a major European bank was fined €4.4 million for collecting identity documents beyond what data minimization rules required. That fine was a clear signal: data minimization has moved from compliance aspiration to legal baseline, and regulators are actively enforcing it. Global privacy frameworks — the GDPR, CCPA, and a growing stack of U.S.... The…
+
+— via Jumio</description>
+    </item>
+    <item>
       <title>Brazil age assurance challenge overlooks privacy-preserving options</title>
       <link>https://www.biometricupdate.com/202608/brazil-age-assurance-challenge-overlooks-privacy-preserving-options</link>
       <guid isPermaLink="false">identitybrief-a8b92a4ad83a17f1</guid>
@@ -1362,145 +1502,5 @@
       <description>The European Commission has concluded the eligibility checks for the registration requests of two European Citizens’ Initiatives (ECIs) entitled: ‘Stop Killing The Internet: No Digital ID &amp; No Age Verification’ and ‘Save Europe Act’. The Commission registered the initiative ‘Stop Killing The Internet: No Digital ID &amp; No Age Verification’. The organisers…
 
 — via Identity Week</description>
-    </item>
-    <item>
-      <title>InkShield: Writing Style Protection Against Unauthorized Handwriting Mimicry</title>
-      <link>http://arxiv.org/abs/2607.26976v1</link>
-      <guid isPermaLink="false">identitybrief-68e1efd303ffe5f6</guid>
-      <pubDate>Wed, 29 Jul 2026 14:35:25 +0000</pubDate>
-      <category>research</category>
-      <description>Recent handwritten text generators can reproduce a writer's style from publicly available references, posing risks of document forgery and identity misuse. An attacker may use a publicly available handwritten note or signature sample to generate forged recommendation letters or authorization forms, leading to document fraud, identity misuse, and misleading…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads</title>
-      <link>https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html</link>
-      <guid isPermaLink="false">identitybrief-3c95f7725d7b9936</guid>
-      <pubDate>Wed, 29 Jul 2026 18:10:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database… It landed in the last few hours.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Can Large Language Models Represent Urban Publics? Behavioral Replication and Population Mismatch in an Affordable-Housing Experiment</title>
-      <link>http://arxiv.org/abs/2607.27100v1</link>
-      <guid isPermaLink="false">identitybrief-1f0ef66af4bb8d6a</guid>
-      <pubDate>Wed, 29 Jul 2026 16:27:36 +0000</pubDate>
-      <category>research</category>
-      <description>There is growing interest in using large language models (LLMs) as low-cost proxies for resident attitudes in urban planning. Previous work shows that LLMs can predict average results of survey experiments, but less is known about whether they preserve the spatially anchored, identity-conditioned structure behind those averages, namely how support changes…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>You Built Half an mDL. Now You Need ISO 18013-7</title>
-      <link>https://indicio.tech/blog/iso-18013-7-remote-mdl-verification/</link>
-      <guid isPermaLink="false">identitybrief-b76d4e6faa9deb73</guid>
-      <pubDate>Wed, 29 Jul 2026 14:26:09 +0000</pubDate>
-      <category>did</category>
-      <description>Mobile driver’s licenses built to ISO 18013-5 are an in-person only digital identity solution. Now you need ISO 18013-7 to verify remotely, where the value of seamless digital identity lies. Your choice? Go back to your engineering team or just buy from Indicio. Here’s why buying is the faster, cheaper, and safer road. By Helen Garneau You did the hard…
-
-— via Indicio</description>
-    </item>
-    <item>
-      <title>Putting digital trust first: Trinidad and Tobago takes bite-sized approach to DPI</title>
-      <link>https://www.biometricupdate.com/202607/putting-digital-trust-first-trinidad-and-tobago-takes-bite-sized-approach-to-dpi</link>
-      <guid isPermaLink="false">identitybrief-4a315b961d890d31</guid>
-      <pubDate>Tue, 28 Jul 2026 18:26:22 +0000</pubDate>
-      <category>did</category>
-      <description>Trinidad and Tobago, the southernmost island country in the Caribbean, might be small but its pioneering example in digital public infrastructure (DPI) could have an outsized effect. Most countries build digital public infrastructure by first establishing a national digital identity system, then layering on digital wallets, credentials and other services.… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Digital identity’s next phase is about trust, not technology</title>
-      <link>https://www.biometricupdate.com/202607/digital-identitys-next-phase-is-about-trust-not-technology</link>
-      <guid isPermaLink="false">identitybrief-77593e5535fa813d</guid>
-      <pubDate>Tue, 28 Jul 2026 19:46:57 +0000</pubDate>
-      <category>did</category>
-      <description>As digital identity programs mature around the world, the biggest challenges are shifting from technology deployment to governance, interoperability and adoption. Those themes emerged during a webinar hosted by Financial Innovation for Impact (Fii), which explored how governments and industry are building digital identity ecosystems that support eKYC,… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Hong Kong turns iAM Smart into broader digital identity infrastructure</title>
-      <link>https://www.biometricupdate.com/202607/hong-kong-turns-iam-smart-into-broader-digital-identity-infrastructure</link>
-      <guid isPermaLink="false">identitybrief-2ebbdd679077b843</guid>
-      <pubDate>Tue, 28 Jul 2026 19:41:07 +0000</pubDate>
-      <category>did</category>
-      <description>Hong Kong is expanding iAM Smart, its e‑gov login tool, into a broader identity infrastructure encompassing digital services, corporate authentication and physical access. Hong Kong government announcements indicate the platform is gaining new functions across public services, business operations and property management, with AI soon to sit on top of both… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Ghost Credentials Expose Cloud Systems to Hidden Identity Risks</title>
-      <link>https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path</link>
-      <guid isPermaLink="false">identitybrief-c3a6fd4358b0a927</guid>
-      <pubDate>Tue, 28 Jul 2026 21:33:23 +0000</pubDate>
-      <category>auth</category>
-      <description>Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Is Your SSO Protected Against Modern Credential Attacks?</title>
-      <link>https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/</link>
-      <guid isPermaLink="false">identitybrief-cc9cdb44738b9687</guid>
-      <pubDate>Tue, 28 Jul 2026 14:00:10 +0000</pubDate>
-      <category>breach</category>
-      <description>A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>BlackCloak extends deepfake protection to the executive’s trusted circle</title>
-      <link>https://www.helpnetsecurity.com/2026/07/28/blackcloak-deepfake-protection/</link>
-      <guid isPermaLink="false">identitybrief-7f1d9847cf636dd6</guid>
-      <pubDate>Tue, 28 Jul 2026 13:15:34 +0000</pubDate>
-      <category>fraud</category>
-      <description>Deepfakes have made one of our oldest assumptions unreliable: that you can trust a familiar face or voice. While the industry focuses mainly on building “in-line detection tools” that try to spot the fake, BlackCloak, the leader in Digital Executive Protection (DEP), built Impersonation Protection to focus on validating the authenticity of communications.…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>'Certighost' Flaw Haunts Microsoft Active Directory Certificates</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates</link>
-      <guid isPermaLink="false">identitybrief-b6d70d24ecedb455</guid>
-      <pubDate>Tue, 28 Jul 2026 16:38:48 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Your AI agents can reach data no one approved</title>
-      <link>https://www.helpnetsecurity.com/2026/07/29/1password-ai-agent-governance/</link>
-      <guid isPermaLink="false">identitybrief-179860d3de718423</guid>
-      <pubDate>Wed, 29 Jul 2026 04:30:29 +0000</pubDate>
-      <category>auth</category>
-      <description>A credential expired. An AI agent kept using it anyway, and a mid-sized company’s systems went down for a quarter’s worth of trouble before anyone traced the failure back to a non-human account no one had been logging. That agent could reach customer records, source code, and HR files the whole time. The tools that track who touches sensitive data were… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>The CSO’s blind spot: Why platform engineering 2.0 is now a security imperative</title>
-      <link>https://www.csoonline.com/article/4202540/the-csos-blind-spot-why-platform-engineering-2-0-is-now-a-security-imperative.html</link>
-      <guid isPermaLink="false">identitybrief-19c1374fa1f7c75c</guid>
-      <pubDate>Wed, 29 Jul 2026 01:09:14 +0000</pubDate>
-      <category>iam</category>
-      <description>Security leaders have spent the last decade building controls around people and code. Shift-left practices caught vulnerabilities earlier in the development cycle. Zero trust reduced lateral blast radius. Developer tooling added guardrails at the IDE. The architecture was sound — for an enterprise where humans wrote code and humans ran applications. That… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Adversarial Deepfake Generation and an Investigation of Purification-Based Adversarial Detection</title>
-      <link>http://arxiv.org/abs/2607.25842v1</link>
-      <guid isPermaLink="false">identitybrief-306665e69435ad30</guid>
-      <pubDate>Tue, 28 Jul 2026 15:19:16 +0000</pubDate>
-      <category>research</category>
-      <description>This paper describes the participation of team "Go To Germany" in the ImageCLEF 2026 Deepfake Detection and Generation Task. For the image generation task, we employ FLUX.1-dev with PuLID for identity-preserving face synthesis, combined with a multi-model PGD adversarial attack targeting 12 detectors simultaneously (DiffJPEG-in-loop, MI/DI/EoT, adaptive…
-
-— via arXiv</description>
     </item>
 </channel></rss>
