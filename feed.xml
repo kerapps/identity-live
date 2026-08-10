@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>SoK: Cryptographic Key Recovery for Cryptoasset Custody and Financial Technologies</title>
+      <link>http://arxiv.org/abs/2608.07104v1</link>
+      <guid isPermaLink="false">identitybrief-e43799f99cd13018</guid>
+      <pubDate>Fri, 07 Aug 2026 11:00:33 +0000</pubDate>
+      <category>research</category>
+      <description>Cryptoasset systems often bind cryptographic key control to financial control: losing a wallet seed, custody share, hardware device, or smart-account credential can remove spend authority, while compromised recovery can enable theft. Existing work treats recovery through separate vocabularies--key backup, secret sharing, account recovery, credential… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>On a General Theoretical Framework for Radio Frequency Fingerprint-Based Authentication</title>
+      <link>http://arxiv.org/abs/2608.06805v1</link>
+      <guid isPermaLink="false">identitybrief-073fad5491e11781</guid>
+      <pubDate>Fri, 07 Aug 2026 04:59:33 +0000</pubDate>
+      <category>research</category>
+      <description>While radio frequency fingerprint (RFF)-based wireless device authentication has been widely studied across different datasets and scenarios, there still lacks a fundamental theory to explain why and how RFF can serve as a reliable device identity, significantly hindering the practical application of such an authentication technology. In this article, we…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Casting the Net! Revisiting MasterFace Impersonation Attacks</title>
+      <link>http://arxiv.org/abs/2608.06952v1</link>
+      <guid isPermaLink="false">identitybrief-3c77d08855fe4103</guid>
+      <pubDate>Fri, 07 Aug 2026 08:28:03 +0000</pubDate>
+      <category>research</category>
+      <description>Impersonation is a fundamental security threat in face recognition systems (FRSs). While the security of FRSs has been challenged by various attack vectors, under realistic adversarial capabilities, e.g., a limited number of decision-only authentication trials and no internal system knowledge, most attack techniques become infeasible. As a result,…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Smarter stadium ingress reshapes venue security and fan experience</title>
+      <link>https://www.biometricupdate.com/202608/smarter-stadium-ingress-reshapes-venue-security-and-fan-experience</link>
+      <guid isPermaLink="false">identitybrief-45bd81a5a60ee26a</guid>
+      <pubDate>Fri, 07 Aug 2026 13:31:12 +0000</pubDate>
+      <category>auth</category>
+      <description>Stadiums are tightening security as new UK rules take effect, with Liverpool FC shifting to full‑search entry and reworking ingress to balance safety with fan experience. Technology vendors are pushing mobile, biometric access tools such as Janam’s GTX+ to speed up screening, while Australian venues are expanding facial authentication ticketing through…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>EES faces more operational constraints at checkpoints</title>
+      <link>https://www.biometricupdate.com/202608/ees-faces-more-operational-constraints-at-checkpoints</link>
+      <guid isPermaLink="false">identitybrief-d287fdcae17b722d</guid>
+      <pubDate>Fri, 07 Aug 2026 12:37:38 +0000</pubDate>
+      <category>auth</category>
+      <description>The biometric Entry/Exit System (EES) which is live at several airports across the Schengen zone is said to be facing more operational challenges at border points as queues grow. Sometimes, authorities are forced to switch off the system when it is overwhelmed by users, which means passengers cannot have face and fingerprint biometrics collected, according…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People</title>
+      <link>https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html</link>
+      <guid isPermaLink="false">identitybrief-76f47175588a77d4</guid>
+      <pubDate>Thu, 06 Aug 2026 06:04:30 +0000</pubDate>
+      <category>fraud</category>
+      <description>Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario,…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>From behavior to payment: Visa builds trust across the customer lifecycle</title>
+      <link>https://www.biometricupdate.com/202608/from-behavior-to-payment-visa-builds-trust-across-the-customer-lifecycle</link>
+      <guid isPermaLink="false">identitybrief-7a275055a6c2fb8f</guid>
+      <pubDate>Fri, 07 Aug 2026 20:30:14 +0000</pubDate>
+      <category>iam</category>
+      <description>Visa’s agreement to acquire BioCatch for $2.4 billion raises an important strategic question: Why would a global payments network invest so heavily in behavioral and device intelligence? The answer lies in what happens before a payment reaches Visa’s network. Visa already has extensive visibility into transactions. BioCatch provides intelligence about the…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Seamless travel – pilots, passenger pathways, and progress</title>
+      <link>https://identityweek.net/seamless-travel-pilots-passenger-pathways-and-progress/</link>
+      <guid isPermaLink="false">identitybrief-3a80ab8ab0b7ea54</guid>
+      <pubDate>Wed, 05 Aug 2026 14:36:14 +0000</pubDate>
+      <category>auth</category>
+      <description>Federal officials and top industry leaders will discuss biometric identity, touchless processing, and cross-border cooperation in Washington D.C. against the backdrop of one of the biggest multi-national sporting events in modern history. Panellists will review the challenges and success stories from seamless travel initiatives at the 2026 World Cup,…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk</title>
+      <link>https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html</link>
+      <guid isPermaLink="false">identitybrief-c9687e1f0e89e739</guid>
+      <pubDate>Wed, 05 Aug 2026 11:43:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>What the first year of EU AI Act transparency enforcement could look like</title>
+      <link>https://www.helpnetsecurity.com/2026/08/07/edwin-weijdema-veeam-eu-ai-act-transparency/</link>
+      <guid isPermaLink="false">identitybrief-5b9c17927c02185f</guid>
+      <pubDate>Fri, 07 Aug 2026 05:30:57 +0000</pubDate>
+      <category>breach</category>
+      <description>In this Help Net Security interview, Edwin Weijdema, Field CTO at Veeam, answers questions on Article 50 of the EU AI Act and what the first year of enforcement might bring. He explains why corrective orders will likely outnumber large fines, when an AI agent working through a ticket queue counts as interacting with a person, and how security teams should…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>CTEM isn’t failing. It’s not being operationalized</title>
+      <link>https://www.csoonline.com/article/4206109/ctem-isnt-failing-its-not-being-operationalized.html</link>
+      <guid isPermaLink="false">identitybrief-dda1a2f4c2ec6509</guid>
+      <pubDate>Thu, 06 Aug 2026 12:23:17 +0000</pubDate>
+      <category>iam</category>
+      <description>Cybersecurity is full of frameworks, regulations, and directives that tell organizations what they should do. Zero Trust, NIST, CIS Controls, CMMC, DORA, NIS2, and now Continuous Threat Exposure Management (CTEM) all provide valuable guidance and describe desired outcomes. The challenge is that most stop at the “what.” They rarely explain the “how.” That is…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Attackers hid malware inside Oracle Database after SQL injection breach</title>
+      <link>https://www.csoonline.com/article/4206096/attackers-hid-malware-inside-oracle-database-after-sql-injection-breach.html</link>
+      <guid isPermaLink="false">identitybrief-376fe5e6155e6abf</guid>
+      <pubDate>Thu, 06 Aug 2026 12:04:12 +0000</pubDate>
+      <category>breach</category>
+      <description>Huntress has documented a case where the Oracle database itself became the malware host. The security firm disclosed a campaign in which threat actors exploited a SQL injection vulnerability to store a custom post-exploitation toolkit, dubbed Khunt, inside an Oracle database using the platform’s built-in Java capabilities. Huntress became aware of the…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory</title>
+      <link>https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html</link>
+      <guid isPermaLink="false">identitybrief-df4b3ff5163068a2</guid>
+      <pubDate>Thu, 06 Aug 2026 11:30:00 +0000</pubDate>
+      <category>breach</category>
+      <description>A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links. We observed production websites embedding hidden prompt injection payloads inside "Ask AI" buttons on marketing and…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Redefining the Onboarding Experience with True Reusable Identity</title>
+      <link>https://www.jumio.com/redefining-onboarding-true-reusable-identity/</link>
+      <guid isPermaLink="false">identitybrief-af957df2d3dcf374</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:46 +0000</pubDate>
+      <category>did</category>
+      <description>Every enterprise that verifies identities online runs into the same wall: it treats every user as a stranger, every time. A returning customer who verified their identity last month is asked to do it again this month, and again next month, at every company they touch. The result is friction that compounds across an entire... The post Redefining the…
+
+— via Jumio</description>
+    </item>
+    <item>
       <title>Biometrics consolidation reflects shift to continuous identity</title>
       <link>https://www.biometricupdate.com/202608/biometrics-consolidation-reflects-shift-to-continuous-identity</link>
       <guid isPermaLink="false">identitybrief-4ed3875ff67cdc7a</guid>
@@ -1362,145 +1502,5 @@
       <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation. It landed in the last few hours.
 
 — via The Record</description>
-    </item>
-    <item>
-      <title>New infosec products of the week: July 31, 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/07/31/new-infosec-products-of-the-week-july-31-2026/</link>
-      <guid isPermaLink="false">identitybrief-3ec1d529c67d2cec</guid>
-      <pubDate>Fri, 31 Jul 2026 04:00:37 +0000</pubDate>
-      <category>fraud</category>
-      <description>Here’s a look at the most interesting products from the past week, featuring releases from BlackCloak, Contrast Security, Dropzone AI, PortSwigger, Realm Security, Reco, Root Evidence, and ZeroFox. BlackCloak extends deepfake protection to the executive’s trusted circle Deepfakes have made one of our oldest assumptions unreliable: that you can trust a… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests</title>
-      <link>https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/</link>
-      <guid isPermaLink="false">identitybrief-e8ce51642f01ce30</guid>
-      <pubDate>Fri, 31 Jul 2026 00:57:25 +0000</pubDate>
-      <category>breach</category>
-      <description>One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Checking Information Flow in Cloud-based IoT Access Control Policies (Extended Version)</title>
-      <link>http://arxiv.org/abs/2607.28088v1</link>
-      <guid isPermaLink="false">identitybrief-d04d0dd0a95cf923</guid>
-      <pubDate>Thu, 30 Jul 2026 11:54:36 +0000</pubDate>
-      <category>research</category>
-      <description>Many cloud providers for IoT technologies offer access control mechanisms whose proper configuration is critical for security. However, verifying permissions in isolation is insufficient in a setting where devices have different levels of trust or are compartmentalised in various subsystems. This work analyses IoT access control policies to identify…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>What Is Device Binding, and How Does It Keep a Stolen Digital ID From Being Reused?</title>
-      <link>https://blog.spruceid.com/what-is-device-binding-and-how-does-it-keep-a-stolen-digital-id-from-being-reused/</link>
-      <guid isPermaLink="false">identitybrief-430087f30bca739c</guid>
-      <pubDate>Thu, 30 Jul 2026 20:34:34 +0000</pubDate>
-      <category>did</category>
-      <description>Device binding is the cryptographic layer that turns a verifiable digital credential from something that can be copied into something that can only be used by its rightful holder. It landed in the last few hours.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>Product showcase: Dashlane Password Manager is more security toolkit than password vault</title>
-      <link>https://www.helpnetsecurity.com/2026/07/30/product-showcase-dashlane-password-manager/</link>
-      <guid isPermaLink="false">identitybrief-1fa13297a9a1593f</guid>
-      <pubDate>Thu, 30 Jul 2026 04:30:39 +0000</pubDate>
-      <category>breach</category>
-      <description>Dashlane is a password manager for individuals and families that stores passwords, passkeys, payment cards, personal information and secure notes in an encrypted vault. It also includes a password generator, password health reports, an authenticator, credential sharing, dark web monitoring and phishing protection. The service is available on Windows, macOS,… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>If AI changes identity fraud every month, how does the industry know what actually works?</title>
-      <link>https://www.biometricupdate.com/202607/if-ai-changes-identity-fraud-every-month-how-does-the-industry-know-what-actually-works</link>
-      <guid isPermaLink="false">identitybrief-7a3717725312889d</guid>
-      <pubDate>Wed, 29 Jul 2026 22:16:54 +0000</pubDate>
-      <category>fraud</category>
-      <description>Imagine this scenario. In January, an identity verification solution successfully completed an independent evaluation against the industry’s latest standards. The vendor announces the achievement, customers gain confidence and procurement teams add another checkmark to their selection process. In February, someone discovered a new AI-generated document… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Impersonation protection: How to protect your executives when the truth isn’t clear</title>
-      <link>https://www.helpnetsecurity.com/2026/07/30/impersonation-protection-video/</link>
-      <guid isPermaLink="false">identitybrief-dac496f37f5b8830</guid>
-      <pubDate>Thu, 30 Jul 2026 05:00:04 +0000</pubDate>
-      <category>fraud</category>
-      <description>How do you protect your executives when truth doesn’t seem to be truth anymore? It’s a question BlackCloak Founder and CEO Dr. Chris Pierson recently discussed this dilemma with SVP of Product Matt Covington. Advances in AI, voice, and video impersonation make it difficult to establish trust when communicating digitally. BlackCloak offers a solution to this… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Co-creation gives MOSIP development a lift on path to sustainability</title>
-      <link>https://www.biometricupdate.com/202607/co-creation-gives-mosip-development-a-lift-on-path-to-sustainability</link>
-      <guid isPermaLink="false">identitybrief-d3b36f36d236fa93</guid>
-      <pubDate>Wed, 29 Jul 2026 21:29:23 +0000</pubDate>
-      <category>did</category>
-      <description>MOSIP’s vision of achieving open-source project sustainability rests in large part on contributions from the countries that adopt the modular digital identity platform. “Countries needed to be active partners in shaping and evolving the digital infrastructure they adopted,” is how MOSIP VP of Country Implementations Krishnan Rajagopalan and Senior Associate… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Exposed credentials are giving attackers a head start many organizations don’t see</title>
-      <link>https://www.helpnetsecurity.com/2026/07/30/enzoic-credential-exposure-risks-report/</link>
-      <guid isPermaLink="false">identitybrief-935d1b1e207a17eb</guid>
-      <pubDate>Thu, 30 Jul 2026 04:00:36 +0000</pubDate>
-      <category>breach</category>
-      <description>Compromised credentials can remain active long after passwords are created, leaving organizations trying to identify exposed accounts before attackers can use them. The 2026 Credential Risk Report from Enzoic shows growing awareness of the problem, but monitoring and response capabilities continue to lag. Even with MFA deployed, which credential-related… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>iDenfy adds standalone age estimation to IDV platform</title>
-      <link>https://www.biometricupdate.com/202607/idenfy-adds-standalone-age-estimation-to-idv-platform</link>
-      <guid isPermaLink="false">identitybrief-46818f4773bf0d5a</guid>
-      <pubDate>Wed, 29 Jul 2026 17:19:22 +0000</pubDate>
-      <category>did</category>
-      <description>In keeping with the movement toward unified identity operations in a single biometric platform, Lithuania-based provider iDenfy has added an age estimation tool to its onboarding software dashboard. According to a release, the upgrade provides customers the ability to create, manage, and review dedicated age assurance sessions separate from iDenfy’s…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Your AI Agents Are Guessing at Scale: Permissions Decide the Damage</title>
-      <link>https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/</link>
-      <guid isPermaLink="false">identitybrief-1665c358cdd05f0b</guid>
-      <pubDate>Wed, 29 Jul 2026 14:02:12 +0000</pubDate>
-      <category>iam</category>
-      <description>AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Cisco warns of FMC static credential flaw exploited in zero-day attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/</link>
-      <guid isPermaLink="false">identitybrief-6cf9ff5b96df5af3</guid>
-      <pubDate>Wed, 29 Jul 2026 21:35:40 +0000</pubDate>
-      <category>breach</category>
-      <description>Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape</title>
-      <link>https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html</link>
-      <guid isPermaLink="false">identitybrief-dc28e084be7f301f</guid>
-      <pubDate>Wed, 29 Jul 2026 15:31:15 +0000</pubDate>
-      <category>breach</category>
-      <description>Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter. "A malicious…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Commission concludes eligibility checks for two European Citizens’ Initiatives on digital ID and age-verification</title>
-      <link>https://identityweek.net/commission-concludes-eligibility-checks-for-two-european-citizens-initiatives-on-digital-identity-and-age-verification-and-on-migration-and-asylum/</link>
-      <guid isPermaLink="false">identitybrief-a5d5282cd10139e6</guid>
-      <pubDate>Wed, 29 Jul 2026 14:42:42 +0000</pubDate>
-      <category>did</category>
-      <description>The European Commission has concluded the eligibility checks for the registration requests of two European Citizens’ Initiatives (ECIs) entitled: ‘Stop Killing The Internet: No Digital ID &amp; No Age Verification’ and ‘Save Europe Act’. The Commission registered the initiative ‘Stop Killing The Internet: No Digital ID &amp; No Age Verification’. The organisers…
-
-— via Identity Week</description>
     </item>
 </channel></rss>
