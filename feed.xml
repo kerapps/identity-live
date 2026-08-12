@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Signicat certified for IDV, digital identity orchestration in UK by Kantara</title>
+      <link>https://www.biometricupdate.com/202608/signicat-certified-for-idv-digital-identity-orchestration-in-uk-by-kantara</link>
+      <guid isPermaLink="false">identitybrief-0f2bb78f3a4d3619</guid>
+      <pubDate>Tue, 11 Aug 2026 18:46:27 +0000</pubDate>
+      <category>did</category>
+      <description>Signicat ’s technology for biometric identity verification and ID document validation with NFC scans, ReadID, has been certified for the UK’s digital ID system, along with the company’s orchestration capability. ReadID is now listed in the Digital Verification Services (DVS) register for the component and orchestration roles , following an audit by the… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Home Office provides answers on using digital ID to prove age for alcohol sales</title>
+      <link>https://www.biometricupdate.com/202608/home-office-provides-answers-on-using-digital-id-to-prove-age-for-alcohol-sales</link>
+      <guid isPermaLink="false">identitybrief-6718a505c9f370b9</guid>
+      <pubDate>Tue, 11 Aug 2026 20:23:54 +0000</pubDate>
+      <category>did</category>
+      <description>On the surface, the UK’s quest to allow adults to use digital ID to prove their age for alcohol sales is a fairly simple proposition: instead of handing the barkeep or shop clerk a plastic card that proves who you are, you can call up a credential on your phone that says your age has been verified, and that you’re OK to buy booze – without providing any… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Philippines pushes national ID as foundation for financial identity verification</title>
+      <link>https://www.biometricupdate.com/202608/philippines-pushes-national-id-as-foundation-for-financial-identity-verification</link>
+      <guid isPermaLink="false">identitybrief-c916a652b94986f2</guid>
+      <pubDate>Tue, 11 Aug 2026 15:54:37 +0000</pubDate>
+      <category>did</category>
+      <description>The Philippines is rapidly turning its national digital identity system into core financial infrastructure. As the central bank prepares rules that would make PhilSys authentication part of customer due diligence, technology providers are rolling out new passkey authentication, identity verification and banking integrations built around the country's…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>1 in every 100 identity check failures involves deepfake media</title>
+      <link>https://identityweek.net/1-in-every-100-identity-check-failures-involves-deepfake-media/</link>
+      <guid isPermaLink="false">identitybrief-a759e138f33d3006</guid>
+      <pubDate>Tue, 11 Aug 2026 13:27:01 +0000</pubDate>
+      <category>did</category>
+      <description>One in every 100 identity check failures involves a deepfake document, image or liveness video, according to LexisNexis Risk Solutions. Deepfakes are now one of the fastest-growing fraud vectors worldwide with millions predicted to appear in fraud attempts in 2026 and passports, driver’s licenses and national IDs are the most faked identity documents. The…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Availability Vs adoption of California’s mobile driver license</title>
+      <link>https://identityweek.net/availability-vs-adoption-of-californias-mobile-driver-license/</link>
+      <guid isPermaLink="false">identitybrief-b8117aaafdd1a1de</guid>
+      <pubDate>Tue, 11 Aug 2026 11:39:51 +0000</pubDate>
+      <category>did</category>
+      <description>California just raised the cap on its mobile driver’s license pilot from 15% to 60% of licensed drivers. That’s a real policy bet with Governor Gavin Newsom signing SB 169 to cut the red tape and put more mobile driving licenses in reach for millions of Californians statewide. Meanwhile, national mobile driving license activation is […]
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Metabase SQLi exploit grants attackers total access</title>
+      <link>https://www.csoonline.com/article/4208307/metabase-sqli-exploit-grants-attackers-total-access.html</link>
+      <guid isPermaLink="false">identitybrief-d0e89118c1872b3a</guid>
+      <pubDate>Wed, 12 Aug 2026 02:40:58 +0000</pubDate>
+      <category>breach</category>
+      <description>Business intelligence (BI) platform provider Metabase has disclosed a zero-day SQL Injection vulnerability, warning that customers’ sensitive credentials, tokens, API keys, and other data may have been exposed. The Metabase vulnerability revealed on August 6, designated CVE-2026-72898 , is identified as critical, with a severity score of 10, the highest… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>A Gateway Architecture for Enterprise MCP Authentication: Unifying Heterogeneous Auth, Identity Delegation, and the User / Non-User Persona Problem</title>
+      <link>http://arxiv.org/abs/2608.10760v1</link>
+      <guid isPermaLink="false">identitybrief-938ef582ad90e206</guid>
+      <pubDate>Tue, 11 Aug 2026 10:19:20 +0000</pubDate>
+      <category>research</category>
+      <description>The Model Context Protocol (MCP) has become the de-facto interface for connecting LLM agents to enterprise tools, and adoption has been explosive: within a year, large organizations went from zero to dozens of internally built MCP servers. That speed created a governance crisis. Each team implemented authentication independently -- some with no auth, some…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</title>
+      <link>https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html</link>
+      <guid isPermaLink="false">identitybrief-0a778419f468205e</guid>
+      <pubDate>Tue, 11 Aug 2026 18:36:47 +0000</pubDate>
+      <category>iam</category>
+      <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Logit-Boundary Geometric Belief Interfaces and Sparse Sheaf-Enclave Protocols: A Self-Contained Substrate for Secure Network Electronic Health Record (EHR) Interoperability</title>
+      <link>http://arxiv.org/abs/2608.10300v1</link>
+      <guid isPermaLink="false">identitybrief-6671680b5d72c7e4</guid>
+      <pubDate>Mon, 10 Aug 2026 23:10:53 +0000</pubDate>
+      <category>research</category>
+      <description>Electronic health-record interoperability is a boundary problem: legacy systems, generative models, terminology services, identity systems, and human reviewers may each expose rich internal states, while operational exchange requires a narrow shared interface of typed claims, bounded uncertainty, provenance, and explicit admission or abstention. This paper… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AI agent governance is the identity problem hiding in plain sight</title>
+      <link>https://liminal.co/articles/ai-agent-governance-identiverse-demo-day/</link>
+      <guid isPermaLink="false">identitybrief-ae67e863d35cf057</guid>
+      <pubDate>Tue, 11 Aug 2026 08:53:00 +0000</pubDate>
+      <category>breach</category>
+      <description>The breach didn’t start with a zero-day, a phishing email, or a stolen password. It started with an agent doing exactly what it was built to do: finishing a task, using access nobody remembered to take back. No alarm went off, because nothing about it looked like an intrusion. It looked like the system was […] The post AI agent governance is the identity…
+
+— via Liminal</description>
+    </item>
+    <item>
+      <title>Deepfake hiccup unmasks suspected digital certificate fraudster</title>
+      <link>https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934</link>
+      <guid isPermaLink="false">identitybrief-0a963bb8000f8425</guid>
+      <pubDate>Tue, 11 Aug 2026 12:27:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Face-swap software blinked for 'barely a second,' giving Spanish cops the break they needed
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Technology, education and critical media literacy: potential, challenges, and opportunities</title>
+      <link>http://arxiv.org/abs/2608.10778v1</link>
+      <guid isPermaLink="false">identitybrief-b3e960323984939c</guid>
+      <pubDate>Tue, 11 Aug 2026 10:30:06 +0000</pubDate>
+      <category>research</category>
+      <description>This study examines the impact of technology within media education, media literacy, and educommunication, and explores how these fields are perceived and understood by students and academic experts, focusing on the development of critical competencies and critical media literacy. Based on semi-structured in-depth interviews with leading experts in the…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers</title>
+      <link>https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html</link>
+      <guid isPermaLink="false">identitybrief-c5e2acb56602b69c</guid>
+      <pubDate>Tue, 11 Aug 2026 11:35:03 +0000</pubDate>
+      <category>fraud</category>
+      <description>Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding paperwork is the part hiring teams can use. The first hire claimed to live in Pasadena, Texas, then sent a California driver's license and…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Digital Identity Is Becoming Policy Infrastructure</title>
+      <link>https://blog.spruceid.com/digital-identity-is-becoming-policy-infrastructure/</link>
+      <guid isPermaLink="false">identitybrief-52e4a44ce7aa63dc</guid>
+      <pubDate>Tue, 11 Aug 2026 21:00:06 +0000</pubDate>
+      <category>did</category>
+      <description>Digital identity is becoming core policy infrastructure. Across benefits, financial regulation, privacy, and elections, better verification can strengthen trust while reducing unnecessary data collection and giving people greater control over their information. It landed in the last few hours.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>OpenID opens certification for digital ID issuance, verification protocols</title>
       <link>https://www.biometricupdate.com/202608/openid-opens-certification-for-digital-id-issuance-verification-protocols</link>
       <guid isPermaLink="false">identitybrief-7bccf55725bed292</guid>
@@ -1362,145 +1502,5 @@
       <description>Every fraud loss has an origin story, and most start at the same place: the moment an account is opened. New account fraud is what happens when that front door fails, when a fraudster uses stolen, fabricated, or synthetic credentials to create an account that looks legitimate from day one. Once they are inside, everything […] The post Matthew Thompson on…
 
 — via Liminal</description>
-    </item>
-    <item>
-      <title>Horizon3.ai expands NodeZero with automated web application attack path testing</title>
-      <link>https://www.helpnetsecurity.com/2026/07/31/horizon3-ai-nodezero-webapp-pentesting/</link>
-      <guid isPermaLink="false">identitybrief-90248c2f854dd5e6</guid>
-      <pubDate>Fri, 31 Jul 2026 08:06:59 +0000</pubDate>
-      <category>breach</category>
-      <description>Horizon3.ai has expanded its NodeZero platform with AI-powered web application pentesting. The platform can now autonomously test web applications and identify attack paths that chain application vulnerabilities, credential theft, lateral movement, cloud access, and data exposure. Web applications have never been more exposed or more critical to secure. The…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>CareCloud Data Breach Impacts Over 350,000</title>
-      <link>https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/</link>
-      <guid isPermaLink="false">identitybrief-e0301e0131f3b428</guid>
-      <pubDate>Fri, 31 Jul 2026 07:51:43 +0000</pubDate>
-      <category>breach</category>
-      <description>In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs</title>
-      <link>http://arxiv.org/abs/2607.27267v1</link>
-      <guid isPermaLink="false">identitybrief-eb2da2f9b73e5b6c</guid>
-      <pubDate>Wed, 29 Jul 2026 09:41:07 +0000</pubDate>
-      <category>research</category>
-      <description>Large language model (LLM) agents autonomously interleave semantic reasoning with complex system operations. In these dynamic environments, static tool-level permissions are fundamentally insufficient; safe authorization is highly context-dependent and heavily reliant on evolving runtime states and data flows. We present FAVA (Formal Authorization for…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>An AI agent is not a service app: Securing agentic identity</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1YcUdkS3kwbEdnRVRaM0VtZTg1SGtVYmpqRGdCYXZwY0FWck9yb3VWeGlnQk5DMWN4Z3YtWnBJeGFLeUhDUFpJWk40NkdZS3otb2dfSENFbVZQSDZ4NkRtWDdIRk9PSTREelNoQXZWcFU?oc=5</link>
-      <guid isPermaLink="false">identitybrief-a62335a4b5610069</guid>
-      <pubDate>Thu, 30 Jul 2026 17:38:35 +0000</pubDate>
-      <category>iam</category>
-      <description>An AI agent is not a service app: Securing agentic identity Okta
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Argentina launches IOTA decentralized IDs, blockchain for organ transplants</title>
-      <link>https://www.biometricupdate.com/202607/argentina-launches-iota-decentralized-ids-blockchain-for-organ-transplants</link>
-      <guid isPermaLink="false">identitybrief-334e20ab2f0e692c</guid>
-      <pubDate>Fri, 31 Jul 2026 20:24:50 +0000</pubDate>
-      <category>did</category>
-      <description>Argentina’s national medical transplant authority, INCUCAI, has added decentralized digital identities and blockchain-based document checks to its network for organ and tissue transplants. Extrimian developed the system for agencies' verifiable digital identities registered on the IOTA Mainnet. INCUCAI will remain the authority in the structure and grant,… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Toppan Security demos interoperability with French national digital ID wallet</title>
-      <link>https://www.biometricupdate.com/202607/toppan-security-demos-interoperability-with-french-national-digital-id-wallet</link>
-      <guid isPermaLink="false">identitybrief-53f70bc945057210</guid>
-      <pubDate>Fri, 31 Jul 2026 17:22:18 +0000</pubDate>
-      <category>did</category>
-      <description>Digital identity wallet technology for ID credential issuance, storage and verification from Toppan Security is interoperable with national digital identity verification app France Identité, as confirmed in a recent round of tests. Toppan’s digital wallet solutions were tested for interoperability with France’s EU Digital Identity (EUDI) Wallet and…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>The Deepfake Fraud Detection Market 2026: Securing Identity in the AI Era</title>
-      <link>https://www.biometricupdate.com/202607/the-deepfake-fraud-detection-market-2026-securing-identity-in-the-ai-era</link>
-      <guid isPermaLink="false">identitybrief-0143d8c207f1c694</guid>
-      <pubDate>Fri, 31 Jul 2026 15:48:42 +0000</pubDate>
-      <category>did</category>
-      <description>Generative AI has fundamentally changed the economics of identity fraud. Deepfakes, synthetic identities and injection attacks have reduced the cost of sophisticated attacks while increasing their scale and realism, forcing organizations to rethink how they secure digital identity. Deepfake detection is rapidly evolving from a specialist fraud tool into a…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Amgen says cloud data breach exposed patient health, proprietary info</title>
-      <link>https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/</link>
-      <guid isPermaLink="false">identitybrief-36cd28c787972e89</guid>
-      <pubDate>Fri, 31 Jul 2026 22:16:42 +0000</pubDate>
-      <category>breach</category>
-      <description>Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026</title>
-      <link>https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html</link>
-      <guid isPermaLink="false">identitybrief-c41e7cceb044979d</guid>
-      <pubDate>Fri, 31 Jul 2026 11:24:59 +0000</pubDate>
-      <category>breach</category>
-      <description>Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports</title>
-      <link>https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports</link>
-      <guid isPermaLink="false">identitybrief-9ef82ad7b7cb6ff0</guid>
-      <pubDate>Fri, 31 Jul 2026 13:00:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm</title>
-      <link>https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html</link>
-      <guid isPermaLink="false">identitybrief-c5b4ee777bae8202</guid>
-      <pubDate>Fri, 31 Jul 2026 16:39:31 +0000</pubDate>
-      <category>breach</category>
-      <description>Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>OpenAI Makes Hardware Passkeys Mandatory For Its Highest-End Cyber Model</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb21yYnp0NDk3cXQyYnJ6TFFMWVBSak40YUU5UEo5eksyblJDUFpZSERvMkNjM21KcWxwREFydk9mZ0Zpemp6VE45RGxQRVR0VUNnalduQ1pnSHhYWW90bVVDUjl0cURTRU4wQWxQdWZZTHZ6emRFWVczLVUwbml3N2t0b3o2WkU5VXhVR2NpMmUxbWpMQ1l2S1VLd212SnltdjZ5Yjk2YzY?oc=5</link>
-      <guid isPermaLink="false">identitybrief-daa1c54726db3878</guid>
-      <pubDate>Fri, 31 Jul 2026 18:40:56 +0000</pubDate>
-      <category>auth</category>
-      <description>OpenAI Makes Hardware Passkeys Mandatory For Its Highest-End Cyber Model Forrester It landed in the last few hours.
-
-— via Forrester</description>
-    </item>
-    <item>
-      <title>Getting Cozy with COAZ: Securing APIs and AI Agents with Standardized Authorization</title>
-      <link>https://openid.net/getting-cozy-with-coaz-securing-apis-and-ai-agents-with-standardized-authorization/</link>
-      <guid isPermaLink="false">identitybrief-695bcc2e59aef659</guid>
-      <pubDate>Fri, 31 Jul 2026 10:41:47 +0000</pubDate>
-      <category>auth</category>
-      <description>By Atul Tulshibagwale and Alex Olivier, co-chairs of the OpenID Foundation’s AuthZEN Working Group The views expressed in this post are those of the authors, in their capacity as co-chairs of the AuthZEN Working Group, and do not necessarily represent the position of the OpenID Foundation as a whole. AuthZEN is a great way to […] The post Getting Cozy with…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/</link>
-      <guid isPermaLink="false">identitybrief-f6c043f3406673cc</guid>
-      <pubDate>Fri, 31 Jul 2026 21:01:37 +0000</pubDate>
-      <category>auth</category>
-      <description>Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The post CaptiveCrunch: Midnight Blizzard targets travelers… It landed in the last few hours.
-
-— via Microsoft Security</description>
     </item>
 </channel></rss>
