@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Foundational ID and biometric binding underpin digital trust</title>
+      <link>https://www.biometricupdate.com/202608/foundational-id-and-biometric-binding-underpin-digital-trust</link>
+      <guid isPermaLink="false">identitybrief-dc8b8c7723731b7d</guid>
+      <pubDate>Sat, 15 Aug 2026 16:17:05 +0000</pubDate>
+      <category>fraud</category>
+      <description>Biometric fundamentals and foundational ID are considerations at the very beginning of the identity lifecycle that are sometimes overlooked. If organizations can handle them better the rewards are improved trustworthy service delivery and stronger defenses against fraud. Fundamental considerations for biometrics include accuracy, but also scalability and… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>OCR Studio updates AI MRZ scanning for difficult remote ID captures</title>
+      <link>https://www.biometricupdate.com/202608/ocr-studio-updates-ai-mrz-scanning-for-difficult-remote-id-captures</link>
+      <guid isPermaLink="false">identitybrief-f83c6a22498ca359</guid>
+      <pubDate>Sat, 15 Aug 2026 15:44:47 +0000</pubDate>
+      <category>fraud</category>
+      <description>OCR Studio has updated its on-device software to scan the machine readable zones (MRZs) of passports, identity cards, visas, and other documents captured during remote onboarding. The company says its AI-enabled OCR MRZ scan technology can extract identity and document information from low-resolution images and documents photographed at difficult angles or… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>The Customer Identity And Access Management Solutions Landscape, Q3 2026 Is Live</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVRRZjVqVWxOd2pYUjk0eUttYXBBZkczbl8zQ3ZDWm1XQzk4Nk5rQ0c2UlYtX2h0aVlEQ2xLZHRBUzl1N1duZVRJZVNxdVZBUndhQm1ZZm14LW1ka2dvWHVQdlJFTVFDbHFyZV9iVGlGLW5pRlBCSXBHdTNFZFVzQmcxaTVMMXA2Sk0xa1NOMS13NDk1cTlwVVFBX1dOZWh2blVPVFBOZmdMNG1JYm15OXZB?oc=5</link>
+      <guid isPermaLink="false">identitybrief-3f90ec1a39b285b9</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>The Customer Identity And Access Management Solutions Landscape, Q3 2026 Is Live Forrester
+
+— via Forrester</description>
+    </item>
+    <item>
+      <title>Beyond accuracy: What NIST’s latest age estimation results mean for age assurance</title>
+      <link>https://www.biometricupdate.com/202608/beyond-accuracy-what-nists-latest-age-estimation-results-mean-for-age-assurance</link>
+      <guid isPermaLink="false">identitybrief-91d064954ebb4f5f</guid>
+      <pubDate>Fri, 14 Aug 2026 18:38:03 +0000</pubDate>
+      <category>did</category>
+      <description>The latest results of the National Institute for Standards and Technology (NIST)’s Face Analysis Technology Evaluation Age Estimation &amp; Verification (FATE AEV) are up and add results from Ayonix and ioNetworks Inc. NIST’s Face Analysis Technology Evaluation (FATE) Age Estimation and Verification (AEV) provides an independent view of how well one of those…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>1.6 Million Likely Impacted by RingCentral Data Breach</title>
+      <link>https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-b015df6b2a446792</guid>
+      <pubDate>Fri, 14 Aug 2026 10:24:03 +0000</pubDate>
+      <category>breach</category>
+      <description>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Over 1,000 Charities Hit by Beacon CRM Data Breach</title>
+      <link>https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-888263f9507f1261</guid>
+      <pubDate>Fri, 14 Aug 2026 09:20:28 +0000</pubDate>
+      <category>breach</category>
+      <description>The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Akira ransomware reboots into Windows Safe Mode to knock EDR offline</title>
+      <link>https://www.csoonline.com/article/4209606/akira-ransomware-reboots-into-windows-safe-mode-to-knock-edr-offline.html</link>
+      <guid isPermaLink="false">identitybrief-164d26df63a76386</guid>
+      <pubDate>Fri, 14 Aug 2026 09:12:37 +0000</pubDate>
+      <category>breach</category>
+      <description>Akira ransomware affiliates were seen using a new technique to evade endpoint detection and response (EDR), where they rebooted a compromised Windows system into Safe Mode with Networking enabled. According to Huntress, the technique successfully took both its agent and Microsoft Defender’s real-time protection offline. This, the researchers said, gave the…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Attackers Exploit SharePoint Authentication Bypass After Public PoC Release</title>
+      <link>https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html</link>
+      <guid isPermaLink="false">identitybrief-194c32e5aaf78b99</guid>
+      <pubDate>Thu, 13 Aug 2026 06:09:48 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AI agents wage near-autonomous cyberattack on Asian government networks</title>
+      <link>https://www.csoonline.com/article/4209210/ai-agents-wage-near-autonomous-cyberattack-on-asian-government-networks.html</link>
+      <guid isPermaLink="false">identitybrief-852a790bad7e7e37</guid>
+      <pubDate>Thu, 13 Aug 2026 13:23:10 +0000</pubDate>
+      <category>breach</category>
+      <description>Autonomous AI agents built on open-source frameworks breached Taiwanese government systems, compromised credentials, and probed a nuclear safety agency in a multi-day cyberattack that researchers say signals a new phase in AI-enabled operations. The campaign unfolded over four days in early July, during which multiple AI agents operated in parallel to map…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>FBI evaluates next-gen AI biometrics through long-term twins research</title>
+      <link>https://identityweek.net/fbi-evaluates-next-gen-ai-biometrics-through-long-term-twins-research/</link>
+      <guid isPermaLink="false">identitybrief-65782708b78d3c89</guid>
+      <pubDate>Thu, 13 Aug 2026 10:50:07 +0000</pubDate>
+      <category>auth</category>
+      <description>For over 15 years at the annual Twins Days Festival in Twinsburg, Ohio, FBI researchers have collected longitudinal biometric data from hundreds of volunteer siblings. Identical twins represent the ultimate stress test for AI systems because they share virtually identical facial geometry, distinguishing between them pushes biometric algorithms to their…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Passwords stored in public Google Doc then showed up in search results</title>
+      <link>https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028</link>
+      <guid isPermaLink="false">identitybrief-a63cc70546ee1600</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Developer spotted hostname and credential string lurking in autocomplete
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Belgium's eID Authentication Opens Citizen Accounts to RCE</title>
+      <link>https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce</link>
+      <guid isPermaLink="false">identitybrief-5fb7affa734a8eb1</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Fingerprinting Text-to-Image Diffusion Models via Collapsed Generation</title>
+      <link>http://arxiv.org/abs/2608.11732v1</link>
+      <guid isPermaLink="false">identitybrief-95cfcd9b2a82216d</guid>
+      <pubDate>Wed, 12 Aug 2026 07:12:38 +0000</pubDate>
+      <category>research</category>
+      <description>Proprietary text-to-image diffusion models are increasingly distributed as hosted services and downloadable checkpoints, making their intellectual property (IP) protection an increasingly critical concern when model leakage, copying, or unauthorized fine-tuning is disputed. In this work, we present a non-invasive model fingerprinting framework based on…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>How to evaluate an AI agent identity layer</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBOYWx1eVhSeEowTV84Si1xWG45YmxDaVo2c3pWcW1Fa193Nk5Wc1FOX05xTTVvRXlsWTBfZjhrdGtULUlKSnpQNEJ6dno5NXhTYzU1a1pGdnhjb1dJeEEwSVFsbkU0VXVyanc?oc=5</link>
+      <guid isPermaLink="false">identitybrief-3928cb2ab8e09edf</guid>
+      <pubDate>Fri, 14 Aug 2026 21:29:03 +0000</pubDate>
+      <category>iam</category>
+      <description>How to evaluate an AI agent identity layer Okta
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Seon’s biometric IDV software certified for eIDAS 2.0, age verification in Germany</title>
       <link>https://www.biometricupdate.com/202608/seons-biometric-idv-software-certified-for-eidas-2-0-age-verification-in-germany</link>
       <guid isPermaLink="false">identitybrief-064ac7d19ae5f3ba</guid>
@@ -1362,145 +1502,5 @@
       <description>Refresh tokens are among the most sensitive credentials in modern authentication systems: long-lived, bearer-style, and sufficient to mint access tokens for days or weeks. RFC 9700, the current Best Current Practice for OAuth 2.0 security, mandates that refresh tokens issued to public clients be rotated on every use with replay (reuse) detection, or be… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents</title>
-      <link>http://arxiv.org/abs/2608.04741v1</link>
-      <guid isPermaLink="false">identitybrief-3d27be7e202f30fe</guid>
-      <pubDate>Wed, 05 Aug 2026 12:08:16 +0000</pubDate>
-      <category>research</category>
-      <description>LLM-based web agents automate user tasks by observing webpages and executing browser actions on behalf of users. As these agents operate on real web services, login becomes a sensitive authentication boundary because it involves credentials and sensitive information. Existing work shows that malicious webpage content can manipulate web agent actions, but it…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>103 Passkey Deployments: Not One Passed</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBNbUN2NmttRjFjVnVWTTIyakNfQzY1eERaY2JGaXBsYWVPdkJ2NDlwS2NtS0ZwWnFwVURiUkVOUUJnUi1fTGtjYnJwUHhIVlBsX2s1c1p5eDhWanRuVXU4OFpNYnIzLXM5U0ZHS3lQeGdzNElGWUE?oc=5</link>
-      <guid isPermaLink="false">identitybrief-68d1a11e6fa6af48</guid>
-      <pubDate>Wed, 05 Aug 2026 10:15:50 +0000</pubDate>
-      <category>auth</category>
-      <description>103 Passkey Deployments: Not One Passed KuppingerCole Analysts
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>HoRFFI: High-Openness RF Fingerprint Identification with a Similarity-Enhanced Variational Information Bottleneck</title>
-      <link>http://arxiv.org/abs/2608.04881v1</link>
-      <guid isPermaLink="false">identitybrief-94929789112ef61c</guid>
-      <pubDate>Wed, 05 Aug 2026 14:07:52 +0000</pubDate>
-      <category>research</category>
-      <description>Radio frequency fingerprint identification (RFFI) is a promising technique for wireless device authentication. However, practical RFFI systems must enroll newly authorized devices while rejecting previously unseen ones, even when the feature extractor is trained on only a few labeled base-device classes, giving rise to a high-openness RFFI problem. Existing…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SCIM Deprovisioning Is a Promise Your App Probably Breaks</title>
-      <link>https://workos.com/blog/scim-deprovisioning-promise-your-app-breaks</link>
-      <guid isPermaLink="false">identitybrief-e311e1adca3ff2c9</guid>
-      <pubDate>Thu, 06 Aug 2026 01:29:36 +0000</pubDate>
-      <category>iam</category>
-      <description>SCIM tells you a user is gone, but sessions, refresh tokens, and API keys often outlive deprovisioning. Here's why offboarding needs more than a user row. It landed in the last few hours.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>Product showcase: Material unifies Google Workspace email, file &amp; OAuth defense</title>
-      <link>https://www.helpnetsecurity.com/2026/08/05/product-showcase-material-security-platform/</link>
-      <guid isPermaLink="false">identitybrief-0e6a7a4e82b27d20</guid>
-      <pubDate>Wed, 05 Aug 2026 05:00:48 +0000</pubDate>
-      <category>breach</category>
-      <description>Here’s an uncomfortable truth: the attack that gets you won’t look like an attack. It’ll look like a normal login, a normal file share, a normal permission request you clicked past without reading. You don’t have a phishing problem, a DLP problem, or an OAuth problem. You have one problem wearing three masks, and most security stacks aren’t built to address… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens</title>
-      <link>https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html</link>
-      <guid isPermaLink="false">identitybrief-8a2b5a5d083e921b</guid>
-      <pubDate>Tue, 04 Aug 2026 17:27:39 +0000</pubDate>
-      <category>breach</category>
-      <description>The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts. "Greatness supports AiTM…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Governments converge on age assurance but diverge on how to implement it</title>
-      <link>https://www.biometricupdate.com/202608/governments-converge-on-age-assurance-but-diverge-on-how-to-implement-it</link>
-      <guid isPermaLink="false">identitybrief-46acbe33c8a51a94</guid>
-      <pubDate>Tue, 04 Aug 2026 19:03:20 +0000</pubDate>
-      <category>did</category>
-      <description>Governments around the world are increasingly aligned on the view that minors need stronger protections against online harms, in the form of age assurance. The specific models of age assurance they are arriving at, however, are as diverse as the harms they are prioritizing. Competing models are emerging. Australia and the UK are setting up marketplaces of… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Germany’s EUDI Wallet push highlights Europe’s implementation gap</title>
-      <link>https://www.biometricupdate.com/202608/germanys-eudi-wallet-push-highlights-europes-implementation-gap</link>
-      <guid isPermaLink="false">identitybrief-300fafeba8f78036</guid>
-      <pubDate>Tue, 04 Aug 2026 19:01:08 +0000</pubDate>
-      <category>did</category>
-      <description>Pop psychology promotes the art of manifesting – the would-be ability to will one’s desires into reality by visualizing them. There is a touch of the practice in how Germany is approaching the launch of the EU Digital Identity Wallet ( EUDI Wallet ) ecosystem. The country is continuing to work toward the scheduled January 2027 deadline for implementation,… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>New Zealand sets thresholds for liveness detection in rules defining trusted assurance</title>
-      <link>https://www.biometricupdate.com/202608/new-zealand-sets-thresholds-for-liveness-detection-in-rules-defining-trusted-assurance</link>
-      <guid isPermaLink="false">identitybrief-abaf49d4e7785fd9</guid>
-      <pubDate>Tue, 04 Aug 2026 16:39:10 +0000</pubDate>
-      <category>did</category>
-      <description>New Zealand recently enacted the Digital Identity Services Trust Framework Amendment Rules 2026, which amend the Digital Identity Services Trust Framework Rules 2024 by formally defining levels of assurance and streamlining accreditation renewals for partners. Digital identity providers who wish to be accredited under the Trust Framework Authority must be…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Phishing service spoofs RingCentral to steal Microsoft 365 accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/</link>
-      <guid isPermaLink="false">identitybrief-9e99dee5a2978062</guid>
-      <pubDate>Tue, 04 Aug 2026 21:45:36 +0000</pubDate>
-      <category>breach</category>
-      <description>The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Pass the Passkey: A Novel Attack Surface in Passwordless Authentication</title>
-      <link>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</link>
-      <guid isPermaLink="false">identitybrief-f2e464b41832f1a6</guid>
-      <pubDate>Tue, 04 Aug 2026 23:22:37 +0000</pubDate>
-      <category>auth</category>
-      <description>It landed in the last few hours. It's pulling 175pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165</link>
-      <guid isPermaLink="false">identitybrief-494bf38f893221bb</guid>
-      <pubDate>Wed, 05 Aug 2026 01:55:54 +0000</pubDate>
-      <category>iam</category>
-      <description>Models used social engineering and collaborated among themselves to solve a security challenge It landed in the last few hours.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>ChainDrop supply chain compromise: Anatomy of a self-propagating worm</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
-      <guid isPermaLink="false">identitybrief-c888e1330ca1419a</guid>
-      <pubDate>Tue, 04 Aug 2026 23:46:41 +0000</pubDate>
-      <category>breach</category>
-      <description>A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating… It landed in the last few hours.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic AI agents targeted real people and systems in cyber tests</title>
-      <link>https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/</link>
-      <guid isPermaLink="false">identitybrief-66c844b38986e0a2</guid>
-      <pubDate>Tue, 04 Aug 2026 23:39:59 +0000</pubDate>
-      <category>breach</category>
-      <description>OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
     </item>
 </channel></rss>
