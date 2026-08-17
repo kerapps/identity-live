@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>From verifying humans to AI agents: Socure prepares for the next identity challenge</title>
+      <link>https://www.biometricupdate.com/202608/from-verifying-humans-to-ai-agents-socure-prepares-for-the-next-identity-challenge</link>
+      <guid isPermaLink="false">identitybrief-bcd666127f4124a7</guid>
+      <pubDate>Mon, 17 Aug 2026 02:25:40 +0000</pubDate>
+      <category>did</category>
+      <description>Fraud has evolved alongside digital identity, from stolen credentials and account takeover to synthetic identities, deepfakes and AI-generated documents. Identity verification providers have responded with new signals, models and defenses. Autonomous AI agents present a different challenge. Rather than simply making fraud faster or cheaper, they challenge a… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Meta smart glasses patent reignites facial recognition debate</title>
+      <link>https://www.biometricupdate.com/202608/meta-smart-glasses-patent-reignites-facial-recognition-debate</link>
+      <guid isPermaLink="false">identitybrief-dc841de0c62b5af1</guid>
+      <pubDate>Sun, 16 Aug 2026 23:54:10 +0000</pubDate>
+      <category>auth</category>
+      <description>Meta’s latest smart glasses patent offers a glimpse of a future in which cameras do more than record what their wearer sees. They could identify who is there, interpret what is happening and determine which people or moments matter most to the wearer. The patent describes meaningful privacy and data-security controls, but it also raises questions Meta may… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>SafePal data breach impacts 39,798 customers, stolen info for sale</title>
+      <link>https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</link>
+      <guid isPermaLink="false">identitybrief-e0e501517b6ed8ae</guid>
+      <pubDate>Sun, 16 Aug 2026 23:47:06 +0000</pubDate>
+      <category>breach</category>
+      <description>Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Claude Seems Down</title>
+      <link>https://news.ycombinator.com/item?id=49324078</link>
+      <guid isPermaLink="false">identitybrief-bd0724aba7b1cc0c</guid>
+      <pubDate>Sun, 16 Aug 2026 21:52:59 +0000</pubDate>
+      <category>auth</category>
+      <description>Throwing "Authentication service was unavailable.", no updates on their status page, but there are on downdetector It landed in the last few hours. It's pulling 208pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI</title>
+      <link>https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-is-a-better-bug-finder-than-anthropic-openai/5288203</link>
+      <guid isPermaLink="false">identitybrief-3cc238a309e4d5d9</guid>
+      <pubDate>Mon, 17 Aug 2026 00:51:21 +0000</pubDate>
+      <category>breach</category>
+      <description>PLUS: HCL, TCS, admit data breaches; Google, Apple, India bans some rideshare tips; and more! It landed in the last few hours.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Amazon Rekognition faces scrutiny in false arrest lawsuit</title>
+      <link>https://www.biometricupdate.com/202608/amazon-rekognition-faces-scrutiny-in-false-arrest-case</link>
+      <guid isPermaLink="false">identitybrief-ee2f434089d893cb</guid>
+      <pubDate>Sun, 16 Aug 2026 23:52:14 +0000</pubDate>
+      <category>auth</category>
+      <description>Amazon Web Services (AWS) was added as a defendant in a federal lawsuit brought by a St. Louis, Missouri man who spent 17 months in jail after police used facial recognition on a poor quality image of a masked suspect and then built a case around the photo. Christopher Gatlin alleges in an amended complaint filed last Thursday that his arrest and… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Vaulted Passkeys: A Device-Bound Proposal for Authenticated Credential Export and Import</title>
+      <link>http://arxiv.org/abs/2608.13806v1</link>
+      <guid isPermaLink="false">identitybrief-540b83149b3c9ba0</guid>
+      <pubDate>Thu, 13 Aug 2026 22:32:49 +0000</pubDate>
+      <category>research</category>
+      <description>Hardware authenticators deliberately resist private-key extraction, yet replacement, disaster recovery, and controlled migration create a legitimate need for portability. Existing guidance for device-bound credentials commonly reduces recovery risk by registering an additional authenticator before failure. That creates an independent credential registration…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Trust Without Boundaries: An Architectural Analysis of Satellite Flight Software</title>
+      <link>http://arxiv.org/abs/2608.14532v1</link>
+      <guid isPermaLink="false">identitybrief-a440f889cecca19f</guid>
+      <pubDate>Fri, 14 Aug 2026 17:48:56 +0000</pubDate>
+      <category>research</category>
+      <description>As spacecraft become more software-driven and interconnected, onboard flight software is an increasingly important security boundary. Popular flight software architectures often treat onboard components as trusted peers, simplifying integration while limiting internal isolation and access control. We analyze NASA's Core Flight Software (cFS) to examine how…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>InterSAGE: The Secure and Verifiable Interoperability Protocol for An Internet of Agents</title>
+      <link>http://arxiv.org/abs/2608.13030v2</link>
+      <guid isPermaLink="false">identitybrief-469a319aa580ec74</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:13 +0000</pubDate>
+      <category>research</category>
+      <description>The emerging Internet of Agents enables LLM-powered agents to discover peers, invoke tools, and delegate tasks across organizational boundaries. Existing protocols increasingly define how agents exchange messages, but not how an agent proves its identity, authorization, advertised capabilities, or accountability after delegation. We present InterSAGE, a…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations</title>
+      <link>https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html</link>
+      <guid isPermaLink="false">identitybrief-629bdb3106f13b05</guid>
+      <pubDate>Wed, 12 Aug 2026 08:04:52 +0000</pubDate>
+      <category>breach</category>
+      <description>Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code</title>
+      <link>https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html</link>
+      <guid isPermaLink="false">identitybrief-718e364ee9605b97</guid>
+      <pubDate>Wed, 12 Aug 2026 07:31:40 +0000</pubDate>
+      <category>breach</category>
+      <description>SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation.…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>From market leaders to future trends: what Liminal's 2026 KYC &amp; KYB research reveals about digital identity</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa3FPcS05YzRCWV9Ja2lscDJWWndHRnlXRkpENGRicW11dXplYUl4d0pzUGkzOGJCUUVtV0VWaXpWTW9Pd2wtLVNNLUhHZDlzS3QxRy01NkpIdHRjbFF3RVJLeDAwLTlZVkw2b1A4ckd4YWZ2NzVwc3cyTDFrbXdMeU1VdXRZZUttWDRrdEZGaUNuODFuc2R5ck5ycUNUVFczRGhpVllvb1ZKb3YtbjRjT25zNjRZUlRRU3JQWnpNQVVDeFFsdHg1Mll4YnhYbGZTaDRZ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-ca939a9c6428faaa</guid>
+      <pubDate>Thu, 13 Aug 2026 13:44:26 +0000</pubDate>
+      <category>did</category>
+      <description>From market leaders to future trends: what Liminal's 2026 KYC &amp; KYB research reveals about digital identity Sumsub
+
+— via Sumsub</description>
+    </item>
+    <item>
+      <title>Choosing the Best YubiKey for Enterprise Authentication</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE0tbFlYVElqa3NseHdicWl5SG1VYVhTSzE1SldMYlFoZTZXaUdtTGJVWkcwc0MyMVR6ZHZKWTVZcmZRUFBVMHhqcll3X1hIQ0Rvc2hKMlZXYmdZRVdlX0dwS1h6VGd1QmVvRVRxa2FobEx0UQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-8895b6efb6710c42</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Choosing the Best YubiKey for Enterprise Authentication Ping Identity
+
+— via Ping Identity</description>
+    </item>
+    <item>
+      <title>Anthropic confirms Claude is down in major outage affecting multiple services</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/</link>
+      <guid isPermaLink="false">identitybrief-c712e892632d691b</guid>
+      <pubDate>Sun, 16 Aug 2026 22:28:57 +0000</pubDate>
+      <category>auth</category>
+      <description>Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
       <title>Foundational ID and biometric binding underpin digital trust</title>
       <link>https://www.biometricupdate.com/202608/foundational-id-and-biometric-binding-underpin-digital-trust</link>
       <guid isPermaLink="false">identitybrief-dc8b8c7723731b7d</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 06 Aug 2026 17:36:56 +0000</pubDate>
       <category>research</category>
       <description>Higher education remains largely reactive in its approach to student success. Institutions frequently identify academic problems only after students have failed courses, fallen behind in degree progression, accumulated excessive debt, or departed without a credential. Healthcare faced a similar challenge decades ago. It responded by shifting from reactive… It landed in the last few hours.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Humans in the loop miss a third of dangerous AI coding agent requests</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236</link>
-      <guid isPermaLink="false">identitybrief-268893ed30320247</guid>
-      <pubDate>Thu, 06 Aug 2026 16:44:29 +0000</pubDate>
-      <category>auth</category>
-      <description>You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you? It landed in the last few hours.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture</title>
-      <link>http://arxiv.org/abs/2608.06130v1</link>
-      <guid isPermaLink="false">identitybrief-6b0781d8cfb8aa13</guid>
-      <pubDate>Thu, 06 Aug 2026 15:04:26 +0000</pubDate>
-      <category>research</category>
-      <description>AI agents performing cryptographic operations (signing Git commits, authenticating API calls, issuing certificates) currently store private keys in software-accessible locations: plaintext files, environment variables, or container memory. Any process with sufficient read privileges can extract the raw key material. A recent production incident demonstrated…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How a software provider closed unknown paths to cloud compromise</title>
-      <link>https://www.csoonline.com/article/4206219/how-a-software-provider-closed-unknown-paths-to-cloud-compromise.html</link>
-      <guid isPermaLink="false">identitybrief-a184ef7c4b9020be</guid>
-      <pubDate>Thu, 06 Aug 2026 13:55:09 +0000</pubDate>
-      <category>breach</category>
-      <description>A healthcare software provider believed its segmented environment was reasonably secure. The company had invested heavily in layered controls across a distributed workforce, separating developer environments, segmenting cloud infrastructure, and tightly managing administrative access. Multifactor authentication (MFA) was enforced broadly, vulnerability…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Quantum computing and identity security: Two problems, one imperative</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQNjZoZVR0M21EZVZKREx2ZTZMeGpVNWl3VWhmWU9zeVZ0RUNzYmtHdlN5M0JWaloyRGxPNEZGTDFEODRvZVc3QmFrbGhrT2MzWl9qbjJ2OW9mSUtVbUlVUl9aMlNzVXg2T19hc0x2dlBVSV9Xa3ByQkxuNm5yNl91c1pkV2tSNTF0X08wRU5tdko?oc=5</link>
-      <guid isPermaLink="false">identitybrief-8d7a880b6946d8ec</guid>
-      <pubDate>Thu, 06 Aug 2026 17:41:39 +0000</pubDate>
-      <category>iam</category>
-      <description>Quantum computing and identity security: Two problems, one imperative Okta It landed in the last few hours.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Dispel launches biometric identity proofing for OT remote access</title>
-      <link>https://www.biometricupdate.com/202608/dispel-launches-biometric-identity-proofing-for-ot-remote-access</link>
-      <guid isPermaLink="false">identitybrief-c5b260356cf2b91a</guid>
-      <pubDate>Wed, 05 Aug 2026 20:50:33 +0000</pubDate>
-      <category>fraud</category>
-      <description>Dispel has added government ID verification, facial matching and liveness detection to its operational technology (OT) remote access platform, allowing organizations to verify the real-world identity of users before granting access to industrial systems. Dispel Identity validates a government-issued identity document and compares a live facial image with… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Incode launches GovFaceMatch for DMV-based identity verification</title>
-      <link>https://www.biometricupdate.com/202608/incode-launches-govfacematch-for-dmv-based-identity-verification</link>
-      <guid isPermaLink="false">identitybrief-67fbf6a849b27ca7</guid>
-      <pubDate>Wed, 05 Aug 2026 20:51:40 +0000</pubDate>
-      <category>fraud</category>
-      <description>Incode has announced the launch of GovFaceMatch, which a blog post calls “the first identity solution to verify biometrics directly against state DMV records in real time.” The company says that, in the face of complex, sophisticated AI attacks that hobble traditional identity verification systems, “the only viable solution is to tie identity directly to an… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>EUDI Wallet provides baseline target for standards to enable agentic commerce</title>
-      <link>https://www.biometricupdate.com/202608/eudi-wallet-provides-baseline-target-for-standards-to-enable-agentic-commerce</link>
-      <guid isPermaLink="false">identitybrief-b885c1a4d0cfefeb</guid>
-      <pubDate>Wed, 05 Aug 2026 21:06:56 +0000</pubDate>
-      <category>auth</category>
-      <description>A new non-paper from the WE BUILD Consortium offers a policy vision for Europe’s chance to build a trusted identity layer for AI agents. “Trusted Identities for AI Agents: An Opportunity for Europe” takes as its starting point the presumed transformation of the world by agentic AI. “By 2030, billions of AI agents will operate across borders,” it says . “The… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Canadian man pleads guilty to Snowflake hacks that led to 165 breaches</title>
-      <link>https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka</link>
-      <guid isPermaLink="false">identitybrief-f74cef71d9643ac7</guid>
-      <pubDate>Wed, 05 Aug 2026 20:15:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake. It landed in the last few hours.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning</title>
-      <link>https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning</link>
-      <guid isPermaLink="false">identitybrief-45f72942977d44f0</guid>
-      <pubDate>Wed, 05 Aug 2026 19:08:36 +0000</pubDate>
-      <category>iam</category>
-      <description>Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Report: Passkey security issues could allow account takeover</title>
-      <link>https://www.csoonline.com/article/4205751/report-passkey-security-issues-could-allow-account-takeover.html</link>
-      <guid isPermaLink="false">identitybrief-5762ab07abdbab6b</guid>
-      <pubDate>Wed, 05 Aug 2026 23:51:39 +0000</pubDate>
-      <category>fraud</category>
-      <description>Given the widespread enterprise adoption of passkeys to replace passwords, a Palo Alto Networks Unit 42 report disclosing ways attackers are getting around passkey protections is concerning, analysts say, but they stress that the demonstrated attacks can only happen after a successful intrusion. They also pointed out that the issues are not strictly caused… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Non-human identities are 91% of everything active in production</title>
-      <link>https://www.helpnetsecurity.com/2026/08/06/non-human-identities-active-in-production/</link>
-      <guid isPermaLink="false">identitybrief-63762fcb4fbbd419</guid>
-      <pubDate>Thu, 06 Aug 2026 04:45:29 +0000</pubDate>
-      <category>auth</category>
-      <description>A backup job fires at two in the morning. A scanner walks the same AWS account an hour later, a deployment pipeline assumes a role at four, and a logging agent runs straight through the night. Each of those actions carries a credential issued to a machine. An attacker holding one of those credentials inherits the same cover. Only 20% of non-human activity… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Visa To Acquire Behavioral Biometrics Specialist BioCatch For $2.4 Billion</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHdLNmdrSkJCUjVRVzZJN3R4TEJWTl9EUGFkX1VJSXE0cEVEdFZFdnV1UjY0NTJmakNVVVJsZEhDSFhwRmdiOG5XeS1zMkRWRE5FU2xkNkE0VFM2WFB4ZnRZRGpMV1VndlByb1dXbFI3VTVXMjZfMnZjSWxLdy1LTkd6UENKb0h4NlZVLTlwZmt4b3luOEQzaFFTOHpFUXJhVWZ4a2JnaTN2QQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-d0b3bf0720598c27</guid>
-      <pubDate>Wed, 05 Aug 2026 16:28:44 +0000</pubDate>
-      <category>auth</category>
-      <description>Visa To Acquire Behavioral Biometrics Specialist BioCatch For $2.4 Billion Forrester
-
-— via Forrester</description>
-    </item>
-    <item>
-      <title>AI Sends Global Crime Syndicates Into Fraud Nirvana</title>
-      <link>https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana</link>
-      <guid isPermaLink="false">identitybrief-edad84330a03112d</guid>
-      <pubDate>Wed, 05 Aug 2026 23:35:28 +0000</pubDate>
-      <category>fraud</category>
-      <description>Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>NEBULA: A Language - Independent Specification for Opaque Rotating Refresh Tokens</title>
-      <link>http://arxiv.org/abs/2608.04115v1</link>
-      <guid isPermaLink="false">identitybrief-dbfddab3a4690a78</guid>
-      <pubDate>Tue, 04 Aug 2026 18:10:55 +0000</pubDate>
-      <category>research</category>
-      <description>Refresh tokens are among the most sensitive credentials in modern authentication systems: long-lived, bearer-style, and sufficient to mint access tokens for days or weeks. RFC 9700, the current Best Current Practice for OAuth 2.0 security, mandates that refresh tokens issued to public clients be rotated on every use with replay (reuse) detection, or be… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
     </item>
