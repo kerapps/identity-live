@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Meta’s WhatsApp age-check trial faces challenge from India’s digital ID plans</title>
+      <link>https://www.biometricupdate.com/202608/metas-whatsapp-age-check-trial-faces-challenge-from-indias-digital-id-plans</link>
+      <guid isPermaLink="false">identitybrief-7183020a105e656d</guid>
+      <pubDate>Mon, 17 Aug 2026 22:15:14 +0000</pubDate>
+      <category>did</category>
+      <description>Meta is testing age confirmation on WhatsApp ahead of India's Digital Personal Data Protection (DPDP) Act, but draft implementation rules suggest social media platforms may ultimately have to rely on Aadhaar-linked identity infrastructure instead of self-declared age. India’s law – part of a cascade of global age assurance legislation that has followed… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Sri Lanka digital ID rollout advances as procurement nears completion</title>
+      <link>https://www.biometricupdate.com/202608/sri-lanka-digital-id-rollout-advances-as-procurement-nears-completion</link>
+      <guid isPermaLink="false">identitybrief-c1b731ade0d4d4f2</guid>
+      <pubDate>Mon, 17 Aug 2026 21:20:00 +0000</pubDate>
+      <category>did</category>
+      <description>Sri Lanka's digital identity ( SL-UDI ) program is moving toward a phased rollout as the Indian government finalizes procurement of the master systems provider responsible for implementing the platform. Indian High Commissioner Santosh Jha said onboarding of the master systems provider is in its final stages, while Deputy Minister of Digital Economy Eranga… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Bangladesh is assembling the trust infrastructure needed for a digital economy</title>
+      <link>https://www.biometricupdate.com/202608/bangladesh-is-assembling-the-trust-infrastructure-needed-for-a-digital-economy</link>
+      <guid isPermaLink="false">identitybrief-260bf0b4c147733c</guid>
+      <pubDate>Mon, 17 Aug 2026 20:51:49 +0000</pubDate>
+      <category>did</category>
+      <description>Bangladesh is assembling the foundational layers of a digital economy through a combination of national digital identity, trusted credentials, interoperable payments and governance reforms, with several major initiatives advancing in parallel. Unified digital ID Bangladesh is advancing the next phase of its "One Citizen, One Digital ID, One Digital Wallet"… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Pokémon Center data breach exposes customer info, cancels some orders</title>
+      <link>https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</link>
+      <guid isPermaLink="false">identitybrief-5575eee242558c89</guid>
+      <pubDate>Mon, 17 Aug 2026 19:12:39 +0000</pubDate>
+      <category>breach</category>
+      <description>Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>680,000 Impacted by French Tax Authority Data Breach</title>
+      <link>https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-6257eeffbca5f4d3</guid>
+      <pubDate>Mon, 17 Aug 2026 13:53:55 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Attackers exploit patched macOS Screen Sharing flaw to deploy cryptominer</title>
+      <link>https://www.helpnetsecurity.com/2026/08/17/apple-macos-screen-sharing-flaw/</link>
+      <guid isPermaLink="false">identitybrief-c7bfcb0b0e4b1fc2</guid>
+      <pubDate>Mon, 17 Aug 2026 12:23:15 +0000</pubDate>
+      <category>breach</category>
+      <description>A recently patched security flaw in Apple macOS is being actively exploited by hackers to bypass authentication, gain root access, and install a cryptominer, the Netherlands’ National Cyber Security Centre (NCSC) warns. The vulnerability, tracked as CVE-2026-65400, , let attackers authenticate to macOS Screen Sharing without valid login credentials. Apple…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>SafePal breach affects 39,798 customers, data allegedly for sale</title>
+      <link>https://www.helpnetsecurity.com/2026/08/17/safepal-data-breach-customer-order-information/</link>
+      <guid isPermaLink="false">identitybrief-49d6b995d626b944</guid>
+      <pubDate>Mon, 17 Aug 2026 10:29:57 +0000</pubDate>
+      <category>breach</category>
+      <description>Cryptocurrency wallet maker SafePal disclosed a data breach that exposed order information for 39,798 customers, including names, email addresses, shipping addresses, phone numbers and purchase details. The company traced the exposure to an authorization flaw in a plug-in used for order tracking. Under certain conditions, the flaw let one customer view…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Biometric Update: Mexico’s new banking rules signal a new era for biometric identity verification</title>
+      <link>https://fidoalliance.org/biometric-update-mexicos-new-banking-rules-signal-a-new-era-for-biometric-identity-verification/</link>
+      <guid isPermaLink="false">identitybrief-4daff23f8d824f94</guid>
+      <pubDate>Mon, 17 Aug 2026 15:07:13 +0000</pubDate>
+      <category>fraud</category>
+      <description>Opening a bank account today looks very different than it did a decade ago. Behind each transaction is a growing reliance on advanced identity verification technologies that help protect both […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>SFWeekly: The End of Passwords? Preparing Your Company for Passkeys</title>
+      <link>https://fidoalliance.org/sfweekly-the-end-of-passwords-preparing-your-company-for-passkeys/</link>
+      <guid isPermaLink="false">identitybrief-3d66d5451911c54f</guid>
+      <pubDate>Mon, 17 Aug 2026 15:04:47 +0000</pubDate>
+      <category>auth</category>
+      <description>Key Takeaways How many passwords did you reset last month? If you’re like most people, the answer is “too many.” Between work tools, internal dashboards, customer platforms, and security requirements […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Hacker claims 3.6 million Azure account records stolen from major companies</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</link>
+      <guid isPermaLink="false">identitybrief-f3888340897742e8</guid>
+      <pubDate>Mon, 17 Aug 2026 19:35:01 +0000</pubDate>
+      <category>breach</category>
+      <description>A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
+      <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
+      <guid isPermaLink="false">identitybrief-a2eff4e1129397e1</guid>
+      <pubDate>Mon, 17 Aug 2026 18:44:17 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. The issue was present in… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>"This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification</title>
+      <link>http://arxiv.org/abs/2608.16789v1</link>
+      <guid isPermaLink="false">identitybrief-41e64c6ee8a47b3b</guid>
+      <pubDate>Mon, 17 Aug 2026 16:44:57 +0000</pubDate>
+      <category>research</category>
+      <description>Users sometimes judge that an unfamiliar response is "so Claude." What does this judgment recognize, if it does not identify which model, process, conversation, or mind produced the response? I distinguish three orders of inquiry into AI identity. Constraint-first inquiry begins with conditions that a persisting interlocutor should satisfy. Mechanism-first… It landed in the last few hours.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS</title>
+      <link>https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos</link>
+      <guid isPermaLink="false">identitybrief-6d41face3ac724c4</guid>
+      <pubDate>Mon, 17 Aug 2026 15:44:34 +0000</pubDate>
+      <category>breach</category>
+      <description>The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>What Is State-Endorsed Digital Identity (SEDI)?</title>
+      <link>https://blog.spruceid.com/what-is-state-endorsed-digital-identity-sedi/</link>
+      <guid isPermaLink="false">identitybrief-b2826d0239001a89</guid>
+      <pubDate>Mon, 17 Aug 2026 21:26:52 +0000</pubDate>
+      <category>did</category>
+      <description>State-Endorsed Digital Identity (SEDI) is a rights-first approach to trusted digital identity, pioneered in Utah and gaining interest across states. In this post, we explain what SEDI is, the rights at its center, and our interpretation of how an endorsement framework can work in practice. It landed in the last few hours.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>From verifying humans to AI agents: Socure prepares for the next identity challenge</title>
       <link>https://www.biometricupdate.com/202608/from-verifying-humans-to-ai-agents-socure-prepares-for-the-next-identity-challenge</link>
       <guid isPermaLink="false">identitybrief-bcd666127f4124a7</guid>
@@ -1362,145 +1502,5 @@
       <description>ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with… It landed in the last few hours.
 
 — via The Hacker News</description>
-    </item>
-    <item>
-      <title>UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data</title>
-      <link>https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</link>
-      <guid isPermaLink="false">identitybrief-547060d28e7488d5</guid>
-      <pubDate>Fri, 07 Aug 2026 18:16:13 +0000</pubDate>
-      <category>breach</category>
-      <description>A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. "UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat… It landed in the last few hours.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>What does a data breach cost? AI is a sizable factor</title>
-      <link>https://www.csoonline.com/article/567697/what-is-the-cost-of-a-data-breach-3.html</link>
-      <guid isPermaLink="false">identitybrief-206a2ad009871caa</guid>
-      <pubDate>Fri, 07 Aug 2026 08:25:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>The financial impact of a data breach is substantial for any modern business, regardless of industry or size. IBM’s latest Cost of a Data Breach report discovered that, from March 2025 to February 2026, the average cost of a data breach rose to $6 million, up 35% from $4.44 million a year earlier. The 2026 report, conducted by Ponemon Institute and…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>The Vulnerability With No CVE: Managing Persistent Gaps Between Mandate and Authority in AI Coding Agents</title>
-      <link>http://arxiv.org/abs/2608.05884v1</link>
-      <guid isPermaLink="false">identitybrief-0122f92700fd75f9</guid>
-      <pubDate>Thu, 06 Aug 2026 11:06:06 +0000</pubDate>
-      <category>research</category>
-      <description>Existing guidance identifies excessive agency, excessive permission, weak task-bound authorization, and inadequate agent controls as important risks. Control frameworks also describe capabilities for constraining, authorizing, observing, validating, and responding to agent activity. Yet security programs still need a way to manage persistent deployed…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Platform SSO + Secure Enclave: True Passwordless macOS Sign-in with Entra ID?</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNXZyWVNDMGxPa1NMUjlNV0RWQ2FUU2ZWREtfdUtOR0xoa3BSVWNrSGZCeS1wbzY1LUxxWXF1NzNJQXdXQ3VIVktZZS1WNVZ6NWhCOUQ4SENqcUcyZTZjWURZRDlPREp3WmRaX2VwSk1mQzB1OG44dWEyMkRIWmwzOGhjUWZBVVRGQU9PV0J3RTVnWVFGa09BNm02aXB3enFFWnptQWZQcko3bGdqYkNyZm1aNTVfd20yT3RvUG1MYWQwcjhVYjBDelllWGJmTUpfaEUyemtVSDc1MmEyVk4tQQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-a1df938ab7c99c89</guid>
-      <pubDate>Fri, 07 Aug 2026 20:20:32 +0000</pubDate>
-      <category>auth</category>
-      <description>Platform SSO + Secure Enclave: True Passwordless macOS Sign-in with Entra ID? Microsoft Community Hub It landed in the last few hours.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Gut feeling does nothing against AI spear phishing texts</title>
-      <link>https://www.helpnetsecurity.com/2026/08/07/ai-spear-phishing-research/</link>
-      <guid isPermaLink="false">identitybrief-6b91b58c9b72b824</guid>
-      <pubDate>Fri, 07 Aug 2026 04:00:11 +0000</pubDate>
-      <category>fraud</category>
-      <description>A banker at a credit union sat down at a table with a dozen printed text messages, all of them written for that banker personally, and put them in order from the one most likely to get a click down to the one least likely. One of them stopped the sorting. It looked like something the bank sends out: “alert literally looks like the alert we get [at work]… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Authsignal introduces biometric verification for digital wallet credentials</title>
-      <link>https://www.biometricupdate.com/202608/authsignal-introduces-biometric-verification-for-digital-wallet-credentials</link>
-      <guid isPermaLink="false">identitybrief-56a783441285d1bf</guid>
-      <pubDate>Thu, 06 Aug 2026 16:21:17 +0000</pubDate>
-      <category>did</category>
-      <description>Businesses have a new way to accept and verify digital identity credentials presented from digital wallets with the launch of Authsignal ’s Digital Credential Verification software. The capability supports biometric holder verification of mobile driver’s licenses and other credentials using the mdoc format and stored in Apple Wallet, Google Wallet and other…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Sierra Leone consults private sector on trusted digital ID framework</title>
-      <link>https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework</link>
-      <guid isPermaLink="false">identitybrief-8b0ce4e049ab874f</guid>
-      <pubDate>Thu, 06 Aug 2026 16:37:01 +0000</pubDate>
-      <category>did</category>
-      <description>Sierra Leone is consulting the private sector and other stakeholders as it develops the governance framework for a trusted digital identity ecosystem built on open-source technology and verifiable credentials. The consultations follow a Memorandum of Understanding (MoU) signed last month with Bhutan and the Sign Foundation to support the country’s digital…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Merged Precise Biometrics, FPC can cover more ground in tackling fraud crisis</title>
-      <link>https://www.biometricupdate.com/202608/merged-precise-biometrics-fpc-can-cover-more-ground-in-tackling-fraud-crisis</link>
-      <guid isPermaLink="false">identitybrief-de9e73dafd492a7b</guid>
-      <pubDate>Thu, 06 Aug 2026 19:21:34 +0000</pubDate>
-      <category>fraud</category>
-      <description>As it integrates Fingerprint Cards’ team and technologies, Lund-based Precise Biometrics invited investors to an open presentation to hear Precise CEO Joakim Nydemark “discuss the strategic rationale behind the merger” of the two Swedish firms, and to address how proceeds from its rights issue will support it, according to a release. The merger with… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Meet Authentik on Stand 623: Open-source IAM for total data control</title>
-      <link>https://identityweek.net/meet-authentik-on-stand-623-open-source-iam-for-total-data-control/</link>
-      <guid isPermaLink="false">identitybrief-e701725231b6ebc7</guid>
-      <pubDate>Thu, 06 Aug 2026 13:28:58 +0000</pubDate>
-      <category>auth</category>
-      <description>We have welcomed Authentik to the show floor Identity Week America 2026! The team behind the open-source identity provider is redefining authentication, authorisation, and user management for modern enterprises. Authentik shares their origin story, key innovations, and what attendees can expect to see from them on the expo floor. In 60 seconds, find out why…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Snowflake hacker pleads guilty, faces up to 32 years in prison</title>
-      <link>https://www.helpnetsecurity.com/2026/08/06/snowflake-canadian-hacker-pleaded-guilty/</link>
-      <guid isPermaLink="false">identitybrief-04ca60d4689d21fe</guid>
-      <pubDate>Thu, 06 Aug 2026 12:30:07 +0000</pubDate>
-      <category>fraud</category>
-      <description>A Canadian man is facing decades in prison for hacking customer accounts at cloud storage provider Snowflake and stealing data from more than 165 organizations. Connor Riley Moucka, also known as “Waifu” and “Judische,” 26, of Kitchener, Ontario, pleaded guilty in federal court in Washington state to computer fraud, wire fraud, aggravated identity theft,…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Financial firms face more AI-assisted fraud activity</title>
-      <link>https://identityweek.net/financial-firms-face-more-ai-assisted-fraud-activity/</link>
-      <guid isPermaLink="false">identitybrief-30045595043e8303</guid>
-      <pubDate>Thu, 06 Aug 2026 11:44:12 +0000</pubDate>
-      <category>fraud</category>
-      <description>Regula introduces the AI Identity Readiness Scorecard, a new analytical framework that evaluates how prepared different industries are for the growing role of AI in identity verification. The analysis shows that financial organisations face more AI-assisted identity activity than any other sector surveyed – yet are also adapting faster than the rest of the…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>ClickFix attack pushes macOS infostealer for crypto theft attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/</link>
-      <guid isPermaLink="false">identitybrief-131a138f6110326f</guid>
-      <pubDate>Thu, 06 Aug 2026 22:37:17 +0000</pubDate>
-      <category>breach</category>
-      <description>A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>How a global investment firm reduced security surprises</title>
-      <link>https://www.csoonline.com/article/4206204/how-a-global-investment-firm-reduced-security-surprises.html</link>
-      <guid isPermaLink="false">identitybrief-4868d4672f0a2b2c</guid>
-      <pubDate>Thu, 06 Aug 2026 13:45:02 +0000</pubDate>
-      <category>breach</category>
-      <description>Most security teams don’t suffer from a lack of data. They suffer from a lack of certainty. Vulnerability scanners, annual penetration tests, and compliance assessments can generate thousands of findings. Yet they often fail to answer a simple question: Which risks actually matter? For a global investment firm operating across 18 locations, that question…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways</title>
-      <link>http://arxiv.org/abs/2608.06322v1</link>
-      <guid isPermaLink="false">identitybrief-aa8b634d69fbcc7c</guid>
-      <pubDate>Thu, 06 Aug 2026 17:36:56 +0000</pubDate>
-      <category>research</category>
-      <description>Higher education remains largely reactive in its approach to student success. Institutions frequently identify academic problems only after students have failed courses, fallen behind in degree progression, accumulated excessive debt, or departed without a credential. Healthcare faced a similar challenge decades ago. It responded by shifting from reactive… It landed in the last few hours.
-
-— via arXiv</description>
     </item>
 </channel></rss>
