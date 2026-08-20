@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>When biometrics meet PKI: Nigeria’s next digital identity challenge</title>
+      <link>https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge</link>
+      <guid isPermaLink="false">identitybrief-1f10054836190db2</guid>
+      <pubDate>Wed, 19 Aug 2026 23:45:14 +0000</pubDate>
+      <category>did</category>
+      <description>Nigeria’s digital identity system is entering a new phase. More than 136 million people are registered for a National Identification Number (NIN), up from 123.9 million in October 2025, with a target of 180 million by the end of 2026. That means adding roughly 44 million registrations in a country of about 238 million people, spread across 36 states and the… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ClarityCheck’s exposed biometric databases present major identity theft, fraud risk</title>
+      <link>https://www.biometricupdate.com/202608/claritychecks-exposed-biometric-databases-present-major-identity-theft-fraud-risk</link>
+      <guid isPermaLink="false">identitybrief-e61900ffa8046e51</guid>
+      <pubDate>Wed, 19 Aug 2026 23:36:35 +0000</pubDate>
+      <category>fraud</category>
+      <description>Consider where your face might be found. Social media, probably. Maybe internet search. It doesn’t naturally occur to anyone that their face may be stored in a publicly exposed database with no security safeguards to speak of. Unencrypted and freely available, your face could be nicked from that database, paired with fake data and used for identity fraud.… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Armenia sets fees, rollout for new biometric ID under PPP model</title>
+      <link>https://www.biometricupdate.com/202608/armenia-sets-fees-rollout-for-new-biometric-id-under-ppp-model</link>
+      <guid isPermaLink="false">identitybrief-ff1ce04e01d43ba0</guid>
+      <pubDate>Wed, 19 Aug 2026 22:51:29 +0000</pubDate>
+      <category>did</category>
+      <description>Armenia has released the pricing for its new biometric national ID and passport documents as the country prepares to roll them out any time between September and November. Speaking during a recent press conference on August 14, the acting head of the Migration and Citizenship Service, Nelly Davtyan, said the ID card will cost 5,950 drams (about US$15),… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Healthtech firm CareCloud data breach impacts 3.7 million patients</title>
+      <link>https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/</link>
+      <guid isPermaLink="false">identitybrief-55f007c2b5697779</guid>
+      <pubDate>Wed, 19 Aug 2026 20:07:12 +0000</pubDate>
+      <category>breach</category>
+      <description>U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P</title>
+      <link>https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html</link>
+      <guid isPermaLink="false">identitybrief-5d27f7e0412ef417</guid>
+      <pubDate>Wed, 19 Aug 2026 11:34:28 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities</title>
+      <link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/</link>
+      <guid isPermaLink="false">identitybrief-fb6088e101334570</guid>
+      <pubDate>Wed, 19 Aug 2026 10:37:31 +0000</pubDate>
+      <category>breach</category>
+      <description>The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>OIDF responds to Australia’s digital trust consultation</title>
+      <link>https://openid.net/oidf-responds-to-australias-digital-trust-consultation/</link>
+      <guid isPermaLink="false">identitybrief-744351f0c4956755</guid>
+      <pubDate>Wed, 19 Aug 2026 12:45:11 +0000</pubDate>
+      <category>did</category>
+      <description>The OpenID Foundation, through its Australian Digital Trust Community Group (ADT CG), has responded to the Australian Government’s Department of Finance consultation on verifiable credentials policy. The Australian Government’s work on verifiable credentials (VCs) is a significant development in the ongoing evolution of the Australian Government Digital ID…
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Why Identity Governance Is Expanding Beyond Identity</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUxoWTJaTVY4YnlFeWJsZWE5SXprX3BUS1lmeTJVTWFWZDFYNHNmbzZZWlBlTG9lM3NtRm5vN01ENWVYRmJYVUNrZU5kdkduLTM5NnZKM3l5V1Y0Rm9uYzgwcTZMYjIwNVVVdGQ0UmZyVDRIMmlRcVU0NUhLNGtYSUwweUs4UVdpTnJqNmhONWtEMkd0cjRidg?oc=5</link>
+      <guid isPermaLink="false">identitybrief-82dce37f09d4423a</guid>
+      <pubDate>Wed, 19 Aug 2026 12:36:26 +0000</pubDate>
+      <category>iam</category>
+      <description>Why Identity Governance Is Expanding Beyond Identity KuppingerCole Analysts
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns</title>
+      <link>https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</link>
+      <guid isPermaLink="false">identitybrief-a28e288702c1cb7f</guid>
+      <pubDate>Wed, 19 Aug 2026 20:32:09 +0000</pubDate>
+      <category>iam</category>
+      <description>The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>SiNMULI: Novel Signed Network Approach for Malicious URL Identification</title>
+      <link>http://arxiv.org/abs/2608.19190v1</link>
+      <guid isPermaLink="false">identitybrief-9fe22074c61ee524</guid>
+      <pubDate>Wed, 19 Aug 2026 17:57:05 +0000</pubDate>
+      <category>research</category>
+      <description>In today's era of rapid advancements in artificial intelligence, computer security and online safeguarding measures have undergone significant improvements. However, malicious websites continue to facilitate the spread of phishing schemes, fraudulent activities and unsolicited communications. Conventional methodologies in machine learning, deep learning and… It landed in the last few hours.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Finality Before Disclosure for Ledger Authenticators in the Quantum Random Oracle Model</title>
+      <link>http://arxiv.org/abs/2608.18605v1</link>
+      <guid isPermaLink="false">identitybrief-fc717bd02bfb2d6b</guid>
+      <pubDate>Wed, 19 Aug 2026 06:49:05 +0000</pubDate>
+      <category>research</category>
+      <description>Public ledgers increasingly authorize state transitions using prior transactions, finalized state, timing, and ordering rather than only a public key, message, and portable signature. We introduce ledger authenticators and $\LAEUF$, an unforgeability experiment for reactive authorization protocols whose public judgment algorithm reads a finalized…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SilkParasite Threatens Central Asian Orgs With Flurry of RATs</title>
+      <link>https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats</link>
+      <guid isPermaLink="false">identitybrief-6635b2a9e135e0cb</guid>
+      <pubDate>Wed, 19 Aug 2026 16:58:23 +0000</pubDate>
+      <category>breach</category>
+      <description>A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Who Can Make the Action Happen? An Authority-Decomposition Framework for High-Risk Automated Systems</title>
+      <link>http://arxiv.org/abs/2608.18965v1</link>
+      <guid isPermaLink="false">identitybrief-4e3d44ff84bb61e5</guid>
+      <pubDate>Wed, 19 Aug 2026 14:30:58 +0000</pubDate>
+      <category>research</category>
+      <description>High-risk automated systems distribute control across services, credentials, protected components, and lifecycle mechanisms. Labels such as authorized, approved, privileged, or protected therefore do not answer a basic causal question: which actors can actually make a consequential action occur? This paper provides an action-relative method for deriving…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Beyond overload: Yubico’s measured approach to AI adoption</title>
+      <link>https://www.yubico.com/blog/beyond-overload-yubicos-measured-approach-to-ai-adoption/</link>
+      <guid isPermaLink="false">identitybrief-2cf8247088c66fd4</guid>
+      <pubDate>Wed, 19 Aug 2026 16:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Earlier this year, I shared my perspective on “AI Overload,” voicing the apprehension felt by many CISOs regarding the flood of non-useful content, increased social engineering, and the massive spike in the threat landscape without a commensurate amount of immediate value. The tension between supporting business demand for AI and protecting the business… It landed in the last few hours.
+
+— via Yubico</description>
+    </item>
+    <item>
       <title>Alcatraz founder’s AI vehicle inspection startup raises $10M</title>
       <link>https://www.biometricupdate.com/202608/alcatraz-founders-ai-vehicle-inspection-startup-raises-10m</link>
       <guid isPermaLink="false">identitybrief-29a929ef9e2a905e</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Fri, 07 Aug 2026 05:30:57 +0000</pubDate>
       <category>breach</category>
       <description>In this Help Net Security interview, Edwin Weijdema, Field CTO at Veeam, answers questions on Article 50 of the EU AI Act and what the first year of enforcement might bring. He explains why corrective orders will likely outnumber large fines, when an AI agent working through a ticket queue counts as interacting with a person, and how security teams should…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>CTEM isn’t failing. It’s not being operationalized</title>
-      <link>https://www.csoonline.com/article/4206109/ctem-isnt-failing-its-not-being-operationalized.html</link>
-      <guid isPermaLink="false">identitybrief-dda1a2f4c2ec6509</guid>
-      <pubDate>Thu, 06 Aug 2026 12:23:17 +0000</pubDate>
-      <category>iam</category>
-      <description>Cybersecurity is full of frameworks, regulations, and directives that tell organizations what they should do. Zero Trust, NIST, CIS Controls, CMMC, DORA, NIS2, and now Continuous Threat Exposure Management (CTEM) all provide valuable guidance and describe desired outcomes. The challenge is that most stop at the “what.” They rarely explain the “how.” That is…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Attackers hid malware inside Oracle Database after SQL injection breach</title>
-      <link>https://www.csoonline.com/article/4206096/attackers-hid-malware-inside-oracle-database-after-sql-injection-breach.html</link>
-      <guid isPermaLink="false">identitybrief-376fe5e6155e6abf</guid>
-      <pubDate>Thu, 06 Aug 2026 12:04:12 +0000</pubDate>
-      <category>breach</category>
-      <description>Huntress has documented a case where the Oracle database itself became the malware host. The security firm disclosed a campaign in which threat actors exploited a SQL injection vulnerability to store a custom post-exploitation toolkit, dubbed Khunt, inside an Oracle database using the platform’s built-in Java capabilities. Huntress became aware of the…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory</title>
-      <link>https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html</link>
-      <guid isPermaLink="false">identitybrief-df4b3ff5163068a2</guid>
-      <pubDate>Thu, 06 Aug 2026 11:30:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links. We observed production websites embedding hidden prompt injection payloads inside "Ask AI" buttons on marketing and…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Redefining the Onboarding Experience with True Reusable Identity</title>
-      <link>https://www.jumio.com/redefining-onboarding-true-reusable-identity/</link>
-      <guid isPermaLink="false">identitybrief-af957df2d3dcf374</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:46 +0000</pubDate>
-      <category>did</category>
-      <description>Every enterprise that verifies identities online runs into the same wall: it treats every user as a stranger, every time. A returning customer who verified their identity last month is asked to do it again this month, and again next month, at every company they touch. The result is friction that compounds across an entire... The post Redefining the…
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>Biometrics consolidation reflects shift to continuous identity</title>
-      <link>https://www.biometricupdate.com/202608/biometrics-consolidation-reflects-shift-to-continuous-identity</link>
-      <guid isPermaLink="false">identitybrief-4ed3875ff67cdc7a</guid>
-      <pubDate>Sat, 08 Aug 2026 14:41:06 +0000</pubDate>
-      <category>fraud</category>
-      <description>AI-driven fraud is reshaping the biometrics industry. This week's acquisitions, product launches and market developments all point toward the same destination: continuous identity, layered assurance and trust infrastructure spanning the entire customer lifecycle. Digital sovereignty, however, could limit consolidation in some markets. Deepfake dynamism…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Australia’s national face matching system expands with NSW participation</title>
-      <link>https://www.biometricupdate.com/202608/australias-national-face-matching-system-expands-with-nsw-participation</link>
-      <guid isPermaLink="false">identitybrief-58ded436d7c5a152</guid>
-      <pubDate>Sat, 08 Aug 2026 14:19:24 +0000</pubDate>
-      <category>fraud</category>
-      <description>New South Wales (NSW) is joining Australia's national face matching network, allowing driver licence and photo card images to be shared through the National Driver Licence Facial Recognition Solution ( NDLFRS ) to combat identity fraud and organized crime. Per the release, “if a person’s driver licence, Medicare details or other identity information are…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication</title>
-      <link>https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</link>
-      <guid isPermaLink="false">identitybrief-bb61cbf6cb78eb68</guid>
-      <pubDate>Sat, 08 Aug 2026 06:58:31 +0000</pubDate>
-      <category>breach</category>
-      <description>Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Itsme says shared identity infrastructure can reduce cost, fraud and friction</title>
-      <link>https://www.biometricupdate.com/202608/itsme-says-shared-identity-infrastructure-can-reduce-cost-fraud-and-friction</link>
-      <guid isPermaLink="false">identitybrief-157ddd5764bb37df</guid>
-      <pubDate>Fri, 07 Aug 2026 13:04:04 +0000</pubDate>
-      <category>did</category>
-      <description>The local can be universal and vice versa. In recent conference presentations from Itsme, the Belgian digital identity platform shared learnings as it expands into the Netherlands in preparation for the EUDI Wallet era. Itsme has cautioned Dutch organizations that fragmented identity processes can drive costs up, increase fraud risk and frustrate customers.…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Microsoft, Apple Release Fresh Security Updates</title>
-      <link>https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/</link>
-      <guid isPermaLink="false">identitybrief-cd6621a46b263e5e</guid>
-      <pubDate>Fri, 07 Aug 2026 09:09:54 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass. The post Microsoft, Apple Release Fresh Security Updates appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Trojanized AI skills gain 1.7M installs in agent-targeted attack</title>
-      <link>https://www.csoonline.com/article/4206851/trojanized-ai-skills-gain-1-7m-installs-in-agent-targeted-attack.html</link>
-      <guid isPermaLink="false">identitybrief-9f903da6057a8376</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:11 +0000</pubDate>
-      <category>auth</category>
-      <description>Researchers have uncovered an extremely effective attack campaign that involved AI agent skills trojanized to deploy a credential stealer. The incident is part of a growing trend in which attackers are targeting the AI software supply chain by poisoning sharable instruction and configuration files for agentic tools. Discovered by researchers from security…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Levi Strauss &amp; Co. says hackers stole corporate data in cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/</link>
-      <guid isPermaLink="false">identitybrief-26be9f314b3ef90f</guid>
-      <pubDate>Fri, 07 Aug 2026 15:48:20 +0000</pubDate>
-      <category>iam</category>
-      <description>Levi Strauss &amp; Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street</title>
-      <link>https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/</link>
-      <guid isPermaLink="false">identitybrief-ea13d04562e80bc4</guid>
-      <pubDate>Fri, 07 Aug 2026 14:26:42 +0000</pubDate>
-      <category>breach</category>
-      <description>Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP</title>
-      <link>https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</link>
-      <guid isPermaLink="false">identitybrief-d4fa171fab39b8bd</guid>
-      <pubDate>Fri, 07 Aug 2026 12:56:23 +0000</pubDate>
-      <category>breach</category>
-      <description>WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>200 accounts compromised in Swiss government’s Microsoft SharePoint breach</title>
-      <link>https://www.helpnetsecurity.com/2026/08/07/swiss-government-microsoft-sharepoint-vulnerabilities/</link>
-      <guid isPermaLink="false">identitybrief-0ffaf4ac1257ed26</guid>
-      <pubDate>Fri, 07 Aug 2026 12:29:26 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers exploited vulnerabilities in Microsoft SharePoint servers belonging to Switzerland’s Federal Office of Information Technology, Systems and Telecommunication (BIT), compromising the login credentials of around 200 accounts. On July 28, BIT’s security specialists noticed unusual activity on the SharePoint servers. Once the intrusion was confirmed, BIT…
 
 — via Help Net Security</description>
     </item>
