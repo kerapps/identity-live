@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Nexiden sues Ping Identity alleging MFA patent violations</title>
+      <link>https://www.biometricupdate.com/202608/nexiden-sues-ping-identity-alleging-mfa-patent-violations</link>
+      <guid isPermaLink="false">identitybrief-8ba0bd385af5f293</guid>
+      <pubDate>Thu, 20 Aug 2026 19:37:59 +0000</pubDate>
+      <category>auth</category>
+      <description>A lawsuit filed against Ping Identity alleges the company infringed a pair of patents for mobile authentication with public key cryptography (PKC) belonging to Texas-based Nexiden . Nexiden provides expertise and intellectual property related to multi-factor authentication (MFA) and transaction authorization, according to its website. The company focussed… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>DHS develops biometric tools to improve traveler identity verification</title>
+      <link>https://www.biometricupdate.com/202608/dhs-develops-biometric-tools-to-improve-traveler-identity-verification</link>
+      <guid isPermaLink="false">identitybrief-39deac7ae91c3dc8</guid>
+      <pubDate>Thu, 20 Aug 2026 19:55:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>The U.S. Department of Homeland Security's Science and Technology Directorate (S&amp;T) has developed two biometric identity technologies designed to improve screening performance, reduce identity ambiguity and support faster traveler verification as biometric processing expands across airports and border checkpoints. Airport biometric checks for crossing… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Haiti secures OAS, Japan backing to expand biometric ID system</title>
+      <link>https://www.biometricupdate.com/202608/haiti-secures-oas-japan-backing-to-expand-biometric-id-system</link>
+      <guid isPermaLink="false">identitybrief-eb8f0cfaa6fcc51b</guid>
+      <pubDate>Thu, 20 Aug 2026 19:30:31 +0000</pubDate>
+      <category>did</category>
+      <description>Haiti has secured new international support to expand its biometric national ID system after the Organization of American States (OAS) and Japan signed a $3 million agreement to improve access to legal identity and strengthen election preparedness. The Organization of American States (OAS) and the government of Japan signed a cooperation agreement to expand… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>FaceTec issued new patent by the USPTO</title>
+      <link>https://identityweek.net/facetec-issued-new-patent-by-the-uspto/</link>
+      <guid isPermaLink="false">identitybrief-b6b24e5c803213bf</guid>
+      <pubDate>Thu, 20 Aug 2026 10:38:02 +0000</pubDate>
+      <category>fraud</category>
+      <description>As Title Sponsor and key exhibitor at Identity Week America 2026, FaceTec is set to highlight its industry-leading 3D Face Authentication and Certified Liveness Detection software. By linking its 3D FaceMap® technology, Photo ID Scans, and UR® Codes directly to the event’s core focus on remote biometric verification and fraud prevention, FaceTec will…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>How MSPs can catch phishing attacks email filters miss</title>
+      <link>https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/</link>
+      <guid isPermaLink="false">identitybrief-a2793b75c9dda166</guid>
+      <pubDate>Thu, 20 Aug 2026 14:01:11 +0000</pubDate>
+      <category>breach</category>
+      <description>AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers</title>
+      <link>https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html</link>
+      <guid isPermaLink="false">identitybrief-26e5a7b44c2edaf6</guid>
+      <pubDate>Thu, 20 Aug 2026 13:35:13 +0000</pubDate>
+      <category>breach</category>
+      <description>Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities</title>
+      <link>https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/</link>
+      <guid isPermaLink="false">identitybrief-4cfa0b2fba8651b0</guid>
+      <pubDate>Thu, 20 Aug 2026 11:46:04 +0000</pubDate>
+      <category>auth</category>
+      <description>The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>AWS limits AI agents’ data access, even when manipulated</title>
+      <link>https://www.helpnetsecurity.com/2026/08/20/aws-ai-agents-access-controls/</link>
+      <guid isPermaLink="false">identitybrief-988c0d8547dac6a8</guid>
+      <pubDate>Thu, 20 Aug 2026 11:17:21 +0000</pubDate>
+      <category>iam</category>
+      <description>AWS has detailed an approach for propagating user authorization context through AI agents, allowing access controls to be enforced by infrastructure and downstream services rather than relying on the agent itself. Customers using Amazon Bedrock AgentCore can build AI agents that pull information from Amazon DynamoDB tables, document repositories, SaaS…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Russian snoops add OAuth abuse to targeted phishing campaigns</title>
+      <link>https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706</link>
+      <guid isPermaLink="false">identitybrief-4619c27cd4948319</guid>
+      <pubDate>Fri, 21 Aug 2026 00:19:25 +0000</pubDate>
+      <category>breach</category>
+      <description>Don't click on that State Department meeting invite It landed in the last few hours.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Citrix issues critical security updates for its NetScaler devices</title>
+      <link>https://www.csoonline.com/article/4212082/citrix-issues-critical-security-updates-for-its-netscaler-devices.html</link>
+      <guid isPermaLink="false">identitybrief-4f44bcea8d0a7c7a</guid>
+      <pubDate>Thu, 20 Aug 2026 18:54:09 +0000</pubDate>
+      <category>breach</category>
+      <description>Citrix is urging its NetScaler ADC and NetScaler Gateway customers to quickly patch two critical security holes, one involving a memory overflow vulnerability leading to unpredictable behavior or denial of service, and the other allowing authentication bypass. Citrix said in an advisory that supported versions of customer-managed NetScaler ADC and NetScaler… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication</title>
+      <link>http://arxiv.org/abs/2608.20240v1</link>
+      <guid isPermaLink="false">identitybrief-6b9ec28cdec8e0e1</guid>
+      <pubDate>Thu, 20 Aug 2026 16:31:01 +0000</pubDate>
+      <category>research</category>
+      <description>X-band SAR satellites (8-12 GHz) play a critical role in disaster response, environmental monitoring, and military intelligence. Yet, they lack robust physical-layer authentication (PLA), a security layer orthogonal to cryptographic solutions. Existing PLA systems, typically based on radio-frequency fingerprinting, are often limited to sub-6 GHz frequencies… It landed in the last few hours.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ShadowPath: Lookup-Private Credential Status Verification over Authenticated State</title>
+      <link>http://arxiv.org/abs/2608.19937v1</link>
+      <guid isPermaLink="false">identitybrief-322dad0f14983728</guid>
+      <pubDate>Thu, 20 Aug 2026 11:54:47 +0000</pubDate>
+      <category>research</category>
+      <description>Verifiable credentials let holders present digitally signed claims without requiring the issuer to participate in every presentation. Revocation complicates this privacy model because a verifier must determine whether a credential remains valid. Existing status checks may expose recurring identifiers, registry positions, or request metadata. Such…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>N-able Bug Exposes Password Vault Master Keys</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys</link>
+      <guid isPermaLink="false">identitybrief-0c5c53aa0603a1be</guid>
+      <pubDate>Thu, 20 Aug 2026 17:39:24 +0000</pubDate>
+      <category>auth</category>
+      <description>The popular "Passportal" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely? It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Beyond the AI Agent Hype: The New Identity Security Perimeter</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGhTa0RUN25aYlVwek8wSjBCVFoxWVlGbDRYUlEweEd3eVZOdmhlMDFNWlQxbVlhQlM1TW5HaDY2dHFWV1J6ejFid3JHRFpfWGd4UGdKOENLbTctUGlHeVhLb2tTcHZTWklNVnJBVjJjZWlkOG1IYUxIb1hjYkVzTkVDUDNJRS1kSjY2cUhrWjVxSVUtR2xRYTJYZjg3TGZfSGNCeXAxdw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-9a9206303a45984a</guid>
+      <pubDate>Thu, 20 Aug 2026 22:24:20 +0000</pubDate>
+      <category>iam</category>
+      <description>Beyond the AI Agent Hype: The New Identity Security Perimeter Ping Identity It landed in the last few hours.
+
+— via Ping Identity</description>
+    </item>
+    <item>
       <title>When biometrics meet PKI: Nigeria’s next digital identity challenge</title>
       <link>https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge</link>
       <guid isPermaLink="false">identitybrief-1f10054836190db2</guid>
@@ -1362,145 +1502,5 @@
       <description>It landed in the last few hours. It's pulling 937pts/day — real momentum for something this new, not a one-day spike.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>FIDO Webinar | Enterprise Passkeys: What Works, What Doesn’t, and How to Roll Them Out</title>
-      <link>https://fidoalliance.org/fido-webinar-enterprise-passkeys-what-works-what-doesnt-and-how-to-roll-them-out/</link>
-      <guid isPermaLink="false">identitybrief-631ac075965fa911</guid>
-      <pubDate>Mon, 10 Aug 2026 15:44:21 +0000</pubDate>
-      <category>auth</category>
-      <description>Rolling out passkeys in a large enterprise is not just about enabling a new authentication method. Success depends on careful planning around enrollment, recovery, legacy applications, audit requirements, rollout strategy, […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Key Binding</title>
-      <link>https://openid.net/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-key-binding/</link>
-      <guid isPermaLink="false">identitybrief-658c9dbf56c17e33</guid>
-      <pubDate>Mon, 10 Aug 2026 16:01:37 +0000</pubDate>
-      <category>auth</category>
-      <description>Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Key Binding The voting period will be between Monday, August 24, 2026 and Monday, September 7, 2026, following the 45 day review of the specification. The OpenID Connect Working Group page is https://openid.net/wg/connect/. If you’re not already a member, or if your membership has expired,…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>North Korean spies are running local LLMs to cause AI mischief</title>
-      <link>https://www.theregister.com/security/2026/08/10/north-korean-spies-are-running-local-llms-to-cause-ai-mischief/5285632</link>
-      <guid isPermaLink="false">identitybrief-2fd04abdfba77bc8</guid>
-      <pubDate>Mon, 10 Aug 2026 17:23:12 +0000</pubDate>
-      <category>breach</category>
-      <description>Kimsuky's phishing attacks get an AI boost It landed in the last few hours.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>The Endpoint Blind Spot: Your AI Agents Have Left the Browser Already</title>
-      <link>https://jumpcloud.com/blog/the-endpoint-blind-spot-your-ai-agents-have-left-the-browser-already</link>
-      <guid isPermaLink="false">identitybrief-e304115bf1cc533b</guid>
-      <pubDate>Mon, 10 Aug 2026 18:54:51 +0000</pubDate>
-      <category>iam</category>
-      <description>Secure your AI agents. Discover why local agents create an endpoint blind spot and how JumpCloud Workflows bridges the gap between devices, identity, and access. The post The Endpoint Blind Spot: Your AI Agents Have Left the Browser Already appeared first on JumpCloud . It landed in the last few hours.
-
-— via JumpCloud</description>
-    </item>
-    <item>
-      <title>SoK: Cryptographic Key Recovery for Cryptoasset Custody and Financial Technologies</title>
-      <link>http://arxiv.org/abs/2608.07104v1</link>
-      <guid isPermaLink="false">identitybrief-e43799f99cd13018</guid>
-      <pubDate>Fri, 07 Aug 2026 11:00:33 +0000</pubDate>
-      <category>research</category>
-      <description>Cryptoasset systems often bind cryptographic key control to financial control: losing a wallet seed, custody share, hardware device, or smart-account credential can remove spend authority, while compromised recovery can enable theft. Existing work treats recovery through separate vocabularies--key backup, secret sharing, account recovery, credential… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>On a General Theoretical Framework for Radio Frequency Fingerprint-Based Authentication</title>
-      <link>http://arxiv.org/abs/2608.06805v1</link>
-      <guid isPermaLink="false">identitybrief-073fad5491e11781</guid>
-      <pubDate>Fri, 07 Aug 2026 04:59:33 +0000</pubDate>
-      <category>research</category>
-      <description>While radio frequency fingerprint (RFF)-based wireless device authentication has been widely studied across different datasets and scenarios, there still lacks a fundamental theory to explain why and how RFF can serve as a reliable device identity, significantly hindering the practical application of such an authentication technology. In this article, we…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Casting the Net! Revisiting MasterFace Impersonation Attacks</title>
-      <link>http://arxiv.org/abs/2608.06952v1</link>
-      <guid isPermaLink="false">identitybrief-3c77d08855fe4103</guid>
-      <pubDate>Fri, 07 Aug 2026 08:28:03 +0000</pubDate>
-      <category>research</category>
-      <description>Impersonation is a fundamental security threat in face recognition systems (FRSs). While the security of FRSs has been challenged by various attack vectors, under realistic adversarial capabilities, e.g., a limited number of decision-only authentication trials and no internal system knowledge, most attack techniques become infeasible. As a result,…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Smarter stadium ingress reshapes venue security and fan experience</title>
-      <link>https://www.biometricupdate.com/202608/smarter-stadium-ingress-reshapes-venue-security-and-fan-experience</link>
-      <guid isPermaLink="false">identitybrief-45bd81a5a60ee26a</guid>
-      <pubDate>Fri, 07 Aug 2026 13:31:12 +0000</pubDate>
-      <category>auth</category>
-      <description>Stadiums are tightening security as new UK rules take effect, with Liverpool FC shifting to full‑search entry and reworking ingress to balance safety with fan experience. Technology vendors are pushing mobile, biometric access tools such as Janam’s GTX+ to speed up screening, while Australian venues are expanding facial authentication ticketing through…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>EES faces more operational constraints at checkpoints</title>
-      <link>https://www.biometricupdate.com/202608/ees-faces-more-operational-constraints-at-checkpoints</link>
-      <guid isPermaLink="false">identitybrief-d287fdcae17b722d</guid>
-      <pubDate>Fri, 07 Aug 2026 12:37:38 +0000</pubDate>
-      <category>auth</category>
-      <description>The biometric Entry/Exit System (EES) which is live at several airports across the Schengen zone is said to be facing more operational challenges at border points as queues grow. Sometimes, authorities are forced to switch off the system when it is overwhelmed by users, which means passengers cannot have face and fingerprint biometrics collected, according…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People</title>
-      <link>https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html</link>
-      <guid isPermaLink="false">identitybrief-76f47175588a77d4</guid>
-      <pubDate>Thu, 06 Aug 2026 06:04:30 +0000</pubDate>
-      <category>fraud</category>
-      <description>Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario,…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>From behavior to payment: Visa builds trust across the customer lifecycle</title>
-      <link>https://www.biometricupdate.com/202608/from-behavior-to-payment-visa-builds-trust-across-the-customer-lifecycle</link>
-      <guid isPermaLink="false">identitybrief-7a275055a6c2fb8f</guid>
-      <pubDate>Fri, 07 Aug 2026 20:30:14 +0000</pubDate>
-      <category>iam</category>
-      <description>Visa’s agreement to acquire BioCatch for $2.4 billion raises an important strategic question: Why would a global payments network invest so heavily in behavioral and device intelligence? The answer lies in what happens before a payment reaches Visa’s network. Visa already has extensive visibility into transactions. BioCatch provides intelligence about the…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Seamless travel – pilots, passenger pathways, and progress</title>
-      <link>https://identityweek.net/seamless-travel-pilots-passenger-pathways-and-progress/</link>
-      <guid isPermaLink="false">identitybrief-3a80ab8ab0b7ea54</guid>
-      <pubDate>Wed, 05 Aug 2026 14:36:14 +0000</pubDate>
-      <category>auth</category>
-      <description>Federal officials and top industry leaders will discuss biometric identity, touchless processing, and cross-border cooperation in Washington D.C. against the backdrop of one of the biggest multi-national sporting events in modern history. Panellists will review the challenges and success stories from seamless travel initiatives at the 2026 World Cup,…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk</title>
-      <link>https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html</link>
-      <guid isPermaLink="false">identitybrief-c9687e1f0e89e739</guid>
-      <pubDate>Wed, 05 Aug 2026 11:43:19 +0000</pubDate>
-      <category>fraud</category>
-      <description>Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>What the first year of EU AI Act transparency enforcement could look like</title>
-      <link>https://www.helpnetsecurity.com/2026/08/07/edwin-weijdema-veeam-eu-ai-act-transparency/</link>
-      <guid isPermaLink="false">identitybrief-5b9c17927c02185f</guid>
-      <pubDate>Fri, 07 Aug 2026 05:30:57 +0000</pubDate>
-      <category>breach</category>
-      <description>In this Help Net Security interview, Edwin Weijdema, Field CTO at Veeam, answers questions on Article 50 of the EU AI Act and what the first year of enforcement might bring. He explains why corrective orders will likely outnumber large fines, when an AI agent working through a ticket queue counts as interacting with a person, and how security teams should…
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
