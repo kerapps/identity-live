@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>The expanding role of face biometrics, for better and for worse</title>
+      <link>https://www.biometricupdate.com/202608/the-expanding-role-of-face-biometrics-for-better-and-for-worse</link>
+      <guid isPermaLink="false">identitybrief-0f2b03015ca1f1cd</guid>
+      <pubDate>Sat, 22 Aug 2026 15:54:34 +0000</pubDate>
+      <category>auth</category>
+      <description>Face biometrics software can add investigative capabilities, secure access points and enable whole new applications wherever there is a camera and compute. As integration becomes easier, face biometrics is moving from a standalone technology into the infrastructure of retail, identity, immigration, wearables and everyday devices. Several of this week's top… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Named Pipes Under Attack: Securing Windows Interprocess Communication</title>
+      <link>https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/</link>
+      <guid isPermaLink="false">identitybrief-50baa94d6d917a63</guid>
+      <pubDate>Sat, 22 Aug 2026 13:00:09 +0000</pubDate>
+      <category>iam</category>
+      <description>Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Microsoft patches max severity code execution, privilege escalation flaws</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/</link>
+      <guid isPermaLink="false">identitybrief-0737ab0ad0a460e8</guid>
+      <pubDate>Fri, 21 Aug 2026 11:04:10 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>OpenID Foundation says interoperability should drive Australia’s verifiable credentials strategy</title>
+      <link>https://www.biometricupdate.com/202608/openid-foundation-says-interoperability-should-drive-australias-verifiable-credentials-strategy</link>
+      <guid isPermaLink="false">identitybrief-ed79c0ebeb5f1f53</guid>
+      <pubDate>Fri, 21 Aug 2026 11:01:00 +0000</pubDate>
+      <category>did</category>
+      <description>Interoperability is a key issue identified by the OpenID Foundation in its response to the Australian Government’s Department of Finance consultation on verifiable credentials policy. In a published statement , the OpenID Foundation’s Australian Digital Trust Community Group (ADT CG) “encourages the Department to continue to focus on interoperability as…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>GCC digital ID boom masks fragmented verification landscape</title>
+      <link>https://www.biometricupdate.com/202608/gcc-digital-id-boom-masks-fragmented-verification-landscape</link>
+      <guid isPermaLink="false">identitybrief-2a9838084c460cc4</guid>
+      <pubDate>Fri, 21 Aug 2026 14:06:17 +0000</pubDate>
+      <category>did</category>
+      <description>The Gulf Cooperation Council is often viewed as a single digital identity market, but verification providers expanding across the region face six distinct regulatory and technical environments, according to a new guide from Shufti. Each of the six GCC countries now operates its own national digital identity system, but a verification flow designed for one…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)</title>
+      <link>https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/</link>
+      <guid isPermaLink="false">identitybrief-72c1d0a6cedd82dc</guid>
+      <pubDate>Fri, 21 Aug 2026 07:55:43 +0000</pubDate>
+      <category>breach</category>
+      <description>Citrix has patched two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical authentication bypass flaw tracked as CVE-2026-19490, and is urging customers to upgrade affected appliances as soon as possible. “We strongly recommend that customers review the official NetScaler ADC and NetScaler Gateway security bulletin, assess whether…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts</title>
+      <link>https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</link>
+      <guid isPermaLink="false">identitybrief-3c650cb216c56d62</guid>
+      <pubDate>Thu, 20 Aug 2026 19:59:19 +0000</pubDate>
+      <category>auth</category>
+      <description>Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. "These…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>North Carolina to offer mobile driver licences</title>
+      <link>https://identityweek.net/north-carolina-to-offer-mobile-driver-licences/</link>
+      <guid isPermaLink="false">identitybrief-6259ead41aa38b86</guid>
+      <pubDate>Fri, 21 Aug 2026 11:02:29 +0000</pubDate>
+      <category>did</category>
+      <description>North Carolina residents will soon have access to the NCDMV Mobile ID Program, securing a digital version of their state driver’s license or state ID directly on their smartphones. Authorised under state law, the mobile driver’s license serves as a fully valid legal equivalent to a physical card, offering a convenient and optional way for […]
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>SickKids data breach exposes employee and job applicant info</title>
+      <link>https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/</link>
+      <guid isPermaLink="false">identitybrief-013f7480d9c9ba02</guid>
+      <pubDate>Fri, 21 Aug 2026 10:10:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>AI threats are everywhere. A risk-first CISO decides what to prioritize</title>
+      <link>https://www.csoonline.com/article/4212017/ai-threats-are-everywhere-a-risk-first-ciso-decides-what-to-prioritize.html</link>
+      <guid isPermaLink="false">identitybrief-0c34fb8fbcf0f267</guid>
+      <pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>The good news? AI gives cyber defenders some of the best discovery tooling they’ve ever had. The bad news? It gives attackers the same capability. This duality has left CISOs managing AI on two simultaneous fronts. Outside the organization, attackers are using AI to make phishing more convincing, automate reconnaissance and compress the time between…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Microsoft Patches Exploited Entra ID Vulnerability</title>
+      <link>https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/</link>
+      <guid isPermaLink="false">identitybrief-6513626ab82b4bc2</guid>
+      <pubDate>Fri, 21 Aug 2026 08:12:19 +0000</pubDate>
+      <category>breach</category>
+      <description>A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>IriSig-Spoof: A Real-World Benchmark for Time-Robust Satellite RF Fingerprinting and Spoofing Detection</title>
+      <link>http://arxiv.org/abs/2608.18642v1</link>
+      <guid isPermaLink="false">identitybrief-17b1253ca85fce65</guid>
+      <pubDate>Wed, 19 Aug 2026 07:43:32 +0000</pubDate>
+      <category>research</category>
+      <description>Low Earth orbit (LEO) satellite Internet is becoming critical communications infrastructure, yet its open wireless links remain vulnerable to satellite impersonation and signal spoofing. Radio frequency fingerprinting (RFF) offers a potential defense by exploiting transmitter-specific hardware imperfections manifested in received signals. However, the…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>VQC-ZTI: Variational Quantum Control for Zero Trust Protection of the Tactile Internet</title>
+      <link>http://arxiv.org/abs/2608.18572v1</link>
+      <guid isPermaLink="false">identitybrief-9dd5d084970f9fe6</guid>
+      <pubDate>Wed, 19 Aug 2026 06:08:41 +0000</pubDate>
+      <category>research</category>
+      <description>Tactile Internet services couple cyber events directly to physical actuation, so security decisions must improve risk discrimination without perturbing the control path. This paper presents VQC-ZTI, a split-plane Variational Quantum Classifier framework for zero-trust protection of Tactile Internet services, in which an off-path VQC analyzes encrypted-flow…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Agentic AI and Identity: What Happens When Identity Can Act on Your Behalf?</title>
+      <link>https://www.jumio.com/agentic-ai-identity-autonomous-fraud-prevention/</link>
+      <guid isPermaLink="false">identitybrief-bbd69074c36c8f01</guid>
+      <pubDate>Fri, 21 Aug 2026 13:00:36 +0000</pubDate>
+      <category>fraud</category>
+      <description>Autonomous AI agents don’t wait for instructions. They open accounts, initiate high-value transactions, modify access privileges, execute smart contracts, and interact with other AI agents — all without ongoing human confirmation. The implications for fraud are significant and already materializing. The FTC reported losses of $5.7 billion to fraud in 2024,…
+
+— via Jumio</description>
+    </item>
+    <item>
       <title>Serpro’s 376M biometric database underpins Brazil’s sovereign identity strategy</title>
       <link>https://www.biometricupdate.com/202608/serpros-376m-biometric-database-underpins-brazils-sovereign-identity-strategy</link>
       <guid isPermaLink="false">identitybrief-2b41dde51d18013f</guid>
@@ -1362,145 +1502,5 @@
       <description>Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.
 
 — via The Record</description>
-    </item>
-    <item>
-      <title>Fake CCleaner downloads turn Chrome into a credential-stealing surveillance tool</title>
-      <link>https://www.csoonline.com/article/4208565/fake-ccleaner-downloads-turn-chrome-into-a-credential-stealing-surveillance-tool.html</link>
-      <guid isPermaLink="false">identitybrief-32110c7761a18381</guid>
-      <pubDate>Wed, 12 Aug 2026 11:26:50 +0000</pubDate>
-      <category>auth</category>
-      <description>A convincing fake version of the widely used CCleaner utility is being used to deliver a multi-stage Windows malware that ultimately abuses Google Chrome for credential theft and surveillance. Researchers from Malwarebytes found the campaign distributing a malicious Chrome extension called GhostDesk, which can capture credentials, cookies, keystrokes, and…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Brit rail cops bring live facial recognition to the London Underground</title>
-      <link>https://www.theregister.com/security/2026/08/12/brit-rail-cops-bring-live-facial-recognition-to-the-london-underground/5286697</link>
-      <guid isPermaLink="false">identitybrief-9151fa438c04da2d</guid>
-      <pubDate>Wed, 12 Aug 2026 11:19:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Victoria is the first stop as privacy campaigners warn the technology is becoming routine
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Battlefield 5G: Dual-PKI and TPM-Based UE Attestation for Tactical 5G Standalone Networks</title>
-      <link>http://arxiv.org/abs/2608.11293v1</link>
-      <guid isPermaLink="false">identitybrief-36644a477d4501dc</guid>
-      <pubDate>Tue, 11 Aug 2026 17:22:47 +0000</pubDate>
-      <category>research</category>
-      <description>The standardized 5G Authentication and Key Agreement (5G-AKA) authenticates a subscriber credential stored on a Universal Subscriber Identity Model (USIM) but does not authenticate the physical device that holds that credential or verify its boot state. This gap is significant in tactical 5G deployments, where user equipment may be captured, modified,…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Defend against session token theft with Okta and Google Chrome Enterprise</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkJ2bXdzeHdRMmxtNXdrQjVITDN6dDhuamRkS1BTdy1Cc3JubGp5bldXRW91Z0diTENpUWl4RDVQb2FUTWNhYkVUVHYtSVBhOUVwR2p0blRkQWFvNEZLajdtaTNpbHFyaS02U0JXSWdVemJ3UGZJYVlSeUt5ZDVDWg?oc=5</link>
-      <guid isPermaLink="false">identitybrief-f2ce6ec05d8bf476</guid>
-      <pubDate>Wed, 12 Aug 2026 18:00:15 +0000</pubDate>
-      <category>iam</category>
-      <description>Defend against session token theft with Okta and Google Chrome Enterprise Okta It landed in the last few hours.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Signicat certified for IDV, digital identity orchestration in UK by Kantara</title>
-      <link>https://www.biometricupdate.com/202608/signicat-certified-for-idv-digital-identity-orchestration-in-uk-by-kantara</link>
-      <guid isPermaLink="false">identitybrief-0f2bb78f3a4d3619</guid>
-      <pubDate>Tue, 11 Aug 2026 18:46:27 +0000</pubDate>
-      <category>did</category>
-      <description>Signicat ’s technology for biometric identity verification and ID document validation with NFC scans, ReadID, has been certified for the UK’s digital ID system, along with the company’s orchestration capability. ReadID is now listed in the Digital Verification Services (DVS) register for the component and orchestration roles , following an audit by the… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Home Office provides answers on using digital ID to prove age for alcohol sales</title>
-      <link>https://www.biometricupdate.com/202608/home-office-provides-answers-on-using-digital-id-to-prove-age-for-alcohol-sales</link>
-      <guid isPermaLink="false">identitybrief-6718a505c9f370b9</guid>
-      <pubDate>Tue, 11 Aug 2026 20:23:54 +0000</pubDate>
-      <category>did</category>
-      <description>On the surface, the UK’s quest to allow adults to use digital ID to prove their age for alcohol sales is a fairly simple proposition: instead of handing the barkeep or shop clerk a plastic card that proves who you are, you can call up a credential on your phone that says your age has been verified, and that you’re OK to buy booze – without providing any… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Philippines pushes national ID as foundation for financial identity verification</title>
-      <link>https://www.biometricupdate.com/202608/philippines-pushes-national-id-as-foundation-for-financial-identity-verification</link>
-      <guid isPermaLink="false">identitybrief-c916a652b94986f2</guid>
-      <pubDate>Tue, 11 Aug 2026 15:54:37 +0000</pubDate>
-      <category>did</category>
-      <description>The Philippines is rapidly turning its national digital identity system into core financial infrastructure. As the central bank prepares rules that would make PhilSys authentication part of customer due diligence, technology providers are rolling out new passkey authentication, identity verification and banking integrations built around the country's…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>1 in every 100 identity check failures involves deepfake media</title>
-      <link>https://identityweek.net/1-in-every-100-identity-check-failures-involves-deepfake-media/</link>
-      <guid isPermaLink="false">identitybrief-a759e138f33d3006</guid>
-      <pubDate>Tue, 11 Aug 2026 13:27:01 +0000</pubDate>
-      <category>did</category>
-      <description>One in every 100 identity check failures involves a deepfake document, image or liveness video, according to LexisNexis Risk Solutions. Deepfakes are now one of the fastest-growing fraud vectors worldwide with millions predicted to appear in fraud attempts in 2026 and passports, driver’s licenses and national IDs are the most faked identity documents. The…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Availability Vs adoption of California’s mobile driver license</title>
-      <link>https://identityweek.net/availability-vs-adoption-of-californias-mobile-driver-license/</link>
-      <guid isPermaLink="false">identitybrief-b8117aaafdd1a1de</guid>
-      <pubDate>Tue, 11 Aug 2026 11:39:51 +0000</pubDate>
-      <category>did</category>
-      <description>California just raised the cap on its mobile driver’s license pilot from 15% to 60% of licensed drivers. That’s a real policy bet with Governor Gavin Newsom signing SB 169 to cut the red tape and put more mobile driving licenses in reach for millions of Californians statewide. Meanwhile, national mobile driving license activation is […]
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Metabase SQLi exploit grants attackers total access</title>
-      <link>https://www.csoonline.com/article/4208307/metabase-sqli-exploit-grants-attackers-total-access.html</link>
-      <guid isPermaLink="false">identitybrief-d0e89118c1872b3a</guid>
-      <pubDate>Wed, 12 Aug 2026 02:40:58 +0000</pubDate>
-      <category>breach</category>
-      <description>Business intelligence (BI) platform provider Metabase has disclosed a zero-day SQL Injection vulnerability, warning that customers’ sensitive credentials, tokens, API keys, and other data may have been exposed. The Metabase vulnerability revealed on August 6, designated CVE-2026-72898 , is identified as critical, with a severity score of 10, the highest… It landed in the last few hours.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>A Gateway Architecture for Enterprise MCP Authentication: Unifying Heterogeneous Auth, Identity Delegation, and the User / Non-User Persona Problem</title>
-      <link>http://arxiv.org/abs/2608.10760v1</link>
-      <guid isPermaLink="false">identitybrief-938ef582ad90e206</guid>
-      <pubDate>Tue, 11 Aug 2026 10:19:20 +0000</pubDate>
-      <category>research</category>
-      <description>The Model Context Protocol (MCP) has become the de-facto interface for connecting LLM agents to enterprise tools, and adoption has been explosive: within a year, large organizations went from zero to dozens of internally built MCP servers. That speed created a governance crisis. Each team implemented authentication independently -- some with no auth, some…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</title>
-      <link>https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html</link>
-      <guid isPermaLink="false">identitybrief-0a778419f468205e</guid>
-      <pubDate>Tue, 11 Aug 2026 18:36:47 +0000</pubDate>
-      <category>iam</category>
-      <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a… It landed in the last few hours.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Logit-Boundary Geometric Belief Interfaces and Sparse Sheaf-Enclave Protocols: A Self-Contained Substrate for Secure Network Electronic Health Record (EHR) Interoperability</title>
-      <link>http://arxiv.org/abs/2608.10300v1</link>
-      <guid isPermaLink="false">identitybrief-6671680b5d72c7e4</guid>
-      <pubDate>Mon, 10 Aug 2026 23:10:53 +0000</pubDate>
-      <category>research</category>
-      <description>Electronic health-record interoperability is a boundary problem: legacy systems, generative models, terminology services, identity systems, and human reviewers may each expose rich internal states, while operational exchange requires a narrow shared interface of typed claims, bounded uncertainty, provenance, and explicit admission or abstention. This paper… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AI agent governance is the identity problem hiding in plain sight</title>
-      <link>https://liminal.co/articles/ai-agent-governance-identiverse-demo-day/</link>
-      <guid isPermaLink="false">identitybrief-ae67e863d35cf057</guid>
-      <pubDate>Tue, 11 Aug 2026 08:53:00 +0000</pubDate>
-      <category>breach</category>
-      <description>The breach didn’t start with a zero-day, a phishing email, or a stolen password. It started with an agent doing exactly what it was built to do: finishing a task, using access nobody remembered to take back. No alarm went off, because nothing about it looked like an intrusion. It looked like the system was […] The post AI agent governance is the identity…
-
-— via Liminal</description>
     </item>
 </channel></rss>
