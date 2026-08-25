@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Kenya turns to IN Groupe for national digital identity trust infrastructure</title>
+      <link>https://www.biometricupdate.com/202608/kenya-turns-to-in-groupe-for-national-digital-identity-trust-infrastructure</link>
+      <guid isPermaLink="false">identitybrief-88bd20004e9ee1e2</guid>
+      <pubDate>Mon, 24 Aug 2026 21:30:26 +0000</pubDate>
+      <category>did</category>
+      <description>Kenya is exploring a national authentication platform with France's IN Groupe as part of plans to build trusted digital identity infrastructure that allows citizens to securely access public and private services. ICT and Digital Economy Cabinet Secretary William Kabogo met IN Groupe Vice President for Government Programs Céline Gouveia to discuss the… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>NIST taps Electrosoft to advance post-quantum digital identity</title>
+      <link>https://www.biometricupdate.com/202608/nist-taps-electrosoft-to-advance-post-quantum-digital-identity</link>
+      <guid isPermaLink="false">identitybrief-488ca011516acd26</guid>
+      <pubDate>Mon, 24 Aug 2026 20:54:10 +0000</pubDate>
+      <category>did</category>
+      <description>The National Institute of Standards and Technology (NIST) has awarded a recompete order to Electrosoft , to continue advancing the agency’s digital identity and access management program and prepare federal identity credentialing for post-quantum cryptography. A release says the Identity and Access Management Technical Resource Development award “extends a… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Fayda digital ID nears 50M enrollments as adoption reshapes Ethiopia’s economy</title>
+      <link>https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy</link>
+      <guid isPermaLink="false">identitybrief-ae2df6b243be12d9</guid>
+      <pubDate>Mon, 24 Aug 2026 18:12:36 +0000</pubDate>
+      <category>did</category>
+      <description>Launched in 2023, Ethiopia's national digital ID rollout has gained traction over the last three years as seen not only in the growing number of those registering for the ID, but the palpable impact it is making. The rollout is speeding up with 49.1 million enrollments already completed as of August 24, thanks to the deployment of 12,000 biometric… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Hackers target WordPress sites in miniOrange auth bypass attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/</link>
+      <guid isPermaLink="false">identitybrief-0e0360e7392e6fef</guid>
+      <pubDate>Mon, 24 Aug 2026 19:26:32 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account</title>
+      <link>https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html</link>
+      <guid isPermaLink="false">identitybrief-08f456205e68a95a</guid>
+      <pubDate>Mon, 24 Aug 2026 11:56:34 +0000</pubDate>
+      <category>breach</category>
+      <description>Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>DHS seeks partners to licence advanced biometric systems</title>
+      <link>https://identityweek.net/dhs-seeks-partners-to-licence-advanced-biometric-systems/</link>
+      <guid isPermaLink="false">identitybrief-14e1fd757b0ab262</guid>
+      <pubDate>Mon, 24 Aug 2026 11:42:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>The DHS is scouting for commercial partners to licence two biometric systems it has developed, the Biometric Data Collection and Verification System (BDCVS) and the Biometric Identity Disambiguation (BID) system, which should support mitigating identity verification conflicts. The systems are built to address data speed, matching accuracy, and to identify…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Acupixel announces production release of the IDSnap GC2500e</title>
+      <link>https://identityweek.net/acupixel-announces-production-release-of-the-idsnap-gc2500e/</link>
+      <guid isPermaLink="false">identitybrief-bbc194f35ea0c57f</guid>
+      <pubDate>Mon, 24 Aug 2026 10:17:49 +0000</pubDate>
+      <category>fraud</category>
+      <description>Acupixel has announced the official production release of the IDSnap GC2500e, a standalone duplex ID, passport and document authentication scanner designed to operate not only as a capture device, but as an intelligent identity verification endpoint. When Acupixel first introduced the GC2500e concept and prototype at Identity Week last year, the response…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>RAD: Rule-Augmented Relational Anomaly Detection</title>
+      <link>http://arxiv.org/abs/2608.23468v1</link>
+      <guid isPermaLink="false">identitybrief-45c86a77e2cf3e03</guid>
+      <pubDate>Mon, 24 Aug 2026 16:36:17 +0000</pubDate>
+      <category>research</category>
+      <description>Anomaly detection is often applied to data stored in relational databases, yet most existing methods require flattening multiple tables into a single feature matrix. This flattening can obscure entity identity, schema structure, and multi-hop dependencies, limiting the detection of anomalies that depend on relational context rather than isolated feature… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>A Threshold Homomorphic Blockchain Architecture for Secure and Scalable IoT Sensor Data Aggregation</title>
+      <link>http://arxiv.org/abs/2608.23396v1</link>
+      <guid isPermaLink="false">identitybrief-49e64e6b29b635cb</guid>
+      <pubDate>Mon, 24 Aug 2026 15:41:18 +0000</pubDate>
+      <category>research</category>
+      <description>Homomorphic-encryption blockchain frameworks for IoT sensor aggregation generally rely on classical cryptographic hardness assumptions and seldom account for network topology in liveness and performance analysis. This work introduces Phi-PHE-BC, a topology-aware homomorphic blockchain architecture for secure and privacy-preserving IoT sensor data… It landed in the last few hours.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>When Can Agents Safely Checkpoint, Fork, Restore, and Merge? Exact Checking for Execution Edits</title>
+      <link>http://arxiv.org/abs/2608.22928v1</link>
+      <guid isPermaLink="false">identitybrief-af77bbbc325c85a8</guid>
+      <pubDate>Mon, 24 Aug 2026 08:03:56 +0000</pubDate>
+      <category>research</category>
+      <description>Agent runtimes can Checkpoint an execution, Fork it, Restore a checkpoint, or Merge branches without restarting a task. We call these operations execution edits, with Checkpoint recording the current execution for later use and Fork, Restore, and Merge changing what the Agent will do next. An execution edit cannot undo an earlier authorization or a tool… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks</title>
+      <link>https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015</link>
+      <guid isPermaLink="false">identitybrief-f147939b4ba8b5e0</guid>
+      <pubDate>Mon, 24 Aug 2026 21:07:10 +0000</pubDate>
+      <category>auth</category>
+      <description>Glassbox dev admits he had some help from Claude to build locally running tool It landed in the last few hours.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Your Identity Fabric Wasn't Built for AI Agents</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNbE9KdUlVOWxQeFF3YWl3RmhSWEtkTWtoeXlaTWd3NXhpbnZ0YkgxWkx2cVNQbE1KX2tlYlMzU0hsd3hCd2JDMERxdDl5YjRuQWxpSTN1dlJGOVo1NHdmUFQ4T3p4N3Y5UnktQUN1clhRaUZXaXExUzZsQktybWtkal9mY295TkZxWkZVRzV0bw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-8f18cafc05ea2dbb</guid>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Your Identity Fabric Wasn't Built for AI Agents KuppingerCole Analysts
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>New Zealand to pursue social media ban for children under 16</title>
+      <link>https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children</link>
+      <guid isPermaLink="false">identitybrief-c271bea094a01d66</guid>
+      <pubDate>Mon, 24 Aug 2026 20:36:00 +0000</pubDate>
+      <category>did</category>
+      <description>The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation, digital ID services, formal IDs and existing account information for verification. It landed in the last few hours.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Airport and AI Technology Executive Alex Covarrubias Guides Indicio on AI and Travel</title>
+      <link>https://indicio.tech/blog/alex-covarrubias-indicio-strategic-advisor/</link>
+      <guid isPermaLink="false">identitybrief-41b3d8d7b791e822</guid>
+      <pubDate>Mon, 24 Aug 2026 16:13:06 +0000</pubDate>
+      <category>did</category>
+      <description>Covarrubias, an airport technology expert and Strategic Advisor at Indicio, has recently focused on putting AI to work inside airports and airlines. He supports Indicio as the company extends its digital identity platform into travel, financial services, and the identity layer that AI systems will run on. By Helen Garneau SEATTLE, AUGUST 24, 2026: Alex… It landed in the last few hours.
+
+— via Indicio</description>
+    </item>
+    <item>
       <title>Forging the Path to Enterprise Passkeys: A Collaborative Discussion by FIDO Board Members</title>
       <link>https://fidoalliance.org/forging-the-path-to-enterprise-passkeys-a-collaborative-discussion-by-fido-board-members/</link>
       <guid isPermaLink="false">identitybrief-fe868fa5120ae399</guid>
@@ -1362,145 +1502,5 @@
       <description>Beginning today, people can purchase a new 2-pack set of custom YubiKeys as part of OpenAI’s Advanced Account Security program – enabling them to secure their ChatGPT accounts with security […] It landed in the last few hours.
 
 — via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>John Wilkinson on why mobile identity verification depends on data the networks won’t share</title>
-      <link>https://liminal.co/articles/mobile-identity-verification-john-wilkinson-friday-five/</link>
-      <guid isPermaLink="false">identitybrief-39d450ad66d94963</guid>
-      <pubDate>Fri, 14 Aug 2026 09:59:30 +0000</pubDate>
-      <category>fraud</category>
-      <description>Mobile identity verification uses the signals attached to a person’s phone number and device to work out whether they are who they claim to be: how long the number has been active, whether it was recently ported or swapped, whether the account behind it matches the person presenting it. It works because the phone stopped […] The post John Wilkinson on why…
-
-— via Liminal</description>
-    </item>
-    <item>
-      <title>France investigates tax authority breach after hacker claims 600,000 victims</title>
-      <link>https://therecord.media/french-tax-authority-dgfip-confirms-data-breach</link>
-      <guid isPermaLink="false">identitybrief-ec3ad20a2a26f488</guid>
-      <pubDate>Fri, 14 Aug 2026 13:14:15 +0000</pubDate>
-      <category>breach</category>
-      <description>French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Beyond Visual Evidence: Revealing and Mitigating Relational Privacy Leakage in Document MLLMs</title>
-      <link>http://arxiv.org/abs/2608.12911v1</link>
-      <guid isPermaLink="false">identitybrief-93fc0cd88fa8f954</guid>
-      <pubDate>Thu, 13 Aug 2026 07:53:53 +0000</pubDate>
-      <category>research</category>
-      <description>While the privacy risks of multimodal large language models (MLLMs) have drawn significant attention, the unique vulnerabilities of domain-specific MLLMs remain largely underexplored. Focusing on document understanding MLLMs for identity document processing, this paper investigates the privacy issues inherent in Key Information Extraction (KIE) tasks. We…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Deepfake Detection: What Actually Works for Identity Verification in 2026</title>
-      <link>https://www.jumio.com/deepfake-detection-identity-verification/</link>
-      <guid isPermaLink="false">identitybrief-0e478b9b0408a026</guid>
-      <pubDate>Fri, 14 Aug 2026 13:00:54 +0000</pubDate>
-      <category>fraud</category>
-      <description>Deepfake detection has moved from an academic curiosity to a core operational requirement for any organization running identity verification at scale. The AI-generated synthetic media threatening Know Your Customer (KYC) pipelines, onboarding workflows, and biometric authentication systems bears little resemblance to the crude face-swaps of five years ago.…
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>The Deepfake Summit</title>
-      <link>https://www.biometricupdate.com/202608/the-deepfake-summit-2</link>
-      <guid isPermaLink="false">identitybrief-a03d515b636699a7</guid>
-      <pubDate>Fri, 14 Aug 2026 00:03:04 +0000</pubDate>
-      <category>did</category>
-      <description>The Deepfake Summit Arlington, VA September 1, 2026 The Deepfake Summit brings together leaders from government, industry, technology, financial services, digital identity, cybersecurity and fraud prevention to address the rapidly evolving threat of AI-driven impersonation, deepfakes and synthetic identities. Taking place at Convene in Arlington, Virginia,… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Birth registration emerges as foundation for digital public infrastructure</title>
-      <link>https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure</link>
-      <guid isPermaLink="false">identitybrief-b602fb789a89ed8e</guid>
-      <pubDate>Thu, 13 Aug 2026 18:25:56 +0000</pubDate>
-      <category>did</category>
-      <description>Governments and development partners are increasingly pushing to make birth registration and vital statistics (CRVS) a foundational layer of digital public infrastructure (DPI), arguing that establishing legal identity from birth can streamline access to services and help create more connected public systems. Two case studies by civil registration advocacy… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>AI fraud pushes identity defenses toward IAD and continuous verification</title>
-      <link>https://www.biometricupdate.com/202608/ai-fraud-pushes-identity-defenses-toward-iad-and-continuous-verification</link>
-      <guid isPermaLink="false">identitybrief-6849184c64301040</guid>
-      <pubDate>Thu, 13 Aug 2026 18:05:34 +0000</pubDate>
-      <category>fraud</category>
-      <description>AI-powered fraud can defeat biometrics and liveness detection. It can defeat cryptographic protections and humans in the loop, and it is increasing at an alarming rate. But even sophisticated fraud involving deepfakes and cutting-edge tools can be prevented, if the defenses above are deployed properly and in concert. A recent arrest in Spain, new guidance… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>One API from Hopae Connect: Google Wallet and India Stack integration</title>
-      <link>https://identityweek.net/one-api-from-hopae-connect-google-wallet-and-india-stack-integration/</link>
-      <guid isPermaLink="false">identitybrief-2c47f697fdcf7964</guid>
-      <pubDate>Thu, 13 Aug 2026 11:43:44 +0000</pubDate>
-      <category>did</category>
-      <description>Google Wallet credentials and India’s complete digital identity infrastructure are now fully accessible through a single Hopae Connect API. By officially partnering with Google as a credential aggregator, Hopae enables your teams to verify trusted mobile IDs through your existing integration without the burden of building custom infrastructure. This update…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Attackers exploit critical SharePoint flaw after PoC goes public (CVE-2026-55040)</title>
-      <link>https://www.helpnetsecurity.com/2026/08/13/microsoft-sharepoint-cve-2026-55040-poc-exploit/</link>
-      <guid isPermaLink="false">identitybrief-763df4dadf2f09ff</guid>
-      <pubDate>Thu, 13 Aug 2026 13:05:08 +0000</pubDate>
-      <category>fraud</category>
-      <description>Threat actors have begun exploiting a critical Microsoft SharePoint flaw following the release of proof-of-concept (PoC) exploit code by Rapid7. About CVE-2026-55040 Tracked as CVE-2026-55040, the vulnerability was patched by Microsoft as part of its July 2026 Patch Tuesday updates. “The authentication feature could be bypassed as this vulnerability allows…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Trezor discloses data breach affecting nearly 14,000 customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/</link>
-      <guid isPermaLink="false">identitybrief-3c1dfb0c58814dfb</guid>
-      <pubDate>Thu, 13 Aug 2026 15:13:19 +0000</pubDate>
-      <category>breach</category>
-      <description>Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Terabytes of credentials leaked in supply-chain attack</title>
-      <link>https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/</link>
-      <guid isPermaLink="false">identitybrief-1a6b6ccfd60623f4</guid>
-      <pubDate>Thu, 13 Aug 2026 20:59:15 +0000</pubDate>
-      <category>breach</category>
-      <description>It landed in the last few hours. It's pulling 128pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Ten Axioms for Digital Identity Design</title>
-      <link>https://blog.identity.foundation/ten-axioms-for-digital-identity-design/</link>
-      <guid isPermaLink="false">identitybrief-1391d275b8d64682</guid>
-      <pubDate>Thu, 13 Aug 2026 14:00:18 +0000</pubDate>
-      <category>did</category>
-      <description>Guest Post by Ben Taylor, CEO of LedgerDomain, of the Trusted AI Agents Working Group Abstract AI terraforms the cybersecurity and fraud landscape by making many previously academic, impractical, or expensively social attacks trivially cheap. This essay presents ten hard constraints on today's identity system. All modern identity
-
-— via DIF</description>
-    </item>
-    <item>
-      <title>InterSAGE: The Secure and Verifiable Interoperability Protocol for An Internet of Agents</title>
-      <link>http://arxiv.org/abs/2608.13030v1</link>
-      <guid isPermaLink="false">identitybrief-164036c013540c06</guid>
-      <pubDate>Thu, 13 Aug 2026 10:00:13 +0000</pubDate>
-      <category>research</category>
-      <description>The emerging Internet of Agents enables LLM-powered agents to discover peers, invoke tools, and delegate tasks across organizational boundaries. Existing protocols increasingly define how agents exchange messages, but not how an agent proves its identity, authorization, advertised capabilities, or accountability after delegation. We present InterSAGE, a…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>New Mirai variant adds stealth capabilities to notorious botnet code</title>
-      <link>https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code</link>
-      <guid isPermaLink="false">identitybrief-7e8dbe1261746a71</guid>
-      <pubDate>Thu, 13 Aug 2026 15:52:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.
-
-— via The Record</description>
     </item>
 </channel></rss>
