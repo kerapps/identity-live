@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Listen: From passkeys to digital trust with FIDO’s Andrew Shikiar</title>
+      <link>https://www.biometricupdate.com/202608/listen-from-passkeys-to-digital-trust-with-fidos-andrew-shikiar</link>
+      <guid isPermaLink="false">identitybrief-5b66224565f80b6a</guid>
+      <pubDate>Fri, 28 Aug 2026 15:24:35 +0000</pubDate>
+      <category>did</category>
+      <description>There’s a shift happening in identity and authentication. What was once a point-in-time affair – a check at onboarding, or at the door – has widened and deepened in scope, as the questions of who’s who, and who’s allowed to do what, become more complex. Digital credentials present new opportunities and new questions, as do AI agents acting autonomously…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Project Lifesaver adopts FaceTec’s UR Codes to speed returns of at-risk people</title>
+      <link>https://www.biometricupdate.com/202608/project-lifesaver-adopts-facetecs-ur-codes-to-speed-returns-of-at-risk-people</link>
+      <guid isPermaLink="false">identitybrief-112e9de2bc825f5d</guid>
+      <pubDate>Fri, 28 Aug 2026 16:34:36 +0000</pubDate>
+      <category>fraud</category>
+      <description>A partnership between FaceTec and non-profit Project Lifesaver International illustrates the range of applications that can benefit from the cost-effective face biometrics layer UR Codes can provide. It also kicks off national rollout, following the adoption of UR Codes to add biometric identity verification to IDs for law enforcement officials and retirees…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Age assurance webinar examines rapidly evolving market for online age checks</title>
+      <link>https://www.biometricupdate.com/202608/age-assurance-webinar-examines-rapidly-evolving-market-for-online-age-checks</link>
+      <guid isPermaLink="false">identitybrief-fffb6a40749cfee4</guid>
+      <pubDate>Fri, 28 Aug 2026 16:15:14 +0000</pubDate>
+      <category>did</category>
+      <description>Age assurance has entered a new phase. Governments are implementing online safety laws, courts are requiring platforms to adopt stronger age checks, and providers are racing to deliver solutions that balance privacy, accuracy and user experience. To examine those changes, Biometric Update and Goode Intelligence will host a live webinar on September 15 at 10…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication</title>
+      <link>https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html</link>
+      <guid isPermaLink="false">identitybrief-46407b68e95c5a24</guid>
+      <pubDate>Fri, 28 Aug 2026 17:12:15 +0000</pubDate>
+      <category>breach</category>
+      <description>Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. "This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration, which could be used to execute arbitrary…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Sesame - a local-first, open-source password manager</title>
+      <link>https://usesesame.app/</link>
+      <guid isPermaLink="false">identitybrief-772a67b95b72d8fe</guid>
+      <pubDate>Fri, 28 Aug 2026 19:14:14 +0000</pubDate>
+      <category>auth</category>
+      <description>I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don't need an account to create or use a vault, and the hosted service never receives the vault itself. It's still early software and the independent security review isn't finished yet, so I am mainly interested in feedback, testing, and people looking… It's pulling 88pts/day — real momentum for something this new, not a one-day spike. Still under the radar (52pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>The Guard That Cried Wolf: How Scary Words Make Agent Guardrails Refuse Legitimate Actions</title>
+      <link>http://arxiv.org/abs/2608.27009v1</link>
+      <guid isPermaLink="false">identitybrief-6b5f1518759812b9</guid>
+      <pubDate>Thu, 27 Aug 2026 11:55:22 +0000</pubDate>
+      <category>research</category>
+      <description>Agent guardrails are checks that approve or refuse each action before an LLM executes it. Sometimes they refuse requests that are genuinely safe. This over-safety blocks deployment when a guardrail refuses an authorized task. Evaluating over-safety is hard: at the boundary an authorized action resembles an unauthorized one, and the safe-versus-unsafe label…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>An Analysis of the Impact of Psychological Factors and Techniques Across Different Types of Social Engineering</title>
+      <link>http://arxiv.org/abs/2608.25670v1</link>
+      <guid isPermaLink="false">identitybrief-b4d59c81761343c2</guid>
+      <pubDate>Wed, 26 Aug 2026 11:51:38 +0000</pubDate>
+      <category>research</category>
+      <description>Phishing is a well-known social engineering (SE) type used to trick individuals into revealing personal information or performing desired actions, like downloading and installing malware. Other SE types, like vishing and smishing, have emerged and are increasingly being used. As SE continues to successfully persuade victims into actions, the questions arise…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>A Catalog of User Authentication Patterns</title>
+      <link>http://arxiv.org/abs/2608.26955v1</link>
+      <guid isPermaLink="false">identitybrief-ea99581f83ad2b31</guid>
+      <pubDate>Thu, 27 Aug 2026 10:54:22 +0000</pubDate>
+      <category>research</category>
+      <description>Security patterns are intended to support the design and development of secure software systems. However, although established catalogs of security patterns exist, their practical application remains limited. In particular, despite these catalogs, concrete patterns for common security controls such as user authentication (authentication for short) are…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>When AI infrastructure becomes the target: Securing gateways and control points</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
+      <guid isPermaLink="false">identitybrief-8d8056afd0f65494</guid>
+      <pubDate>Wed, 26 Aug 2026 16:43:53 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity. The post When AI infrastructure becomes the target: Securing gateways and control points appeared first on Microsoft Security Blog .
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Carhartt data breach affects 12.9M, half of what ShinyHunters claimed</title>
+      <link>https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626</link>
+      <guid isPermaLink="false">identitybrief-e79542a9cf1d4bab</guid>
+      <pubDate>Wed, 26 Aug 2026 15:13:00 +0000</pubDate>
+      <category>breach</category>
+      <description>One AI and two trained eyes delved into the heavily padded leaks
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions</title>
+      <link>https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html</link>
+      <guid isPermaLink="false">identitybrief-a631e8a45ed3af92</guid>
+      <pubDate>Wed, 26 Aug 2026 13:44:31 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes</title>
+      <link>https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html</link>
+      <guid isPermaLink="false">identitybrief-16ed421380f42b5d</guid>
+      <pubDate>Wed, 26 Aug 2026 05:47:28 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>The invisible workforce: why authentication-first platforms can leave non-human identities ungoverned</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGNvRVFqVmoxbFNYc0R2Z25SUmo4dTVuOW9nb19ab3JOTUgyYWNjM0ZzWjd1MjhYeG9rcHIyOTE3NHdsNDRPUFVBX2Y4dWg4S0JwdkdHRjVONXU0Z0lTeEhhV3lhMUREeUozWTBlU0J3a1lGVGZZZVQ1VHBjXzRXVHdVQ0l1Ql9uVDNTTzF1NU9qOHZMY0VvNURBZ2JnT2hYb2d3TWUwMmszaGt2djNyVGE2OW1MNm5MNkdvZA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-500f2a61069e13e9</guid>
+      <pubDate>Fri, 28 Aug 2026 19:00:51 +0000</pubDate>
+      <category>auth</category>
+      <description>The invisible workforce: why authentication-first platforms can leave non-human identities ungoverned SailPoint
+
+— via SailPoint</description>
+    </item>
+    <item>
+      <title>What Is Identity Proofing? A Guide for Government IT Leaders</title>
+      <link>https://blog.spruceid.com/what-is-identity-proofing-a-guide-for-government-it-leaders/</link>
+      <guid isPermaLink="false">identitybrief-3dd2c66bcba7f117</guid>
+      <pubDate>Fri, 28 Aug 2026 18:31:02 +0000</pubDate>
+      <category>fraud</category>
+      <description>Identity proofing establishes that a person is who they claim to be. For government services, the level of assurance required depends on the risk, and getting that calibration right shapes every downstream decision.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>Authenticate 2026</title>
       <link>https://www.biometricupdate.com/202608/authenticate-2026</link>
       <guid isPermaLink="false">identitybrief-b7c1699daedf68d5</guid>
@@ -1362,145 +1502,5 @@
       <description>Large language model (LLM) API relays authenticate customers separately but often forward requests through shared provider credentials. Providers scope prompt caches to upstream principals and namespaces, so relay customers mapped to one cache identity can observe each other's cache state. Prior work showed cache sharing at selected endpoints but did not…
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Clop created custom web shell for Windchill data theft attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/</link>
-      <guid isPermaLink="false">identitybrief-b25997a4da5f2f6c</guid>
-      <pubDate>Tue, 18 Aug 2026 17:29:51 +0000</pubDate>
-      <category>breach</category>
-      <description>A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>The Acknowledgment Point Is the System: Durable Policy-Decision Receipts for AI Audit Evidence</title>
-      <link>http://arxiv.org/abs/2608.17176v1</link>
-      <guid isPermaLink="false">identitybrief-92df200e5f5ee05b</guid>
-      <pubDate>Mon, 17 Aug 2026 22:35:07 +0000</pubDate>
-      <category>research</category>
-      <description>An AI audit record is useful only if its durability and trust boundary are explicit. Returning a guarded decision before any durable write minimizes latency, but it cannot guarantee that evidence survives an immediate crash. We rebuild RuntimeGuard-AI around this constraint. The resulting research prototype binds each deterministic policy decision to the… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>CISA gives feds 3 days to fix actively exploited Ray RCE bug</title>
-      <link>https://www.theregister.com/security/2026/08/18/cisa-gives-feds-3-days-to-fix-actively-exploited-ray-rce-bug/5289007</link>
-      <guid isPermaLink="false">identitybrief-adf09a2b0366f5c8</guid>
-      <pubDate>Tue, 18 Aug 2026 15:26:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Phishing, malvertising attacks could target devs to gain access to private corporate networks
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Stolen MFA seeds mark a new stage in identity theft</title>
-      <link>https://delinea.com/blog/stolen-mfa-seeds-and-identity-theft</link>
-      <guid isPermaLink="false">identitybrief-cacc3860f8e502d3</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:03 +0000</pubDate>
-      <category>fraud</category>
-      <description>Delinea Labs August 2026 Threat Outlook
-
-— via Delinea</description>
-    </item>
-    <item>
-      <title>Meta’s WhatsApp age-check trial faces challenge from India’s digital ID plans</title>
-      <link>https://www.biometricupdate.com/202608/metas-whatsapp-age-check-trial-faces-challenge-from-indias-digital-id-plans</link>
-      <guid isPermaLink="false">identitybrief-7183020a105e656d</guid>
-      <pubDate>Mon, 17 Aug 2026 22:15:14 +0000</pubDate>
-      <category>did</category>
-      <description>Meta is testing age confirmation on WhatsApp ahead of India's Digital Personal Data Protection (DPDP) Act, but draft implementation rules suggest social media platforms may ultimately have to rely on Aadhaar-linked identity infrastructure instead of self-declared age. India’s law – part of a cascade of global age assurance legislation that has followed… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Sri Lanka digital ID rollout advances as procurement nears completion</title>
-      <link>https://www.biometricupdate.com/202608/sri-lanka-digital-id-rollout-advances-as-procurement-nears-completion</link>
-      <guid isPermaLink="false">identitybrief-c1b731ade0d4d4f2</guid>
-      <pubDate>Mon, 17 Aug 2026 21:20:00 +0000</pubDate>
-      <category>did</category>
-      <description>Sri Lanka's digital identity ( SL-UDI ) program is moving toward a phased rollout as the Indian government finalizes procurement of the master systems provider responsible for implementing the platform. Indian High Commissioner Santosh Jha said onboarding of the master systems provider is in its final stages, while Deputy Minister of Digital Economy Eranga… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Bangladesh is assembling the trust infrastructure needed for a digital economy</title>
-      <link>https://www.biometricupdate.com/202608/bangladesh-is-assembling-the-trust-infrastructure-needed-for-a-digital-economy</link>
-      <guid isPermaLink="false">identitybrief-260bf0b4c147733c</guid>
-      <pubDate>Mon, 17 Aug 2026 20:51:49 +0000</pubDate>
-      <category>did</category>
-      <description>Bangladesh is assembling the foundational layers of a digital economy through a combination of national digital identity, trusted credentials, interoperable payments and governance reforms, with several major initiatives advancing in parallel. Unified digital ID Bangladesh is advancing the next phase of its "One Citizen, One Digital ID, One Digital Wallet"… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Pokémon Center data breach exposes customer info, cancels some orders</title>
-      <link>https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</link>
-      <guid isPermaLink="false">identitybrief-5575eee242558c89</guid>
-      <pubDate>Mon, 17 Aug 2026 19:12:39 +0000</pubDate>
-      <category>breach</category>
-      <description>Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>680,000 Impacted by French Tax Authority Data Breach</title>
-      <link>https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/</link>
-      <guid isPermaLink="false">identitybrief-6257eeffbca5f4d3</guid>
-      <pubDate>Mon, 17 Aug 2026 13:53:55 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Attackers exploit patched macOS Screen Sharing flaw to deploy cryptominer</title>
-      <link>https://www.helpnetsecurity.com/2026/08/17/apple-macos-screen-sharing-flaw/</link>
-      <guid isPermaLink="false">identitybrief-c7bfcb0b0e4b1fc2</guid>
-      <pubDate>Mon, 17 Aug 2026 12:23:15 +0000</pubDate>
-      <category>breach</category>
-      <description>A recently patched security flaw in Apple macOS is being actively exploited by hackers to bypass authentication, gain root access, and install a cryptominer, the Netherlands’ National Cyber Security Centre (NCSC) warns. The vulnerability, tracked as CVE-2026-65400, , let attackers authenticate to macOS Screen Sharing without valid login credentials. Apple…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>SafePal breach affects 39,798 customers, data allegedly for sale</title>
-      <link>https://www.helpnetsecurity.com/2026/08/17/safepal-data-breach-customer-order-information/</link>
-      <guid isPermaLink="false">identitybrief-49d6b995d626b944</guid>
-      <pubDate>Mon, 17 Aug 2026 10:29:57 +0000</pubDate>
-      <category>breach</category>
-      <description>Cryptocurrency wallet maker SafePal disclosed a data breach that exposed order information for 39,798 customers, including names, email addresses, shipping addresses, phone numbers and purchase details. The company traced the exposure to an authorization flaw in a plug-in used for order tracking. Under certain conditions, the flaw let one customer view…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Biometric Update: Mexico’s new banking rules signal a new era for biometric identity verification</title>
-      <link>https://fidoalliance.org/biometric-update-mexicos-new-banking-rules-signal-a-new-era-for-biometric-identity-verification/</link>
-      <guid isPermaLink="false">identitybrief-4daff23f8d824f94</guid>
-      <pubDate>Mon, 17 Aug 2026 15:07:13 +0000</pubDate>
-      <category>fraud</category>
-      <description>Opening a bank account today looks very different than it did a decade ago. Behind each transaction is a growing reliance on advanced identity verification technologies that help protect both […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>SFWeekly: The End of Passwords? Preparing Your Company for Passkeys</title>
-      <link>https://fidoalliance.org/sfweekly-the-end-of-passwords-preparing-your-company-for-passkeys/</link>
-      <guid isPermaLink="false">identitybrief-3d66d5451911c54f</guid>
-      <pubDate>Mon, 17 Aug 2026 15:04:47 +0000</pubDate>
-      <category>auth</category>
-      <description>Key Takeaways How many passwords did you reset last month? If you’re like most people, the answer is “too many.” Between work tools, internal dashboards, customer platforms, and security requirements […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Hacker claims 3.6 million Azure account records stolen from major companies</title>
-      <link>https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</link>
-      <guid isPermaLink="false">identitybrief-f3888340897742e8</guid>
-      <pubDate>Mon, 17 Aug 2026 19:35:01 +0000</pubDate>
-      <category>breach</category>
-      <description>A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
     </item>
 </channel></rss>
