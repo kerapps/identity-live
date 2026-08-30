@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Biometrics investment follows demand for digital identity trust</title>
+      <link>https://www.biometricupdate.com/202608/biometrics-investment-follows-demand-for-digital-identity-trust</link>
+      <guid isPermaLink="false">identitybrief-efb8fc3a769db31b</guid>
+      <pubDate>Sat, 29 Aug 2026 12:18:47 +0000</pubDate>
+      <category>did</category>
+      <description>The biometrics market is entering a new phase. AI-powered fraud, tougher regulation and growing investor confidence are expanding digital identity verification far beyond onboarding, pushing digital trust deeper into financial services, social media, government and the wider internet. This week's top stories on Biometric Update show the industry responding…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE</title>
+      <link>https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html</link>
+      <guid isPermaLink="false">identitybrief-df044a4bbe03a77b</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:03 +0000</pubDate>
+      <category>fraud</category>
+      <description>Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8)…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Post-quantum security spreads across digital identity infrastructure</title>
+      <link>https://www.biometricupdate.com/202608/post-quantum-security-spreads-across-digital-identity-infrastructure</link>
+      <guid isPermaLink="false">identitybrief-af8aa2db6efc5eb8</guid>
+      <pubDate>Sat, 29 Aug 2026 11:34:49 +0000</pubDate>
+      <category>did</category>
+      <description>Post-quantum cryptography is beginning to spread across the digital identity stack, with vendors adding quantum-resistant protection to mobile credentials, PKI, secure hardware and developer platforms. Fobi AI , WISeKey , and Atsign announced updates this week that illustrate how different parts of the digital identity ecosystem are preparing for the…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Hasbro Data Breach Exposed Employee Personal Information</title>
+      <link>https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/</link>
+      <guid isPermaLink="false">identitybrief-25bb2864206cf0e5</guid>
+      <pubDate>Sat, 29 Aug 2026 11:55:00 +0000</pubDate>
+      <category>breach</category>
+      <description>A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Biometric Update: From passkeys to digital trust with FIDO’s Andrew Shikiar</title>
+      <link>https://fidoalliance.org/biometric-update-from-passkeys-to-digital-trust-with-fidos-andrew-shikiar/</link>
+      <guid isPermaLink="false">identitybrief-5c7d0e9d2d0c12af</guid>
+      <pubDate>Fri, 28 Aug 2026 17:18:03 +0000</pubDate>
+      <category>did</category>
+      <description>The Biometric Update Podcast explores the next phase of digital identity, from passkeys and digital wallets to continuous trust There’s a shift happening in identity and authentication. What was once […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Digital ID assessments highlight financial inclusion gains across Africa</title>
+      <link>https://www.biometricupdate.com/202608/digital-id-assessments-highlight-financial-inclusion-gains-across-africa</link>
+      <guid isPermaLink="false">identitybrief-ae851e4cedc2b04b</guid>
+      <pubDate>Fri, 28 Aug 2026 15:19:31 +0000</pubDate>
+      <category>did</category>
+      <description>New assessments suggest digital identity has become one of the strongest drivers of financial inclusion across Africa as countries expand digital public infrastructure. Foundational digital identity systems in Ethiopia, Nigeria and Rwanda are reshaping access to finance. New evaluations from the World Bank’s ID4D Initiative, the Brookings Institution, UNECA…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>FIDA: Feature Instability-Driven Attack on Self-Supervised Facial Representation</title>
+      <link>http://arxiv.org/abs/2608.26861v1</link>
+      <guid isPermaLink="false">identitybrief-1927c101373a09a9</guid>
+      <pubDate>Thu, 27 Aug 2026 09:27:25 +0000</pubDate>
+      <category>research</category>
+      <description>Self-supervised learning (SSL) models are vulnerable to backdoor attacks. However, the systemic risks they pose in face representation have received little attention. The entanglement of identity features in self-supervised face learning presents unique challenges for attack stealthiness. To address this gap, we propose FIDA (Feature Instability-Driven…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>KubeCap: A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assisted Rule Inference</title>
+      <link>http://arxiv.org/abs/2608.26699v1</link>
+      <guid isPermaLink="false">identitybrief-ea144a0dea3e7668</guid>
+      <pubDate>Thu, 27 Aug 2026 06:55:24 +0000</pubDate>
+      <category>research</category>
+      <description>As the most widely used container orchestration platform, Kubernetes provides flexible privilege configuration by allowing developers to manage Linux capabilities via manifest files. However, developers rely on default settings or coarse-grained security contexts in practice, violating the principle of least privilege and enlarging the attack surface of…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Five Primitives for Governing Autonomous AI Agents at Runtime</title>
+      <link>http://arxiv.org/abs/2608.26696v1</link>
+      <guid isPermaLink="false">identitybrief-deb9ce72aaed5153</guid>
+      <pubDate>Thu, 27 Aug 2026 06:53:11 +0000</pubDate>
+      <category>research</category>
+      <description>Enterprise deployments of autonomous AI agents inherit a control model built for human users and long-lived services, and the fit fails in three specific ways: agent principals are ephemeral, appearing and vanishing faster than provisioning; their actions are selected by a model rather than programmed, so the set of things they may attempt is not known in…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Inside the Changi Airport experience</title>
+      <link>https://identityweek.net/inside-the-changi-airport-experience/</link>
+      <guid isPermaLink="false">identitybrief-f17264a2009caf7f</guid>
+      <pubDate>Tue, 25 Aug 2026 14:16:10 +0000</pubDate>
+      <category>auth</category>
+      <description>While the Entry/Exit System (EES) is touted as the ultimate modern upgrade to the travel ecosystem, Changi Airport has quietly undergone a fully seamless renovation over the years, including installing e-gates and multi-model biometric tech to offer efficient clearance. Upon arrival in Singapore, the confirmation process of the traveller is almost…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages</title>
+      <link>https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</link>
+      <guid isPermaLink="false">identitybrief-e7c2149d23bc6913</guid>
+      <pubDate>Tue, 25 Aug 2026 11:52:43 +0000</pubDate>
+      <category>breach</category>
+      <description>Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. "While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Rethink Hybrid Identity: It Is Not the Destination</title>
+      <link>https://www.hypr.com/blog/rethink-hybrid-identity-it-is-not-the-destination</link>
+      <guid isPermaLink="false">identitybrief-c27793ee2e762200</guid>
+      <pubDate>Fri, 28 Aug 2026 14:44:59 +0000</pubDate>
+      <category>iam</category>
+      <description>How We Got Here Hybrid identity emerged as a byproduct of enterprise cloud and SaaS adoption. As organizations adopted cloud productivity platforms, collaboration services, SaaS applications, and cloud-hosted business systems, hybrid identity became a practical transition model. It enabled enterprises to bridge existing on-premises identity infrastructure…
+
+— via HYPR</description>
+    </item>
+    <item>
+      <title>Collective Cyber Defense Starts with Identity</title>
+      <link>https://delinea.com/blog/collective-cyber-defense-starts-with-identity</link>
+      <guid isPermaLink="false">identitybrief-f883f60ec0236817</guid>
+      <pubDate>Fri, 28 Aug 2026 20:41:25 +0000</pubDate>
+      <category>iam</category>
+      <description>OpenAI is warning business and security leaders that AI-enabled cyberattacks are about to become far more widespread and sophisticated. This puts critical systems like hospitals, water treatment plants and internet infrastructure at greater risk.
+
+— via Delinea</description>
+    </item>
+    <item>
+      <title>[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI</title>
+      <link>https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026</link>
+      <guid isPermaLink="false">identitybrief-e15b2d142f518200</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
       <title>Listen: From passkeys to digital trust with FIDO’s Andrew Shikiar</title>
       <link>https://www.biometricupdate.com/202608/listen-from-passkeys-to-digital-trust-with-fidos-andrew-shikiar</link>
       <guid isPermaLink="false">identitybrief-5b66224565f80b6a</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Wed, 19 Aug 2026 17:57:05 +0000</pubDate>
       <category>research</category>
       <description>In today's era of rapid advancements in artificial intelligence, computer security and online safeguarding measures have undergone significant improvements. However, malicious websites continue to facilitate the spread of phishing schemes, fraudulent activities and unsolicited communications. Conventional methodologies in machine learning, deep learning and… It landed in the last few hours.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Finality Before Disclosure for Ledger Authenticators in the Quantum Random Oracle Model</title>
-      <link>http://arxiv.org/abs/2608.18605v1</link>
-      <guid isPermaLink="false">identitybrief-fc717bd02bfb2d6b</guid>
-      <pubDate>Wed, 19 Aug 2026 06:49:05 +0000</pubDate>
-      <category>research</category>
-      <description>Public ledgers increasingly authorize state transitions using prior transactions, finalized state, timing, and ordering rather than only a public key, message, and portable signature. We introduce ledger authenticators and $\LAEUF$, an unforgeability experiment for reactive authorization protocols whose public judgment algorithm reads a finalized…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>SilkParasite Threatens Central Asian Orgs With Flurry of RATs</title>
-      <link>https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats</link>
-      <guid isPermaLink="false">identitybrief-6635b2a9e135e0cb</guid>
-      <pubDate>Wed, 19 Aug 2026 16:58:23 +0000</pubDate>
-      <category>breach</category>
-      <description>A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Who Can Make the Action Happen? An Authority-Decomposition Framework for High-Risk Automated Systems</title>
-      <link>http://arxiv.org/abs/2608.18965v1</link>
-      <guid isPermaLink="false">identitybrief-4e3d44ff84bb61e5</guid>
-      <pubDate>Wed, 19 Aug 2026 14:30:58 +0000</pubDate>
-      <category>research</category>
-      <description>High-risk automated systems distribute control across services, credentials, protected components, and lifecycle mechanisms. Labels such as authorized, approved, privileged, or protected therefore do not answer a basic causal question: which actors can actually make a consequential action occur? This paper provides an action-relative method for deriving…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Beyond overload: Yubico’s measured approach to AI adoption</title>
-      <link>https://www.yubico.com/blog/beyond-overload-yubicos-measured-approach-to-ai-adoption/</link>
-      <guid isPermaLink="false">identitybrief-2cf8247088c66fd4</guid>
-      <pubDate>Wed, 19 Aug 2026 16:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Earlier this year, I shared my perspective on “AI Overload,” voicing the apprehension felt by many CISOs regarding the flood of non-useful content, increased social engineering, and the massive spike in the threat landscape without a commensurate amount of immediate value. The tension between supporting business demand for AI and protecting the business… It landed in the last few hours.
-
-— via Yubico</description>
-    </item>
-    <item>
-      <title>Alcatraz founder’s AI vehicle inspection startup raises $10M</title>
-      <link>https://www.biometricupdate.com/202608/alcatraz-founders-ai-vehicle-inspection-startup-raises-10m</link>
-      <guid isPermaLink="false">identitybrief-29a929ef9e2a905e</guid>
-      <pubDate>Tue, 18 Aug 2026 19:40:36 +0000</pubDate>
-      <category>auth</category>
-      <description>Vince Gaydarzhiev, founder and president of biometric access control company Alcatraz AI , has raised $10 million for his second venture, Self Inspection , an AI-powered vehicle condition platform that uses computer vision to automate automotive inspections. Gaydarzhiev continues to lead Alcatraz while building the San Diego-based startup. The round was led… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Liberia advances PPP-backed digital ID rollout with OSD</title>
-      <link>https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd</link>
-      <guid isPermaLink="false">identitybrief-2591bbd7f5bd00f0</guid>
-      <pubDate>Tue, 18 Aug 2026 14:33:59 +0000</pubDate>
-      <category>did</category>
-      <description>Liberia is moving ahead with the public-private partnership outlined by National Identification Registry (NIR) Executive Director Andrew Peters in an exclusive interview with Biometric Update earlier this year , completing consultations on the proposed concession agreement with the Austrian State Printing House (OSD) as it prepares for a nationwide…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>How domestic technology is normalising biometric surveillance</title>
-      <link>https://www.biometricupdate.com/202608/how-domestic-technology-is-normalising-biometric-surveillance</link>
-      <guid isPermaLink="false">identitybrief-844f3a5638f0ce66</guid>
-      <pubDate>Tue, 18 Aug 2026 19:09:49 +0000</pubDate>
-      <category>auth</category>
-      <description>What new device is this describing? - “The [Pro] has radar-based motion tracking, which gives you a trace of a person’s movement overlaid on an aerial view. The 4K camera significantly improves fine detail and the zoom, but it is the lower mixed-light performance that is night and day better than previous models” . Having a keen interest in surveillance… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets</title>
-      <link>https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html</link>
-      <guid isPermaLink="false">identitybrief-a4bd0e1b72a3e261</guid>
-      <pubDate>Tue, 18 Aug 2026 17:44:05 +0000</pubDate>
-      <category>breach</category>
-      <description>Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the… It landed in the last few hours.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Google’s $10,000 refund test shows why AI agents need zero trust</title>
-      <link>https://www.helpnetsecurity.com/2026/08/18/google-zero-trust-ai-agents/</link>
-      <guid isPermaLink="false">identitybrief-356b4103569d14dd</guid>
-      <pubDate>Tue, 18 Aug 2026 11:49:54 +0000</pubDate>
-      <category>breach</category>
-      <description>Google’s open-source autonomous Customer Support &amp; Returns Agent, built using the Agent Development Kit (ADK) and Gemini, demonstrates how developers can apply zero-trust security principles to AI agents that interact with sensitive systems and take real-world actions. The project tests an approach that assumes an AI agent could be manipulated or…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>GBFR: Beyond OTP: How Banks Can Build a Passkey Control Plane</title>
-      <link>https://fidoalliance.org/gbfr-beyond-otp-how-banks-can-build-a-passkey-control-plane/</link>
-      <guid isPermaLink="false">identitybrief-0408be7d960cd3bd</guid>
-      <pubDate>Tue, 18 Aug 2026 19:51:05 +0000</pubDate>
-      <category>breach</category>
-      <description>Passkeys can reduce exposure to phishing and shared-secret theft, but the banking opportunity depends on disciplined enrolment, recovery, transaction controls and evidence. Standfirst Passkeys are moving bank authentication away from […] It landed in the last few hours.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>DIF Newsletter #64</title>
-      <link>https://blog.identity.foundation/dif-newsletter-64/</link>
-      <guid isPermaLink="false">identitybrief-7c77238792655b2a</guid>
-      <pubDate>Tue, 18 Aug 2026 15:53:31 +0000</pubDate>
-      <category>did</category>
-      <description>August 2026 DIF Website | DIF Mailing Lists | Meeting Recording Archive Table of contents Decentralized Identity Foundation News Working Group Updates Upcoming Events Get involved! Join DIF Decentralized Identity Foundation News It's been a hot summer at DIF, with both Grace and Juan attending DWeb Camp and IETF. If It landed in the last few hours.
-
-— via DIF</description>
-    </item>
-    <item>
-      <title>OpenID Well-Known Conference 2027 – Call for Proposals</title>
-      <link>https://openid.net/oidf2027conference_call-for-proposals/</link>
-      <guid isPermaLink="false">identitybrief-75e901712e3d71e2</guid>
-      <pubDate>Tue, 18 Aug 2026 10:04:29 +0000</pubDate>
-      <category>did</category>
-      <description>Call for Proposals The OpenID Foundation is inviting proposals for its inaugural OpenID Well-Known Conference, bringing together an intimate, expert community of decision-makers, ecosystem leaders and technologists from established and emerging ecosystems around the world. Our focus is clear: how can we use standards and technology to advance, scale and…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>TENET: Telegram Mini App (in)security</title>
-      <link>http://arxiv.org/abs/2608.17538v1</link>
-      <guid isPermaLink="false">identitybrief-09a260945fc54e07</guid>
-      <pubDate>Tue, 18 Aug 2026 08:59:03 +0000</pubDate>
-      <category>research</category>
-      <description>Telegram, with over 450 million daily active users, has introduced Mini Apps---web-based applications running directly within its client. However, this integration introduces notable security risks. As we demonstrate, many Mini Apps store authentication materials---such as session tokens and wallet mnemonic phrases---in plaintext on client devices, exposing…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation</title>
-      <link>http://arxiv.org/abs/2608.17485v1</link>
-      <guid isPermaLink="false">identitybrief-c44745f6f20db4ff</guid>
-      <pubDate>Tue, 18 Aug 2026 08:12:34 +0000</pubDate>
-      <category>research</category>
-      <description>Large language model (LLM) API relays authenticate customers separately but often forward requests through shared provider credentials. Providers scope prompt caches to upstream principals and namespaces, so relay customers mapped to one cache identity can observe each other's cache state. Prior work showed cache sharing at selected endpoints but did not…
 
 — via arXiv</description>
     </item>
