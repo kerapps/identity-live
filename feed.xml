@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>UC Berkeley indefinitely suspends international student work authorizations</title>
+      <link>https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</link>
+      <guid isPermaLink="false">identitybrief-5bfbabd247aa1073</guid>
+      <pubDate>Mon, 31 Aug 2026 03:34:09 +0000</pubDate>
+      <category>iam</category>
+      <description>It landed in the last few hours. It's pulling 396pts/day — real momentum for something this new, not a one-day spike.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Berlin Won’t Pay Extortion Group Claiming Data Theft</title>
+      <link>https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/</link>
+      <guid isPermaLink="false">identitybrief-12420b6a85c1e1f6</guid>
+      <pubDate>Mon, 31 Aug 2026 08:49:36 +0000</pubDate>
+      <category>breach</category>
+      <description>The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials. The post Berlin Won’t Pay Extortion Group Claiming Data Theft appeared first on SecurityWeek . It landed in the last few hours.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Halo-record: Open-source audit trails for AI agents</title>
+      <link>https://www.helpnetsecurity.com/2026/08/31/halo-record-open-source-ai-agent-audit-trail/</link>
+      <guid isPermaLink="false">identitybrief-c1de8517c47a8519</guid>
+      <pubDate>Mon, 31 Aug 2026 05:30:37 +0000</pubDate>
+      <category>auth</category>
+      <description>Brian Kuan wrote halo-record, a small Python package that sits inside an AI agent and writes down the moves it makes: tool calls, model calls, data access, approvals. Each action becomes one line in a file that only ever gets appended to, and every line carries a hash of the line before it, a hash being a short fingerprint computed from content. Edit a… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>NIST, European telcos converge on identity as foundation for agentic AI</title>
+      <link>https://www.biometricupdate.com/202608/nist-european-telcos-converge-on-identity-as-foundation-for-agentic-ai</link>
+      <guid isPermaLink="false">identitybrief-7e4129a086ee133a</guid>
+      <pubDate>Fri, 28 Aug 2026 17:28:55 +0000</pubDate>
+      <category>iam</category>
+      <description>New publications from the National Institute of Standards and Technology ( NIST ) and two rival European telcos working together argue that the agentic AI ecosystem needs a strong foundation in identity. Identity increasingly looks like the control plane for agents . Who an agent represents, what authority it has been delegated, and how its actions can be…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Daytona Beach approves police facial recognition searches of driver’s license photos</title>
+      <link>https://www.biometricupdate.com/202608/daytona-beach-approves-police-facial-recognition-searches-of-drivers-license-photos</link>
+      <guid isPermaLink="false">identitybrief-6e75c7b26e7bd3fe</guid>
+      <pubDate>Fri, 28 Aug 2026 16:55:58 +0000</pubDate>
+      <category>auth</category>
+      <description>Daytona Beach City Commission has approved a proposed agreement between the city’s police chief and Florida Department of Highway Safety and Motor Vehicles so it can search state driver’s license records with facial recognition. The MoU with the state agency compliments an existing agreement with Pinellas County Sheriff’s Office (PCSO) to use the FR-Net and…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Slovakia tables bill to put age check requirements on social platforms</title>
+      <link>https://www.biometricupdate.com/202608/slovakia-tables-bill-to-put-age-check-requirements-on-social-platforms</link>
+      <guid isPermaLink="false">identitybrief-a5daf0c9ec1ff50f</guid>
+      <pubDate>Fri, 28 Aug 2026 16:33:25 +0000</pubDate>
+      <category>did</category>
+      <description>It is Slovakia’s turn to introduce legislation restricting large social media platforms to users 16 and older. This week, its government approved a bill, submitted by the Education Ministry, to bring age requirements into effect, citing concerns about addiction, extremism and radicalization. It includes a requirement that platforms “operate reasonable…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Quantum-Based Solutions for Security Enhancement in Open Radio Access Networks</title>
+      <link>http://arxiv.org/abs/2608.28480v1</link>
+      <guid isPermaLink="false">identitybrief-a68bfa057fa84745</guid>
+      <pubDate>Fri, 28 Aug 2026 16:06:26 +0000</pubDate>
+      <category>research</category>
+      <description>Open Radio Access Networks (O-RAN) introduce unprecedented flexibility, interoperability, and intelligence into next-generation wireless systems, but their disaggregated and software-defined architecture also expands the attack surface and creates new security vulnerabilities. Conventional cryptographic mechanisms, while effective against classical threats,…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>TagZilla: Automated Owner and Abuse Type Tagging for Indicators of Compromise in Threat Reports</title>
+      <link>http://arxiv.org/abs/2608.28124v1</link>
+      <guid isPermaLink="false">identitybrief-d91f876c0a0c821c</guid>
+      <pubDate>Fri, 28 Aug 2026 09:37:05 +0000</pubDate>
+      <category>research</category>
+      <description>Cyber Threat Intelligence (CTI) reports often describe Indicators of Compromise (IoCs) such as IP addresses, URLs, file hashes, and cryptocurrency wallets involved in cyberattacks. Those IoCs are typically described in the unstructured report's text, or listed at the end of the report with little context, limiting their usefulness. This paper presents…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>A User-Centric Context-Aware Permission Governance Framework for Privacy Control in Default Mobile Applications</title>
+      <link>http://arxiv.org/abs/2608.27914v1</link>
+      <guid isPermaLink="false">identitybrief-fc0fc73de85ecc57</guid>
+      <pubDate>Fri, 28 Aug 2026 04:41:39 +0000</pubDate>
+      <category>research</category>
+      <description>Mobile operating systems provide runtime permission controls intended to improve user control over sensitive data. However, default or pre-installed applications are deeply integrated into the system, may operate with elevated privileges, and are difficult for users to scrutinize. Existing permission models generally grant persistent or temporary access for…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>While The Industry Debates Interoperability, Indicio Has Built The Solution</title>
+      <link>https://indicio.tech/blog/verifiable-credentials-interoperability-aptitude/</link>
+      <guid isPermaLink="false">identitybrief-f1b8ee314c896b04</guid>
+      <pubDate>Sun, 30 Aug 2026 13:21:59 +0000</pubDate>
+      <category>did</category>
+      <description>Verifiable credentials interoperability is the way to scale EU digital identity: that’s what the APTITUDE Large Scale Pilot is designed to solve, that’s what Indicio has already built and deployed. By Kent Iverson I am currently in Geneva to participate in an interoperability meeting on APTITUDE , one of the Large-Scale Pilots for the European Union Digital…
+
+— via Indicio</description>
+    </item>
+    <item>
+      <title>What shipping an OAuth app on Slack, Microsoft, and Atlassian actually takes</title>
+      <link>https://workos.com/blog/oauth-app-approval-slack-microsoft-atlassian</link>
+      <guid isPermaLink="false">identitybrief-9c7df934fd0e0d76</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Five installs before Slack reads your submission, a partner account before Microsoft trusts your consent screen, and identity verification before Atlassian lists you. None of it is code.
+
+— via WorkOS</description>
+    </item>
+    <item>
+      <title>[Virtual Event] Building a Secure AI Strategy for the Enterprise</title>
+      <link>https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</link>
+      <guid isPermaLink="false">identitybrief-62634c502d1e5aff</guid>
+      <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Microsoft asks users to ignore 'Antivirus is turned off' errors</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/</link>
+      <guid isPermaLink="false">identitybrief-56cdfaf4f1bac3fc</guid>
+      <pubDate>Mon, 31 Aug 2026 08:29:42 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft asked customers this week to ignore incorrect alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...] It landed in the last few hours.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Debian developers rejected an LLM ban and left disclosure voluntary</title>
+      <link>https://www.helpnetsecurity.com/2026/08/31/debian-linux-llm-policy/</link>
+      <guid isPermaLink="false">identitybrief-0668784b39ed3d4b</guid>
+      <pubDate>Mon, 31 Aug 2026 08:08:47 +0000</pubDate>
+      <category>iam</category>
+      <description>A maintainer reading a merge request can’t tell whether a person or a model wrote the diff, and nobody has to say. Debian developers voted on that through August 28, and Kurt Roeckx, the project secretary, announced the result: the winning option encourages contributors to disclose AI assistance and stops there. Review stays where it was. A sponsor… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
       <title>Biometrics investment follows demand for digital identity trust</title>
       <link>https://www.biometricupdate.com/202608/biometrics-investment-follows-demand-for-digital-identity-trust</link>
       <guid isPermaLink="false">identitybrief-efb8fc3a769db31b</guid>
@@ -1362,145 +1502,5 @@
       <description>Citrix is urging its NetScaler ADC and NetScaler Gateway customers to quickly patch two critical security holes, one involving a memory overflow vulnerability leading to unpredictable behavior or denial of service, and the other allowing authentication bypass. Citrix said in an advisory that supported versions of customer-managed NetScaler ADC and NetScaler… It landed in the last few hours.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication</title>
-      <link>http://arxiv.org/abs/2608.20240v1</link>
-      <guid isPermaLink="false">identitybrief-6b9ec28cdec8e0e1</guid>
-      <pubDate>Thu, 20 Aug 2026 16:31:01 +0000</pubDate>
-      <category>research</category>
-      <description>X-band SAR satellites (8-12 GHz) play a critical role in disaster response, environmental monitoring, and military intelligence. Yet, they lack robust physical-layer authentication (PLA), a security layer orthogonal to cryptographic solutions. Existing PLA systems, typically based on radio-frequency fingerprinting, are often limited to sub-6 GHz frequencies… It landed in the last few hours.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ShadowPath: Lookup-Private Credential Status Verification over Authenticated State</title>
-      <link>http://arxiv.org/abs/2608.19937v1</link>
-      <guid isPermaLink="false">identitybrief-322dad0f14983728</guid>
-      <pubDate>Thu, 20 Aug 2026 11:54:47 +0000</pubDate>
-      <category>research</category>
-      <description>Verifiable credentials let holders present digitally signed claims without requiring the issuer to participate in every presentation. Revocation complicates this privacy model because a verifier must determine whether a credential remains valid. Existing status checks may expose recurring identifiers, registry positions, or request metadata. Such…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>N-able Bug Exposes Password Vault Master Keys</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys</link>
-      <guid isPermaLink="false">identitybrief-0c5c53aa0603a1be</guid>
-      <pubDate>Thu, 20 Aug 2026 17:39:24 +0000</pubDate>
-      <category>auth</category>
-      <description>The popular "Passportal" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely? It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Beyond the AI Agent Hype: The New Identity Security Perimeter</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGhTa0RUN25aYlVwek8wSjBCVFoxWVlGbDRYUlEweEd3eVZOdmhlMDFNWlQxbVlhQlM1TW5HaDY2dHFWV1J6ejFid3JHRFpfWGd4UGdKOENLbTctUGlHeVhLb2tTcHZTWklNVnJBVjJjZWlkOG1IYUxIb1hjYkVzTkVDUDNJRS1kSjY2cUhrWjVxSVUtR2xRYTJYZjg3TGZfSGNCeXAxdw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-9a9206303a45984a</guid>
-      <pubDate>Thu, 20 Aug 2026 22:24:20 +0000</pubDate>
-      <category>iam</category>
-      <description>Beyond the AI Agent Hype: The New Identity Security Perimeter Ping Identity It landed in the last few hours.
-
-— via Ping Identity</description>
-    </item>
-    <item>
-      <title>When biometrics meet PKI: Nigeria’s next digital identity challenge</title>
-      <link>https://www.biometricupdate.com/202608/when-biometrics-meet-pki-nigerias-next-digital-identity-challenge</link>
-      <guid isPermaLink="false">identitybrief-1f10054836190db2</guid>
-      <pubDate>Wed, 19 Aug 2026 23:45:14 +0000</pubDate>
-      <category>did</category>
-      <description>Nigeria’s digital identity system is entering a new phase. More than 136 million people are registered for a National Identification Number (NIN), up from 123.9 million in October 2025, with a target of 180 million by the end of 2026. That means adding roughly 44 million registrations in a country of about 238 million people, spread across 36 states and the… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>ClarityCheck’s exposed biometric databases present major identity theft, fraud risk</title>
-      <link>https://www.biometricupdate.com/202608/claritychecks-exposed-biometric-databases-present-major-identity-theft-fraud-risk</link>
-      <guid isPermaLink="false">identitybrief-e61900ffa8046e51</guid>
-      <pubDate>Wed, 19 Aug 2026 23:36:35 +0000</pubDate>
-      <category>fraud</category>
-      <description>Consider where your face might be found. Social media, probably. Maybe internet search. It doesn’t naturally occur to anyone that their face may be stored in a publicly exposed database with no security safeguards to speak of. Unencrypted and freely available, your face could be nicked from that database, paired with fake data and used for identity fraud.… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Armenia sets fees, rollout for new biometric ID under PPP model</title>
-      <link>https://www.biometricupdate.com/202608/armenia-sets-fees-rollout-for-new-biometric-id-under-ppp-model</link>
-      <guid isPermaLink="false">identitybrief-ff1ce04e01d43ba0</guid>
-      <pubDate>Wed, 19 Aug 2026 22:51:29 +0000</pubDate>
-      <category>did</category>
-      <description>Armenia has released the pricing for its new biometric national ID and passport documents as the country prepares to roll them out any time between September and November. Speaking during a recent press conference on August 14, the acting head of the Migration and Citizenship Service, Nelly Davtyan, said the ID card will cost 5,950 drams (about US$15),… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Healthtech firm CareCloud data breach impacts 3.7 million patients</title>
-      <link>https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/</link>
-      <guid isPermaLink="false">identitybrief-55f007c2b5697779</guid>
-      <pubDate>Wed, 19 Aug 2026 20:07:12 +0000</pubDate>
-      <category>breach</category>
-      <description>U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P</title>
-      <link>https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html</link>
-      <guid isPermaLink="false">identitybrief-5d27f7e0412ef417</guid>
-      <pubDate>Wed, 19 Aug 2026 11:34:28 +0000</pubDate>
-      <category>breach</category>
-      <description>Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities</title>
-      <link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/</link>
-      <guid isPermaLink="false">identitybrief-fb6088e101334570</guid>
-      <pubDate>Wed, 19 Aug 2026 10:37:31 +0000</pubDate>
-      <category>breach</category>
-      <description>The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>OIDF responds to Australia’s digital trust consultation</title>
-      <link>https://openid.net/oidf-responds-to-australias-digital-trust-consultation/</link>
-      <guid isPermaLink="false">identitybrief-744351f0c4956755</guid>
-      <pubDate>Wed, 19 Aug 2026 12:45:11 +0000</pubDate>
-      <category>did</category>
-      <description>The OpenID Foundation, through its Australian Digital Trust Community Group (ADT CG), has responded to the Australian Government’s Department of Finance consultation on verifiable credentials policy. The Australian Government’s work on verifiable credentials (VCs) is a significant development in the ongoing evolution of the Australian Government Digital ID…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Why Identity Governance Is Expanding Beyond Identity</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUxoWTJaTVY4YnlFeWJsZWE5SXprX3BUS1lmeTJVTWFWZDFYNHNmbzZZWlBlTG9lM3NtRm5vN01ENWVYRmJYVUNrZU5kdkduLTM5NnZKM3l5V1Y0Rm9uYzgwcTZMYjIwNVVVdGQ0UmZyVDRIMmlRcVU0NUhLNGtYSUwweUs4UVdpTnJqNmhONWtEMkd0cjRidg?oc=5</link>
-      <guid isPermaLink="false">identitybrief-82dce37f09d4423a</guid>
-      <pubDate>Wed, 19 Aug 2026 12:36:26 +0000</pubDate>
-      <category>iam</category>
-      <description>Why Identity Governance Is Expanding Beyond Identity KuppingerCole Analysts
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns</title>
-      <link>https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</link>
-      <guid isPermaLink="false">identitybrief-a28e288702c1cb7f</guid>
-      <pubDate>Wed, 19 Aug 2026 20:32:09 +0000</pubDate>
-      <category>iam</category>
-      <description>The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>SiNMULI: Novel Signed Network Approach for Malicious URL Identification</title>
-      <link>http://arxiv.org/abs/2608.19190v1</link>
-      <guid isPermaLink="false">identitybrief-9fe22074c61ee524</guid>
-      <pubDate>Wed, 19 Aug 2026 17:57:05 +0000</pubDate>
-      <category>research</category>
-      <description>In today's era of rapid advancements in artificial intelligence, computer security and online safeguarding measures have undergone significant improvements. However, malicious websites continue to facilitate the spread of phishing schemes, fraudulent activities and unsolicited communications. Conventional methodologies in machine learning, deep learning and… It landed in the last few hours.
-
-— via arXiv</description>
     </item>
 </channel></rss>
