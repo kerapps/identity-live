@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>LastPass enhancements improve visibility, governance, and control</title>
+      <link>https://www.helpnetsecurity.com/2026/09/01/lastpass-security-product-enhancements-innovations/</link>
+      <guid isPermaLink="false">identitybrief-70bfe4d94424a13b</guid>
+      <pubDate>Tue, 01 Sep 2026 05:52:08 +0000</pubDate>
+      <category>iam</category>
+      <description>LastPass announced a series of strategic product innovations, customer experience enhancements, and industry milestones. These advancements reflect the company’s continued focus on providing practical tools to protect access and identity in an increasingly AI-driven threat landscape. Highlights include new tools that simplify access management, enhancements… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</link>
+      <guid isPermaLink="false">identitybrief-104a134ec97483c7</guid>
+      <pubDate>Tue, 01 Sep 2026 07:22:30 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the… It landed in the last few hours.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>State digital identity shifts toward centralized platforms as AI fraud drives stronger proofing</title>
+      <link>https://www.biometricupdate.com/202608/state-digital-identity-shifts-toward-centralized-platforms-as-ai-fraud-drives-stronger-proofing</link>
+      <guid isPermaLink="false">identitybrief-e2d418107e50bc7b</guid>
+      <pubDate>Mon, 31 Aug 2026 20:20:06 +0000</pubDate>
+      <category>did</category>
+      <description>U.S. states are moving away from separate agency-by-agency login systems toward enterprise digital identity platforms. Meanwhile, growing concerns about synthetic identities, deepfakes and AI-enabled impersonation are pushing governments toward stronger identity proofing that can include biometrics and liveness detection. Those are among the findings of a… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Bot detection arrives in CrowdSec 1.8.0, along with two DoS fixes</title>
+      <link>https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/</link>
+      <guid isPermaLink="false">identitybrief-23a4e1f06a664be4</guid>
+      <pubDate>Tue, 01 Sep 2026 05:04:35 +0000</pubDate>
+      <category>breach</category>
+      <description>Failed SSH logins pile up in an auth log, and a scanner walks a website looking for exposed admin paths. CrowdSec reads log sources and HTTP requests, works out which addresses are misbehaving, and hands the block to a separate remediation component sitting in front of the service. Users report what they see back to the project, which curates it into a… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>NIS2 compliance: Fixing IAM and access control before the 2026 audit</title>
+      <link>https://www.helpnetsecurity.com/2026/09/01/nis2-credential-compliance-before-audit/</link>
+      <guid isPermaLink="false">identitybrief-7c1d6fb8809acec9</guid>
+      <pubDate>Tue, 01 Sep 2026 05:00:08 +0000</pubDate>
+      <category>iam</category>
+      <description>The NIS2 Directive places direct obligations on organizations across supply chain risk management, incident reporting, and board-level accountability. October brings a new wave of legally binding deadlines across the EU, as member states move from transposition into enforcement. In Austria, the national implementation law enters into force once adopted; in… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>UK Digital Verification Services Trust Framework v1.0 takes effect</title>
+      <link>https://www.biometricupdate.com/202608/uk-digital-verification-services-trust-framework-v1-0-takes-effect</link>
+      <guid isPermaLink="false">identitybrief-81a5209ae1830144</guid>
+      <pubDate>Mon, 31 Aug 2026 20:19:01 +0000</pubDate>
+      <category>did</category>
+      <description>What a ride it has been for the UK’s Digital Verification Services (DVS) Trust Framework. Originally developed as the Digital Identity and Attributes Trust Framework (DIATF), it aimed to support the development of a healthy private digital identity sector in the UK, by providing trusted certification to qualifying providers. The promise was briefly… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Australia broadens privacy protections for digital ID with new strategy</title>
+      <link>https://www.biometricupdate.com/202608/australia-broadens-privacy-protections-for-digital-id-with-new-strategy</link>
+      <guid isPermaLink="false">identitybrief-595e17d8d1cc4a60</guid>
+      <pubDate>Mon, 31 Aug 2026 15:23:29 +0000</pubDate>
+      <category>did</category>
+      <description>An increased risk of data breaches and biometric surveillance have prompted Australia’s federal government to introduce a broad new digital identity protection strategy. The plan targets wearable tech including smart glasses, as the government aims to “bolster privacy protections for Australians and help tackle emerging risks from new technologies,”…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance</title>
+      <link>https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html</link>
+      <guid isPermaLink="false">identitybrief-21bc0fee62010122</guid>
+      <pubDate>Mon, 31 Aug 2026 11:31:47 +0000</pubDate>
+      <category>auth</category>
+      <description>Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent’s access is legitimate. AI has…
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>WebAuthn Level 3 Is Now a W3C Recommendation</title>
+      <link>https://fidoalliance.org/webauthn-level-3-is-now-a-w3c-recommendation/</link>
+      <guid isPermaLink="false">identitybrief-32039061969e71f4</guid>
+      <pubDate>Mon, 31 Aug 2026 16:52:14 +0000</pubDate>
+      <category>auth</category>
+      <description>On 25 August 2026, the W3C Web Authentication Working Group published Web Authentication: An API for accessing Public Key Credentials – Level 3 as a full W3C Recommendation. For those […]
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>One note in three: a verified census of three deployed AI scribes, and the instrument that counted it</title>
+      <link>http://arxiv.org/abs/2608.31017v1</link>
+      <guid isPermaLink="false">identitybrief-947d59fe36208b07</guid>
+      <pubDate>Mon, 31 Aug 2026 16:00:27 +0000</pubDate>
+      <category>research</category>
+      <description>Ambient AI scribes draft clinical notes under the reassurance that a clinician signs every note. We audited three commercial AI scribes on the same 142 consultations: 565 notes from recorded UK primary-care and US ambulatory encounters plus authored scenarios. Twelve discovery passes proposed 13,678 candidate errors; the 5,898 clearing an importance filter… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification</title>
+      <link>http://arxiv.org/abs/2608.31142v1</link>
+      <guid isPermaLink="false">identitybrief-8f0230b59a68a16d</guid>
+      <pubDate>Mon, 31 Aug 2026 17:48:24 +0000</pubDate>
+      <category>research</category>
+      <description>The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for black-box identity verification of anonymous models: practitioner checklists…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Beyond Object Authentication: Context-Closed Post-Quantum Authentication for the WebPKI</title>
+      <link>http://arxiv.org/abs/2608.30004v1</link>
+      <guid isPermaLink="false">identitybrief-e01db3d4b8d86912</guid>
+      <pubDate>Sun, 30 Aug 2026 19:59:54 +0000</pubDate>
+      <category>research</category>
+      <description>Post-quantum migration increases WebPKI authentication cost, but authenticating a compressed certificate object does not by itself preserve the mutable authorization context under which a relying party accepts it. We formalize \emph{context closure}: the authenticated projection accepted by a verifier must determine the selected authorization semantics it… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Microsoft Exchange Online outage causes email failures, auth issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/</link>
+      <guid isPermaLink="false">identitybrief-53cda57b87e28a5f</guid>
+      <pubDate>Mon, 31 Aug 2026 16:56:57 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>SEDI vs. Mobile Driver's Licenses: What's the Difference?</title>
+      <link>https://blog.spruceid.com/sedi-vs-mobile-drivers-licenses-whats-the-difference/</link>
+      <guid isPermaLink="false">identitybrief-75d5012a27f00199</guid>
+      <pubDate>Mon, 31 Aug 2026 20:24:45 +0000</pubDate>
+      <category>did</category>
+      <description>An mDL is a digital credential. SEDI is the framework governing how credentials, wallets, issuers, and verifiers interact. Understanding the difference matters for states building digital identity infrastructure. It landed in the last few hours.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>UC Berkeley indefinitely suspends international student work authorizations</title>
       <link>https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</link>
       <guid isPermaLink="false">identitybrief-5bfbabd247aa1073</guid>
@@ -1362,145 +1502,5 @@
       <description>Quarantining leaked credentials is not good enough It landed in the last few hours.
 
 — via The Register Security</description>
-    </item>
-    <item>
-      <title>Riley Hughes on the digital identity verification standard that never came</title>
-      <link>https://liminal.co/articles/digital-identity-verification-riley-hughes-friday-five/</link>
-      <guid isPermaLink="false">identitybrief-54c554490b16e05a</guid>
-      <pubDate>Fri, 21 Aug 2026 11:00:00 +0000</pubDate>
-      <category>did</category>
-      <description>Digital identity verification is the practice of confirming someone is who they claim to be, using digital evidence rather than a physical document check at a counter. For most of its history, that meant a photo of a driver’s license and a selfie. It is now starting to mean something different: accepting a government-issued digital […] The post Riley Hughes…
-
-— via Liminal</description>
-    </item>
-    <item>
-      <title>Hackers poison popular Rust crates to steal developers' credentials</title>
-      <link>https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075</link>
-      <guid isPermaLink="false">identitybrief-1fcdea5065d88cc3</guid>
-      <pubDate>Fri, 21 Aug 2026 14:57:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Malicious updates turned routine builds into a delivery system for infostealer malware
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Chameleon: Robust Defense Against Tor Website Fingerprinting via Many-to-Many Traffic Morphing</title>
-      <link>http://arxiv.org/abs/2608.20160v1</link>
-      <guid isPermaLink="false">identitybrief-1fbdb19a4603c3a1</guid>
-      <pubDate>Thu, 20 Aug 2026 15:16:37 +0000</pubDate>
-      <category>research</category>
-      <description>Website fingerprinting (WF) attacks can infer users' browsing activities from encrypted Tor traffic by exploiting side-channel features. Although many WF defenses have been proposed, we find that most existing defenses create learnable web trace mapping features. We further show that robustness against adversarial training does not necessarily imply…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Why AI Agents End Up With Access No One Was Meant to Give Them</title>
-      <link>https://jumpcloud.com/blog/why-ai-agents-end-up-with-access-no-one-was-meant-to-give-them</link>
-      <guid isPermaLink="false">identitybrief-55a71fe79fc97046</guid>
-      <pubDate>Fri, 21 Aug 2026 21:13:10 +0000</pubDate>
-      <category>iam</category>
-      <description>Discover why over-privileged AI agents create serious security gaps, and learn how to automate non-human identity governance to eliminate standing access. The post Why AI Agents End Up With Access No One Was Meant to Give Them appeared first on JumpCloud . It landed in the last few hours.
-
-— via JumpCloud</description>
-    </item>
-    <item>
-      <title>Nexiden sues Ping Identity alleging MFA patent violations</title>
-      <link>https://www.biometricupdate.com/202608/nexiden-sues-ping-identity-alleging-mfa-patent-violations</link>
-      <guid isPermaLink="false">identitybrief-8ba0bd385af5f293</guid>
-      <pubDate>Thu, 20 Aug 2026 19:37:59 +0000</pubDate>
-      <category>auth</category>
-      <description>A lawsuit filed against Ping Identity alleges the company infringed a pair of patents for mobile authentication with public key cryptography (PKC) belonging to Texas-based Nexiden . Nexiden provides expertise and intellectual property related to multi-factor authentication (MFA) and transaction authorization, according to its website. The company focussed… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>DHS develops biometric tools to improve traveler identity verification</title>
-      <link>https://www.biometricupdate.com/202608/dhs-develops-biometric-tools-to-improve-traveler-identity-verification</link>
-      <guid isPermaLink="false">identitybrief-39deac7ae91c3dc8</guid>
-      <pubDate>Thu, 20 Aug 2026 19:55:19 +0000</pubDate>
-      <category>fraud</category>
-      <description>The U.S. Department of Homeland Security's Science and Technology Directorate (S&amp;T) has developed two biometric identity technologies designed to improve screening performance, reduce identity ambiguity and support faster traveler verification as biometric processing expands across airports and border checkpoints. Airport biometric checks for crossing… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Haiti secures OAS, Japan backing to expand biometric ID system</title>
-      <link>https://www.biometricupdate.com/202608/haiti-secures-oas-japan-backing-to-expand-biometric-id-system</link>
-      <guid isPermaLink="false">identitybrief-eb8f0cfaa6fcc51b</guid>
-      <pubDate>Thu, 20 Aug 2026 19:30:31 +0000</pubDate>
-      <category>did</category>
-      <description>Haiti has secured new international support to expand its biometric national ID system after the Organization of American States (OAS) and Japan signed a $3 million agreement to improve access to legal identity and strengthen election preparedness. The Organization of American States (OAS) and the government of Japan signed a cooperation agreement to expand… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FaceTec issued new patent by the USPTO</title>
-      <link>https://identityweek.net/facetec-issued-new-patent-by-the-uspto/</link>
-      <guid isPermaLink="false">identitybrief-b6b24e5c803213bf</guid>
-      <pubDate>Thu, 20 Aug 2026 10:38:02 +0000</pubDate>
-      <category>fraud</category>
-      <description>As Title Sponsor and key exhibitor at Identity Week America 2026, FaceTec is set to highlight its industry-leading 3D Face Authentication and Certified Liveness Detection software. By linking its 3D FaceMap® technology, Photo ID Scans, and UR® Codes directly to the event’s core focus on remote biometric verification and fraud prevention, FaceTec will…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>How MSPs can catch phishing attacks email filters miss</title>
-      <link>https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/</link>
-      <guid isPermaLink="false">identitybrief-a2793b75c9dda166</guid>
-      <pubDate>Thu, 20 Aug 2026 14:01:11 +0000</pubDate>
-      <category>breach</category>
-      <description>AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers</title>
-      <link>https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html</link>
-      <guid isPermaLink="false">identitybrief-26e5a7b44c2edaf6</guid>
-      <pubDate>Thu, 20 Aug 2026 13:35:13 +0000</pubDate>
-      <category>breach</category>
-      <description>Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities</title>
-      <link>https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/</link>
-      <guid isPermaLink="false">identitybrief-4cfa0b2fba8651b0</guid>
-      <pubDate>Thu, 20 Aug 2026 11:46:04 +0000</pubDate>
-      <category>auth</category>
-      <description>The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>AWS limits AI agents’ data access, even when manipulated</title>
-      <link>https://www.helpnetsecurity.com/2026/08/20/aws-ai-agents-access-controls/</link>
-      <guid isPermaLink="false">identitybrief-988c0d8547dac6a8</guid>
-      <pubDate>Thu, 20 Aug 2026 11:17:21 +0000</pubDate>
-      <category>iam</category>
-      <description>AWS has detailed an approach for propagating user authorization context through AI agents, allowing access controls to be enforced by infrastructure and downstream services rather than relying on the agent itself. Customers using Amazon Bedrock AgentCore can build AI agents that pull information from Amazon DynamoDB tables, document repositories, SaaS…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Russian snoops add OAuth abuse to targeted phishing campaigns</title>
-      <link>https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706</link>
-      <guid isPermaLink="false">identitybrief-4619c27cd4948319</guid>
-      <pubDate>Fri, 21 Aug 2026 00:19:25 +0000</pubDate>
-      <category>breach</category>
-      <description>Don't click on that State Department meeting invite It landed in the last few hours.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Citrix issues critical security updates for its NetScaler devices</title>
-      <link>https://www.csoonline.com/article/4212082/citrix-issues-critical-security-updates-for-its-netscaler-devices.html</link>
-      <guid isPermaLink="false">identitybrief-4f44bcea8d0a7c7a</guid>
-      <pubDate>Thu, 20 Aug 2026 18:54:09 +0000</pubDate>
-      <category>breach</category>
-      <description>Citrix is urging its NetScaler ADC and NetScaler Gateway customers to quickly patch two critical security holes, one involving a memory overflow vulnerability leading to unpredictable behavior or denial of service, and the other allowing authentication bypass. Citrix said in an advisory that supported versions of customer-managed NetScaler ADC and NetScaler… It landed in the last few hours.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
