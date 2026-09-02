@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Open-source secrets scanning tool Sift hunts credentials in Microsoft 365, Slack, and Jira</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/sift-open-source-secret-scanning/</link>
+      <guid isPermaLink="false">identitybrief-45bfe55e7bdd46cc</guid>
+      <pubDate>Wed, 02 Sep 2026 05:00:25 +0000</pubDate>
+      <category>auth</category>
+      <description>Sift is a free, open-source command line tool that searches for passwords, API keys, and other sensitive data across the places a company keeps its work: local disks, Windows file shares, an entire Active Directory domain, SharePoint, OneDrive, Teams channel files, Slack messages, and Jira and Confluence. Stratus Security, a penetration testing consultancy,… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
+      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
+      <guid isPermaLink="false">identitybrief-8224b1bfabeef0bd</guid>
+      <pubDate>Tue, 01 Sep 2026 22:40:28 +0000</pubDate>
+      <category>fraud</category>
+      <description>A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification… It landed in the last few hours.
+
+— via Krebs on Security</description>
+    </item>
+    <item>
+      <title>From a fragment to a network: Real-time identity connections reveal the networks behind fraud and financial crime</title>
+      <link>https://identityweek.net/from-a-fragment-to-a-network-real-time-identity-connections-reveal-the-networks-behind-fraud-and-financial-crime/</link>
+      <guid isPermaLink="false">identitybrief-a87f5f0ee5bd49e1</guid>
+      <pubDate>Tue, 01 Sep 2026 20:07:17 +0000</pubDate>
+      <category>fraud</category>
+      <description>By Chris Harrison, CEO, Fideo Intelligence A government agency investigating a cyberattack had an unusual clue. The attack began with targeted phishing emails disguised as Adobe signature requests designed to steal Microsoft 365 credentials. After compromising accounts, the attacker appeared to use administrator privileges to move laterally and target… It landed in the last few hours.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>MOSIP broadens Inji beyond digital ID into open credentialing platform</title>
+      <link>https://www.biometricupdate.com/202609/mosip-broadens-inji-beyond-digital-id-into-open-credentialing-platform</link>
+      <guid isPermaLink="false">identitybrief-21524b3b94749f8e</guid>
+      <pubDate>Tue, 01 Sep 2026 14:51:03 +0000</pubDate>
+      <category>did</category>
+      <description>MOSIP is transforming Inji from a digital identity wallet into an independent, open-source credentialing platform designed to become trust infrastructure for verifiable credentials across multiple sectors. Rather than focusing on government-issued digital identity, Inji 1.0 is being designed as a credentialing platform capable of supporting education,…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>FaceTec UR® Code adoption gaining significant real-world momentum</title>
+      <link>https://identityweek.net/facetec-ur-code-adoption-gaining-significant-real-world-momentum/</link>
+      <guid isPermaLink="false">identitybrief-c6658bdc3c9f6642</guid>
+      <pubDate>Tue, 01 Sep 2026 21:48:59 +0000</pubDate>
+      <category>fraud</category>
+      <description>UR® Codes bind humans to their issuer-signed identities to stop fake IDs FaceTec, Inc., the global leader in 3D Face Verification software, today announced the release of its UR® Codes August 2026 Update. The document provides insight into current use case examples of the UR Code model, describing critically important, life-saving identity verification… It landed in the last few hours.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Attackers Pounce on Critical Artifactory Flaw Following Disclosure</title>
+      <link>https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure</link>
+      <guid isPermaLink="false">identitybrief-38d50c871a590c1f</guid>
+      <pubDate>Tue, 01 Sep 2026 21:05:53 +0000</pubDate>
+      <category>breach</category>
+      <description>CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>From physical infrastructure to digital rails: India’s blueprint for Sri Lanka</title>
+      <link>https://www.biometricupdate.com/202609/from-physical-infrastructure-to-digital-rails-indias-blueprint-for-sri-lanka</link>
+      <guid isPermaLink="false">identitybrief-7b23dfd0a3441091</guid>
+      <pubDate>Tue, 01 Sep 2026 15:04:41 +0000</pubDate>
+      <category>did</category>
+      <description>Sri Lanka is not simply building another identity card. It is creating the foundation for a digital state. The Sri Lanka Unique Digital Identity project, or SL-UDI , would use demographic and biometric information to establish a unique identity for each citizen. Government agencies and approved organizations could then verify that person digitally. The…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>White House makes Login.gov mandate final with two-year governmentwide rollout</title>
+      <link>https://www.biometricupdate.com/202609/white-house-makes-login-gov-mandate-final-with-two-year-governmentwide-rollout</link>
+      <guid isPermaLink="false">identitybrief-c4495828c9f30de0</guid>
+      <pubDate>Tue, 01 Sep 2026 19:16:53 +0000</pubDate>
+      <category>auth</category>
+      <description>The White House has finalized its plan to make Login.gov the universal sign-on for most public-facing federal services, converting a draft policy disclosed last week into a governmentwide mandate with firm deployment deadlines and new requirements governing competing identity providers. On Monday, the Office of Management and Budget (OMB) issued Memorandum…
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Notice of Vote for Proposed OpenID Connect Ephemeral Subject Identifier 1.0 Final Specification</title>
+      <link>https://openid.net/notice-of-vote-for-proposed-openid-connect-ephemeral-subject-identifier-1-0-final-specification/</link>
+      <guid isPermaLink="false">identitybrief-b6a8d71ddc595c86</guid>
+      <pubDate>Wed, 02 Sep 2026 04:30:05 +0000</pubDate>
+      <category>auth</category>
+      <description>The voting period will be between Wednesday, September 16, 2026 and Wednesday, September 30, 2026, once the 60-day review of the specification has been completed. The OpenID Connect working group page is https://openid.net/wg/connect/. If you’re not already a member, or if your membership has expired, please consider joining to participate in the approval… It landed in the last few hours.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Dropbox Data Breach</title>
+      <link>https://news.ycombinator.com/item?id=49514427</link>
+      <guid isPermaLink="false">identitybrief-a1921329594705fd</guid>
+      <pubDate>Mon, 31 Aug 2026 20:20:18 +0000</pubDate>
+      <category>breach</category>
+      <description>I received a security notice from Dropbox today saying that my account was accessed without authorization between August 4 and August 21, 2026, and that Dropbox believes files in the account were viewed or downloaded. According to the email, Dropbox uses Lenovo as an identity provider, allowing users to authenticate to Dropbox with a verified Lenovo ID.… It's pulling 29pts/day — real momentum for something this new, not a one-day spike. Still under the radar (43pts) — early enough to be worth a look before everyone piles in.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>MutMem-V2: Cryptographically Authorized Mutation in Persistent Agent Memory Portable Verification and Reproducible Evidence</title>
+      <link>http://arxiv.org/abs/2609.01235v1</link>
+      <guid isPermaLink="false">identitybrief-0d6cd88deeb5d686</guid>
+      <pubDate>Tue, 01 Sep 2026 13:34:44 +0000</pubDate>
+      <category>research</category>
+      <description>MutMem V1 introduced retention-preserving, cryptographically authorized mutation for persistent agent memory but did not provide a complete portable verification contract or clean-install reproduction path. MutMem V2 closes that publication gap without introducing a second memory engine. It specifies exact canonical bytes, domain-separated object and bundle… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Vali Cyber ZeroLock 5 brings MFA to the hypervisor command line</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/vali-cyber-zerolock-5-hypervisor-security/</link>
+      <guid isPermaLink="false">identitybrief-482c665fea5e016c</guid>
+      <pubDate>Wed, 02 Sep 2026 06:10:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Vali Cyber released ZeroLock 5, a major release focused on closing the two most dangerous gaps in hypervisor security: insider threats and stolen credentials on ESX and Linux hosts. The hypervisor is now the target Over the past two years, ransomware operators and nation-state actors alike have shifted their focus from individual endpoints to the hypervisor… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency</link>
+      <guid isPermaLink="false">identitybrief-94a0460b4bf4b773</guid>
+      <pubDate>Wed, 02 Sep 2026 01:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores. It landed in the last few hours.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Beyond the login: tackling entitlement sprawl</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHdTUlp0RW1MaFBXdURjSndrQkM1TWhIS0ZiTkpUSGwwQXItS3hsdmxiMzRaSjh6V1NRNWNoWGhiZ2hyS1BKdnlpUGYyMWo2S08wVUNzX1pnMkJ6LXJMYVFJRU5GbF8wT2tqWUZhcEtXM1VGTFo2VG42Y2FyYW1kOA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-64239c3f2ec5820d</guid>
+      <pubDate>Wed, 02 Sep 2026 03:02:36 +0000</pubDate>
+      <category>auth</category>
+      <description>Beyond the login: tackling entitlement sprawl SailPoint It landed in the last few hours.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>LastPass enhancements improve visibility, governance, and control</title>
       <link>https://www.helpnetsecurity.com/2026/09/01/lastpass-security-product-enhancements-innovations/</link>
       <guid isPermaLink="false">identitybrief-70bfe4d94424a13b</guid>
@@ -1362,145 +1502,5 @@
       <description>The good news? AI gives cyber defenders some of the best discovery tooling they’ve ever had. The bad news? It gives attackers the same capability. This duality has left CISOs managing AI on two simultaneous fronts. Outside the organization, attackers are using AI to make phishing more convincing, automate reconnaissance and compress the time between…
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>Microsoft Patches Exploited Entra ID Vulnerability</title>
-      <link>https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/</link>
-      <guid isPermaLink="false">identitybrief-6513626ab82b4bc2</guid>
-      <pubDate>Fri, 21 Aug 2026 08:12:19 +0000</pubDate>
-      <category>breach</category>
-      <description>A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>IriSig-Spoof: A Real-World Benchmark for Time-Robust Satellite RF Fingerprinting and Spoofing Detection</title>
-      <link>http://arxiv.org/abs/2608.18642v1</link>
-      <guid isPermaLink="false">identitybrief-17b1253ca85fce65</guid>
-      <pubDate>Wed, 19 Aug 2026 07:43:32 +0000</pubDate>
-      <category>research</category>
-      <description>Low Earth orbit (LEO) satellite Internet is becoming critical communications infrastructure, yet its open wireless links remain vulnerable to satellite impersonation and signal spoofing. Radio frequency fingerprinting (RFF) offers a potential defense by exploiting transmitter-specific hardware imperfections manifested in received signals. However, the…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>VQC-ZTI: Variational Quantum Control for Zero Trust Protection of the Tactile Internet</title>
-      <link>http://arxiv.org/abs/2608.18572v1</link>
-      <guid isPermaLink="false">identitybrief-9dd5d084970f9fe6</guid>
-      <pubDate>Wed, 19 Aug 2026 06:08:41 +0000</pubDate>
-      <category>research</category>
-      <description>Tactile Internet services couple cyber events directly to physical actuation, so security decisions must improve risk discrimination without perturbing the control path. This paper presents VQC-ZTI, a split-plane Variational Quantum Classifier framework for zero-trust protection of Tactile Internet services, in which an off-path VQC analyzes encrypted-flow…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Agentic AI and Identity: What Happens When Identity Can Act on Your Behalf?</title>
-      <link>https://www.jumio.com/agentic-ai-identity-autonomous-fraud-prevention/</link>
-      <guid isPermaLink="false">identitybrief-bbd69074c36c8f01</guid>
-      <pubDate>Fri, 21 Aug 2026 13:00:36 +0000</pubDate>
-      <category>fraud</category>
-      <description>Autonomous AI agents don’t wait for instructions. They open accounts, initiate high-value transactions, modify access privileges, execute smart contracts, and interact with other AI agents — all without ongoing human confirmation. The implications for fraud are significant and already materializing. The FTC reported losses of $5.7 billion to fraud in 2024,…
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>Serpro’s 376M biometric database underpins Brazil’s sovereign identity strategy</title>
-      <link>https://www.biometricupdate.com/202608/serpros-376m-biometric-database-underpins-brazils-sovereign-identity-strategy</link>
-      <guid isPermaLink="false">identitybrief-2b41dde51d18013f</guid>
-      <pubDate>Fri, 21 Aug 2026 17:05:53 +0000</pubDate>
-      <category>did</category>
-      <description>Brazil’s digital identity transformation has been decades in the making. The country is moving from fragmented identity databases and point-in-time biometric verification toward shared national infrastructure connecting identity, authoritative government data and population-scale biometrics. Its next ambition goes further: continuous authentication running… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>UNRWA’s digital ID platform expands role in refugee aid delivery</title>
-      <link>https://www.biometricupdate.com/202608/unrwas-digital-id-platform-expands-role-in-refugee-aid-delivery</link>
-      <guid isPermaLink="false">identitybrief-084de3d82b026f00</guid>
-      <pubDate>Fri, 21 Aug 2026 13:43:22 +0000</pubDate>
-      <category>did</category>
-      <description>The United Nations Relief and Works Agency for Palestinian Refugees in the Near East (UNRWA) is using its eUNRWA digital identity platform as the authentication layer for humanitarian aid distribution to Palestinian refugees in Lebanon, as new European funding expands cash assistance delivered through the system. UNRWA recently announced it had received €3…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Malaysian gov’t considers bid to acquire Datasonic from NexG for $1.9B</title>
-      <link>https://www.biometricupdate.com/202608/malaysian-govt-considers-bid-to-acquire-datasonic-from-nexg-for-1-9b</link>
-      <guid isPermaLink="false">identitybrief-b8cfb695c096f579</guid>
-      <pubDate>Fri, 21 Aug 2026 18:29:48 +0000</pubDate>
-      <category>did</category>
-      <description>Malaysia’s government is considering making a bid to buy out Datasonic Technologies, maker of national digital ID cards MyKad and the country’s biometric passports, from parent company NexG . NexG said on Thursday that the government has inquired about a price to acquire Datasonic, The Edge Malaysia reports. The preliminary value of the deal is reported to… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>New SynkLoader malware pushed in Microsoft Teams phishing campaign</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/</link>
-      <guid isPermaLink="false">identitybrief-398c86a3f4a9c29f</guid>
-      <pubDate>Fri, 21 Aug 2026 18:01:30 +0000</pubDate>
-      <category>breach</category>
-      <description>A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Critical Microsoft Entra ID vulnerability exploited in the wild (CVE-2026-69836)</title>
-      <link>https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/</link>
-      <guid isPermaLink="false">identitybrief-543081a5cc84b6de</guid>
-      <pubDate>Fri, 21 Aug 2026 12:20:33 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft has patched a critical remote code execution vulnerability (CVE-2026-69836) in Entra ID, reportedly exploited in the wild. Entra ID is Microsoft’s cloud identity service, formerly Azure Active Directory, that verifies logins and controls access to Microsoft 365, Azure, and connected third-party apps. Tracked as CVE-2026-69836, with the maximum…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets</title>
-      <link>https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/</link>
-      <guid isPermaLink="false">identitybrief-1cc3dc435ed6f198</guid>
-      <pubDate>Fri, 21 Aug 2026 14:22:06 +0000</pubDate>
-      <category>breach</category>
-      <description>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Is Online Privacy Possible? How Digital Identities Can Help</title>
-      <link>https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/</link>
-      <guid isPermaLink="false">identitybrief-9824b7d115c464c8</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:10 +0000</pubDate>
-      <category>did</category>
-      <description>Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>OIDF’s key recommendations to Australia’s Digital ID Act review</title>
-      <link>https://openid.net/oidfs-key-recommendations-to-australias-digital-id-act-review/</link>
-      <guid isPermaLink="false">identitybrief-76a75514104890fd</guid>
-      <pubDate>Fri, 21 Aug 2026 08:54:20 +0000</pubDate>
-      <category>did</category>
-      <description>The OpenID Foundation’s Australian Digital Trust Community Group (ADT CG) has submitted formal recommendations to Australia’s statutory review of the Digital ID Act 2024. The submission outlines how Australia’s digital trust infrastructure can be designed so that it emphasises interoperability, ecosystem wide participation, and practical adoption at scale.…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>OIDF responds to ARNECC’s consultation on the Model Participation Rules</title>
-      <link>https://openid.net/oidf-responds-to-arneccs-consultation-on-the-model-participation-rules/</link>
-      <guid isPermaLink="false">identitybrief-baa0b1ba54556336</guid>
-      <pubDate>Fri, 21 Aug 2026 08:40:01 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Foundation’s Australian Digital Trust Community Group (ADT CG) has submitted comments to the Australian Registrars’ National Electronic Conveyancing Council (ARNECC) on Consultation Draft 8.01 of the Model Participation Rules (MPR). The MPR governs how lawyers, conveyancers and financial institutions participate in Australia’s electronic…
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>AWS Security makes an inscrutable choice</title>
-      <link>https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446</link>
-      <guid isPermaLink="false">identitybrief-6416f2e74a79114c</guid>
-      <pubDate>Fri, 21 Aug 2026 23:42:41 +0000</pubDate>
-      <category>breach</category>
-      <description>Quarantining leaked credentials is not good enough It landed in the last few hours.
-
-— via The Register Security</description>
     </item>
 </channel></rss>
