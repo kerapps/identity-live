@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Europe’s digital ID wallets move from pilots to public rollout</title>
+      <link>https://www.biometricupdate.com/202609/europes-digital-id-wallets-move-from-pilots-to-public-rollout</link>
+      <guid isPermaLink="false">identitybrief-77d6a6405a41c4fa</guid>
+      <pubDate>Wed, 02 Sep 2026 21:05:18 +0000</pubDate>
+      <category>did</category>
+      <description>Digital identity wallets are moving from pilot projects into production services across Europe as governments begin launching apps, passing enabling legislation and integrating wallets into banking and public administration. In Romania, the Ministry of Internal Affairs has unveiled ROWallet , the country’s first official digital identity wallet. Available… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Ping extends privileged access controls to Claude AI agents</title>
+      <link>https://www.biometricupdate.com/202609/ping-extends-privileged-access-controls-to-claude-ai-agents</link>
+      <guid isPermaLink="false">identitybrief-f8b8f8132c8a8a4f</guid>
+      <pubDate>Wed, 02 Sep 2026 21:02:14 +0000</pubDate>
+      <category>iam</category>
+      <description>Ping Identity is applying privileged access controls to actions that Claude and other locally operated AI agents perform on employees’ behalf. The company introduces Enterprise Personal Agent Access through PingOne Privilege , with Claude Desktop and Claude Code identified as early use cases. The capability places access controls between an employee’s agent… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>WIOCC secures $300M investment to expand Africa’s digital infrastructure for AI, DPI</title>
+      <link>https://www.biometricupdate.com/202609/wiocc-secures-300m-investment-to-expand-africas-digital-infrastructure-for-ai-dpi</link>
+      <guid isPermaLink="false">identitybrief-601c3caac5a4b140</guid>
+      <pubDate>Wed, 02 Sep 2026 22:44:24 +0000</pubDate>
+      <category>did</category>
+      <description>African digital infrastructure platform WIOCC Group has secured a combined US$300 million investment from Africa Finance Corporation (AFC) and Saudi Arabia's Vision International Investment Company to accelerate data centers, fiber networks and subsea connectivity supporting the continent's growing digital economy. The investment comes as African… It landed in the last few hours.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Warren Harris: Train the workforce and create intelligence frameworks to serve our security mission</title>
+      <link>https://identityweek.net/warren-harris-train-the-workforce-and-create-intelligence-frameworks-to-serve-our-security-mission/</link>
+      <guid isPermaLink="false">identitybrief-318f2e5075b51f72</guid>
+      <pubDate>Wed, 02 Sep 2026 13:45:30 +0000</pubDate>
+      <category>did</category>
+      <description>Identity Week America 2026 is officially open! The nation’s premier event for identity, security, and digital credentialing has kicked off this morning in Washington DC. In the opening keynote, Warren Harris, Chief of the Identity Intelligence Division (I2D) at the Department of War, emphasized that the immediate priority for national defence must be…
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Hackers exploit critical JFrog Artifactory flaw to forge admin tokens</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/</link>
+      <guid isPermaLink="false">identitybrief-75112f57286b40d9</guid>
+      <pubDate>Wed, 02 Sep 2026 15:47:08 +0000</pubDate>
+      <category>breach</category>
+      <description>A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Nearly 22,000 Microsoft Exchange servers remain exposed to critical security flaw (CVE-2026-62911)</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/microsoft-exchange-cve-2026-62911-critical-authentication-bypass-flaw/</link>
+      <guid isPermaLink="false">identitybrief-afd982e37456e6b9</guid>
+      <pubDate>Wed, 02 Sep 2026 13:24:09 +0000</pubDate>
+      <category>breach</category>
+      <description>Nearly 22,000 Microsoft Exchange servers remain unpatched against CVE-2026-62911, a critical authentication bypass vulnerability, according to daily scans from the Shadowserver Foundation. The United States and Germany top the list with 6,200 and 5,100 unpatched servers. CVE-2026-62911 is a critical severity vulnerability, and Microsoft describes it as…
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Bionomad: Live enrollments all show. Meet them on booth 626! #IDWA2026</title>
+      <link>https://identityweek.net/bionomad-live-enrollments-all-show-meet-them-on-booth-626-idwa2026/</link>
+      <guid isPermaLink="false">identitybrief-4b4ebc3d7144b191</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:42 +0000</pubDate>
+      <category>auth</category>
+      <description>SIC Biometrics is bringing a single sealed case that carries an entire enrollment mission – fingerprint and palm, iris, face and credentials. Open it, and you are collecting. It is one of two new devices we are bringing to the show – the second we are keeping under wraps until you visit us. Enrollment rarely […]
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>SPADE: SPaT Attack Detection from the Connected Vehicle's Perspective</title>
+      <link>http://arxiv.org/abs/2609.02741v1</link>
+      <guid isPermaLink="false">identitybrief-c5778c03f104f0e4</guid>
+      <pubDate>Wed, 02 Sep 2026 15:46:55 +0000</pubDate>
+      <category>research</category>
+      <description>Signal Phase and Timing (SPaT) messages are a cornerstone of connected vehicle (CV) safety, enabling CVs to perceive and respond to intersection state through Vehicle-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) communication. The integrity of these messages is threatened by a range of application-layer attacks that can bypass conventional… And it ships with code, so you can try it rather than just read about it.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>SonicWall reports two major security holes under active exploit</title>
+      <link>https://www.csoonline.com/article/4217682/sonicwall-reports-two-major-security-holes-under-active-exploit-2.html</link>
+      <guid isPermaLink="false">identitybrief-6588ecb16e6a6046</guid>
+      <pubDate>Wed, 02 Sep 2026 23:22:10 +0000</pubDate>
+      <category>breach</category>
+      <description>SonicWall on Monday reported two major security holes in its Secure Mobile Access 1000 series appliances, both of which it said are being actively exploited, and published patches for each. Consultants called the holes, one of which permits remote attacks that bypass authentication, highly troubling. In its security alert , SonicWall described the first… It landed in the last few hours.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Impersonating IT support: how threat actors turn a remote session into enterprise-wide access</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/</link>
+      <guid isPermaLink="false">identitybrief-0f6bf76cd7a872cc</guid>
+      <pubDate>Wed, 02 Sep 2026 22:51:18 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the… It landed in the last few hours.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use</title>
+      <link>http://arxiv.org/abs/2609.02690v1</link>
+      <guid isPermaLink="false">identitybrief-5ab93ddc4aa57784</guid>
+      <pubDate>Wed, 02 Sep 2026 14:58:17 +0000</pubDate>
+      <category>research</category>
+      <description>Remote Model Context Protocol (MCP) services enable large language model agents to invoke external tools, but OAuth authorization alone does not ensure that a later tool call is executed by the provider-side workload that the relying party intended to trust. An endpoint may remain authorized even after execution shifts to a substituted workload, relies on…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The Shape of Ownership: Verifying LLM Provenance through Semantic Structures</title>
+      <link>http://arxiv.org/abs/2609.02553v1</link>
+      <guid isPermaLink="false">identitybrief-5fd0ba93585b40d6</guid>
+      <pubDate>Wed, 02 Sep 2026 13:04:51 +0000</pubDate>
+      <category>research</category>
+      <description>As large language models (LLMs) are increasingly redistributed, adapted, and served behind opaque APIs, model ownership can no longer be established reliably by inspecting model internals or deployment records. This creates a need for behavioral signatures that remain observable through black-box interaction. Yet most existing black-box fingerprints…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Exploited JFrog Artifactory bug puts software supply chain on alert</title>
+      <link>https://www.csoonline.com/article/4217534/exploited-jfrog-artifactory-bug-puts-software-supply-chain-on-alert.html</link>
+      <guid isPermaLink="false">identitybrief-d3ac64b700ff1145</guid>
+      <pubDate>Wed, 02 Sep 2026 12:24:40 +0000</pubDate>
+      <category>breach</category>
+      <description>A critical authentication bypass in JFrog Artifactory is now being exploited in the wild, with attackers observed generating administrator tokens and probing the software supply-chain platform’s sensitive data. The flaw, tracked as CVE-2026-82329 , was disclosed by JFrog on August 28 and can, under default configuration, allow an unauthenticated attacker…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Yubico expands OpenAI partnership to new countries as hardware-backed passkey mandate begins for Trusted Access for Cyber program</title>
+      <link>https://www.yubico.com/blog/yubico-expands-openai-partnership-to-new-countries-as-hardware-backed-passkey-mandate-begins-for-trusted-access-for-cyber-program/</link>
+      <guid isPermaLink="false">identitybrief-1408b265a481b08f</guid>
+      <pubDate>Wed, 02 Sep 2026 19:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Protecting the security researchers and defenders on the frontlines of AI requires phishing-resistant account protection that keeps powerful capabilities in trusted hands. Marking a major milestone in this effort, OpenAI’s Advanced Account Security (AAS) program goes live today, September 1, 2026 – requiring hardware-backed passkeys for all Trusted Access…
+
+— via Yubico</description>
+    </item>
+    <item>
       <title>Open-source secrets scanning tool Sift hunts credentials in Microsoft 365, Slack, and Jira</title>
       <link>https://www.helpnetsecurity.com/2026/09/02/sift-open-source-secret-scanning/</link>
       <guid isPermaLink="false">identitybrief-45bfe55e7bdd46cc</guid>
@@ -1362,145 +1502,5 @@
       <description>With the progression in open and disaggregated 6G radio access networks, it is expected that the system will be able to host multi-vendors. In order to host multi-vendors, it is essential that AI-assisted control loops remain safe, verifiable, and auditable under concurrent operator intents and untrusted model inputs. The existing studies address the…
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data</title>
-      <link>https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html</link>
-      <guid isPermaLink="false">identitybrief-bef5200712ab8f6d</guid>
-      <pubDate>Wed, 19 Aug 2026 05:39:25 +0000</pubDate>
-      <category>breach</category>
-      <description>A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web shell as a fully equipped extortion…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
-      <guid isPermaLink="false">identitybrief-58f66a40c663c669</guid>
-      <pubDate>Fri, 21 Aug 2026 06:06:11 +0000</pubDate>
-      <category>breach</category>
-      <description>Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the "Exploited" field under the Exploitability Assessment table as "Yes," on August 21, 2026, Microsoft corrected the "Exploited" status to "No" after The Hacker News contacted the company for comment. It…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Accessing modern security belief systems: Hear our keynote presentations</title>
-      <link>https://identityweek.net/accessing-modern-security-belief-systems-presented-by-our-keynote-speakers/</link>
-      <guid isPermaLink="false">identitybrief-b973b0bbdd331593</guid>
-      <pubDate>Thu, 20 Aug 2026 11:47:35 +0000</pubDate>
-      <category>iam</category>
-      <description>Industry executives, transport officials, and national security strategists are heading to Washington DC for the premier identity event of the year, Identity Week America 2026. Across our critical sessions and keynotes, we will be presenting action points to replace reactive and fragmented defence mechanisms with modern identity infrastructure which can…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Active Directory Domain Services modules on Microsoft Learn</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHFlZ2VCb3hqODEwanhrOFVrN3JDTWNYRFd4T3B2bE5KYnFmOTcyZkpxdWpzSTd3UzJ2b19LRUlhT3B1RUtTSjFJeTY4TlpHSXRPelVveW1vSURwY3luam1fUW13cHE5NkduMjllN1dHd1B1bWlpTHhJcXFtdVFOM1JvS3JJZ29oMUxraE82SEpFZjBRMTNTNHZfWk0wVjNpdHFrSTROaWRSak1zTEFrcms5WF9ZdVBOOWRIeENfNmVGeFJWVEdoSkVyT2UybmVlNEJrYw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-2fbc84d91f925724</guid>
-      <pubDate>Sat, 22 Aug 2026 18:10:17 +0000</pubDate>
-      <category>iam</category>
-      <description>Active Directory Domain Services modules on Microsoft Learn Microsoft Community Hub
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>The expanding role of face biometrics, for better and for worse</title>
-      <link>https://www.biometricupdate.com/202608/the-expanding-role-of-face-biometrics-for-better-and-for-worse</link>
-      <guid isPermaLink="false">identitybrief-0f2b03015ca1f1cd</guid>
-      <pubDate>Sat, 22 Aug 2026 15:54:34 +0000</pubDate>
-      <category>auth</category>
-      <description>Face biometrics software can add investigative capabilities, secure access points and enable whole new applications wherever there is a camera and compute. As integration becomes easier, face biometrics is moving from a standalone technology into the infrastructure of retail, identity, immigration, wearables and everyday devices. Several of this week's top… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Named Pipes Under Attack: Securing Windows Interprocess Communication</title>
-      <link>https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/</link>
-      <guid isPermaLink="false">identitybrief-50baa94d6d917a63</guid>
-      <pubDate>Sat, 22 Aug 2026 13:00:09 +0000</pubDate>
-      <category>iam</category>
-      <description>Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Microsoft patches max severity code execution, privilege escalation flaws</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/</link>
-      <guid isPermaLink="false">identitybrief-0737ab0ad0a460e8</guid>
-      <pubDate>Fri, 21 Aug 2026 11:04:10 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>OpenID Foundation says interoperability should drive Australia’s verifiable credentials strategy</title>
-      <link>https://www.biometricupdate.com/202608/openid-foundation-says-interoperability-should-drive-australias-verifiable-credentials-strategy</link>
-      <guid isPermaLink="false">identitybrief-ed79c0ebeb5f1f53</guid>
-      <pubDate>Fri, 21 Aug 2026 11:01:00 +0000</pubDate>
-      <category>did</category>
-      <description>Interoperability is a key issue identified by the OpenID Foundation in its response to the Australian Government’s Department of Finance consultation on verifiable credentials policy. In a published statement , the OpenID Foundation’s Australian Digital Trust Community Group (ADT CG) “encourages the Department to continue to focus on interoperability as…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>GCC digital ID boom masks fragmented verification landscape</title>
-      <link>https://www.biometricupdate.com/202608/gcc-digital-id-boom-masks-fragmented-verification-landscape</link>
-      <guid isPermaLink="false">identitybrief-2a9838084c460cc4</guid>
-      <pubDate>Fri, 21 Aug 2026 14:06:17 +0000</pubDate>
-      <category>did</category>
-      <description>The Gulf Cooperation Council is often viewed as a single digital identity market, but verification providers expanding across the region face six distinct regulatory and technical environments, according to a new guide from Shufti. Each of the six GCC countries now operates its own national digital identity system, but a verification flow designed for one…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)</title>
-      <link>https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/</link>
-      <guid isPermaLink="false">identitybrief-72c1d0a6cedd82dc</guid>
-      <pubDate>Fri, 21 Aug 2026 07:55:43 +0000</pubDate>
-      <category>breach</category>
-      <description>Citrix has patched two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical authentication bypass flaw tracked as CVE-2026-19490, and is urging customers to upgrade affected appliances as soon as possible. “We strongly recommend that customers review the official NetScaler ADC and NetScaler Gateway security bulletin, assess whether…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts</title>
-      <link>https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</link>
-      <guid isPermaLink="false">identitybrief-3c650cb216c56d62</guid>
-      <pubDate>Thu, 20 Aug 2026 19:59:19 +0000</pubDate>
-      <category>auth</category>
-      <description>Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. "These…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>North Carolina to offer mobile driver licences</title>
-      <link>https://identityweek.net/north-carolina-to-offer-mobile-driver-licences/</link>
-      <guid isPermaLink="false">identitybrief-6259ead41aa38b86</guid>
-      <pubDate>Fri, 21 Aug 2026 11:02:29 +0000</pubDate>
-      <category>did</category>
-      <description>North Carolina residents will soon have access to the NCDMV Mobile ID Program, securing a digital version of their state driver’s license or state ID directly on their smartphones. Authorised under state law, the mobile driver’s license serves as a fully valid legal equivalent to a physical card, offering a convenient and optional way for […]
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>SickKids data breach exposes employee and job applicant info</title>
-      <link>https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/</link>
-      <guid isPermaLink="false">identitybrief-013f7480d9c9ba02</guid>
-      <pubDate>Fri, 21 Aug 2026 10:10:42 +0000</pubDate>
-      <category>breach</category>
-      <description>Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>AI threats are everywhere. A risk-first CISO decides what to prioritize</title>
-      <link>https://www.csoonline.com/article/4212017/ai-threats-are-everywhere-a-risk-first-ciso-decides-what-to-prioritize.html</link>
-      <guid isPermaLink="false">identitybrief-0c34fb8fbcf0f267</guid>
-      <pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>The good news? AI gives cyber defenders some of the best discovery tooling they’ve ever had. The bad news? It gives attackers the same capability. This duality has left CISOs managing AI on two simultaneous fronts. Outside the organization, attackers are using AI to make phishing more convincing, automate reconnaissance and compress the time between…
-
-— via CSO Online</description>
     </item>
 </channel></rss>
