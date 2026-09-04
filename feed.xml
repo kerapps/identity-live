@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>A five-part inventory for your AI agent credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/09/04/ai-agent-credentials-video/</link>
+      <guid isPermaLink="false">identitybrief-2ddec695a3a66790</guid>
+      <pubDate>Fri, 04 Sep 2026 05:30:39 +0000</pubDate>
+      <category>fraud</category>
+      <description>A five-part inventory can help you manage AI agent credentials better. AI agents with unreviewed credentials function under the radar, raising security concerns. The issue is that these identities often bypass typical review processes, which could lead to unanticipated risks.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Authologic becomes registered issuer of EUDI-ready digital credentials in Poland</title>
+      <link>https://www.biometricupdate.com/202609/authologic-becomes-registered-issuer-of-eudi-ready-digital-credentials-in-poland</link>
+      <guid isPermaLink="false">identitybrief-c6815c2bba4785ba</guid>
+      <pubDate>Thu, 03 Sep 2026 22:42:43 +0000</pubDate>
+      <category>did</category>
+      <description>Authologic in Poland now issues EUDI-ready digital credentials. This move means they can create reusable identities for digital wallets, aligning with eIDAS standards. However, they aren't yet qualified to issue the top-tier verified credentials, limiting some of their offerings.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>New infosec products of the week: September 4, 2026</title>
+      <link>https://www.helpnetsecurity.com/2026/09/04/new-infosec-products-of-the-week-september-4-2026/</link>
+      <guid isPermaLink="false">identitybrief-0aabbf7bc0dc3db7</guid>
+      <pubDate>Fri, 04 Sep 2026 04:00:34 +0000</pubDate>
+      <category>iam</category>
+      <description>New infosec products from companies like Ping Identity and F5 were released this week. Highlights include improved virtual patching for AI threats, emphasizing real-time protection. These setups currently address select vulnerabilities and might not cover legacy systems fully.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>World releases open-source toolkit for privacy-preserving identity proofs</title>
+      <link>https://www.biometricupdate.com/202609/world-releases-open-source-toolkit-for-privacy-preserving-identity-proofs</link>
+      <guid isPermaLink="false">identitybrief-875071ba5be424c3</guid>
+      <pubDate>Thu, 03 Sep 2026 23:34:38 +0000</pubDate>
+      <category>did</category>
+      <description>World launched ProveKit for generating privacy-preserving identity proofs on devices. This toolkit aims to enhance individual privacy through zero-knowledge proofs. It's in its early stages, so the toolkit's industry adoption remains to be seen.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Asia-Pacific digital identity rollout reveals widening regional divide</title>
+      <link>https://www.biometricupdate.com/202609/asia-pacific-digital-identity-rollout-reveals-widening-regional-divide</link>
+      <guid isPermaLink="false">identitybrief-1371e969c3a57f4e</guid>
+      <pubDate>Thu, 03 Sep 2026 22:55:15 +0000</pubDate>
+      <category>did</category>
+      <description>A report reveals a divide in the Asia-Pacific digital identity rollout. This reflects different national approaches and could risk excluding millions of stateless individuals. Policymakers need to consider these diverse ecosystems' social impacts.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories</title>
+      <link>https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html</link>
+      <guid isPermaLink="false">identitybrief-517c6272dbd33f48</guid>
+      <pubDate>Thu, 03 Sep 2026 18:02:47 +0000</pubDate>
+      <category>breach</category>
+      <description>ThreatsDay spotlights tactics, like OAuth traps and phishing kits, that leverage normal communication channels for attacks. This mimics legitimate IT interactions, making them hard to distinguish from real alerts. Regular user training on these evolving tactics is crucial.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Russian man indicted for spreading malware to 80,000 freelancers</title>
+      <link>https://www.helpnetsecurity.com/2026/09/03/russian-national-indicted-freelance-platform-malware/</link>
+      <guid isPermaLink="false">identitybrief-67ac5043e01cd493</guid>
+      <pubDate>Thu, 03 Sep 2026 10:43:36 +0000</pubDate>
+      <category>fraud</category>
+      <description>A Russian man was indicted for deploying malware via fake freelancer platform accounts. This malware targeted 80,000 users, stealing identity data. The incident highlights the need for strong credential verification on platforms.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</title>
+      <link>https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/</link>
+      <guid isPermaLink="false">identitybrief-503bd4d9d42b1305</guid>
+      <pubDate>Thu, 03 Sep 2026 10:30:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Cisco warns of unpatched email flaws that could expose encrypted emails. It also addressed vulnerabilities allowing remote code execution and authentication bypass. Teams should prioritize updates and watch for disclosures about unpatched areas.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Beyond the Trust Boundary: A Critical Reassessment of the FIDO2 Threat Model</title>
+      <link>http://arxiv.org/abs/2609.03789v1</link>
+      <guid isPermaLink="false">identitybrief-0e593e34ad48b088</guid>
+      <pubDate>Thu, 03 Sep 2026 13:00:19 +0000</pubDate>
+      <category>research</category>
+      <description>A paper reexamines the FIDO2 threat model, highlighting overlooked vulnerabilities. Despite FIDO2's recognition as phishing-resistant, the study reveals potential weaknesses in its stack. Patching these gaps could be complex and vary across implementations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Doug Aley on why adaptability will define the next 12-18 months in identity security</title>
+      <link>https://liminal.co/articles/identity-security-adaptability-doug-aley-friday-five/</link>
+      <guid isPermaLink="false">identitybrief-d8fdaef8c9b6c7a5</guid>
+      <pubDate>Thu, 03 Sep 2026 13:28:34 +0000</pubDate>
+      <category>fraud</category>
+      <description>Doug Aley discusses why adaptation will be vital for identity security over the next year. He emphasizes the challenge beyond just AI models or attacks, focusing on adopting flexible security strategies. The key question remains how to adjust to ever-evolving threats and technologies.
+
+— via Liminal</description>
+    </item>
+    <item>
+      <title>Coder's registry infrastructure compromised to push malicious modules</title>
+      <link>https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/</link>
+      <guid isPermaLink="false">identitybrief-3856025fc9eb2dc7</guid>
+      <pubDate>Thu, 03 Sep 2026 20:04:24 +0000</pubDate>
+      <category>breach</category>
+      <description>An attack exploited Coder's infrastructure to inject malicious Terraform modules. It involved altering registry servers to distribute credential-stealing code. Fixes must ensure registry permissions are tightly controlled to prevent reoccurrences.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center</title>
+      <link>http://arxiv.org/abs/2609.04159v1</link>
+      <guid isPermaLink="false">identitybrief-7226e2b166f02fc3</guid>
+      <pubDate>Thu, 03 Sep 2026 17:49:12 +0000</pubDate>
+      <category>research</category>
+      <description>SENTINEL-RL decouples topological reasoning from LLMs in SOCs. This aims to improve reliability by separating network mapping from semantic processing. The separate reasoning methods are currently theoretical and require real-world SOC testing.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ASCII smuggling crosses over from AI prompt injection to phishing evasion</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
+      <guid isPermaLink="false">identitybrief-1ba086852b57f865</guid>
+      <pubDate>Thu, 03 Sep 2026 16:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft warns about ASCII smuggling used to evade phishing filters. It uses invisible characters to bypass email security systems. This technique needs updated filter rules to catch and prevent hidden text threats effectively.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>AI agents act without approval. How to govern them</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPdW1VWHhwclMtUGxySjNwVERJdTJUNE93M1pmdmdoUFYydU5rb3puUllGN2dJdFd3cVdvam50SFZna21RMTFJeFZYZUoxMEEyMVdHSnBfLWJOTnozcTlfV3pHMVlYTXFad2xQcFFfU3dXbDZqdk5CNDJrSWZENHd2M3NNYVBFcmE2a2pyMEpZYlRkRnBGWlE?oc=5</link>
+      <guid isPermaLink="false">identitybrief-bceb5a5c16e78cd7</guid>
+      <pubDate>Fri, 04 Sep 2026 02:54:08 +0000</pubDate>
+      <category>iam</category>
+      <description>AI agents often act autonomously, causing governance challenges without human approval. The article suggests frameworks for better management. These frameworks need tailoring to specific organizational workflows to be effective.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>Europe’s digital ID wallets move from pilots to public rollout</title>
       <link>https://www.biometricupdate.com/202609/europes-digital-id-wallets-move-from-pilots-to-public-rollout</link>
       <guid isPermaLink="false">identitybrief-77d6a6405a41c4fa</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Mon, 24 Aug 2026 08:03:56 +0000</pubDate>
       <category>research</category>
       <description>Agent runtimes can Checkpoint an execution, Fork it, Restore a checkpoint, or Merge branches without restarting a task. We call these operations execution edits, with Checkpoint recording the current execution for later use and Fork, Restore, and Merge changing what the Agent will do next. An execution edit cannot undo an earlier authorization or a tool… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks</title>
-      <link>https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015</link>
-      <guid isPermaLink="false">identitybrief-f147939b4ba8b5e0</guid>
-      <pubDate>Mon, 24 Aug 2026 21:07:10 +0000</pubDate>
-      <category>auth</category>
-      <description>Glassbox dev admits he had some help from Claude to build locally running tool It landed in the last few hours.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Your Identity Fabric Wasn't Built for AI Agents</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNbE9KdUlVOWxQeFF3YWl3RmhSWEtkTWtoeXlaTWd3NXhpbnZ0YkgxWkx2cVNQbE1KX2tlYlMzU0hsd3hCd2JDMERxdDl5YjRuQWxpSTN1dlJGOVo1NHdmUFQ4T3p4N3Y5UnktQUN1clhRaUZXaXExUzZsQktybWtkal9mY295TkZxWkZVRzV0bw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-8f18cafc05ea2dbb</guid>
-      <pubDate>Mon, 24 Aug 2026 09:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Your Identity Fabric Wasn't Built for AI Agents KuppingerCole Analysts
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>New Zealand to pursue social media ban for children under 16</title>
-      <link>https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children</link>
-      <guid isPermaLink="false">identitybrief-c271bea094a01d66</guid>
-      <pubDate>Mon, 24 Aug 2026 20:36:00 +0000</pubDate>
-      <category>did</category>
-      <description>The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation, digital ID services, formal IDs and existing account information for verification. It landed in the last few hours.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Airport and AI Technology Executive Alex Covarrubias Guides Indicio on AI and Travel</title>
-      <link>https://indicio.tech/blog/alex-covarrubias-indicio-strategic-advisor/</link>
-      <guid isPermaLink="false">identitybrief-41b3d8d7b791e822</guid>
-      <pubDate>Mon, 24 Aug 2026 16:13:06 +0000</pubDate>
-      <category>did</category>
-      <description>Covarrubias, an airport technology expert and Strategic Advisor at Indicio, has recently focused on putting AI to work inside airports and airlines. He supports Indicio as the company extends its digital identity platform into travel, financial services, and the identity layer that AI systems will run on. By Helen Garneau SEATTLE, AUGUST 24, 2026: Alex… It landed in the last few hours.
-
-— via Indicio</description>
-    </item>
-    <item>
-      <title>Forging the Path to Enterprise Passkeys: A Collaborative Discussion by FIDO Board Members</title>
-      <link>https://fidoalliance.org/forging-the-path-to-enterprise-passkeys-a-collaborative-discussion-by-fido-board-members/</link>
-      <guid isPermaLink="false">identitybrief-fe868fa5120ae399</guid>
-      <pubDate>Sun, 23 Aug 2026 14:19:38 +0000</pubDate>
-      <category>auth</category>
-      <description>On July 22nd, representatives from two FIDO Alliance board and FIDO Japan WG members, RSA and Mercari, met in Tokyo to discuss the next critical frontier: Enterprise passkey adoption. The […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>FIDO Spanish Webinar: Buenas prácticas para implementar passkeys</title>
-      <link>https://fidoalliance.org/fido-spanish-webinar-buenas-practicas-para-implementar-passkeys/</link>
-      <guid isPermaLink="false">identitybrief-0cef407d991012fa</guid>
-      <pubDate>Sun, 23 Aug 2026 11:39:41 +0000</pubDate>
-      <category>auth</category>
-      <description>Watch the presentation Webinar | Buenas prácticas para implementar passkeys Las passkeys ya son una realidad, con más de 5.000 millones en uso y resultados comprobados en seguridad y experiencia. […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Recap: FIDO Alliance India Working Group Member Meetup &amp; Workshop 2026</title>
-      <link>https://fidoalliance.org/recap-fido-alliance-india-working-group-member-meetup-workshop-2026/</link>
-      <guid isPermaLink="false">identitybrief-39d221bf1acbc086</guid>
-      <pubDate>Sun, 23 Aug 2026 13:10:50 +0000</pubDate>
-      <category>auth</category>
-      <description>On Friday, August 7th, 2026, the FIDO Alliance India Working Group hosted its third annual in-person Member Meetup and Workshop at Google Ananta, Bengaluru, gathering approximately 170 security leaders, engineers, […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Week in review: Records allegedly stolen from Azure tenants, Medusa ransomware hits 500+ orgs</title>
-      <link>https://www.helpnetsecurity.com/2026/08/23/week-in-review-records-allegedly-stolen-from-azure-tenants-medusa-ransomware-hits-500-orgs/</link>
-      <guid isPermaLink="false">identitybrief-d31db52c26e1a1e7</guid>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Windows 11’s strongest security defenses can be bypassed without a screwdriver Researchers from the University of Birmingham and Durham University have found a way to knock down some of the toughest protections in Windows 11 without physically opening or…
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>HarmonEyes brings eye tracking technology to the age assurance space</title>
-      <link>https://www.biometricupdate.com/202608/harmoneyes-brings-eye-tracking-technology-to-the-age-assurance-space</link>
-      <guid isPermaLink="false">identitybrief-1decf9f204427c14</guid>
-      <pubDate>Fri, 21 Aug 2026 11:33:52 +0000</pubDate>
-      <category>did</category>
-      <description>For many of us of a certain vintage, our first encounter with biometrics was probably on screen – specifically, in a detective story. Dusting for prints, pressing fingers into an ink pad then recording the print on paper: these are familiar tropes from stories that feature forensic police work. These days, the biometrics industry belongs to faces. Selfie…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>NIST picks 11 contactless fingerprint biometrics providers for certification testing</title>
-      <link>https://www.biometricupdate.com/202608/nist-picks-11-contactless-fingerprint-biometrics-providers-for-certification-testing</link>
-      <guid isPermaLink="false">identitybrief-a86a607014bf85d0</guid>
-      <pubDate>Fri, 21 Aug 2026 17:06:33 +0000</pubDate>
-      <category>auth</category>
-      <description>NIST has completed the first phase of its vendor engagements under the Fast Capture (FastCap) program for evaluating contactless fingerprint technologies. Eleven biometrics providers have joined the program under a Cooperative Research and Development Agreement (CRADA) following successful qualification testing. The testing stage included cooperative…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Sri Lanka advances biometric passport rollout with new immigration bill</title>
-      <link>https://www.biometricupdate.com/202608/sri-lanka-advances-biometric-passport-rollout-with-new-immigration-bill</link>
-      <guid isPermaLink="false">identitybrief-0c5a25191319d7b6</guid>
-      <pubDate>Fri, 21 Aug 2026 15:35:57 +0000</pubDate>
-      <category>auth</category>
-      <description>Sri Lanka has taken another step toward introducing biometric passports after the Cabinet approved a new Immigration Bill that establishes the legal framework for fingerprint collection and electronic passport issuance. The legislation, now published in the Government Gazette ahead of parliamentary consideration, will replace the country's Immigration and…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>MATEE: Efficiently Bridging the Semantic Gap in TrustZone via Arm Pointer Authentication</title>
-      <link>http://arxiv.org/abs/2608.20583v1</link>
-      <guid isPermaLink="false">identitybrief-0248c6d980144389</guid>
-      <pubDate>Thu, 20 Aug 2026 21:33:06 +0000</pubDate>
-      <category>research</category>
-      <description>Trusted Execution Environments (TEEs) employ hardware-based isolation mechanisms to safeguard the confidentiality and integrity of sensitive code and data. One such prevalent implementation is Arm TrustZone, which partitions the system into the secure and normal (non-secure) worlds. However, this partitioning results in the secure world having very limited…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AID-Guard: Stateful Authorization for Delegated Agent Effects</title>
-      <link>http://arxiv.org/abs/2608.21159v1</link>
-      <guid isPermaLink="false">identitybrief-ad0dd562aee2d2db</guid>
-      <pubDate>Fri, 21 Aug 2026 14:31:29 +0000</pubDate>
-      <category>research</category>
-      <description>Tool-using AI agents turn delegated tasks into provider effects, yet authorization often ends at admission while provider state, delivery, retry, and recovery evolve. A request may change before commit, or response loss may cause a replacement to create a second effect from one approval. We present AID-Guard, a stateful authorization-to-effect closure…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>$Z^2$-ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN</title>
-      <link>http://arxiv.org/abs/2608.21049v1</link>
-      <guid isPermaLink="false">identitybrief-74eb5f7d84b89c9a</guid>
-      <pubDate>Fri, 21 Aug 2026 12:44:03 +0000</pubDate>
-      <category>research</category>
-      <description>With the progression in open and disaggregated 6G radio access networks, it is expected that the system will be able to host multi-vendors. In order to host multi-vendors, it is essential that AI-assisted control loops remain safe, verifiable, and auditable under concurrent operator intents and untrusted model inputs. The existing studies address the…
 
 — via arXiv</description>
     </item>
