@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Sri Lanka sets Q4 target for SL-UDI rollout</title>
+      <link>https://www.biometricupdate.com/202609/sri-lanka-sets-q4-target-for-sl-udi-rollout</link>
+      <guid isPermaLink="false">identitybrief-ae54eb86746a7826</guid>
+      <pubDate>Fri, 04 Sep 2026 21:47:09 +0000</pubDate>
+      <category>did</category>
+      <description>Sri Lanka plans to start issuing its digital IDs next quarter, aiming to streamline access to services like banking and education. This rollout marks a significant step in modernizing identity verification, potentially reducing fraud. The initial phase will cover a limited group, so widespread adoption will take some time.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Madagascar strengthens trust architecture for national digital ID</title>
+      <link>https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id</link>
+      <guid isPermaLink="false">identitybrief-85a3a40a61c796cf</guid>
+      <pubDate>Fri, 04 Sep 2026 21:45:43 +0000</pubDate>
+      <category>did</category>
+      <description>Madagascar is updating its national digital ID framework alongside new cybercrime laws. This strengthens ID security, potentially curbing fraud and misuse. However, these reforms will depend on effective legislative approval and implementation.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Listen: How age assurance platforms earn trust</title>
+      <link>https://www.biometricupdate.com/202609/listen-how-age-assurance-platforms-earn-trust</link>
+      <guid isPermaLink="false">identitybrief-1b8d0bc4c2c2a766</guid>
+      <pubDate>Fri, 04 Sep 2026 23:08:07 +0000</pubDate>
+      <category>did</category>
+      <description>A podcast explores how age assurance platforms gain user trust without over-sharing personal data. These insights are crucial as digital services grow in regulation for age-restricted content. The challenge remains balancing convenience with privacy and data protection.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>39 New Methods That Compromise Passkey Authentication</title>
+      <link>https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/</link>
+      <guid isPermaLink="false">identitybrief-05ada228f418a46f</guid>
+      <pubDate>Fri, 04 Sep 2026 14:01:11 +0000</pubDate>
+      <category>breach</category>
+      <description>Research highlights 39 methods to undermine passkey authentication, despite its FIDO2 backing. Understanding these vulnerabilities is crucial for improving and securing passwordless strategies. It's sponsored content, so check the claims independently.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>IDScan sued over alleged data breach affecting 153 million drivers</title>
+      <link>https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/</link>
+      <guid isPermaLink="false">identitybrief-7625c1a871d792b0</guid>
+      <pubDate>Fri, 04 Sep 2026 16:56:45 +0000</pubDate>
+      <category>fraud</category>
+      <description>IDScan faces lawsuits following a data breach exposing 153 million driver's licenses. This highlights risks in storing extensive identity data, signaling for tighter security measures. The legal outcomes are pending, but damage control and trust rebuilding are key now.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters</title>
+      <link>https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html</link>
+      <guid isPermaLink="false">identitybrief-2546d0986a891e41</guid>
+      <pubDate>Fri, 04 Sep 2026 15:57:15 +0000</pubDate>
+      <category>breach</category>
+      <description>A high-volume phishing campaign uses invisible Unicode characters to bypass email filters. This technique complicates detecting malicious emails based on content parsing. Existing email filters may need updates to adapt to such sophisticated evasion tactics.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Microsoft Teams is about to make QR code phishing much harder</title>
+      <link>https://www.helpnetsecurity.com/2026/09/04/microsoft-teams-qr-code-phishing-protection/</link>
+      <guid isPermaLink="false">identitybrief-bb24b2b947efd8f6</guid>
+      <pubDate>Fri, 04 Sep 2026 08:28:51 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft Teams will soon block external QR codes to prevent phishing, requiring user action to view them. This adds a barrier to potential scams via QR codes. The rollout isn't until October 2026, so vigilance is still needed in the meantime.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>How to secure edge AI in customer-owned environments</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/</link>
+      <guid isPermaLink="false">identitybrief-2d243c8380dc2f4d</guid>
+      <pubDate>Fri, 04 Sep 2026 19:10:10 +0000</pubDate>
+      <category>auth</category>
+      <description>As AI reaches customer-owned setups, securing AI assets before sharing sensitive data is becoming critical. Proper verification processes must be established to maintain trust. This responsibility is largely on businesses to implement these security measures effectively.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models</title>
+      <link>http://arxiv.org/abs/2609.03247v1</link>
+      <guid isPermaLink="false">identitybrief-0fbad05a8e16937a</guid>
+      <pubDate>Thu, 03 Sep 2026 01:00:58 +0000</pubDate>
+      <category>research</category>
+      <description>Study shows large language models generally reject unsupported identity verification requests. This bolsters confidence in AI's identity claims handling, although they need ongoing refinement. Current models can assess knowledge but not verify personal identity.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Security and Privacy in the Musical Metaverse: Threat Analysis and Design Implications</title>
+      <link>http://arxiv.org/abs/2609.03659v1</link>
+      <guid isPermaLink="false">identitybrief-c68ed914d56af8ea</guid>
+      <pubDate>Thu, 03 Sep 2026 10:56:26 +0000</pubDate>
+      <category>research</category>
+      <description>The Musical Metaverse creates unique security challenges due to continuous data streams in real-time environments. New threat analysis aims to address potential risks to identity and data integrity. Adoption requires careful consideration of these distinct security needs.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Your Employee’s Password Appeared in an Infostealer Log. Now What?</title>
+      <link>https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/</link>
+      <guid isPermaLink="false">identitybrief-0908fd2e61acc776</guid>
+      <pubDate>Thu, 03 Sep 2026 13:50:59 +0000</pubDate>
+      <category>fraud</category>
+      <description>Infostealers can expose more than passwords, risking complete session and MFA bypass. Knowing how to quickly assess and mitigate these risks is essential to prevent account takeover. It's basic advice with sponsor Flare involved, so it's worth checking against third-party insights.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Thomson Reuters reveals breach that exposed U.S. and Canadian court records</title>
+      <link>https://www.helpnetsecurity.com/2026/09/03/thomson-reuters-reveals-breach-that-exposed-u-s-and-canadian-court-records/</link>
+      <guid isPermaLink="false">identitybrief-32000f1180dbea3d</guid>
+      <pubDate>Thu, 03 Sep 2026 13:50:36 +0000</pubDate>
+      <category>breach</category>
+      <description>Thomson Reuters disclosed a breach of their court management system, exposing sensitive court records. This incident underscores the importance of safeguarding judicial data. The scale includes multiple jurisdictions, complicating the legal landscape.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>The Native-Signature Boundary in Post-Quantum Distributed Authorization</title>
+      <link>http://arxiv.org/abs/2609.03547v1</link>
+      <guid isPermaLink="false">identitybrief-3d6b66bebf1b3462</guid>
+      <pubDate>Thu, 03 Sep 2026 08:47:05 +0000</pubDate>
+      <category>research</category>
+      <description>Discussion on post-quantum signatures in distributed authorization systems outlines new challenges. Decoupling signature validation from authorization processes could improve security. However, this requires systems to correctly integrate both new and traditional approaches.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Three identity vendors shipped the same agent access pattern in eight days</title>
+      <link>https://workos.com/blog/cross-app-access-converged-in-eight-days</link>
+      <guid isPermaLink="false">identitybrief-56e36d1d370dde78</guid>
+      <pubDate>Fri, 04 Sep 2026 16:24:43 +0000</pubDate>
+      <category>iam</category>
+      <description>Three identity vendors—Okta, Auth0, Descope—launched similar cross-app access in just over a week. This demonstrates rapid evolution and convergence in identity management solutions. Keeping up with vendor-specific implementations can become a challenge for integration teams.
+
+— via WorkOS</description>
+    </item>
+    <item>
       <title>A five-part inventory for your AI agent credentials</title>
       <link>https://www.helpnetsecurity.com/2026/09/04/ai-agent-credentials-video/</link>
       <guid isPermaLink="false">identitybrief-2ddec695a3a66790</guid>
@@ -1362,145 +1502,5 @@
       <description>By: Joe Ferrigno, Director of Global Safety and Security at Identy.io A border agent goes about their day, inspecting travel documents and cargo, enforcing customs and immigration laws, identifying prohibited goods and responding to security concerns. A traveller approaches with a legitimate-looking passport, along with a digital identity verification…
 
 — via Identity Week</description>
-    </item>
-    <item>
-      <title>Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows</title>
-      <link>https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</link>
-      <guid isPermaLink="false">identitybrief-02168dcbba55cff4</guid>
-      <pubDate>Tue, 25 Aug 2026 11:56:15 +0000</pubDate>
-      <category>breach</category>
-      <description>Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>OpenID Foundation seeks Technical Director</title>
-      <link>https://openid.net/openid-foundation-seeks-technical-director/</link>
-      <guid isPermaLink="false">identitybrief-4093b9604defed62</guid>
-      <pubDate>Tue, 25 Aug 2026 16:17:45 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Foundation is hiring a Technical Director to join its leadership team, reporting to Executive Director Gail Hodges. The role leads the OpenID Foundation’s relationships with priority partners and ecosystems, represents the Foundation at industry and government events, and provides strategic leadership for the Conformance Program. Full-time is… It landed in the last few hours.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>A Drop-in KEM Replacement for Client Signatures in Post-Quantum SSH</title>
-      <link>http://arxiv.org/abs/2608.24447v1</link>
-      <guid isPermaLink="false">identitybrief-f14287603a3d2d54</guid>
-      <pubDate>Tue, 25 Aug 2026 12:01:47 +0000</pubDate>
-      <category>research</category>
-      <description>The transition to post-quantum cryptography is reshaping the Secure Shell (SSH) protocol for remote administration. Post-quantum key exchange has been deployed in OpenSSH and is being standardized, while SSH authentication largely remains a signature-replacement effort. This path preserves the familiar public-key credential model, but inherits the size and…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How to Choose the Right Level of PAM Vault Security</title>
-      <link>https://delinea.com/blog/how-to-choose-the-right-level-of-pam-vault-security</link>
-      <guid isPermaLink="false">identitybrief-8db825d61ac6b3db</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:02 +0000</pubDate>
-      <category>auth</category>
-      <description>I talk with a lot of customers about their identity security challenges. Most have a good handle on protecting human access to infrastructure with strong authentication and least privilege.
-
-— via Delinea</description>
-    </item>
-    <item>
-      <title>Kenya turns to IN Groupe for national digital identity trust infrastructure</title>
-      <link>https://www.biometricupdate.com/202608/kenya-turns-to-in-groupe-for-national-digital-identity-trust-infrastructure</link>
-      <guid isPermaLink="false">identitybrief-88bd20004e9ee1e2</guid>
-      <pubDate>Mon, 24 Aug 2026 21:30:26 +0000</pubDate>
-      <category>did</category>
-      <description>Kenya is exploring a national authentication platform with France's IN Groupe as part of plans to build trusted digital identity infrastructure that allows citizens to securely access public and private services. ICT and Digital Economy Cabinet Secretary William Kabogo met IN Groupe Vice President for Government Programs Céline Gouveia to discuss the… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>NIST taps Electrosoft to advance post-quantum digital identity</title>
-      <link>https://www.biometricupdate.com/202608/nist-taps-electrosoft-to-advance-post-quantum-digital-identity</link>
-      <guid isPermaLink="false">identitybrief-488ca011516acd26</guid>
-      <pubDate>Mon, 24 Aug 2026 20:54:10 +0000</pubDate>
-      <category>did</category>
-      <description>The National Institute of Standards and Technology (NIST) has awarded a recompete order to Electrosoft , to continue advancing the agency’s digital identity and access management program and prepare federal identity credentialing for post-quantum cryptography. A release says the Identity and Access Management Technical Resource Development award “extends a… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Fayda digital ID nears 50M enrollments as adoption reshapes Ethiopia’s economy</title>
-      <link>https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy</link>
-      <guid isPermaLink="false">identitybrief-ae2df6b243be12d9</guid>
-      <pubDate>Mon, 24 Aug 2026 18:12:36 +0000</pubDate>
-      <category>did</category>
-      <description>Launched in 2023, Ethiopia's national digital ID rollout has gained traction over the last three years as seen not only in the growing number of those registering for the ID, but the palpable impact it is making. The rollout is speeding up with 49.1 million enrollments already completed as of August 24, thanks to the deployment of 12,000 biometric… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Hackers target WordPress sites in miniOrange auth bypass attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/</link>
-      <guid isPermaLink="false">identitybrief-0e0360e7392e6fef</guid>
-      <pubDate>Mon, 24 Aug 2026 19:26:32 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account</title>
-      <link>https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html</link>
-      <guid isPermaLink="false">identitybrief-08f456205e68a95a</guid>
-      <pubDate>Mon, 24 Aug 2026 11:56:34 +0000</pubDate>
-      <category>breach</category>
-      <description>Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>DHS seeks partners to licence advanced biometric systems</title>
-      <link>https://identityweek.net/dhs-seeks-partners-to-licence-advanced-biometric-systems/</link>
-      <guid isPermaLink="false">identitybrief-14e1fd757b0ab262</guid>
-      <pubDate>Mon, 24 Aug 2026 11:42:19 +0000</pubDate>
-      <category>fraud</category>
-      <description>The DHS is scouting for commercial partners to licence two biometric systems it has developed, the Biometric Data Collection and Verification System (BDCVS) and the Biometric Identity Disambiguation (BID) system, which should support mitigating identity verification conflicts. The systems are built to address data speed, matching accuracy, and to identify…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Acupixel announces production release of the IDSnap GC2500e</title>
-      <link>https://identityweek.net/acupixel-announces-production-release-of-the-idsnap-gc2500e/</link>
-      <guid isPermaLink="false">identitybrief-bbc194f35ea0c57f</guid>
-      <pubDate>Mon, 24 Aug 2026 10:17:49 +0000</pubDate>
-      <category>fraud</category>
-      <description>Acupixel has announced the official production release of the IDSnap GC2500e, a standalone duplex ID, passport and document authentication scanner designed to operate not only as a capture device, but as an intelligent identity verification endpoint. When Acupixel first introduced the GC2500e concept and prototype at Identity Week last year, the response…
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>RAD: Rule-Augmented Relational Anomaly Detection</title>
-      <link>http://arxiv.org/abs/2608.23468v1</link>
-      <guid isPermaLink="false">identitybrief-45c86a77e2cf3e03</guid>
-      <pubDate>Mon, 24 Aug 2026 16:36:17 +0000</pubDate>
-      <category>research</category>
-      <description>Anomaly detection is often applied to data stored in relational databases, yet most existing methods require flattening multiple tables into a single feature matrix. This flattening can obscure entity identity, schema structure, and multi-hop dependencies, limiting the detection of anomalies that depend on relational context rather than isolated feature… It landed in the last few hours. And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>A Threshold Homomorphic Blockchain Architecture for Secure and Scalable IoT Sensor Data Aggregation</title>
-      <link>http://arxiv.org/abs/2608.23396v1</link>
-      <guid isPermaLink="false">identitybrief-49e64e6b29b635cb</guid>
-      <pubDate>Mon, 24 Aug 2026 15:41:18 +0000</pubDate>
-      <category>research</category>
-      <description>Homomorphic-encryption blockchain frameworks for IoT sensor aggregation generally rely on classical cryptographic hardness assumptions and seldom account for network topology in liveness and performance analysis. This work introduces Phi-PHE-BC, a topology-aware homomorphic blockchain architecture for secure and privacy-preserving IoT sensor data… It landed in the last few hours.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>When Can Agents Safely Checkpoint, Fork, Restore, and Merge? Exact Checking for Execution Edits</title>
-      <link>http://arxiv.org/abs/2608.22928v1</link>
-      <guid isPermaLink="false">identitybrief-af77bbbc325c85a8</guid>
-      <pubDate>Mon, 24 Aug 2026 08:03:56 +0000</pubDate>
-      <category>research</category>
-      <description>Agent runtimes can Checkpoint an execution, Fork it, Restore a checkpoint, or Merge branches without restarting a task. We call these operations execution edits, with Checkpoint recording the current execution for later use and Fork, Restore, and Merge changing what the Agent will do next. An execution edit cannot undo an earlier authorization or a tool… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
     </item>
 </channel></rss>
