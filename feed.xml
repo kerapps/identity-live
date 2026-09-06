@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Digital and trust infrastructure investments unlock value of identity</title>
+      <link>https://www.biometricupdate.com/202609/digital-and-trust-infrastructure-investments-unlock-value-of-identity</link>
+      <guid isPermaLink="false">identitybrief-57f7a251a023ae36</guid>
+      <pubDate>Sat, 05 Sep 2026 19:05:50 +0000</pubDate>
+      <category>did</category>
+      <description>A new post discusses digital identity infrastructure investments and their impact. It emphasizes the need for clarity and real-world planning in implementing biometric and digital ID systems. However, the information is abstract and lacks clear actionable insights for immediate application.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html</link>
+      <guid isPermaLink="false">identitybrief-85374d9698432a43</guid>
+      <pubDate>Sat, 05 Sep 2026 07:31:53 +0000</pubDate>
+      <category>breach</category>
+      <description>Schools and universities are targeted with exploits in PaperCut, leading to credential theft. This shows attackers’ focus on educational institutions as a prime sector for exploiting authentication weaknesses. The specific vulnerabilities, CVE-2026-81578 and CVE-2026-82078, require urgent patches but might delay due to complexities in these environments.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials</title>
+      <link>https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html</link>
+      <guid isPermaLink="false">identitybrief-21ba9ecf17eb79c2</guid>
+      <pubDate>Sat, 05 Sep 2026 16:52:33 +0000</pubDate>
+      <category>breach</category>
+      <description>JetBrains users are warned after a breach affecting TeamCity, extracting AWS credentials. This incident highlights the critical need for prompt vulnerability patching and proactive credential rotation. The response is crucial, but affected entities need to verify all related systems for potential exposure.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Tobago launches sub-national digital ID for public service access</title>
+      <link>https://www.biometricupdate.com/202609/tobago-launches-sub-national-digital-id-for-public-service-access</link>
+      <guid isPermaLink="false">identitybrief-b1dc19a1e84e7ec1</guid>
+      <pubDate>Fri, 04 Sep 2026 16:23:48 +0000</pubDate>
+      <category>did</category>
+      <description>Tobago launched a digital ID system to streamline public services access. The system promises reduced bureaucratic friction and enhanced security for residents using digital IDs. Its impact is regional and might take time to assess broader scalability.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Socure brings Aeropay into RiskOS to connect identity verification with bank payments</title>
+      <link>https://www.biometricupdate.com/202609/socure-brings-aeropay-into-riskos-to-connect-identity-verification-with-bank-payments</link>
+      <guid isPermaLink="false">identitybrief-f9c79b72310e01be</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:33 +0000</pubDate>
+      <category>fraud</category>
+      <description>Socure integrates Aeropay into RiskOS, enhancing identity verification with transactions. This aims to simplify customer verification and connect payments with anti-fraud measures. Though promising, it’s limited to users of both Socure and Aeropay, restricting broader applicability.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>FBI investigates breach of 153 million driving license records at IDscan.net</title>
+      <link>https://www.csoonline.com/article/4218789/fbi-investigates-breach-of-153-million-driving-license-records-at-idscan-net.html</link>
+      <guid isPermaLink="false">identitybrief-2f9c811b2ecdce9f</guid>
+      <pubDate>Fri, 04 Sep 2026 13:47:47 +0000</pubDate>
+      <category>breach</category>
+      <description>A major breach at IDscan.net exposed 153 million drivers’ license records. Such a large-scale data exposure underscores the need for stronger data protection measures. The scope is vast but geographic focus remains primarily North America.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Deepfake Detection Market: From Emerging to Enterprise Essential</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBnZ0FfV0U1Z19yaTJ6YjZOcFUxZUJVSXRBQzR2cl9yZFZZODlRVEhibmpNaFhMUkRrc09CTW51VC1yTi1vbnZncXlPNTVHcUhGOG9xV2ZHMnJ6aTJmOEJRVE9OZHc4T1lDazQ3LVlYUUliVENlVGNoS1Zn?oc=5</link>
+      <guid isPermaLink="false">identitybrief-f70a5a832b82307c</guid>
+      <pubDate>Tue, 01 Sep 2026 19:33:49 +0000</pubDate>
+      <category>fraud</category>
+      <description>Gartner research discusses deepfake detection shifting from emerging to essential. As deepfakes become more common, detection tech is turning crucial for identity verification. However, enterprise adoption requires careful calibration and resource allocation.
+
+— via Gartner</description>
+    </item>
+    <item>
+      <title>Why UR Codes are a good fit for Project Lifesaver</title>
+      <link>https://identityweek.net/why-ur-codes-are-a-good-fit-for-project-lifesaver/</link>
+      <guid isPermaLink="false">identitybrief-61c350907f7950e0</guid>
+      <pubDate>Tue, 01 Sep 2026 17:53:53 +0000</pubDate>
+      <category>auth</category>
+      <description>UR Codes combine biometric data with cryptographically-signed QR bars for identity verification. They offer an advanced layer of validation for Project Lifesaver, ensuring data integrity. This tech is new, and practical challenges might arise in mainstream integration.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html</link>
+      <guid isPermaLink="false">identitybrief-79a539446b8e43b7</guid>
+      <pubDate>Tue, 01 Sep 2026 17:53:11 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers exploited a new flaw in JFrog Artifactory to create admin tokens. Immediate patching and incident response are necessary to prevent unauthorized administrative access. The problem affects those using default settings, highlighting the need for diligent default configuration management.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Fraud Prevention — Anti-Fraud Tools &amp; Risk Detection- Page 24 | The Sumsuber</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1jWjFNcGNaaHY2ZlNrR0xuS1RMUHU3blhiaVRlM3FZNldLcTllZlVhWWx2aVFKWWpKWUNfLVdrXzQ0NU9kb2NUaERBdU5vVkNaWnlWQ1pnbzFkckRzT2xlRGxVRmM4dmQ3MzFjVVZzYlo?oc=5</link>
+      <guid isPermaLink="false">identitybrief-5bf6d00537ca1abc</guid>
+      <pubDate>Sun, 06 Sep 2026 02:24:44 +0000</pubDate>
+      <category>fraud</category>
+      <description>An overview of anti-fraud tools and risk detection highlights evolving strategies. The focus is on improving detection methods to preempt fraud attempts efficiently. Specific tool recommendations require deeper analysis to match varying organizational needs.
+
+— via Sumsub</description>
+    </item>
+    <item>
+      <title>SecDT: A Profile-Based Security Layer for TRDP Communications</title>
+      <link>http://arxiv.org/abs/2609.03133v1</link>
+      <guid isPermaLink="false">identitybrief-80eb23550b93eb10</guid>
+      <pubDate>Wed, 02 Sep 2026 20:16:37 +0000</pubDate>
+      <category>research</category>
+      <description>A paper introduces SecDT, a security layer for TRDP communications in trains. It proposes enhanced on-board data security through modern cryptographic profiles. However, its reliance on specific key management may limit initial implementation scope.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Zero trust has a big AI agent problem ahead</title>
+      <link>https://www.csoonline.com/article/4215449/zero-trust-has-a-big-ai-agent-problem-ahead.html</link>
+      <guid isPermaLink="false">identitybrief-6c7f16c698f9a0ac</guid>
+      <pubDate>Thu, 03 Sep 2026 08:25:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Discussion about zero trust frameworks dealing with AI agents' complexities. Adding AI intensifies the challenge of maintaining zero trust rigor with autonomous agents. Practical execution may render conventional frameworks less effective without major adaptations.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>When Does Authorization End? Effect Closure at Provider Boundaries</title>
+      <link>http://arxiv.org/abs/2609.02866v1</link>
+      <guid isPermaLink="false">identitybrief-e3077f0c0151a8c4</guid>
+      <pubDate>Wed, 02 Sep 2026 17:50:39 +0000</pubDate>
+      <category>research</category>
+      <description>Research examines when authorization concludes via a concept called 'effect closure'. This study offers a theoretical model that could inform policy but lacks immediate implementation guidance. The practicality of 'effect closure' remains uncertain in real-world applications.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Boundary-Mutation Testing for Pattern-Based Secret Detection: A Rule-Level Method and Cross-Scanner Evaluation</title>
+      <link>http://arxiv.org/abs/2609.02983v1</link>
+      <guid isPermaLink="false">identitybrief-d8f8837110a8ce74</guid>
+      <pubDate>Wed, 02 Sep 2026 13:41:50 +0000</pubDate>
+      <category>research</category>
+      <description>Boundary-mutation testing for secret detection reveals challenges in existing tools. By testing rule-level vulnerabilities, it identifies failures in varying text contexts. New methodologies must align with practical deployment across diverse applications.
+
+— via arXiv</description>
+    </item>
+    <item>
       <title>Sri Lanka sets Q4 target for SL-UDI rollout</title>
       <link>https://www.biometricupdate.com/202609/sri-lanka-sets-q4-target-for-sl-udi-rollout</link>
       <guid isPermaLink="false">identitybrief-ae54eb86746a7826</guid>
@@ -1362,145 +1502,5 @@
       <description>Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls that can make the greatest difference. [...] It landed in the last few hours.
 
 — via BleepingComputer</description>
-    </item>
-    <item>
-      <title>1 week to go! Time to download the app and start planning meetings…</title>
-      <link>https://identityweek.net/1-week-to-go-time-to-download-the-app-and-start-planning-meetings/</link>
-      <guid isPermaLink="false">identitybrief-c0bd8baaeb5582a6</guid>
-      <pubDate>Thu, 27 Aug 2026 10:24:36 +0000</pubDate>
-      <category>iam</category>
-      <description>We are one week away from Identity Week America kicking off at the Walter E. Washington Convention Center. The agenda is locked in, the exhibition floor is full, and thousands of identity professionals from across the identity ecosystem are heading over to network and see the latest tech in action. So if you’re already registered, […] It landed in the last few hours.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>AI will not fix a governance problem in your camera estate</title>
-      <link>https://www.helpnetsecurity.com/2026/08/27/rob-janssens-hikvision-europe-surveillance-camera-security/</link>
-      <guid isPermaLink="false">identitybrief-e7f0c072192ac33c</guid>
-      <pubDate>Thu, 27 Aug 2026 05:30:34 +0000</pubDate>
-      <category>auth</category>
-      <description>Camera systems often outlive the companies that install them. In this Help Net Security interview, Rob Janssens, EMEA Cyber Security Director at Hikvision Europe, discusses what happens when the integrator is gone, the documentation is lost, and nobody holds the admin credentials. He explains why products should let customers recover control on their own,… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>RWA-PoB: A Credential-Based Proof-of-Backing Framework for Tokenized U.S. Treasury Products</title>
-      <link>http://arxiv.org/abs/2608.25269v1</link>
-      <guid isPermaLink="false">identitybrief-df2a887ae6db7108</guid>
-      <pubDate>Wed, 26 Aug 2026 01:11:04 +0000</pubDate>
-      <category>research</category>
-      <description>Proof of reserves (PoR) can improve transparency for tokenized assets, but aggregate reserve coverage does not establish whether off-chain assets are legally eligible, unencumbered, consistently valued, or sufficiently liquid for redemptions. We propose RWA-PoB, a credential-based proof-of-backing framework for tokenized U.S. Treasury products. Five… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Manage and retrieve credentials securely inside Browser Automation Tool (BAT) using Azure Key Vault</title>
-      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbHhYdjQ4Z2dRaGRJc0RpSnhCVENHV3Zaa1dPYW5iRTk0dW1udkVsUkFkcVIxaTdhNnBfU1FWR3FTMWR1LWJzY1VfVEZBVklxVUJWc29BSEs0OVJWdGhOM1p2MUMzdmtROWZMZEVkV29vRmE0NVFKSW4wMmZ3emRtN0hfLXpPaUxJRmN5ZVdYX1UtbktMX19mWUk4UjViTVRiSVg1bF84aUh3Nm9XQ2pUeHJ6RHhDLUxyMEdzRXpTNDRTNnJQeUozUzRieGhWZ3pNcDhnemJQQ0tlV2VPT1E?oc=5</link>
-      <guid isPermaLink="false">identitybrief-e9fbf0d8c6dcdce1</guid>
-      <pubDate>Thu, 27 Aug 2026 11:36:30 +0000</pubDate>
-      <category>auth</category>
-      <description>Manage and retrieve credentials securely inside Browser Automation Tool (BAT) using Azure Key Vault Microsoft Community Hub It landed in the last few hours.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Deepfake detection evolving beyond onboarding into continuous financial trust</title>
-      <link>https://www.biometricupdate.com/202608/deepfake-detection-evolving-beyond-onboarding-into-continuous-financial-trust</link>
-      <guid isPermaLink="false">identitybrief-34c450a5a3378a9e</guid>
-      <pubDate>Tue, 25 Aug 2026 19:30:42 +0000</pubDate>
-      <category>fraud</category>
-      <description>As forecasted in Biometric Update ’s 2026 Deepfake Detection Market Report , deepfake detection continues to evolve from an onboarding tool to a system integrated across the lifecycle. “Static, one-time authentication to access enterprise or consumer accounts has become obsolete,” the report says. “Banking, fintech, and high-value gaming platforms are… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>India drops shared biometric database from telecom verification rules</title>
-      <link>https://www.biometricupdate.com/202608/india-drops-shared-biometric-database-from-telecom-verification-rules</link>
-      <guid isPermaLink="false">identitybrief-3078373ab45cab08</guid>
-      <pubDate>Tue, 25 Aug 2026 15:24:15 +0000</pubDate>
-      <category>fraud</category>
-      <description>India is not proceeding with the Biometric Identity Verification System, but biometrics firmly remain in the plan. The country’s Department of Telecommunications (DoT) has dropped its proposal to create a single cross‑industry biometric database known as the Biometric Identity Verification System ( BIVS ). The final “Telecommunications (User Identification)…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>India’s CSM Technologies joins MOSIP to connect GovTech with digital identity</title>
-      <link>https://www.biometricupdate.com/202608/indias-csm-technologies-joins-mosip-to-connect-govtech-with-digital-identity</link>
-      <guid isPermaLink="false">identitybrief-8128d0aa6ced51de</guid>
-      <pubDate>Tue, 25 Aug 2026 16:12:00 +0000</pubDate>
-      <category>did</category>
-      <description>India-based multinational GovTech provider CSM Technologies is moving into foundational digital identity and digital public infrastructure (DPI) through a strategic expansion. Part of that expansion involves engagement with MOSIP to join its technology partner ecosystem. CSM is now listed as a systems integrator on the MOSIP Marketplace . Technical teams… It landed in the last few hours.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android</title>
-      <link>https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</link>
-      <guid isPermaLink="false">identitybrief-cac9bef4e461e0d6</guid>
-      <pubDate>Tue, 25 Aug 2026 13:19:41 +0000</pubDate>
-      <category>breach</category>
-      <description>Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>LACMA data breach last year exposed social security and medical data</title>
-      <link>https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/</link>
-      <guid isPermaLink="false">identitybrief-c17c9c7f4683598c</guid>
-      <pubDate>Tue, 25 Aug 2026 21:58:14 +0000</pubDate>
-      <category>breach</category>
-      <description>The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>From Fake Workers to Account Recovery: The Growing Identity Verification Risk</title>
-      <link>https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/</link>
-      <guid isPermaLink="false">identitybrief-e61c7103a13d40e5</guid>
-      <pubDate>Tue, 25 Aug 2026 14:01:11 +0000</pubDate>
-      <category>fraud</category>
-      <description>Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Hackers abuse npm mirrors to host phishing redirect pages</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/</link>
-      <guid isPermaLink="false">identitybrief-c2c830c05e6fc1ae</guid>
-      <pubDate>Tue, 25 Aug 2026 21:39:01 +0000</pubDate>
-      <category>breach</category>
-      <description>Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</title>
-      <link>https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/</link>
-      <guid isPermaLink="false">identitybrief-60bb354bcac46086</guid>
-      <pubDate>Tue, 25 Aug 2026 13:33:12 +0000</pubDate>
-      <category>breach</category>
-      <description>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>PSA, GCash mobile hub brings Digital Financial Services to Rural Albay</title>
-      <link>https://identityweek.net/psa-gcash-mobile-hub-brings-digital-financial-services-to-rural-albay/</link>
-      <guid isPermaLink="false">identitybrief-79e6b96739a1f56f</guid>
-      <pubDate>Tue, 25 Aug 2026 16:25:21 +0000</pubDate>
-      <category>did</category>
-      <description>Hundreds of local farmers, market vendors, and tricycle drivers in Barangay Tagas gained direct access to national identification and digital financial tools following a joint mobile initiative by the Philippine Statistics Authority and GCash from August 17-19. The three-day event combined the “PSA PhilSys-on-Wheels” and “GCash KYC On-the-Go” programmes… It landed in the last few hours.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>From document checks to digital trust: securing borders in the age of AI</title>
-      <link>https://identityweek.net/from-document-checks-to-digital-trust-securing-borders-in-the-age-of-ai/</link>
-      <guid isPermaLink="false">identitybrief-fe0a5b04415fdee4</guid>
-      <pubDate>Tue, 25 Aug 2026 10:29:51 +0000</pubDate>
-      <category>did</category>
-      <description>By: Joe Ferrigno, Director of Global Safety and Security at Identy.io A border agent goes about their day, inspecting travel documents and cargo, enforcing customs and immigration laws, identifying prohibited goods and responding to security concerns. A traveller approaches with a legitimate-looking passport, along with a digital identity verification…
-
-— via Identity Week</description>
     </item>
 </channel></rss>
