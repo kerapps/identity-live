@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Zero trust AI agents demand a different kind of security</title>
+      <link>https://www.helpnetsecurity.com/2026/09/07/chris-webber-teleport-zero-trust-ai-agents/</link>
+      <guid isPermaLink="false">identitybrief-af6ae2da79c01fbe</guid>
+      <pubDate>Mon, 07 Sep 2026 05:00:25 +0000</pubDate>
+      <category>iam</category>
+      <description>Zero trust needs a rethink for AI agents, says Teleport’s Chris Webber. These agents act unpredictably, making traditional methods like least privilege outdated. The downside: it's mostly theory for now, with few practical tools available.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Bangladesh budgets US$748 million for One-ID digital identity project</title>
+      <link>https://www.biometricupdate.com/202609/bangladesh-budgets-us748-million-for-one-id-digital-identity-project</link>
+      <guid isPermaLink="false">identitybrief-2808a3dabcd9c743</guid>
+      <pubDate>Mon, 07 Sep 2026 04:15:19 +0000</pubDate>
+      <category>did</category>
+      <description>Bangladesh is investing $748M in a One-ID digital identity project backed by the World Bank. It aims to centralize identity to streamline services and improve security. The snag: such projects can struggle with privacy and implementation issues.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Microsoft patent adapts biometric authentication to on-screen risk</title>
+      <link>https://www.biometricupdate.com/202609/microsoft-patent-adapts-biometric-authentication-to-on-screen-risk</link>
+      <guid isPermaLink="false">identitybrief-21d4550803d86ad2</guid>
+      <pubDate>Mon, 07 Sep 2026 04:02:44 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft's new patent adapts biometrics based on screen context and surroundings. It’s about protecting sensitive information dynamically. The catch: it's still just a patent — real-world use could be years away.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>UNJSPF biometric system delivers faster pension payments with less fraud</title>
+      <link>https://www.biometricupdate.com/202609/unjspf-biometric-system-delivers-faster-pension-payments-with-less-fraud</link>
+      <guid isPermaLink="false">identitybrief-4a3163b7c64ab72a</guid>
+      <pubDate>Mon, 07 Sep 2026 04:21:53 +0000</pubDate>
+      <category>fraud</category>
+      <description>The UNJSPF is using facial biometrics for quicker pension payments with fewer fraud attempts. This helps verify users globally, even in remote locations. However, adoption depends heavily on member uptake of the new app.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Attackers conceal phishing lures using invisible Unicode characters</title>
+      <link>https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/</link>
+      <guid isPermaLink="false">identitybrief-c3659111ffa5c96b</guid>
+      <pubDate>Sun, 06 Sep 2026 14:23:46 +0000</pubDate>
+      <category>breach</category>
+      <description>Phishers are now hiding bait with invisible Unicode characters, bypassing email filters. It's a new twist on ASCII smuggling. The challenge: spotting these attacks means more sophisticated email inspections.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication</title>
+      <link>https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</link>
+      <guid isPermaLink="false">identitybrief-d49a120f4499bf39</guid>
+      <pubDate>Sun, 06 Sep 2026 09:32:38 +0000</pubDate>
+      <category>breach</category>
+      <description>MikroTik routers are vulnerable to attack via exposed SSH services, allowing unauthorized admin access. This is a strong reminder to secure remote management interfaces. The trouble lies in the large number of potentially unpatched devices.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>ToolHive: The open-source way to run any MCP server securely</title>
+      <link>https://www.helpnetsecurity.com/2026/09/07/toolhive-open-source-mcp-server-security/</link>
+      <guid isPermaLink="false">identitybrief-c0a7af90925fb1a4</guid>
+      <pubDate>Mon, 07 Sep 2026 05:30:26 +0000</pubDate>
+      <category>auth</category>
+      <description>ToolHive offers an open-source way to manage MCP servers securely using containerization. This enhances security by isolating server access credentials. The hitch: it’s self-hosted, which can add overhead and complexity.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls</title>
+      <link>http://arxiv.org/abs/2609.05269v1</link>
+      <guid isPermaLink="false">identitybrief-fabc90033eae6428</guid>
+      <pubDate>Fri, 04 Sep 2026 15:26:35 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper introduces CONTINUITY for composing secure LLM agent controls. This framework aims to fix security gaps across systems. However, integrating such a model involves complex changes across current setups.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Optimizing Credential Blast Radius Through Trust Boundaries and Delegation Under Post-Quantum Authentication Costs</title>
+      <link>http://arxiv.org/abs/2609.04566v1</link>
+      <guid isPermaLink="false">identitybrief-e311c9cd8eda4f3c</guid>
+      <pubDate>Thu, 03 Sep 2026 23:42:06 +0000</pubDate>
+      <category>research</category>
+      <description>Researchers are revisiting trust boundaries due to post-quantum authentication needs, focusing on minimizing credential impact after a breach. It’s about preparing for a future where existing quantum-resistant solutions create new hurdles. The downside: increased latency and network load.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Governing Bring Your Own AI: A Parameterized Maturity Model</title>
+      <link>http://arxiv.org/abs/2609.05236v1</link>
+      <guid isPermaLink="false">identitybrief-0244011ea45b8acd</guid>
+      <pubDate>Fri, 04 Sep 2026 15:03:49 +0000</pubDate>
+      <category>research</category>
+      <description>A new model for governing BYOAI (Bring Your Own AI) highlights unmonitored personal AI tool risks. It underscores the need for control frameworks over Shadow AI. The limitation: existing organizational policies rarely cover such personal tools.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries</title>
+      <link>https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html</link>
+      <guid isPermaLink="false">identitybrief-40a4e36b4ae1f007</guid>
+      <pubDate>Thu, 03 Sep 2026 11:58:00 +0000</pubDate>
+      <category>breach</category>
+      <description>RMM phishing targets the US in a campaign spanning 46 countries, initially Canadian-focused. This shows phishing's growing complexity and scope. The nuance: campaign details aren't always transparent since fronts and techniques shift quickly.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means</title>
+      <link>https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</link>
+      <guid isPermaLink="false">identitybrief-9fc8e83d3864c47c</guid>
+      <pubDate>Thu, 03 Sep 2026 10:36:39 +0000</pubDate>
+      <category>breach</category>
+      <description>The Shai-Hulud infostealer has upgraded to search 469 credential paths, up from 189. It highlights expanding attack scopes on developer environments and cloud tools. One hitch: effective mitigation needs keeping up with such rapid threat evolution.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Legacy Lenovo login opens 5,000 Dropbox accounts to attackers</title>
+      <link>https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924</link>
+      <guid isPermaLink="false">identitybrief-30ce29fc75eb4998</guid>
+      <pubDate>Wed, 02 Sep 2026 14:25:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Old Lenovo credentials inadvertently opened up thousands of Dropbox accounts to potential breaches. The lesson reinforces auditing and revoking outdated integrations. The sticky part: users must actively update and secure older credentials.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Introducing universal sign-in: a seamless solution for every way you login</title>
+      <link>https://1password.com/blog/introducing-universal-sign-in</link>
+      <guid isPermaLink="false">identitybrief-2920c45e69be9dcd</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>1Password's universal sign-in tool simplifies authentication over various methods. This aims to streamline user experiences across different sites. However, reliance on a single tool can be problematic if it faces compatibility issues or outages.
+
+— via 1Password</description>
+    </item>
+    <item>
       <title>Digital and trust infrastructure investments unlock value of identity</title>
       <link>https://www.biometricupdate.com/202609/digital-and-trust-infrastructure-investments-unlock-value-of-identity</link>
       <guid isPermaLink="false">identitybrief-57f7a251a023ae36</guid>
@@ -1362,145 +1502,5 @@
       <description>AI agents are poised to become a primary interface to digital products, acting across email, files, payments, and personal data. People without professional software backgrounds need understandable, reusable ways to control actions across services. We examine a mechanism in which a language model maps actions to plain-language consequence categories with…
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Animarium: an open, reproducible pipeline for synthetic populations of Italian cities, from ISTAT sources to open data (Tech Report v1)</title>
-      <link>http://arxiv.org/abs/2608.27111v1</link>
-      <guid isPermaLink="false">identitybrief-3eadfb471767b3e0</guid>
-      <pubDate>Thu, 27 Aug 2026 13:25:35 +0000</pubDate>
-      <category>research</category>
-      <description>Synthetic populations of eleven Italian municipalities (1,814,317 individuals in 887,937 households) generated from published aggregates alone: ISTAT census and register tables, census-section counts, the national civic-address register, public-use survey microdata, and six municipal open-data portals, every source certified in a registry with licence,…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month</title>
-      <link>https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month</link>
-      <guid isPermaLink="false">identitybrief-41603fbc44fcd641</guid>
-      <pubDate>Wed, 26 Aug 2026 11:33:40 +0000</pubDate>
-      <category>breach</category>
-      <description>The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access</title>
-      <link>https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html</link>
-      <guid isPermaLink="false">identitybrief-aefc8810292db5cb</guid>
-      <pubDate>Tue, 25 Aug 2026 08:34:07 +0000</pubDate>
-      <category>breach</category>
-      <description>Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below - CVE-2026-61979 (CVSS score: 8.1) - An…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Bringing access reviews to your non-human identities</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUtFb2ZlbGVMYkhKNldQdFYtMzNhVXhKdHRUMUdJSGY3TmV0bGF4NFVIQlk4WTh4cW9hQ1o0STgwZ3hNazdyV3Z3ZzVvZktybjFxdWp5TGtJZGp0SFJoSzhaOGZTS3hjbFpUNTFoVXB1aHFablBadVhqOXR1WldGdTJ1RWx1WWdoZFV3?oc=5</link>
-      <guid isPermaLink="false">identitybrief-f2f193337c3f642d</guid>
-      <pubDate>Fri, 28 Aug 2026 03:20:55 +0000</pubDate>
-      <category>iam</category>
-      <description>Bringing access reviews to your non-human identities SailPoint It landed in the last few hours.
-
-— via SailPoint</description>
-    </item>
-    <item>
-      <title>Paypal for ticket payments and seamless authentication</title>
-      <link>https://identityweek.net/paypal-for-ticket-payments-and-seamless-authentication/</link>
-      <guid isPermaLink="false">identitybrief-489ce446ba6a356d</guid>
-      <pubDate>Thu, 27 Aug 2026 12:05:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Payments infrastructure and frictionless fan experiences in the context of live sport and entertainment will be explored on this year’s programme at Identity Week America, happening just next week on 2-3 September. The customer’s personal identity credentials to verify themselves on their smartphone and the facial authentication access inside live… It landed in the last few hours.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security</title>
-      <link>https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/</link>
-      <guid isPermaLink="false">identitybrief-742ec4209292aab6</guid>
-      <pubDate>Thu, 27 Aug 2026 11:53:10 +0000</pubDate>
-      <category>iam</category>
-      <description>The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities. The post Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security appeared first on SecurityWeek . It landed in the last few hours.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Carhartt data breach exposes information of 12.9 million accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/</link>
-      <guid isPermaLink="false">identitybrief-919111c09fceba91</guid>
-      <pubDate>Thu, 27 Aug 2026 11:10:04 +0000</pubDate>
-      <category>breach</category>
-      <description>The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>The new reality of identity fraud: 4 challenges organisations can’t ignore</title>
-      <link>https://identityweek.net/the-new-reality-of-identity-fraud-4-challenges-organisations-cant-ignore/</link>
-      <guid isPermaLink="false">identitybrief-5c719e7539b9d8f3</guid>
-      <pubDate>Thu, 27 Aug 2026 09:56:50 +0000</pubDate>
-      <category>fraud</category>
-      <description>Digital Check is exhibiting at Identity Week America 2026. Known as The Secure Choice® in image capture technology for the banking industry, Digital Check is trusted by financial institutions across more than 110 countries. With over 2 million units sold, our TellerScan®, CheXpress®, and SmartSource® scanners gand printers deliver industry-leading… It landed in the last few hours.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Japan merges My Number apps into unified digital identity platform</title>
-      <link>https://www.biometricupdate.com/202608/japan-merges-my-number-apps-into-unified-digital-identity-platform</link>
-      <guid isPermaLink="false">identitybrief-6fe53dc2e99e2b80</guid>
-      <pubDate>Wed, 26 Aug 2026 16:56:21 +0000</pubDate>
-      <category>did</category>
-      <description>Japan’s Digital Agency has launched the My Number App (Myna App), a portal for government services and identity verification. The app combines the existing Digital Authentication App and My Number Portal App, enabling citizens to use their My Number Card – Japan’s individual ID card associated with a unique 12-digit national identification number – for ID…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Abnormal AI expands email security from detection to data protection and phishing-simulation training</title>
-      <link>https://www.helpnetsecurity.com/2026/08/27/abnormal-ai-email-security-platform-expansion/</link>
-      <guid isPermaLink="false">identitybrief-c223817bbc0aee8b</guid>
-      <pubDate>Thu, 27 Aug 2026 05:58:31 +0000</pubDate>
-      <category>breach</category>
-      <description>Abnormal AI announced an expansion of its email security platform with three new capabilities: Control Center, Email DLP Rules, and AI Phishing Coach upgrades. Together, the launch extends Abnormal’s behavioral AI across all three surfaces of email risk: what comes into the inbox, what leaves the organization, and how people are trained to recognize an… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Financial institutions turn identity signals into continuous trust</title>
-      <link>https://www.biometricupdate.com/202608/financial-institutions-turn-identity-signals-into-continuous-trust</link>
-      <guid isPermaLink="false">identitybrief-1abc4b2b4bfb4674</guid>
-      <pubDate>Wed, 26 Aug 2026 16:19:19 +0000</pubDate>
-      <category>did</category>
-      <description>Financial institutions are increasingly treating onboarding, authentication, fraud detection and payments as parts of a single identity lifecycle. Rather than making decisions based only on a login or transaction, they are using behavioral, device and digital identity signals collected throughout the customer relationship to continuously assess trust. And…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Nigeria to link standardized physical addresses to digital IDs under new framework</title>
-      <link>https://www.biometricupdate.com/202608/nigeria-to-link-standardized-physical-addresses-to-digital-ids-under-new-framework</link>
-      <guid isPermaLink="false">identitybrief-8583f0cb35c1e110</guid>
-      <pubDate>Wed, 26 Aug 2026 16:58:46 +0000</pubDate>
-      <category>did</category>
-      <description>Nigeria’s federal government is planning to standardize people’s physical addresses and link them to their digital identities through a new regulatory framework approved by the National Addressing Council (NAC). The government hopes for improved planning, security, financial inclusion and emergency responses. The plan is for a digital addressing system to…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Snowflake ends service-account passwords. Now comes the hard part</title>
-      <link>https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/</link>
-      <guid isPermaLink="false">identitybrief-4855407c35ea2151</guid>
-      <pubDate>Wed, 26 Aug 2026 14:01:11 +0000</pubDate>
-      <category>auth</category>
-      <description>Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Webinar: How Google Workspace breaches happen and what to do next</title>
-      <link>https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/</link>
-      <guid isPermaLink="false">identitybrief-7d82a78da2fbd71b</guid>
-      <pubDate>Thu, 27 Aug 2026 12:16:24 +0000</pubDate>
-      <category>breach</category>
-      <description>Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls that can make the greatest difference. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
     </item>
 </channel></rss>
