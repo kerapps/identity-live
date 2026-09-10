@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Cybercriminals are building phishing pages that exist only inside victims’ browsers</title>
+      <link>https://www.helpnetsecurity.com/2026/09/10/browser-based-phishing-blob-urls-microsoft-oauth/</link>
+      <guid isPermaLink="false">identitybrief-926d404644b9ca92</guid>
+      <pubDate>Thu, 10 Sep 2026 05:00:14 +0000</pubDate>
+      <category>breach</category>
+      <description>Phishing pages are being crafted directly inside victims' browsers using blob URLs. This attack method bypasses traditional web server delivery, making detection harder and exploiting the trust users have in their own browsers. The catch: defense requires focusing on browser-level security measures and user education about content origins.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Federal regulators say mDLs can be used for bank identity checks</title>
+      <link>https://www.biometricupdate.com/202609/federal-regulators-say-mdls-can-be-used-for-bank-identity-checks</link>
+      <guid isPermaLink="false">identitybrief-7f1d9fdee16a31bf</guid>
+      <pubDate>Wed, 09 Sep 2026 21:07:31 +0000</pubDate>
+      <category>did</category>
+      <description>U.S. regulators cleared mobile driver’s licenses (mDLs) for verifying bank account holders. This allows financial institutions to streamline onboarding with digital IDs, moving away from physical documents. The limitation: mDLs need widespread issuer support and updated bank systems to become practical.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Trezor warns users of email provider breach, phishing attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/</link>
+      <guid isPermaLink="false">identitybrief-8b91cb3a1ed2fc10</guid>
+      <pubDate>Thu, 10 Sep 2026 06:56:33 +0000</pubDate>
+      <category>breach</category>
+      <description>Trezor warns users about phishing attacks following a breach of their email provider. Users are targeted through deceptive emails leveraging trust from Trezor’s own branding. The issue here is broad: if your contact details are compromised, phishing can escalate quickly.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Product showcase: GitGuardian Honeytoken catches credential theft as it happens</title>
+      <link>https://www.helpnetsecurity.com/2026/09/10/product-showcase-gitguardian-honeytoken-decoy-service/</link>
+      <guid isPermaLink="false">identitybrief-e0184ee2784d055f</guid>
+      <pubDate>Thu, 10 Sep 2026 05:30:24 +0000</pubDate>
+      <category>breach</category>
+      <description>GitGuardian's new honeytoken product detects credential theft in real time. By placing fake credentials in places attackers are likely to scan, it offers a chance to catch intruders early. It's effective only if decoys are indistinguishable from real data and properly managed.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>RAND warns security biometrics, digital ID can become tools for targeting</title>
+      <link>https://www.biometricupdate.com/202609/rand-warns-security-biometrics-digital-id-can-become-tools-for-targeting</link>
+      <guid isPermaLink="false">identitybrief-8b18870c44399018</guid>
+      <pubDate>Wed, 09 Sep 2026 19:06:00 +0000</pubDate>
+      <category>did</category>
+      <description>RAND warns that digital IDs and biometrics can lead to targeting if misused. Security systems need checks and balances to prevent tools from being repurposed for surveillance. The honest risk: these recommendations often clash with regional laws and actual practice.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>France expands digital identity access in overseas territories</title>
+      <link>https://www.biometricupdate.com/202609/france-expands-digital-identity-access-in-overseas-territories</link>
+      <guid isPermaLink="false">identitybrief-72c7a2bac1d4e1a8</guid>
+      <pubDate>Wed, 09 Sep 2026 20:58:08 +0000</pubDate>
+      <category>did</category>
+      <description>France extends digital identity access to overseas territories. This lets users activate their digital IDs through local apps with QR code validation. It only works if local infrastructure is equipped to handle and verify these digital IDs reliably.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/</link>
+      <guid isPermaLink="false">identitybrief-59db2a487e539e1c</guid>
+      <pubDate>Wed, 09 Sep 2026 21:40:44 +0000</pubDate>
+      <category>breach</category>
+      <description>A severe Cisco Secure FMC flaw, CVE-2026-20079, is being exploited live. Attackers bypass authentication, posing a real threat to network management systems if unpatched. Fixes or mitigations rely on swift patch deployment, which isn’t always instantly feasible.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>MFA's Weakest Link: Account Recovery Is the New Attack Path</title>
+      <link>https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/</link>
+      <guid isPermaLink="false">identitybrief-669df3ff57d307ef</guid>
+      <pubDate>Wed, 09 Sep 2026 14:01:11 +0000</pubDate>
+      <category>fraud</category>
+      <description>MFA-protected accounts are targeted via weak recovery processes. Recovery workflows are being exploited, creating a new vector for account takeovers. Despite MFA, securing recovery processes remains critical to thwarting these attacks.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Show HN: Compute polynomials twice as fast</title>
+      <link>https://thomasahle.com/fast-polynomials/</link>
+      <guid isPermaLink="false">identitybrief-32342fce46aeb414</guid>
+      <pubDate>Wed, 09 Sep 2026 08:53:58 +0000</pubDate>
+      <category>auth</category>
+      <description>A new method speeds up polynomial computation, potentially affecting hashing algorithms. This could change how fast certain cryptographic processes are, benefiting digital-identity systems reliant on rapid hashing. The method is proven, but needs adoption across libraries and platforms to matter.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>AI adoption brings new security headaches for already stretched CISOs</title>
+      <link>https://www.helpnetsecurity.com/2026/09/10/proofpoint-ciso-ai-security-risks-report/</link>
+      <guid isPermaLink="false">identitybrief-800bbd502f9b5e22</guid>
+      <pubDate>Thu, 10 Sep 2026 04:30:14 +0000</pubDate>
+      <category>iam</category>
+      <description>AI adoption burdens CISOs with new security challenges without extra resources. Identity systems are under stress as threat models evolve around AI access and data manipulation. The risk increases but adapting depends heavily on team bandwidth and specific AI policy tools.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Passkey-themed social engineering leads to identity and cloud compromise</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</link>
+      <guid isPermaLink="false">identitybrief-be84f234bc16828b</guid>
+      <pubDate>Wed, 09 Sep 2026 17:41:18 +0000</pubDate>
+      <category>breach</category>
+      <description>Social engineering focused on passkeys leads to identity compromises. Attackers use persistent MFA tactics to ride trust and access cloud data undetected. The crux? It's tough to secure ID systems completely when sophisticated social engineering is employed.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Implementer’s Drafts of Two OpenID Federation Extensions Approved</title>
+      <link>https://openid.net/implementers-drafts-of-two-openid-federation-extensions-approved/</link>
+      <guid isPermaLink="false">identitybrief-d65a969591f8e911</guid>
+      <pubDate>Wed, 09 Sep 2026 10:32:45 +0000</pubDate>
+      <category>auth</category>
+      <description>Two OpenID Federation extensions have reached draft status. This provides structured approaches to managing OpenID connections, enhancing interoperability and governance. It's early days: these drafts need implementation and real-world trial by federated systems.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>What Makes Adversarial Examples Transfer Across Deepfake Detectors?</title>
+      <link>http://arxiv.org/abs/2609.10002v1</link>
+      <guid isPermaLink="false">identitybrief-e56f675252077eca</guid>
+      <pubDate>Wed, 09 Sep 2026 10:28:36 +0000</pubDate>
+      <category>research</category>
+      <description>Research shows deepfake detectors are vulnerable to specific black-box attacks. Threat actors create adversarial examples for transferring items between detectors. The real challenge: maintaining detector robustness while adapting to evolving adversarial strategies.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The identity economy strikes back: 2026 threat lessons and 2027 predictions</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0RPaC1DVmh3NkEteW5IWXZnRlhNNzY4dWppTHFnVHJLT1dqbEo4VmF5X1hMZ3k1aGpfVTRaOWVsVHZjYnRKU0FiZE9CTzFmemtKT2pHbURXNnlUVmxlSDdFU20zbFdiS3dMcjViRVdFNXk3RU5zM0s5VWlDN2FNWVVTS2tuZ0tkb3hBb3BB?oc=5</link>
+      <guid isPermaLink="false">identitybrief-810f53383656a5e1</guid>
+      <pubDate>Thu, 10 Sep 2026 02:17:23 +0000</pubDate>
+      <category>iam</category>
+      <description>A 2026 review of identity threats and predictions for 2027. Okta discusses evolutions in identity risk landscape focusing on the identity economy. Projections hinge heavily on the continued rise of identity-driven attacks and defenses.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>EU-funded TrustED project develops framework unlocking data collaboration across Europe</title>
       <link>https://identityweek.net/eu-funded-trusted-project-develops-framework-unlocking-data-collaboration-across-europe/</link>
       <guid isPermaLink="false">identitybrief-32f7ec0b7bee578f</guid>
@@ -1362,145 +1502,5 @@
       <description>Verifiable credentials interoperability is the way to scale EU digital identity: that’s what the APTITUDE Large Scale Pilot is designed to solve, that’s what Indicio has already built and deployed. By Kent Iverson I am currently in Geneva to participate in an interoperability meeting on APTITUDE , one of the Large-Scale Pilots for the European Union Digital…
 
 — via Indicio</description>
-    </item>
-    <item>
-      <title>What shipping an OAuth app on Slack, Microsoft, and Atlassian actually takes</title>
-      <link>https://workos.com/blog/oauth-app-approval-slack-microsoft-atlassian</link>
-      <guid isPermaLink="false">identitybrief-9c7df934fd0e0d76</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>Five installs before Slack reads your submission, a partner account before Microsoft trusts your consent screen, and identity verification before Atlassian lists you. None of it is code.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>[Virtual Event] Building a Secure AI Strategy for the Enterprise</title>
-      <link>https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</link>
-      <guid isPermaLink="false">identitybrief-62634c502d1e5aff</guid>
-      <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Microsoft asks users to ignore 'Antivirus is turned off' errors</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/</link>
-      <guid isPermaLink="false">identitybrief-56cdfaf4f1bac3fc</guid>
-      <pubDate>Mon, 31 Aug 2026 08:29:42 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft asked customers this week to ignore incorrect alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...] It landed in the last few hours.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Debian developers rejected an LLM ban and left disclosure voluntary</title>
-      <link>https://www.helpnetsecurity.com/2026/08/31/debian-linux-llm-policy/</link>
-      <guid isPermaLink="false">identitybrief-0668784b39ed3d4b</guid>
-      <pubDate>Mon, 31 Aug 2026 08:08:47 +0000</pubDate>
-      <category>iam</category>
-      <description>A maintainer reading a merge request can’t tell whether a person or a model wrote the diff, and nobody has to say. Debian developers voted on that through August 28, and Kurt Roeckx, the project secretary, announced the result: the winning option encourages contributors to disclose AI assistance and stops there. Review stays where it was. A sponsor… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Biometrics investment follows demand for digital identity trust</title>
-      <link>https://www.biometricupdate.com/202608/biometrics-investment-follows-demand-for-digital-identity-trust</link>
-      <guid isPermaLink="false">identitybrief-efb8fc3a769db31b</guid>
-      <pubDate>Sat, 29 Aug 2026 12:18:47 +0000</pubDate>
-      <category>did</category>
-      <description>The biometrics market is entering a new phase. AI-powered fraud, tougher regulation and growing investor confidence are expanding digital identity verification far beyond onboarding, pushing digital trust deeper into financial services, social media, government and the wider internet. This week's top stories on Biometric Update show the industry responding…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE</title>
-      <link>https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html</link>
-      <guid isPermaLink="false">identitybrief-df044a4bbe03a77b</guid>
-      <pubDate>Sat, 29 Aug 2026 16:25:03 +0000</pubDate>
-      <category>fraud</category>
-      <description>Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8)…
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Post-quantum security spreads across digital identity infrastructure</title>
-      <link>https://www.biometricupdate.com/202608/post-quantum-security-spreads-across-digital-identity-infrastructure</link>
-      <guid isPermaLink="false">identitybrief-af8aa2db6efc5eb8</guid>
-      <pubDate>Sat, 29 Aug 2026 11:34:49 +0000</pubDate>
-      <category>did</category>
-      <description>Post-quantum cryptography is beginning to spread across the digital identity stack, with vendors adding quantum-resistant protection to mobile credentials, PKI, secure hardware and developer platforms. Fobi AI , WISeKey , and Atsign announced updates this week that illustrate how different parts of the digital identity ecosystem are preparing for the…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Hasbro Data Breach Exposed Employee Personal Information</title>
-      <link>https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/</link>
-      <guid isPermaLink="false">identitybrief-25bb2864206cf0e5</guid>
-      <pubDate>Sat, 29 Aug 2026 11:55:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Biometric Update: From passkeys to digital trust with FIDO’s Andrew Shikiar</title>
-      <link>https://fidoalliance.org/biometric-update-from-passkeys-to-digital-trust-with-fidos-andrew-shikiar/</link>
-      <guid isPermaLink="false">identitybrief-5c7d0e9d2d0c12af</guid>
-      <pubDate>Fri, 28 Aug 2026 17:18:03 +0000</pubDate>
-      <category>did</category>
-      <description>The Biometric Update Podcast explores the next phase of digital identity, from passkeys and digital wallets to continuous trust There’s a shift happening in identity and authentication. What was once […]
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Digital ID assessments highlight financial inclusion gains across Africa</title>
-      <link>https://www.biometricupdate.com/202608/digital-id-assessments-highlight-financial-inclusion-gains-across-africa</link>
-      <guid isPermaLink="false">identitybrief-ae851e4cedc2b04b</guid>
-      <pubDate>Fri, 28 Aug 2026 15:19:31 +0000</pubDate>
-      <category>did</category>
-      <description>New assessments suggest digital identity has become one of the strongest drivers of financial inclusion across Africa as countries expand digital public infrastructure. Foundational digital identity systems in Ethiopia, Nigeria and Rwanda are reshaping access to finance. New evaluations from the World Bank’s ID4D Initiative, the Brookings Institution, UNECA…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FIDA: Feature Instability-Driven Attack on Self-Supervised Facial Representation</title>
-      <link>http://arxiv.org/abs/2608.26861v1</link>
-      <guid isPermaLink="false">identitybrief-1927c101373a09a9</guid>
-      <pubDate>Thu, 27 Aug 2026 09:27:25 +0000</pubDate>
-      <category>research</category>
-      <description>Self-supervised learning (SSL) models are vulnerable to backdoor attacks. However, the systemic risks they pose in face representation have received little attention. The entanglement of identity features in self-supervised face learning presents unique challenges for attack stealthiness. To address this gap, we propose FIDA (Feature Instability-Driven…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>KubeCap: A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assisted Rule Inference</title>
-      <link>http://arxiv.org/abs/2608.26699v1</link>
-      <guid isPermaLink="false">identitybrief-ea144a0dea3e7668</guid>
-      <pubDate>Thu, 27 Aug 2026 06:55:24 +0000</pubDate>
-      <category>research</category>
-      <description>As the most widely used container orchestration platform, Kubernetes provides flexible privilege configuration by allowing developers to manage Linux capabilities via manifest files. However, developers rely on default settings or coarse-grained security contexts in practice, violating the principle of least privilege and enlarging the attack surface of…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Five Primitives for Governing Autonomous AI Agents at Runtime</title>
-      <link>http://arxiv.org/abs/2608.26696v1</link>
-      <guid isPermaLink="false">identitybrief-deb9ce72aaed5153</guid>
-      <pubDate>Thu, 27 Aug 2026 06:53:11 +0000</pubDate>
-      <category>research</category>
-      <description>Enterprise deployments of autonomous AI agents inherit a control model built for human users and long-lived services, and the fit fails in three specific ways: agent principals are ephemeral, appearing and vanishing faster than provisioning; their actions are selected by a model rather than programmed, so the set of things they may attempt is not known in…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Inside the Changi Airport experience</title>
-      <link>https://identityweek.net/inside-the-changi-airport-experience/</link>
-      <guid isPermaLink="false">identitybrief-f17264a2009caf7f</guid>
-      <pubDate>Tue, 25 Aug 2026 14:16:10 +0000</pubDate>
-      <category>auth</category>
-      <description>While the Entry/Exit System (EES) is touted as the ultimate modern upgrade to the travel ecosystem, Changi Airport has quietly undergone a fully seamless renovation over the years, including installing e-gates and multi-model biometric tech to offer efficient clearance. Upon arrival in Singapore, the confirmation process of the traveller is almost…
-
-— via Identity Week</description>
     </item>
 </channel></rss>
