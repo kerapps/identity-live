@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Companies may be measuring phishing resilience the wrong way</title>
+      <link>https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/</link>
+      <guid isPermaLink="false">identitybrief-ece8e2df31ab303b</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:07 +0000</pubDate>
+      <category>breach</category>
+      <description>A report suggests companies may be assessing phishing resilience incorrectly by focusing on click rates alone. The takeaway is to also track credential submission rates for a true measure of risk. The challenge is shifting internal metrics that may overlook these insights.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>AI agents change the identity security question in the middle of enterprises’ answer</title>
+      <link>https://www.biometricupdate.com/202609/ai-agents-change-the-identity-security-question-in-the-middle-of-enterprises-answer</link>
+      <guid isPermaLink="false">identitybrief-6aedc60847d61535</guid>
+      <pubDate>Thu, 10 Sep 2026 20:19:22 +0000</pubDate>
+      <category>did</category>
+      <description>AI agents are emerging as a new cybersecurity challenge, particularly for digital identity. They complicate authentication processes and demand more secure identity governance. The complication is integrating these layers without slowing down enterprise operations.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>For EU consumers, trust in EUDI Wallet will need to be earned over time: IDnow</title>
+      <link>https://www.biometricupdate.com/202609/for-eu-consumers-trust-in-eudi-wallet-will-need-to-be-earned-over-time-idnow</link>
+      <guid isPermaLink="false">identitybrief-7bc7ac4766dfa18a</guid>
+      <pubDate>Thu, 10 Sep 2026 14:53:50 +0000</pubDate>
+      <category>did</category>
+      <description>IDnow reports that EU consumers may struggle to trust the EUDI Wallet as rollout continues. Trust issues could hinder adoption of these digital ID solutions. The trouble lies in overcoming widespread privacy and security concerns before the year-end deadline.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>The next bottleneck for African digital identity is infrastructure, not software</title>
+      <link>https://www.biometricupdate.com/202609/the-next-bottleneck-for-african-digital-identity-is-infrastructure-not-software</link>
+      <guid isPermaLink="false">identitybrief-5b5cb236f0adf234</guid>
+      <pubDate>Thu, 10 Sep 2026 15:35:30 +0000</pubDate>
+      <category>did</category>
+      <description>Infrastructure, not software, is now the bottleneck for African digital identity deployment. Expanded infrastructure is necessary for more effective digital identity solutions. The setback is that infrastructure projects often take years to complete.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Your passkeys can now move between password managers on Android</title>
+      <link>https://www.helpnetsecurity.com/2026/09/10/google-android-password-manager-transfer/</link>
+      <guid isPermaLink="false">identitybrief-dd0796379829b8f8</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:09 +0000</pubDate>
+      <category>auth</category>
+      <description>Google enables transferring passkeys between password managers on Android without needing to download files. This makes switching managers less risky for users. Now, it depends on password manager support for this feature to function seamlessly.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>GLEIF welcomes eMudhra as a validation agent</title>
+      <link>https://identityweek.net/gleif-welcomes-emudhra-as-a-validation-agent/</link>
+      <guid isPermaLink="false">identitybrief-d44eba1ec5f61617</guid>
+      <pubDate>Thu, 10 Sep 2026 15:19:45 +0000</pubDate>
+      <category>fraud</category>
+      <description>The GLEIF organization has named eMudhra a validation agent in India. This integration simplifies processes for Legal Entity Identifier management. However, the benefit is specific to organizations using eMudhra's services.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>IDScan confirms breach tied to 153 million stolen driver’s licenses</title>
+      <link>https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/</link>
+      <guid isPermaLink="false">identitybrief-4087555a81d12004</guid>
+      <pubDate>Thu, 10 Sep 2026 14:55:33 +0000</pubDate>
+      <category>fraud</category>
+      <description>IDScan confirmed a breach compromising 153 million driver’s licenses. This is significant for identity verification processes relying on scanned documents. The flaw is rooted in stored data security, highlighting the need for stringent access controls.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Implementer’s Draft of OpenID Connect Key Binding Approved</title>
+      <link>https://openid.net/implementers-draft-of-openid-connect-key-binding-approved/</link>
+      <guid isPermaLink="false">identitybrief-96fc820d99d62134</guid>
+      <pubDate>Thu, 10 Sep 2026 21:57:56 +0000</pubDate>
+      <category>auth</category>
+      <description>The OpenID Foundation has approved the Key Binding Implementer’s Draft. This sets a key binding standard that enhances the security framework for OpenID Connect. The caveat is it's a draft, so it may not yet be supported by all implementations.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>SC Media: Why yesterday’s identity security standards no longer work for banks</title>
+      <link>https://fidoalliance.org/sc-media-why-yesterdays-identity-security-standards-no-longer-work-for-banks/</link>
+      <guid isPermaLink="false">identitybrief-4b94198faf99e0b1</guid>
+      <pubDate>Thu, 10 Sep 2026 16:44:35 +0000</pubDate>
+      <category>iam</category>
+      <description>Banks are reconsidering their identity security standards due to new challenges from AI and cyber threats. These outdated standards may not suffice, demanding a shift towards more robust identity solutions. The issue: financial institutions must navigate complex regulatory landscapes before implementing change.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>SoulAuth: An Actor-native Identity Architecture and Rust Reference Implementation for Humans and Long-lived AI Actors</title>
+      <link>http://arxiv.org/abs/2609.11258v1</link>
+      <guid isPermaLink="false">identitybrief-d0132becd5e8c596</guid>
+      <pubDate>Thu, 10 Sep 2026 08:54:02 +0000</pubDate>
+      <category>research</category>
+      <description>A paper introduces SoulAuth, a Rust implementation for managing long-lived AI actors. It addresses identity persistence for humans and AI over time. However, it's a conceptual framework, limited by its current applicability to specific tech stacks.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Attackers are weaponizing the gap between Chromium fixes and Chrome patches</title>
+      <link>https://www.csoonline.com/article/4220939/attackers-are-weaponizing-the-gap-between-chromium-fixes-and-chrome-patches.html</link>
+      <guid isPermaLink="false">identitybrief-b46b167751a154c2</guid>
+      <pubDate>Fri, 11 Sep 2026 01:10:19 +0000</pubDate>
+      <category>breach</category>
+      <description>New gap-exploiting attacks highlight the risks between Chromium fixes and Chrome patches. These gaps are exploited for spear phishing via an exploit kit named BlueMoon. The catch: users and IT teams must apply patches as soon as they are released to minimize risk.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Deep-Fake CAPTCHA: Mitigating Next-Generation Social Engineering Attacks</title>
+      <link>http://arxiv.org/abs/2609.11404v1</link>
+      <guid isPermaLink="false">identitybrief-dbdb967f224e864a</guid>
+      <pubDate>Thu, 10 Sep 2026 11:35:11 +0000</pubDate>
+      <category>research</category>
+      <description>The DF-CAPTCHA framework offers a defense against real-time deepfake attacks during calls. By requiring challenge-response tasks, it makes impersonation harder. The limitation is that it may not cover all deepfake techniques yet.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AI workflows may be creating a dangerous new authorization blind spot</title>
+      <link>https://www.csoonline.com/article/4220702/ai-workflows-may-be-creating-a-dangerous-new-authorization-blind-spot.html</link>
+      <guid isPermaLink="false">identitybrief-2ce2588bbbfcc3a3</guid>
+      <pubDate>Thu, 10 Sep 2026 12:04:44 +0000</pubDate>
+      <category>iam</category>
+      <description>AI workflows might be opening a new authorization gap, termed 'workflow identity hijacking.' This makes it critical for firms to audit their identity and access processes. The tricky part is ensuring all entry points are adequately protected against unauthorized actions.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>When an AI Agent Acts on Behalf of a Resident</title>
+      <link>https://blog.spruceid.com/when-an-ai-agent-acts-on-behalf-of-a-resident/</link>
+      <guid isPermaLink="false">identitybrief-8fd4d7bb5898bb60</guid>
+      <pubDate>Thu, 10 Sep 2026 19:40:30 +0000</pubDate>
+      <category>fraud</category>
+      <description>AI agents challenge the assumption that an acting person is the one interacting with services. This raises new questions regarding identity verification and authorization. The issue lies in adapting current frameworks to ensure accurate identity proofing with AI involvement.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>Cybercriminals are building phishing pages that exist only inside victims’ browsers</title>
       <link>https://www.helpnetsecurity.com/2026/09/10/browser-based-phishing-blob-urls-microsoft-oauth/</link>
       <guid isPermaLink="false">identitybrief-926d404644b9ca92</guid>
@@ -1362,145 +1502,5 @@
       <description>Ambient AI scribes draft clinical notes under the reassurance that a clinician signs every note. We audited three commercial AI scribes on the same 142 consultations: 565 notes from recorded UK primary-care and US ambulatory encounters plus authored scenarios. Twelve discovery passes proposed 13,678 candidate errors; the 5,898 clearing an importance filter… And it ships with code, so you can try it rather than just read about it.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification</title>
-      <link>http://arxiv.org/abs/2608.31142v1</link>
-      <guid isPermaLink="false">identitybrief-8f0230b59a68a16d</guid>
-      <pubDate>Mon, 31 Aug 2026 17:48:24 +0000</pubDate>
-      <category>research</category>
-      <description>The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for black-box identity verification of anonymous models: practitioner checklists…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Beyond Object Authentication: Context-Closed Post-Quantum Authentication for the WebPKI</title>
-      <link>http://arxiv.org/abs/2608.30004v1</link>
-      <guid isPermaLink="false">identitybrief-e01db3d4b8d86912</guid>
-      <pubDate>Sun, 30 Aug 2026 19:59:54 +0000</pubDate>
-      <category>research</category>
-      <description>Post-quantum migration increases WebPKI authentication cost, but authenticating a compressed certificate object does not by itself preserve the mutable authorization context under which a relying party accepts it. We formalize \emph{context closure}: the authenticated projection accepted by a verifier must determine the selected authorization semantics it… And it ships with code, so you can try it rather than just read about it.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Microsoft Exchange Online outage causes email failures, auth issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/</link>
-      <guid isPermaLink="false">identitybrief-53cda57b87e28a5f</guid>
-      <pubDate>Mon, 31 Aug 2026 16:56:57 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>SEDI vs. Mobile Driver's Licenses: What's the Difference?</title>
-      <link>https://blog.spruceid.com/sedi-vs-mobile-drivers-licenses-whats-the-difference/</link>
-      <guid isPermaLink="false">identitybrief-75d5012a27f00199</guid>
-      <pubDate>Mon, 31 Aug 2026 20:24:45 +0000</pubDate>
-      <category>did</category>
-      <description>An mDL is a digital credential. SEDI is the framework governing how credentials, wallets, issuers, and verifiers interact. Understanding the difference matters for states building digital identity infrastructure. It landed in the last few hours.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>UC Berkeley indefinitely suspends international student work authorizations</title>
-      <link>https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</link>
-      <guid isPermaLink="false">identitybrief-5bfbabd247aa1073</guid>
-      <pubDate>Mon, 31 Aug 2026 03:34:09 +0000</pubDate>
-      <category>iam</category>
-      <description>It landed in the last few hours. It's pulling 396pts/day — real momentum for something this new, not a one-day spike.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Berlin Won’t Pay Extortion Group Claiming Data Theft</title>
-      <link>https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/</link>
-      <guid isPermaLink="false">identitybrief-12420b6a85c1e1f6</guid>
-      <pubDate>Mon, 31 Aug 2026 08:49:36 +0000</pubDate>
-      <category>breach</category>
-      <description>The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials. The post Berlin Won’t Pay Extortion Group Claiming Data Theft appeared first on SecurityWeek . It landed in the last few hours.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Halo-record: Open-source audit trails for AI agents</title>
-      <link>https://www.helpnetsecurity.com/2026/08/31/halo-record-open-source-ai-agent-audit-trail/</link>
-      <guid isPermaLink="false">identitybrief-c1de8517c47a8519</guid>
-      <pubDate>Mon, 31 Aug 2026 05:30:37 +0000</pubDate>
-      <category>auth</category>
-      <description>Brian Kuan wrote halo-record, a small Python package that sits inside an AI agent and writes down the moves it makes: tool calls, model calls, data access, approvals. Each action becomes one line in a file that only ever gets appended to, and every line carries a hash of the line before it, a hash being a short fingerprint computed from content. Edit a… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>NIST, European telcos converge on identity as foundation for agentic AI</title>
-      <link>https://www.biometricupdate.com/202608/nist-european-telcos-converge-on-identity-as-foundation-for-agentic-ai</link>
-      <guid isPermaLink="false">identitybrief-7e4129a086ee133a</guid>
-      <pubDate>Fri, 28 Aug 2026 17:28:55 +0000</pubDate>
-      <category>iam</category>
-      <description>New publications from the National Institute of Standards and Technology ( NIST ) and two rival European telcos working together argue that the agentic AI ecosystem needs a strong foundation in identity. Identity increasingly looks like the control plane for agents . Who an agent represents, what authority it has been delegated, and how its actions can be…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Daytona Beach approves police facial recognition searches of driver’s license photos</title>
-      <link>https://www.biometricupdate.com/202608/daytona-beach-approves-police-facial-recognition-searches-of-drivers-license-photos</link>
-      <guid isPermaLink="false">identitybrief-6e75c7b26e7bd3fe</guid>
-      <pubDate>Fri, 28 Aug 2026 16:55:58 +0000</pubDate>
-      <category>auth</category>
-      <description>Daytona Beach City Commission has approved a proposed agreement between the city’s police chief and Florida Department of Highway Safety and Motor Vehicles so it can search state driver’s license records with facial recognition. The MoU with the state agency compliments an existing agreement with Pinellas County Sheriff’s Office (PCSO) to use the FR-Net and…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Slovakia tables bill to put age check requirements on social platforms</title>
-      <link>https://www.biometricupdate.com/202608/slovakia-tables-bill-to-put-age-check-requirements-on-social-platforms</link>
-      <guid isPermaLink="false">identitybrief-a5daf0c9ec1ff50f</guid>
-      <pubDate>Fri, 28 Aug 2026 16:33:25 +0000</pubDate>
-      <category>did</category>
-      <description>It is Slovakia’s turn to introduce legislation restricting large social media platforms to users 16 and older. This week, its government approved a bill, submitted by the Education Ministry, to bring age requirements into effect, citing concerns about addiction, extremism and radicalization. It includes a requirement that platforms “operate reasonable…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Quantum-Based Solutions for Security Enhancement in Open Radio Access Networks</title>
-      <link>http://arxiv.org/abs/2608.28480v1</link>
-      <guid isPermaLink="false">identitybrief-a68bfa057fa84745</guid>
-      <pubDate>Fri, 28 Aug 2026 16:06:26 +0000</pubDate>
-      <category>research</category>
-      <description>Open Radio Access Networks (O-RAN) introduce unprecedented flexibility, interoperability, and intelligence into next-generation wireless systems, but their disaggregated and software-defined architecture also expands the attack surface and creates new security vulnerabilities. Conventional cryptographic mechanisms, while effective against classical threats,…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>TagZilla: Automated Owner and Abuse Type Tagging for Indicators of Compromise in Threat Reports</title>
-      <link>http://arxiv.org/abs/2608.28124v1</link>
-      <guid isPermaLink="false">identitybrief-d91f876c0a0c821c</guid>
-      <pubDate>Fri, 28 Aug 2026 09:37:05 +0000</pubDate>
-      <category>research</category>
-      <description>Cyber Threat Intelligence (CTI) reports often describe Indicators of Compromise (IoCs) such as IP addresses, URLs, file hashes, and cryptocurrency wallets involved in cyberattacks. Those IoCs are typically described in the unstructured report's text, or listed at the end of the report with little context, limiting their usefulness. This paper presents…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>A User-Centric Context-Aware Permission Governance Framework for Privacy Control in Default Mobile Applications</title>
-      <link>http://arxiv.org/abs/2608.27914v1</link>
-      <guid isPermaLink="false">identitybrief-fc0fc73de85ecc57</guid>
-      <pubDate>Fri, 28 Aug 2026 04:41:39 +0000</pubDate>
-      <category>research</category>
-      <description>Mobile operating systems provide runtime permission controls intended to improve user control over sensitive data. However, default or pre-installed applications are deeply integrated into the system, may operate with elevated privileges, and are difficult for users to scrutinize. Existing permission models generally grant persistent or temporary access for…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>While The Industry Debates Interoperability, Indicio Has Built The Solution</title>
-      <link>https://indicio.tech/blog/verifiable-credentials-interoperability-aptitude/</link>
-      <guid isPermaLink="false">identitybrief-f1b8ee314c896b04</guid>
-      <pubDate>Sun, 30 Aug 2026 13:21:59 +0000</pubDate>
-      <category>did</category>
-      <description>Verifiable credentials interoperability is the way to scale EU digital identity: that’s what the APTITUDE Large Scale Pilot is designed to solve, that’s what Indicio has already built and deployed. By Kent Iverson I am currently in Geneva to participate in an interoperability meeting on APTITUDE , one of the Large-Scale Pilots for the European Union Digital…
-
-— via Indicio</description>
     </item>
 </channel></rss>
