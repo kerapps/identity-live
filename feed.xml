@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Digital sovereignty, infrastructure and credential formats colliding</title>
+      <link>https://www.biometricupdate.com/202609/digital-sovereignty-infrastructure-and-credential-formats-colliding</link>
+      <guid isPermaLink="false">identitybrief-7e0cf79521439f23</guid>
+      <pubDate>Sat, 12 Sep 2026 16:13:03 +0000</pubDate>
+      <category>did</category>
+      <description>Credential formats are facing new pressures amid debates on digital sovereignty. Moving from physical ID documents to digital credentials is a growing trend. The challenge: transitioning without a solid cryptographic foundation is risky and complex.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Revolut confirms customer data breach, falling for fake government requests</title>
+      <link>https://www.reuters.com/legal/litigation/revolut-confirms-sensitive-customer-data-breach-falling-fake-government-requests-2026-09-12/</link>
+      <guid isPermaLink="false">identitybrief-2dd928bc2f0d6585</guid>
+      <pubDate>Sat, 12 Sep 2026 17:19:50 +0000</pubDate>
+      <category>breach</category>
+      <description>Revolut fell victim to a data breach from fake government requests for customer data. This underscores the vulnerability of relying on official-looking requests without proper verification. The catch: it shows how social engineering can bypass even sophisticated security measures.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</title>
+      <link>https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html</link>
+      <guid isPermaLink="false">identitybrief-3be9058c0a3e93a1</guid>
+      <pubDate>Sat, 12 Sep 2026 15:54:45 +0000</pubDate>
+      <category>breach</category>
+      <description>CISA identified five new vulnerabilities in widely used systems like JFrog Artifactory. These flaws are actively exploited, requiring urgent patching. But the issue is many organizations may not yet have detected their exposure to these vulnerabilities.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Public sector joins digital identity export market as countries package DPI capacity</title>
+      <link>https://www.biometricupdate.com/202609/public-sector-joins-digital-identity-export-market-as-countries-package-dpi-capacity</link>
+      <guid isPermaLink="false">identitybrief-7a4369e99a933b62</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:27 +0000</pubDate>
+      <category>did</category>
+      <description>Public sectors worldwide are packaging their digital identity solutions for export. This promotes international collaboration on digital identity systems. The hurdle: adapting solutions to differing legal and technical standards globally.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Attackers use passkey-themed scams to hijack Microsoft 365 accounts</title>
+      <link>https://www.csoonline.com/article/4221110/attackers-use-passkey-themed-scams-to-hijack-microsoft-365-accounts.html</link>
+      <guid isPermaLink="false">identitybrief-6fd63a1695420a5e</guid>
+      <pubDate>Fri, 11 Sep 2026 09:51:37 +0000</pubDate>
+      <category>fraud</category>
+      <description>Scammers use passkey-themed lures to target Microsoft 365 users. These scams effectively deceive employees by impersonating IT personnel to gain account access. The limitation: even with better training, human error remains hard to totally eliminate.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Ant International, Visa, Mastercard work to make agentic protocols interoperable</title>
+      <link>https://www.biometricupdate.com/202609/ant-international-visa-mastercard-work-to-make-agentic-protocols-interoperable</link>
+      <guid isPermaLink="false">identitybrief-b1dc53903866fa3c</guid>
+      <pubDate>Fri, 11 Sep 2026 19:32:24 +0000</pubDate>
+      <category>did</category>
+      <description>Visa, Mastercard, and Ant International aim for interoperability in agentic protocols. This could streamline onboarding for digital wallets and payments. The barrier: integrating these protocols across different ecosystems without disruption can be complex.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Digital ID policy was scrapped, but government’s access challenges remain</title>
+      <link>https://identityweek.net/digital-id-policy-was-scrapped-but-governments-access-challenges-remain/</link>
+      <guid isPermaLink="false">identitybrief-9003907a0ce2e176</guid>
+      <pubDate>Thu, 10 Sep 2026 10:14:09 +0000</pubDate>
+      <category>did</category>
+      <description>Despite scrapping a digital ID policy, the UK government still faces access hurdles. This affects the modernization of public service access. The roadblock: inconsistent approaches and changing policies hinder progress.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>SpyCloud 2026 Identity Threat Report Finds Non-Human Identities Are Now the Leading Path into the Enterprise</title>
+      <link>https://www.csoonline.com/article/4220209/spycloud-2026-identity-threat-report-finds-non-human-identities-are-now-the-leading-path-into-the-enterprise.html</link>
+      <guid isPermaLink="false">identitybrief-4dd91b208343da56</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Non-human identities are now a major route for breaches into enterprises. This finding from SpyCloud's report highlights overlooked AI and machine identity risks. The downside: most organizations overestimate their monitoring capabilities in this area.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Your Critical Vulnerabilities Might Not Be Your Biggest Risk</title>
+      <link>https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html</link>
+      <guid isPermaLink="false">identitybrief-d46374ed9c116c25</guid>
+      <pubDate>Fri, 11 Sep 2026 11:30:00 +0000</pubDate>
+      <category>breach</category>
+      <description>A post argues that critical vulnerabilities might not always pose the biggest risks. It suggests focusing on vulnerabilities with real pathways to compromise. The challenge: prioritizing effectively without under-placing serious vulnerabilities.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AI agents exploited PaperCut flaws to breach 395 organizations</title>
+      <link>https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/</link>
+      <guid isPermaLink="false">identitybrief-105cf484d14d2566</guid>
+      <pubDate>Fri, 11 Sep 2026 10:05:32 +0000</pubDate>
+      <category>breach</category>
+      <description>AI agents played a pivotal role in exploiting PaperCut software flaws across organizations. The automated process significantly breaches security perimeters efficiently. Mitigation is difficult as AI-driven attacks evolve faster than detection tools.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Trezor: 347,000 users targeted in phishing attacks after Brevo breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/</link>
+      <guid isPermaLink="false">identitybrief-19452fa714cb49bb</guid>
+      <pubDate>Fri, 11 Sep 2026 07:55:15 +0000</pubDate>
+      <category>breach</category>
+      <description>Phishing attacks following a breach targeted Trezor users. It once again shows how breaches of one service can impact others. The catch: even with phishing awareness, email-based attacks remain a prevalent threat.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA</title>
+      <link>https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html</link>
+      <guid isPermaLink="false">identitybrief-2c0350c3fa60e4a4</guid>
+      <pubDate>Wed, 09 Sep 2026 14:23:55 +0000</pubDate>
+      <category>breach</category>
+      <description>Infostealer logs reveal vulnerabilities in AI tokens that can bypass MFA. This reflects on how poorly protected tokens can lead to significant breaches. The core issue: security tokens remain vulnerable if stored or transmitted insecurely.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>BigBear phishing crew nets thousands of Microsoft 365 credentials</title>
+      <link>https://www.theregister.com/security/2026/09/08/bigbear-phishing-crew-nets-thousands-of-microsoft-365-credentials/5294944</link>
+      <guid isPermaLink="false">identitybrief-120464820f5d2917</guid>
+      <pubDate>Tue, 08 Sep 2026 13:26:00 +0000</pubDate>
+      <category>breach</category>
+      <description>The BigBear phishing group collected significant Microsoft 365 credentials. More than just a statistic, it shows the ongoing effectiveness of tried-and-true phishing. The problem: uncovering how these credentials are being exploited is an ongoing task.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Elevating identity governance: from ecosystem silos to enterprise control</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1drWTZ2LVBERDFvTW80VUxZN2xFVl96NGxvSVoxMDIzQ0o0aUd1R0JRRC1oUzBXSEhrWmI5VUdJak5ESXV6c2w0Yi1VenVlRXFBWW41RVFqMDVRRjhmRnQyUWpITDE3Vm9sWWJoSnFYT1BKR2hMRmNENlRXeTlNdThqY0ttanRybFBIMFNwSkw1V0RrRktmYlFwekRfNEFkeDNEczN3?oc=5</link>
+      <guid isPermaLink="false">identitybrief-384b94171c6652a0</guid>
+      <pubDate>Thu, 10 Sep 2026 17:31:57 +0000</pubDate>
+      <category>iam</category>
+      <description>The call is for better identity governance, moving beyond siloed ecosystems. It's a push towards enterprise-wide identity control. The limitation: integration challenges between legacy systems and new governance models.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>Passkey-themed phishing attacks lead to Microsoft 365 data theft</title>
       <link>https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/</link>
       <guid isPermaLink="false">identitybrief-bb3617ce0b50444f</guid>
@@ -1362,145 +1502,5 @@
       <description>Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the… It landed in the last few hours.
 
 — via Microsoft Security</description>
-    </item>
-    <item>
-      <title>ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use</title>
-      <link>http://arxiv.org/abs/2609.02690v1</link>
-      <guid isPermaLink="false">identitybrief-5ab93ddc4aa57784</guid>
-      <pubDate>Wed, 02 Sep 2026 14:58:17 +0000</pubDate>
-      <category>research</category>
-      <description>Remote Model Context Protocol (MCP) services enable large language model agents to invoke external tools, but OAuth authorization alone does not ensure that a later tool call is executed by the provider-side workload that the relying party intended to trust. An endpoint may remain authorized even after execution shifts to a substituted workload, relies on…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>The Shape of Ownership: Verifying LLM Provenance through Semantic Structures</title>
-      <link>http://arxiv.org/abs/2609.02553v1</link>
-      <guid isPermaLink="false">identitybrief-5fd0ba93585b40d6</guid>
-      <pubDate>Wed, 02 Sep 2026 13:04:51 +0000</pubDate>
-      <category>research</category>
-      <description>As large language models (LLMs) are increasingly redistributed, adapted, and served behind opaque APIs, model ownership can no longer be established reliably by inspecting model internals or deployment records. This creates a need for behavioral signatures that remain observable through black-box interaction. Yet most existing black-box fingerprints…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Exploited JFrog Artifactory bug puts software supply chain on alert</title>
-      <link>https://www.csoonline.com/article/4217534/exploited-jfrog-artifactory-bug-puts-software-supply-chain-on-alert.html</link>
-      <guid isPermaLink="false">identitybrief-d3ac64b700ff1145</guid>
-      <pubDate>Wed, 02 Sep 2026 12:24:40 +0000</pubDate>
-      <category>breach</category>
-      <description>A critical authentication bypass in JFrog Artifactory is now being exploited in the wild, with attackers observed generating administrator tokens and probing the software supply-chain platform’s sensitive data. The flaw, tracked as CVE-2026-82329 , was disclosed by JFrog on August 28 and can, under default configuration, allow an unauthenticated attacker…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Yubico expands OpenAI partnership to new countries as hardware-backed passkey mandate begins for Trusted Access for Cyber program</title>
-      <link>https://www.yubico.com/blog/yubico-expands-openai-partnership-to-new-countries-as-hardware-backed-passkey-mandate-begins-for-trusted-access-for-cyber-program/</link>
-      <guid isPermaLink="false">identitybrief-1408b265a481b08f</guid>
-      <pubDate>Wed, 02 Sep 2026 19:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Protecting the security researchers and defenders on the frontlines of AI requires phishing-resistant account protection that keeps powerful capabilities in trusted hands. Marking a major milestone in this effort, OpenAI’s Advanced Account Security (AAS) program goes live today, September 1, 2026 – requiring hardware-backed passkeys for all Trusted Access…
-
-— via Yubico</description>
-    </item>
-    <item>
-      <title>Open-source secrets scanning tool Sift hunts credentials in Microsoft 365, Slack, and Jira</title>
-      <link>https://www.helpnetsecurity.com/2026/09/02/sift-open-source-secret-scanning/</link>
-      <guid isPermaLink="false">identitybrief-45bfe55e7bdd46cc</guid>
-      <pubDate>Wed, 02 Sep 2026 05:00:25 +0000</pubDate>
-      <category>auth</category>
-      <description>Sift is a free, open-source command line tool that searches for passwords, API keys, and other sensitive data across the places a company keeps its work: local disks, Windows file shares, an entire Active Directory domain, SharePoint, OneDrive, Teams channel files, Slack messages, and Jira and Confluence. Stratus Security, a penetration testing consultancy,… It landed in the last few hours.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
-      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
-      <guid isPermaLink="false">identitybrief-8224b1bfabeef0bd</guid>
-      <pubDate>Tue, 01 Sep 2026 22:40:28 +0000</pubDate>
-      <category>fraud</category>
-      <description>A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification… It landed in the last few hours.
-
-— via Krebs on Security</description>
-    </item>
-    <item>
-      <title>From a fragment to a network: Real-time identity connections reveal the networks behind fraud and financial crime</title>
-      <link>https://identityweek.net/from-a-fragment-to-a-network-real-time-identity-connections-reveal-the-networks-behind-fraud-and-financial-crime/</link>
-      <guid isPermaLink="false">identitybrief-a87f5f0ee5bd49e1</guid>
-      <pubDate>Tue, 01 Sep 2026 20:07:17 +0000</pubDate>
-      <category>fraud</category>
-      <description>By Chris Harrison, CEO, Fideo Intelligence A government agency investigating a cyberattack had an unusual clue. The attack began with targeted phishing emails disguised as Adobe signature requests designed to steal Microsoft 365 credentials. After compromising accounts, the attacker appeared to use administrator privileges to move laterally and target… It landed in the last few hours.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>MOSIP broadens Inji beyond digital ID into open credentialing platform</title>
-      <link>https://www.biometricupdate.com/202609/mosip-broadens-inji-beyond-digital-id-into-open-credentialing-platform</link>
-      <guid isPermaLink="false">identitybrief-21524b3b94749f8e</guid>
-      <pubDate>Tue, 01 Sep 2026 14:51:03 +0000</pubDate>
-      <category>did</category>
-      <description>MOSIP is transforming Inji from a digital identity wallet into an independent, open-source credentialing platform designed to become trust infrastructure for verifiable credentials across multiple sectors. Rather than focusing on government-issued digital identity, Inji 1.0 is being designed as a credentialing platform capable of supporting education,…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FaceTec UR® Code adoption gaining significant real-world momentum</title>
-      <link>https://identityweek.net/facetec-ur-code-adoption-gaining-significant-real-world-momentum/</link>
-      <guid isPermaLink="false">identitybrief-c6658bdc3c9f6642</guid>
-      <pubDate>Tue, 01 Sep 2026 21:48:59 +0000</pubDate>
-      <category>fraud</category>
-      <description>UR® Codes bind humans to their issuer-signed identities to stop fake IDs FaceTec, Inc., the global leader in 3D Face Verification software, today announced the release of its UR® Codes August 2026 Update. The document provides insight into current use case examples of the UR Code model, describing critically important, life-saving identity verification… It landed in the last few hours.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Attackers Pounce on Critical Artifactory Flaw Following Disclosure</title>
-      <link>https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure</link>
-      <guid isPermaLink="false">identitybrief-38d50c871a590c1f</guid>
-      <pubDate>Tue, 01 Sep 2026 21:05:53 +0000</pubDate>
-      <category>breach</category>
-      <description>CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems. It landed in the last few hours.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>From physical infrastructure to digital rails: India’s blueprint for Sri Lanka</title>
-      <link>https://www.biometricupdate.com/202609/from-physical-infrastructure-to-digital-rails-indias-blueprint-for-sri-lanka</link>
-      <guid isPermaLink="false">identitybrief-7b23dfd0a3441091</guid>
-      <pubDate>Tue, 01 Sep 2026 15:04:41 +0000</pubDate>
-      <category>did</category>
-      <description>Sri Lanka is not simply building another identity card. It is creating the foundation for a digital state. The Sri Lanka Unique Digital Identity project, or SL-UDI , would use demographic and biometric information to establish a unique identity for each citizen. Government agencies and approved organizations could then verify that person digitally. The…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>White House makes Login.gov mandate final with two-year governmentwide rollout</title>
-      <link>https://www.biometricupdate.com/202609/white-house-makes-login-gov-mandate-final-with-two-year-governmentwide-rollout</link>
-      <guid isPermaLink="false">identitybrief-c4495828c9f30de0</guid>
-      <pubDate>Tue, 01 Sep 2026 19:16:53 +0000</pubDate>
-      <category>auth</category>
-      <description>The White House has finalized its plan to make Login.gov the universal sign-on for most public-facing federal services, converting a draft policy disclosed last week into a governmentwide mandate with firm deployment deadlines and new requirements governing competing identity providers. On Monday, the Office of Management and Budget (OMB) issued Memorandum…
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Notice of Vote for Proposed OpenID Connect Ephemeral Subject Identifier 1.0 Final Specification</title>
-      <link>https://openid.net/notice-of-vote-for-proposed-openid-connect-ephemeral-subject-identifier-1-0-final-specification/</link>
-      <guid isPermaLink="false">identitybrief-b6a8d71ddc595c86</guid>
-      <pubDate>Wed, 02 Sep 2026 04:30:05 +0000</pubDate>
-      <category>auth</category>
-      <description>The voting period will be between Wednesday, September 16, 2026 and Wednesday, September 30, 2026, once the 60-day review of the specification has been completed. The OpenID Connect working group page is https://openid.net/wg/connect/. If you’re not already a member, or if your membership has expired, please consider joining to participate in the approval… It landed in the last few hours.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Dropbox Data Breach</title>
-      <link>https://news.ycombinator.com/item?id=49514427</link>
-      <guid isPermaLink="false">identitybrief-a1921329594705fd</guid>
-      <pubDate>Mon, 31 Aug 2026 20:20:18 +0000</pubDate>
-      <category>breach</category>
-      <description>I received a security notice from Dropbox today saying that my account was accessed without authorization between August 4 and August 21, 2026, and that Dropbox believes files in the account were viewed or downloaded. According to the email, Dropbox uses Lenovo as an identity provider, allowing users to authenticate to Dropbox with a verified Lenovo ID.… It's pulling 29pts/day — real momentum for something this new, not a one-day spike. Still under the radar (43pts) — early enough to be worth a look before everyone piles in.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
