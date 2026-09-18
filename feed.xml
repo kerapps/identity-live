@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>98% of fraudulent hires have company credentials by the time they’re caught</title>
+      <link>https://www.helpnetsecurity.com/2026/09/18/hypr-hiring-fraud-detection-report/</link>
+      <guid isPermaLink="false">identitybrief-4125a2dfbcf11228</guid>
+      <pubDate>Fri, 18 Sep 2026 05:00:51 +0000</pubDate>
+      <category>fraud</category>
+      <description>HYPR's report reveals that 98% of fraudulent hires get credentials before detection. This highlights a critical gap in the hiring-to-onboarding period, risking credential misuse. The problem is no simple fix: calls for dedicated identity verification technologies that most HR systems lack.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Hardcoded MCP credentials found in public GitHub files</title>
+      <link>https://www.helpnetsecurity.com/2026/09/18/hush-security-mcp-credential-exposure-report/</link>
+      <guid isPermaLink="false">identitybrief-42d27e43c100cd69</guid>
+      <pubDate>Fri, 18 Sep 2026 05:30:26 +0000</pubDate>
+      <category>breach</category>
+      <description>MCP credentials were hardcoded in public GitHub files, posing a security risk. Direct exposure of credentials could lead to unauthorized system access and exploitation. The fix isn't straightforward, as it requires developers to consistently follow best practices in credential management.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>AI Agent Breaches Spanish Organization, Modifies Personal Data</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data</link>
+      <guid isPermaLink="false">identitybrief-aa1bfb69fd290b38</guid>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>An AI agent breached a Spanish organization and altered personal data, showcasing AI's role in cyberattacks. This shift means security strategies must now account for and defend against AI-driven threats. The challenge lies in adapting quickly: traditional defenses might not suffice against evolving AI tactics.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Canada’s DIACC certifies Facephi’s biometric onboarding to LOA2</title>
+      <link>https://www.biometricupdate.com/202609/canadas-diacc-certifies-facephis-biometric-onboarding-to-loa2</link>
+      <guid isPermaLink="false">identitybrief-63a12ef34b5bc96f</guid>
+      <pubDate>Thu, 17 Sep 2026 19:33:26 +0000</pubDate>
+      <category>did</category>
+      <description>Facephi's biometric onboarding has been certified to LOA2 by DIACC in Canada. This boosts consumer confidence in biometrics for secure identity verification. However, certification alone doesn't address potential technical integration hurdles within firms' existing ecosystems.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>UK financial services face AML enforcement, certification confusion double-whammy</title>
+      <link>https://www.biometricupdate.com/202609/uk-financial-services-face-aml-enforcement-certification-confusion-double-whammy</link>
+      <guid isPermaLink="false">identitybrief-f072a1053dca42ff</guid>
+      <pubDate>Thu, 17 Sep 2026 19:35:31 +0000</pubDate>
+      <category>did</category>
+      <description>UK financial services face a dual challenge with AML enforcement and identity verification guidance confusion. This scenario pressures businesses to align with shifting compliance landscapes quickly. Unfortunately, regulatory clarity often lags behind technology capabilities.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Identt joins Poland’s mObywatel Europa EUDI Wallet sandbox</title>
+      <link>https://www.biometricupdate.com/202609/identt-joins-polands-mobywatel-europa-eudi-wallet-sandbox</link>
+      <guid isPermaLink="false">identitybrief-5d0f5e1ed2efdca8</guid>
+      <pubDate>Thu, 17 Sep 2026 14:13:28 +0000</pubDate>
+      <category>did</category>
+      <description>Identt joins the mObywatel Europa EUDI Wallet sandbox, engaging with EU digital ID initiatives. It’s an important step for testing interoperable digital identities across Europe. Full-scale use awaits further regulatory endorsements and practical trials.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>OpenID Foundation launches refreshed conformance suite interface</title>
+      <link>https://openid.net/openid-foundation-launches-refreshed-conformance-suite-interface/</link>
+      <guid isPermaLink="false">identitybrief-79f1a2a28eb393cb</guid>
+      <pubDate>Thu, 17 Sep 2026 21:19:04 +0000</pubDate>
+      <category>did</category>
+      <description>The OpenID Foundation has updated its conformance suite interface, making it more user-friendly. This matters because it streamlines the validation process for various OpenID standards, potentially reducing integration time. The catch: this is just an interface update, so the core conformance tools remain unchanged.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS</title>
+      <link>https://www.aclif.ai/</link>
+      <guid isPermaLink="false">identitybrief-4a566c5a533bc344</guid>
+      <pubDate>Thu, 17 Sep 2026 16:48:17 +0000</pubDate>
+      <category>auth</category>
+      <description>Aclif, a new CLI framework, simplifies SaaS interactions by providing unified command grammar. It can streamline developer workflows by reducing the learning curve for multiple services. However, its utility is limited to environments already invested in custom command-line tooling.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall</title>
+      <link>https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html</link>
+      <guid isPermaLink="false">identitybrief-09d722e7770098e0</guid>
+      <pubDate>Fri, 18 Sep 2026 06:17:25 +0000</pubDate>
+      <category>breach</category>
+      <description>RatHat Android malware retains shell access through ADB even after app uninstall. Its persistence underscores the need for rigorous mobile device security and user awareness. The downside is that defensive measures often depend on user compliance with security protocols.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Cisco patches max-severity ISE flaw, the second critical zero-day this week</title>
+      <link>https://www.csoonline.com/article/4223535/cisco-patches-max-severity-ise-flaw-the-second-critical-zero-day-this-week.html</link>
+      <guid isPermaLink="false">identitybrief-288e4c348ae25295</guid>
+      <pubDate>Thu, 17 Sep 2026 21:03:58 +0000</pubDate>
+      <category>breach</category>
+      <description>Cisco patched a critical ISE flaw that allowed authentication bypass and root access. This vulnerability highlights the persistent risk of zero-days in network access control systems. Still, full mitigation requires all users to promptly apply the patch across affected systems.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>DIF Newsletter #65</title>
+      <link>https://blog.identity.foundation/dif-newsletter-65/</link>
+      <guid isPermaLink="false">identitybrief-cdce21acbe22a9aa</guid>
+      <pubDate>Thu, 17 Sep 2026 12:51:36 +0000</pubDate>
+      <category>did</category>
+      <description>The DIF's newsletter highlights upcoming steering committee elections and initiatives in decentralized identity. Insights into decentralized identity developments can guide future identity strategies. However, practical adoption remains contingent on broader ecosystem readiness.
+
+— via DIF</description>
+    </item>
+    <item>
+      <title>Post-Quantum OpenID Connect</title>
+      <link>https://openid.net/post-quantum-openid-connect/</link>
+      <guid isPermaLink="false">identitybrief-a35af200d92daf2c</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:52 +0000</pubDate>
+      <category>auth</category>
+      <description>A look at OpenID Connect potential issues in the post-quantum cryptography era. Preparing for quantum resistance now could save much larger headaches later. Actual deployment of these concepts is complex, needing substantial public-key infrastructure transformations.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Before the Arrest: Benchmarking LLMs on Criminal Profiling from Incomplete Evidence</title>
+      <link>http://arxiv.org/abs/2609.19965v1</link>
+      <guid isPermaLink="false">identitybrief-1af29c09e44c5d67</guid>
+      <pubDate>Thu, 17 Sep 2026 09:38:22 +0000</pubDate>
+      <category>research</category>
+      <description>New research benchmarks LLMs on criminal profiling from incomplete evidence. This might open new avenues for AI in legal investigations, where patterns are discerned from fragments. The real-world applicability is speculative, given ethical and accuracy concerns.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Digital IDs are Now Cleared for KYC: How Banks Can Verify Them using Indicio Proven</title>
+      <link>https://indicio.tech/blog/fincen-verifiable-credentials-kyc/</link>
+      <guid isPermaLink="false">identitybrief-d5638b42b576d207</guid>
+      <pubDate>Thu, 17 Sep 2026 14:33:30 +0000</pubDate>
+      <category>did</category>
+      <description>Digital IDs are now accepted for KYC, confirmed by FinCEN and banking regulators. This endorsement can streamline identity verification, simplifying account openings. Yet, widespread implementation may hit snags if dependent technologies are unavailable or incompatible.
+
+— via Indicio</description>
+    </item>
+    <item>
       <title>The AI security question leaders should be asking instead</title>
       <link>https://www.helpnetsecurity.com/2026/09/17/frederic-bull-gremlin-ai-in-cybersecurity-gap/</link>
       <guid isPermaLink="false">identitybrief-a8cf299577b308c1</guid>
@@ -1362,145 +1502,5 @@
       <description>A report analyzes how QR codes can support verifiable documents on paper. This combination could enhance document authenticity in situations where digital means aren't suitable. However, widespread adoption depends on the standardization of the QR code approach.
 
 — via KuppingerCole</description>
-    </item>
-    <item>
-      <title>Utah launches Digital Apostille Process</title>
-      <link>https://identityweek.net/utah-launches-digital-apostille-process/</link>
-      <guid isPermaLink="false">identitybrief-013d4a0ea497df0d</guid>
-      <pubDate>Mon, 07 Sep 2026 15:28:32 +0000</pubDate>
-      <category>iam</category>
-      <description>Utah launches a digital process for authenticating legal documents worldwide. This simplifies the validation of identity and certifications for residents engaging internationally. The limitation lies in its current confinement to state residents, not yet a wider rollout.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More</title>
-      <link>https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html</link>
-      <guid isPermaLink="false">identitybrief-51e0fedb88d7ff34</guid>
-      <pubDate>Mon, 07 Sep 2026 14:36:07 +0000</pubDate>
-      <category>auth</category>
-      <description>A recap highlights a new way attackers bypass email image blocking with text QR codes. This tactic keeps the phishing threat alive and necessitates continuous awareness. The key is staying vigilant and updating security protocols regularly.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Understanding the Privacy-Preserving Potential of HTTP/2 Against Webpage Fingerprinting</title>
-      <link>http://arxiv.org/abs/2609.05119v1</link>
-      <guid isPermaLink="false">identitybrief-2ec4640610b27bd7</guid>
-      <pubDate>Fri, 04 Sep 2026 13:16:30 +0000</pubDate>
-      <category>research</category>
-      <description>A paper discusses HTTP/2’s impact on mitigating webpage fingerprinting. It shows potential for enhanced privacy without compromising application performance. Yet, adoption depends on broader awareness and implementation of these privacy enhancements.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Auth0 vs Frontegg vs WorkOS: Who's actually enterprise ready in 2026?</title>
-      <link>https://workos.com/blog/workos-vs-auth0-vs-frontegg</link>
-      <guid isPermaLink="false">identitybrief-828577025331387f</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>A workup compares Auth0, Frontegg, and WorkOS for enterprise readiness in 2026. It evaluates their self-service capabilities for SSO and SCIM configurations. Such comparisons are important for IT teams selecting a platform, but biases may exist based on information sources.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>Zero trust AI agents demand a different kind of security</title>
-      <link>https://www.helpnetsecurity.com/2026/09/07/chris-webber-teleport-zero-trust-ai-agents/</link>
-      <guid isPermaLink="false">identitybrief-af6ae2da79c01fbe</guid>
-      <pubDate>Mon, 07 Sep 2026 05:00:25 +0000</pubDate>
-      <category>iam</category>
-      <description>Zero trust needs a rethink for AI agents, says Teleport’s Chris Webber. These agents act unpredictably, making traditional methods like least privilege outdated. The downside: it's mostly theory for now, with few practical tools available.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Bangladesh budgets US$748 million for One-ID digital identity project</title>
-      <link>https://www.biometricupdate.com/202609/bangladesh-budgets-us748-million-for-one-id-digital-identity-project</link>
-      <guid isPermaLink="false">identitybrief-2808a3dabcd9c743</guid>
-      <pubDate>Mon, 07 Sep 2026 04:15:19 +0000</pubDate>
-      <category>did</category>
-      <description>Bangladesh is investing $748M in a One-ID digital identity project backed by the World Bank. It aims to centralize identity to streamline services and improve security. The snag: such projects can struggle with privacy and implementation issues.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Microsoft patent adapts biometric authentication to on-screen risk</title>
-      <link>https://www.biometricupdate.com/202609/microsoft-patent-adapts-biometric-authentication-to-on-screen-risk</link>
-      <guid isPermaLink="false">identitybrief-21d4550803d86ad2</guid>
-      <pubDate>Mon, 07 Sep 2026 04:02:44 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft's new patent adapts biometrics based on screen context and surroundings. It’s about protecting sensitive information dynamically. The catch: it's still just a patent — real-world use could be years away.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>UNJSPF biometric system delivers faster pension payments with less fraud</title>
-      <link>https://www.biometricupdate.com/202609/unjspf-biometric-system-delivers-faster-pension-payments-with-less-fraud</link>
-      <guid isPermaLink="false">identitybrief-4a3163b7c64ab72a</guid>
-      <pubDate>Mon, 07 Sep 2026 04:21:53 +0000</pubDate>
-      <category>fraud</category>
-      <description>The UNJSPF is using facial biometrics for quicker pension payments with fewer fraud attempts. This helps verify users globally, even in remote locations. However, adoption depends heavily on member uptake of the new app.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Attackers conceal phishing lures using invisible Unicode characters</title>
-      <link>https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/</link>
-      <guid isPermaLink="false">identitybrief-c3659111ffa5c96b</guid>
-      <pubDate>Sun, 06 Sep 2026 14:23:46 +0000</pubDate>
-      <category>breach</category>
-      <description>Phishers are now hiding bait with invisible Unicode characters, bypassing email filters. It's a new twist on ASCII smuggling. The challenge: spotting these attacks means more sophisticated email inspections.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication</title>
-      <link>https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</link>
-      <guid isPermaLink="false">identitybrief-d49a120f4499bf39</guid>
-      <pubDate>Sun, 06 Sep 2026 09:32:38 +0000</pubDate>
-      <category>breach</category>
-      <description>MikroTik routers are vulnerable to attack via exposed SSH services, allowing unauthorized admin access. This is a strong reminder to secure remote management interfaces. The trouble lies in the large number of potentially unpatched devices.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>ToolHive: The open-source way to run any MCP server securely</title>
-      <link>https://www.helpnetsecurity.com/2026/09/07/toolhive-open-source-mcp-server-security/</link>
-      <guid isPermaLink="false">identitybrief-c0a7af90925fb1a4</guid>
-      <pubDate>Mon, 07 Sep 2026 05:30:26 +0000</pubDate>
-      <category>auth</category>
-      <description>ToolHive offers an open-source way to manage MCP servers securely using containerization. This enhances security by isolating server access credentials. The hitch: it’s self-hosted, which can add overhead and complexity.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls</title>
-      <link>http://arxiv.org/abs/2609.05269v1</link>
-      <guid isPermaLink="false">identitybrief-fabc90033eae6428</guid>
-      <pubDate>Fri, 04 Sep 2026 15:26:35 +0000</pubDate>
-      <category>research</category>
-      <description>A new paper introduces CONTINUITY for composing secure LLM agent controls. This framework aims to fix security gaps across systems. However, integrating such a model involves complex changes across current setups.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Optimizing Credential Blast Radius Through Trust Boundaries and Delegation Under Post-Quantum Authentication Costs</title>
-      <link>http://arxiv.org/abs/2609.04566v1</link>
-      <guid isPermaLink="false">identitybrief-e311c9cd8eda4f3c</guid>
-      <pubDate>Thu, 03 Sep 2026 23:42:06 +0000</pubDate>
-      <category>research</category>
-      <description>Researchers are revisiting trust boundaries due to post-quantum authentication needs, focusing on minimizing credential impact after a breach. It’s about preparing for a future where existing quantum-resistant solutions create new hurdles. The downside: increased latency and network load.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Governing Bring Your Own AI: A Parameterized Maturity Model</title>
-      <link>http://arxiv.org/abs/2609.05236v1</link>
-      <guid isPermaLink="false">identitybrief-0244011ea45b8acd</guid>
-      <pubDate>Fri, 04 Sep 2026 15:03:49 +0000</pubDate>
-      <category>research</category>
-      <description>A new model for governing BYOAI (Bring Your Own AI) highlights unmonitored personal AI tool risks. It underscores the need for control frameworks over Shadow AI. The limitation: existing organizational policies rarely cover such personal tools.
-
-— via arXiv</description>
     </item>
 </channel></rss>
