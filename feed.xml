@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Westpac becomes first NZ bank accredited to issue digital credentials</title>
+      <link>https://www.biometricupdate.com/202609/westpac-becomes-first-nz-bank-accredited-to-issue-digital-credentials</link>
+      <guid isPermaLink="false">identitybrief-0b42165347a772cc</guid>
+      <pubDate>Fri, 18 Sep 2026 16:59:32 +0000</pubDate>
+      <category>did</category>
+      <description>Westpac is the first New Zealand bank accredited to issue digital credentials. This simplifies identity verification for businesses interacting digitally, integrating these credentials with government services. The rollout is initially for NZ businesses, so it's not widely available yet.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Digital wallets challenge age check market to change</title>
+      <link>https://www.biometricupdate.com/202609/digital-wallets-challenge-age-check-market-to-change</link>
+      <guid isPermaLink="false">identitybrief-1c1a9da537d3f046</guid>
+      <pubDate>Fri, 18 Sep 2026 17:37:36 +0000</pubDate>
+      <category>did</category>
+      <description>Digital wallets now challenge age verification technologies. They offer selective disclosure, which might make traditional age assurance methods obsolete. This change depends on widespread digital wallet adoption, which varies by region.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>California child-safety laws expand age checks to addictive feeds, AI chatbots</title>
+      <link>https://www.biometricupdate.com/202609/california-child-safety-laws-expand-age-checks-to-addictive-feeds-ai-chatbots</link>
+      <guid isPermaLink="false">identitybrief-7a801ca24cfc12de</guid>
+      <pubDate>Fri, 18 Sep 2026 23:37:07 +0000</pubDate>
+      <category>did</category>
+      <description>California is expanding age checks to include AI chatbots and addictive feeds. Enhanced regulations increase the need for robust user age verification systems in digital services. These laws are currently state-specific, so not every company will be affected.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Cisco Zero-Day Highlights API Endpoint Authentication Issues</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues</link>
+      <guid isPermaLink="false">identitybrief-543303fb3bcb6e97</guid>
+      <pubDate>Fri, 18 Sep 2026 19:26:47 +0000</pubDate>
+      <category>breach</category>
+      <description>A new Cisco zero-day highlights problems with API endpoint authentication. It shows vulnerabilities in how APIs verify identities, underscoring the importance of securing these endpoints. It's specific to Cisco ISE, affecting users of this platform most directly.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Join the 2027 speaker line-up: Identity Week Europe 2027</title>
+      <link>https://identityweek.net/join-the-2027-speaker-line-up-identity-week-europe-2027/</link>
+      <guid isPermaLink="false">identitybrief-0d73fa591a482a26</guid>
+      <pubDate>Fri, 18 Sep 2026 11:38:47 +0000</pubDate>
+      <category>did</category>
+      <description>Identity Week Europe 2027 is looking for speakers. This suggests ongoing interest and innovation in identity management strategies. Unless you're planning to attend or contribute, the news doesn't directly impact current processes.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Malawi has turned citizen identity into a lifelong right</title>
+      <link>https://identityweek.net/malawi-has-turned-citizen-identity-into-a-lifelong-right/</link>
+      <guid isPermaLink="false">identitybrief-d6124cb99e516067</guid>
+      <pubDate>Fri, 18 Sep 2026 12:09:17 +0000</pubDate>
+      <category>did</category>
+      <description>Malawi made citizen identity a lifelong right, removing expiration dates from ID cards. This simplifies identity verification and reduces barriers to access essential services in Malawi. The impact is regionally confined, affecting only Malawi's citizens and systems.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>MFA Won't Save You From OAuth Consent Abuse</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse</link>
+      <guid isPermaLink="false">identitybrief-1d96f33c6537021f</guid>
+      <pubDate>Fri, 18 Sep 2026 18:15:20 +0000</pubDate>
+      <category>auth</category>
+      <description>OAuth consent abuse isn't mitigated by MFA alone. This highlights the need for a more comprehensive strategy like tight scope management. Companies focusing solely on MFA might miss this critical vulnerability.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Korea raises data breach fines to 10% of revenue</title>
+      <link>https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</link>
+      <guid isPermaLink="false">identitybrief-ef79ea03a0e5e10b</guid>
+      <pubDate>Fri, 18 Sep 2026 20:02:54 +0000</pubDate>
+      <category>breach</category>
+      <description>Korea is raising data breach fines to 10% of a company's revenue. The increased fines mean stronger financial consequences for security failures, pushing businesses to prioritize data protection. This only affects companies operating in or with connections to Korea, so it's a specific regional impact.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Biometric Update: Passkeys in the post-quantum era: Why FIDO needs more than new algorithms</title>
+      <link>https://fidoalliance.org/biometric-update-passkeys-in-the-post-quantum-era-why-fido-needs-more-than-new-algorithms/</link>
+      <guid isPermaLink="false">identitybrief-b07c8fa154ef86f9</guid>
+      <pubDate>Fri, 18 Sep 2026 19:34:50 +0000</pubDate>
+      <category>breach</category>
+      <description>The FIDO Alliance discusses the role of passkeys in a post-quantum world. As quantum computing advances, traditional encryption might become vulnerable, so passkeys need stronger algorithms. This is mostly theoretical now, but it highlights the need for future-proofing authentication methods.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>I don't like passkeys</title>
+      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
+      <guid isPermaLink="false">identitybrief-6d0b688b41f14353</guid>
+      <pubDate>Fri, 18 Sep 2026 12:06:50 +0000</pubDate>
+      <category>auth</category>
+      <description>A discussion highlights concerns about using passkeys. Despite their phishing resistance, users worry about device dependency and recovery hassles. These concerns suggest passkeys might not be universally accepted yet, especially for those reliant on multiple devices.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>World Economic Forum: Why trust in AI agents requires open global standards</title>
+      <link>https://fidoalliance.org/world-economic-forum-why-trust-in-ai-agents-requires-open-global-standards/</link>
+      <guid isPermaLink="false">identitybrief-c2ac62b51dbea2cc</guid>
+      <pubDate>Fri, 18 Sep 2026 15:54:56 +0000</pubDate>
+      <category>auth</category>
+      <description>The World Economic Forum pushes for global standards to build trust in AI. Open standards could ensure AI systems are reliable across different regions and uses. These standards are proposed but not yet implemented, so there's no immediate impact.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>GhostCode attackers abuse device codes to take over Microsoft 365 accounts</title>
+      <link>https://www.csoonline.com/article/4223898/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts-2.html</link>
+      <guid isPermaLink="false">identitybrief-10375460b986c2c5</guid>
+      <pubDate>Fri, 18 Sep 2026 15:18:40 +0000</pubDate>
+      <category>breach</category>
+      <description>GhostCode attackers are abusing device codes to compromise Microsoft 365 accounts. This shows a weakness in Microsoft's authentication flow that bypasses conventional security measures. It impacts Microsoft 365 users specifically, emphasizing the need for vigilance on this platform.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape</title>
+      <link>http://arxiv.org/abs/2609.20614v1</link>
+      <guid isPermaLink="false">identitybrief-95dabcf8130d401f</guid>
+      <pubDate>Thu, 17 Sep 2026 15:59:45 +0000</pubDate>
+      <category>research</category>
+      <description>Research reveals inference-engine fingerprinting attacks are viable. This indicates potential new attack vectors in AI model deployments. These are theoretical scenarios today and require advanced AI handling capabilities.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Identity may be the design primitive you're overlooking</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGFIZ0xZSC1CVjZaUUpOdlVwQ3JtVF9vZWpBekV1dDBlWnBxdEtzN3B6YXZYbnllV3ZpZlVCQkVubndKMHd0QXdYMUVvX0dsQTNWajktWUdid0NIbVBubXhwN3ZmTGlCRXBOYW02QVRLUnl2Z05lblpXb0x6RVlRWWxTXzVyYnBvdnRpag?oc=5</link>
+      <guid isPermaLink="false">identitybrief-bb7a9808953b9d53</guid>
+      <pubDate>Fri, 18 Sep 2026 21:57:10 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta suggests overlooking identity as a design primitive might be a mistake. Integrating identity thoroughly can strengthen security and functionality. This advice is more strategic than tactical, lacking immediate application steps.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>98% of fraudulent hires have company credentials by the time they’re caught</title>
       <link>https://www.helpnetsecurity.com/2026/09/18/hypr-hiring-fraud-detection-report/</link>
       <guid isPermaLink="false">identitybrief-4125a2dfbcf11228</guid>
@@ -1362,145 +1502,5 @@
       <description>BigBear 2.0 is a phishing campaign that hijacks Microsoft 365 sessions even after multifactor authentication. The attackers harvested session cookies, compromising thousands of accounts. Beware: this method circumvents even robust MFA setups, compromising user trust.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>ClickFix Campaigns Abuse Legitimate Services for Persistent Access</title>
-      <link>https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access</link>
-      <guid isPermaLink="false">identitybrief-653a7ba6957d81eb</guid>
-      <pubDate>Tue, 08 Sep 2026 17:25:37 +0000</pubDate>
-      <category>breach</category>
-      <description>ClickFix campaigns use legitimate services to maintain persistent access in organizations. Social engineering strategies are evolving, targeting users beyond typical email scams. The catch: detection is more complicated because it mimics normal, authorized behavior.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Threat actors are giving AI agents a bigger role in cyberattacks</title>
-      <link>https://www.helpnetsecurity.com/2026/09/08/ai-agents-cyberattacks-automation-google-research/</link>
-      <guid isPermaLink="false">identitybrief-6e6d6f2aab6df8a1</guid>
-      <pubDate>Tue, 08 Sep 2026 13:44:07 +0000</pubDate>
-      <category>breach</category>
-      <description>AI systems are increasingly a core part of cyberattacks, handling tasks like vulnerability scanning. Google's report highlights growing threats from automated agents that reduce the need for human hackers. Adoption is uneven, but the pace of change is concerning.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>MikroTik Patches Critical Flaws Chained to Hack Routers</title>
-      <link>https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/</link>
-      <guid isPermaLink="false">identitybrief-f78bbf47e6fd8500</guid>
-      <pubDate>Tue, 08 Sep 2026 11:15:00 +0000</pubDate>
-      <category>auth</category>
-      <description>MikroTik patched vulnerabilities that allowed router hijacking through chain attacks. The update strengthens the security of network devices at risk from these critical flaws. Keeping firmware up-to-date is essential, but manual patching can be a bottleneck.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>FinCEN Confirms Banks Can Accept Digital Credentials. Now They Need to Verify Them.</title>
-      <link>https://blog.spruceid.com/fincen-confirms-banks-can-accept-digital-credentials-now-they-need-to-verify-them-3/</link>
-      <guid isPermaLink="false">identitybrief-1593bbd0238d5a5e</guid>
-      <pubDate>Tue, 08 Sep 2026 21:55:42 +0000</pubDate>
-      <category>did</category>
-      <description>Regulators confirm that banks can accept digital credentials like mobile driver's licenses securely. This change supports the shift toward digital ID verification in finance. The challenge: ensuring that all institutions are ready to verify and trust digital credentials correctly.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>Thailand puts verifiable credentials at center of 2027 digital ID strategy</title>
-      <link>https://www.biometricupdate.com/202609/thailand-puts-verifiable-credentials-at-center-of-2027-digital-id-strategy</link>
-      <guid isPermaLink="false">identitybrief-382da43481dd66fa</guid>
-      <pubDate>Mon, 07 Sep 2026 20:07:11 +0000</pubDate>
-      <category>did</category>
-      <description>Thailand plans to center its 2027 digital identity strategy on verifiable credentials. This shifts the nation's approach from mere identity verification to a more robust system of verified credentials, enhancing trust and security. But the specifics of implementation and international interoperability remain to be seen.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Albania gives ALBTrace broader role in digital identity infrastructure</title>
-      <link>https://www.biometricupdate.com/202609/albania-gives-albtrace-broader-role-in-digital-identity-infrastructure</link>
-      <guid isPermaLink="false">identitybrief-801d6599223c49ba</guid>
-      <pubDate>Mon, 07 Sep 2026 19:55:46 +0000</pubDate>
-      <category>did</category>
-      <description>Albania expands ALBTrace's role in its digital identity infrastructure. The agency now handles biometric systems and authentication processes for the upcoming national ID program. The catch: Integrating these broad responsibilities could slow down progress if not managed efficiently.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations</title>
-      <link>https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/</link>
-      <guid isPermaLink="false">identitybrief-4f40d9fb7cb6fc2b</guid>
-      <pubDate>Mon, 07 Sep 2026 15:39:51 +0000</pubDate>
-      <category>breach</category>
-      <description>BigBear 2.0 is a phishing framework that bypassed MFA for Microsoft 365, affecting 258 organizations. This highlights the persistent threat MFA bypass poses, urging re-evaluation of authentication defenses. The defense: relying solely on MFA doesn't eliminate the need for vigilant monitoring and review of authentication processes.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Meta sued over alleged facial recognition training for smart glasses</title>
-      <link>https://www.biometricupdate.com/202609/meta-sued-over-alleged-facial-recognition-training-for-smart-glasses</link>
-      <guid isPermaLink="false">identitybrief-6671d42d802c0bd9</guid>
-      <pubDate>Mon, 07 Sep 2026 20:51:05 +0000</pubDate>
-      <category>auth</category>
-      <description>Meta faces a lawsuit over unauthorized facial recognition training for smart glasses. This draws attention to compliance with privacy laws when using personal data. As the case unfolds, companies should be cautious of similar privacy pitfalls in AI training.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Airport trio show off innovations in Washington</title>
-      <link>https://identityweek.net/cross-travel-partnerships-showed-off-in-washington/</link>
-      <guid isPermaLink="false">identitybrief-5a3dd6661c471234</guid>
-      <pubDate>Mon, 07 Sep 2026 13:23:41 +0000</pubDate>
-      <category>auth</category>
-      <description>Airports in Denver, Miami, and Vancouver collaborate on new tech for touchless travel. These innovations aim to reduce queues and improve security with biometric and wireless infrastructures. The challenge: integrating diverse technologies smoothly across different airport systems.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies</title>
-      <link>https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html</link>
-      <guid isPermaLink="false">identitybrief-de26b1393ec3571d</guid>
-      <pubDate>Mon, 07 Sep 2026 07:53:04 +0000</pubDate>
-      <category>auth</category>
-      <description>JSCeal malware uses stolen session cookies to bypass Google Authentication. This underscores the vulnerability of sessions rather than credentials themselves. Mitigation requires enhanced session security beyond just endpoint defenses.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Hackers exploit RouterOS flaws to hijack MikroTik devices without authentication</title>
-      <link>https://www.helpnetsecurity.com/2026/09/07/mikrotik-routeros-ssh-vulnerabilities-exploited/</link>
-      <guid isPermaLink="false">identitybrief-3730d8628121be4e</guid>
-      <pubDate>Mon, 07 Sep 2026 14:07:20 +0000</pubDate>
-      <category>breach</category>
-      <description>MikroTik devices are compromised through SSH vulnerabilities on RouterOS. It demonstrates how exposed devices can be fully hijacked without authentication. Immediate patching of such vulnerabilities is crucial for maintaining device security.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Certify or Issue? How States Make Digital Identity Trusted</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5rZ2J2cmdZazhGWUQ5ZVhTYUV6VFRyWXFvQURmS0Izd3BBTlJaRXgtTnRwY0dOUktQYV8tVDI3ZGRkWjIwekhhVHVHNzJ1VXJrTENHVEIwWnRBaksxOGlxTU44elpTTHB3ald4Vg?oc=5</link>
-      <guid isPermaLink="false">identitybrief-7a378bb474f0fdc5</guid>
-      <pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
-      <category>did</category>
-      <description>A KuppingerCole report explores how states make digital identity trustworthy. It delves into whether they should certify or issue digital identities to assure trust. This insight is valuable for identity architects considering regulatory compliance, but access is limited to their premium research.
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>Product showcase: Doppler secures secrets for humans, pipelines, and AI agents</title>
-      <link>https://www.helpnetsecurity.com/2026/09/08/product-showcase-doppler-secrets-management-platform/</link>
-      <guid isPermaLink="false">identitybrief-e3599842623f9c2b</guid>
-      <pubDate>Tue, 08 Sep 2026 05:00:56 +0000</pubDate>
-      <category>auth</category>
-      <description>Doppler showcases its secrets management platform for developers and AI agents. It addresses the growing issue of credentials leaking from automated identities. However, the solution’s adoption requires commitment from engineering teams to integrate it smoothly into existing workflows.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>The Identity You Can Hold: C2PA, CAWG, and the QR Code Path to Verifiable Documents on Paper</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE85aEgtNjdTcmhrbXc3SS1CWkZ2VUVjbnM2TmQxUWFQM1FpNm5oSVM4cnBYYVRDT0VNNnZTb1VzS2tnTUZPSjhUQjVSQXd2SkUwWkpsbG1XU19CZ0c0cnJPLTF1eF90UW9PQWg3V0MxenZ5SldT?oc=5</link>
-      <guid isPermaLink="false">identitybrief-2a548a22c5935dba</guid>
-      <pubDate>Mon, 07 Sep 2026 08:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>A report analyzes how QR codes can support verifiable documents on paper. This combination could enhance document authenticity in situations where digital means aren't suitable. However, widespread adoption depends on the standardization of the QR code approach.
-
-— via KuppingerCole</description>
     </item>
 </channel></rss>
