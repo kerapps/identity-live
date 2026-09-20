@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Digital identity wallet deadlines collide with expanding use cases</title>
+      <link>https://www.biometricupdate.com/202609/digital-identity-wallet-deadlines-collide-with-expanding-use-cases</link>
+      <guid isPermaLink="false">identitybrief-9715911126e1f84e</guid>
+      <pubDate>Sat, 19 Sep 2026 16:16:53 +0000</pubDate>
+      <category>did</category>
+      <description>EU digital identity wallets are on the clock, expanding amid new use cases like social media age checks. This pushes identity tech providers to innovate fast, aiming for adaptability across diverse sectors. But deadlines vary by region, creating a patchwork that complicates uniform adoption.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Identity Visibility in 2026: The Foundation of Identity Security</title>
+      <link>https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html</link>
+      <guid isPermaLink="false">identitybrief-b2876269df9a7c19</guid>
+      <pubDate>Sat, 19 Sep 2026 13:28:41 +0000</pubDate>
+      <category>breach</category>
+      <description>Identity visibility is flagged as essential in the 2026 data breach landscape. It's vital because credential theft remains a top breach entry point, emphasizing robust access monitoring. Still, cloud complexities can make maintaining accurate identity oversight challenging.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Biometric Update: UK rolls out passkeys for GOV.UK One Login</title>
+      <link>https://fidoalliance.org/biometric-update-uk-rolls-out-passkeys-for-gov-uk-one-login/</link>
+      <guid isPermaLink="false">identitybrief-076ab0e9638a33af</guid>
+      <pubDate>Fri, 18 Sep 2026 19:38:57 +0000</pubDate>
+      <category>auth</category>
+      <description>The UK is expanding passkey login for GOV.UK, allowing biometric or passcode access. It signifies a boost in secure, user-friendly government login methods. However, widespread passkey adoption faces hurdles, as not all devices support these newer authentication methods yet.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Malaysia and MyDigital ID: When optional starts to look unavoidable</title>
+      <link>https://www.biometricupdate.com/202609/malaysia-and-mydigital-id-when-optional-starts-to-look-unavoidable</link>
+      <guid isPermaLink="false">identitybrief-63780f56bd9810fe</guid>
+      <pubDate>Fri, 18 Sep 2026 15:04:57 +0000</pubDate>
+      <category>did</category>
+      <description>Malaysia's MyDigital ID is shifting from optional to essential, integrating more with public services. This could streamline citizen interactions with government and private sectors alike. The risk is potential overreach, making adoption feel more mandatory than choice-driven.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Are we at a tipping point for digital identity? Biometric Update podcast explores global shifts</title>
+      <link>https://www.biometricupdate.com/202609/are-we-at-a-tipping-point-for-digital-identity-biometric-update-podcast-explores-global-shifts</link>
+      <guid isPermaLink="false">identitybrief-2e0e100cbbb68b7c</guid>
+      <pubDate>Fri, 18 Sep 2026 17:33:38 +0000</pubDate>
+      <category>did</category>
+      <description>A podcast explores potential tipping points in digital identity, pointing to regulatory shifts in the UK and EU as pivotal. These changes could redefine how digital IDs are used and accepted. However, cultural and technological readiness varies, impacting seamless integration.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories</title>
+      <link>https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html</link>
+      <guid isPermaLink="false">identitybrief-bf0f679dfdf491d7</guid>
+      <pubDate>Sat, 19 Sep 2026 07:14:54 +0000</pubDate>
+      <category>breach</category>
+      <description>CrowdSec disclosed a security breach involving 170 GitHub repositories due to an npm attack exploiting a former employee's account. Highlights the importance of deactivating unused credentials to prevent unauthorized access. Realistically, such housekeeping tasks are often overlooked until breaches occur.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AI agent authorization risks remain a gap in new NIST-CISA token security guidance</title>
+      <link>https://www.csoonline.com/article/4222867/ai-agent-authorization-risks-remain-a-gap-in-new-nist-cisa-token-security-guidance.html</link>
+      <guid isPermaLink="false">identitybrief-a165b38270965a41</guid>
+      <pubDate>Wed, 16 Sep 2026 15:42:00 +0000</pubDate>
+      <category>auth</category>
+      <description>NIST and CISA published new guidance on securing identity tokens, but warned AI agent authorization risks remain uncovered. Important for those managing token-based access systems to shore up against human and AI threats. Yet, AI-specific security gaps could leave doors open.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>FBI: Fake cop and government impersonation scams cost victims $1.6B</title>
+      <link>https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499</link>
+      <guid isPermaLink="false">identitybrief-96cec576ba1bd5aa</guid>
+      <pubDate>Fri, 18 Sep 2026 16:19:27 +0000</pubDate>
+      <category>fraud</category>
+      <description>Scams involving fake cops and government impersonation cost victims $1.6 billion, says FBI. These scams exploit trust in authority, affecting identity verification and trust systems. Defenders must focus on educating users to identify legitimate versus fake authority cues.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>How to use the Liminal MCP: a practical guide</title>
+      <link>https://liminal.co/articles/how-to-use-the-liminal-mcp-practical-guide/</link>
+      <guid isPermaLink="false">identitybrief-f81d1853f9aca1e5</guid>
+      <pubDate>Fri, 18 Sep 2026 16:10:43 +0000</pubDate>
+      <category>fraud</category>
+      <description>Liminal's new MCP guide offers insights on leveraging market intelligence in identity and fraud sectors. This tool can aid strategy by facilitating data-driven decisions. However, access is currently limited to Enterprise accounts, potentially excluding small organizations.
+
+— via Liminal</description>
+    </item>
+    <item>
+      <title>Gyazo server flaw exploited to steal 23.6 million user records</title>
+      <link>https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/</link>
+      <guid isPermaLink="false">identitybrief-830afdb67201ad86</guid>
+      <pubDate>Fri, 18 Sep 2026 16:00:38 +0000</pubDate>
+      <category>breach</category>
+      <description>A flaw in Gyazo's server enabled hackers to steal 23.6 million user records. This breach stresses the importance of constant vulnerability assessments. But, detecting all possible vulnerabilities before exploitation remains a persistent challenge.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation</title>
+      <link>https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html</link>
+      <guid isPermaLink="false">identitybrief-d12dd718a0ca78aa</guid>
+      <pubDate>Fri, 18 Sep 2026 12:47:04 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft patched a severe Azure AI Foundry flaw that allowed privilege escalation. It's a reminder of the critical nature of applying patches as soon as they're released. The automatic fix requires no customer action, yet vigilance in following patch announcements is key.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Cisco drops another exploited zero-day, this time a perfect 10</title>
+      <link>https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180</link>
+      <guid isPermaLink="false">identitybrief-97e8a315486e88e3</guid>
+      <pubDate>Thu, 17 Sep 2026 12:40:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Cisco rapidly issued a patch for an exploited zero-day flaw with a perfect CVSS score. This latest breach underlines the importance of proactive vulnerability management. Double-edged, as administrators must frequently scramble to apply patches amid existing task loads.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Fingerprinting Multimodal Large Language Models</title>
+      <link>http://arxiv.org/abs/2609.20457v1</link>
+      <guid isPermaLink="false">identitybrief-afa38078924a6cc1</guid>
+      <pubDate>Thu, 17 Sep 2026 14:21:39 +0000</pubDate>
+      <category>research</category>
+      <description>A new study presents AttnPrint, a method for fingerprinting multimodal language models to protect intellectual properties. It addresses vulnerabilities against unauthorized model distillation. The challenge is incorporating this into existing security measures without compromising performance.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The SEDI Digital Identity Bill of Rights, Explained</title>
+      <link>https://blog.spruceid.com/the-sedi-digital-identity-bill-of-rights-explained/</link>
+      <guid isPermaLink="false">identitybrief-8e788220ac315b54</guid>
+      <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
+      <category>did</category>
+      <description>Utah's SEDI framework introduces a Digital Identity Bill of Rights, including selective data disclosure. This empowers users by enhancing control over digital identity sharing. However, practical implementation and widespread acceptance of these rights may lag behind legislative changes.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>Westpac becomes first NZ bank accredited to issue digital credentials</title>
       <link>https://www.biometricupdate.com/202609/westpac-becomes-first-nz-bank-accredited-to-issue-digital-credentials</link>
       <guid isPermaLink="false">identitybrief-0b42165347a772cc</guid>
@@ -1362,145 +1502,5 @@
       <description>AI adoption burdens CISOs with new security challenges without extra resources. Identity systems are under stress as threat models evolve around AI access and data manipulation. The risk increases but adapting depends heavily on team bandwidth and specific AI policy tools.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Passkey-themed social engineering leads to identity and cloud compromise</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</link>
-      <guid isPermaLink="false">identitybrief-be84f234bc16828b</guid>
-      <pubDate>Wed, 09 Sep 2026 17:41:18 +0000</pubDate>
-      <category>breach</category>
-      <description>Social engineering focused on passkeys leads to identity compromises. Attackers use persistent MFA tactics to ride trust and access cloud data undetected. The crux? It's tough to secure ID systems completely when sophisticated social engineering is employed.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Implementer’s Drafts of Two OpenID Federation Extensions Approved</title>
-      <link>https://openid.net/implementers-drafts-of-two-openid-federation-extensions-approved/</link>
-      <guid isPermaLink="false">identitybrief-d65a969591f8e911</guid>
-      <pubDate>Wed, 09 Sep 2026 10:32:45 +0000</pubDate>
-      <category>auth</category>
-      <description>Two OpenID Federation extensions have reached draft status. This provides structured approaches to managing OpenID connections, enhancing interoperability and governance. It's early days: these drafts need implementation and real-world trial by federated systems.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>What Makes Adversarial Examples Transfer Across Deepfake Detectors?</title>
-      <link>http://arxiv.org/abs/2609.10002v1</link>
-      <guid isPermaLink="false">identitybrief-e56f675252077eca</guid>
-      <pubDate>Wed, 09 Sep 2026 10:28:36 +0000</pubDate>
-      <category>research</category>
-      <description>Research shows deepfake detectors are vulnerable to specific black-box attacks. Threat actors create adversarial examples for transferring items between detectors. The real challenge: maintaining detector robustness while adapting to evolving adversarial strategies.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>The identity economy strikes back: 2026 threat lessons and 2027 predictions</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0RPaC1DVmh3NkEteW5IWXZnRlhNNzY4dWppTHFnVHJLT1dqbEo4VmF5X1hMZ3k1aGpfVTRaOWVsVHZjYnRKU0FiZE9CTzFmemtKT2pHbURXNnlUVmxlSDdFU20zbFdiS3dMcjViRVdFNXk3RU5zM0s5VWlDN2FNWVVTS2tuZ0tkb3hBb3BB?oc=5</link>
-      <guid isPermaLink="false">identitybrief-810f53383656a5e1</guid>
-      <pubDate>Thu, 10 Sep 2026 02:17:23 +0000</pubDate>
-      <category>iam</category>
-      <description>A 2026 review of identity threats and predictions for 2027. Okta discusses evolutions in identity risk landscape focusing on the identity economy. Projections hinge heavily on the continued rise of identity-driven attacks and defenses.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>EU-funded TrustED project develops framework unlocking data collaboration across Europe</title>
-      <link>https://identityweek.net/eu-funded-trusted-project-develops-framework-unlocking-data-collaboration-across-europe/</link>
-      <guid isPermaLink="false">identitybrief-32f7ec0b7bee578f</guid>
-      <pubDate>Tue, 08 Sep 2026 15:53:03 +0000</pubDate>
-      <category>did</category>
-      <description>The EU-funded TrustED project is creating a framework for secure data collaboration. Built on the EU Digital Identity Wallet, it aims to boost data sharing while protecting privacy and ownership. Limitations are scope and region: it’s EU-focused and still in development.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Attackers Use Multi-Hop Google Redirects for Phishing Campaign</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign</link>
-      <guid isPermaLink="false">identitybrief-d149bb665ce74405</guid>
-      <pubDate>Tue, 08 Sep 2026 21:03:46 +0000</pubDate>
-      <category>breach</category>
-      <description>Phishers are using Google's services in a multi-hop fashion to mask their malicious activities. This technique helps evade detection while stealing credentials or installing malware. The defensive blind spot: it relies on Google's infrastructure, making detection tricky.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Russian suspect in bank account takeovers is extradited to US</title>
-      <link>https://therecord.media/russian-cybercrime-bank-extradition</link>
-      <guid isPermaLink="false">identitybrief-6747e06759848e2d</guid>
-      <pubDate>Tue, 08 Sep 2026 19:37:42 +0000</pubDate>
-      <category>fraud</category>
-      <description>A Russian suspect extradited to the US is linked to a major bank account takeover scheme. The case underlines the global reach of identity theft and the importance of international cooperation in cybercrime prevention. The catch: extradition is complex and often slow, lagging behind real-time threats.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Trezor customers hit with phishing calls and letters after shipping-partner breach</title>
-      <link>https://www.helpnetsecurity.com/2026/09/08/trezor-shipping-partner-breach-phishing-attacks/</link>
-      <guid isPermaLink="false">identitybrief-460b5c46f380f8ae</guid>
-      <pubDate>Tue, 08 Sep 2026 11:30:07 +0000</pubDate>
-      <category>fraud</category>
-      <description>A data breach at ShipMonk exposed thousands of Trezor customers to phishing risks. This incident raises concerns about third-party security's impact on primary vendors' user base. The weak link: external partners can create vulnerabilities that ripple through other firms.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials</title>
-      <link>https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html</link>
-      <guid isPermaLink="false">identitybrief-1ae8c3c527a2da6c</guid>
-      <pubDate>Tue, 08 Sep 2026 11:22:07 +0000</pubDate>
-      <category>auth</category>
-      <description>A FreeIPA flaw allows anonymous creation of reusable admin credentials. This exploit highlights significant security lapses in identity management within Linux domains. The limitations: it requires a chain of vulnerabilities to work, so patching one link can thwart it.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours</title>
-      <link>https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html</link>
-      <guid isPermaLink="false">identitybrief-345980d05c4408a9</guid>
-      <pubDate>Tue, 08 Sep 2026 13:48:16 +0000</pubDate>
-      <category>breach</category>
-      <description>Autonomous AI agents were used in a fast, widespread credential harvesting attack. This AI-driven approach allows rapid scaling of phishing operations. It's still early, but organizations must brace for more sophisticated, automated attacks.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>AI-Infra-Guard: Open-source security scanner for AI systems</title>
-      <link>https://www.helpnetsecurity.com/2026/09/09/ai-infra-guard-open-source-security-scanner-ai-systems/</link>
-      <guid isPermaLink="false">identitybrief-e56b6f32a95c77c4</guid>
-      <pubDate>Wed, 09 Sep 2026 05:30:53 +0000</pubDate>
-      <category>auth</category>
-      <description>AI-Infra-Guard is an open-source tool from Tencent's Zhuque Lab that scans AI systems for security issues. It helps defend against threats by checking AI services against thousands of known vulnerabilities and assesses risks with language models. The catch: it currently focuses on specific frameworks and may not cover all AI setups.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Cisco bundles fixes for multiple vulnerabilities, some critical, into one patch</title>
-      <link>https://www.csoonline.com/article/4219968/cisco-bundles-fixes-for-multiple-vulnerabilities-some-critical-into-one-patch-2.html</link>
-      <guid isPermaLink="false">identitybrief-2400091e4417fb2d</guid>
-      <pubDate>Wed, 09 Sep 2026 02:22:40 +0000</pubDate>
-      <category>iam</category>
-      <description>Cisco released a set of patches for its IOS XR operating system, addressing critical vulnerabilities. These fixes aim to prevent remote code execution and unauthorized access on affected devices. The challenge is ensuring every piece of network hardware is updated promptly.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Verifying Guardianship Online</title>
-      <link>https://openid.net/verifying-guardianship-online-an-openid-research-paper/</link>
-      <guid isPermaLink="false">identitybrief-7815fbf2c5f9082e</guid>
-      <pubDate>Tue, 08 Sep 2026 14:51:37 +0000</pubDate>
-      <category>auth</category>
-      <description>OpenID Foundation published a paper on verifying guardianship online, part of a broader child safety initiative. It explores how to ensure guardians are who they claim to be in digital settings. The catch: it's more conceptual than practical, lacking immediate deployment steps.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>BigBear 2.0 phishing campaign hijacks Microsoft 365 sessions after MFA</title>
-      <link>https://www.csoonline.com/article/4219606/bigbear-2-0-phishing-campaign-hijacks-microsoft-365-sessions-after-mfa.html</link>
-      <guid isPermaLink="false">identitybrief-4a7910706b13e668</guid>
-      <pubDate>Tue, 08 Sep 2026 10:48:42 +0000</pubDate>
-      <category>breach</category>
-      <description>BigBear 2.0 is a phishing campaign that hijacks Microsoft 365 sessions even after multifactor authentication. The attackers harvested session cookies, compromising thousands of accounts. Beware: this method circumvents even robust MFA setups, compromising user trust.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
