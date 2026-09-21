@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Gopass: Open-source command-line password manager for teams</title>
+      <link>https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager/</link>
+      <guid isPermaLink="false">identitybrief-f70b02ce8f65148a</guid>
+      <pubDate>Mon, 21 Sep 2026 05:00:32 +0000</pubDate>
+      <category>auth</category>
+      <description>Gopass is a command-line tool for managing passwords, designed for team use. It's a more secure, trackable alternative that encrypts passwords with GPG and synchronizes them via git. This is handy for teams preferring open-source solutions over commercial products. The catch: it requires some command-line skills, which may steepen the learning curve for non-technical users.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Week in review: Cisco patches exploited email gateway 0-day, Revolut breach</title>
+      <link>https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/</link>
+      <guid isPermaLink="false">identitybrief-1fee885f4214e5b6</guid>
+      <pubDate>Sun, 20 Sep 2026 08:00:21 +0000</pubDate>
+      <category>breach</category>
+      <description>Recent headlines highlight a Revolut breach where attackers impersonated a government agency. This breach shows the importance of verifying email sender authenticity to protect customer credentials. The real issue is the threat of social engineering — knowing the source of authority is crucial to defense.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Fake passkey setup requests lead to Microsoft 365 account compromises</title>
+      <link>https://www.biometricupdate.com/202609/fake-passkey-setup-requests-lead-to-microsoft-365-account-compromises</link>
+      <guid isPermaLink="false">identitybrief-e1db63425e5ffa6e</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:33 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers are faking passkey setup requests to compromise Microsoft 365 accounts. This tactic emphasizes the need for vigilance against social engineering under the guise of IT support. Since no passkeys were stolen, awareness and verification processes are key, but the challenge is to educate users without overwhelming them.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>SFPF: Spatio-Frequency Polarization Fingerprint for Anomalous Wireless Device Detection</title>
+      <link>http://arxiv.org/abs/2609.21873v1</link>
+      <guid isPermaLink="false">identitybrief-1b6aa1ec21500bce</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:38 +0000</pubDate>
+      <category>research</category>
+      <description>A new method uses polarization fingerprints to detect unauthorized wireless devices. The paper tackles the issue of distinguished hardware signatures, important for preventing impersonation in device identity. It's in the research phase, so practical application is still a way away.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>iProov’s experimental HAPS protocol aims to close governance gaps for AI agents</title>
+      <link>https://www.biometricupdate.com/202609/iproovs-experimental-haps-protocol-aims-to-close-governance-gaps-for-ai-agents</link>
+      <guid isPermaLink="false">identitybrief-dfdfc0a01e7ddfcd</guid>
+      <pubDate>Fri, 18 Sep 2026 16:36:23 +0000</pubDate>
+      <category>iam</category>
+      <description>The HAPS protocol by iProov ensures a human approves actions before AI agents execute them. This specification aims to close the governance gaps in managing AI decisions. It's still experimental, leaving companies waiting for mature standards.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Facetagr offers facial recognition to ID missing Nepal flood victims</title>
+      <link>https://www.biometricupdate.com/202609/facetagr-offers-facial-recognition-to-id-missing-nepal-flood-victims</link>
+      <guid isPermaLink="false">identitybrief-80297acd03ded54f</guid>
+      <pubDate>Fri, 18 Sep 2026 15:02:32 +0000</pubDate>
+      <category>auth</category>
+      <description>FaceTagr employs facial recognition to help Nepal authorities identify flood victims. It's integrating AI with established forensic methods, highlighting tech’s role in crisis response. The downside: this relies on the availability and quality of imagery for recognition.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution</title>
+      <link>http://arxiv.org/abs/2609.21284v1</link>
+      <guid isPermaLink="false">identitybrief-a12163616d61f4f1</guid>
+      <pubDate>Fri, 18 Sep 2026 03:52:46 +0000</pubDate>
+      <category>research</category>
+      <description>A proposed protocol to manage authorizations for AI agents highlights the challenge of credential lifecycle. It's crucial for validating permission timelines in active AI workflows to avoid unauthorized acts. As a concept, it needs specific implementations for real-world testing.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>NIST’s guidelines help CSPs and organisations handling identity tokens and assertions</title>
+      <link>https://identityweek.net/nists-guidelines-help-csps-and-organisations-handling-identity-tokens-and-assertions/</link>
+      <guid isPermaLink="false">identitybrief-a64788dc8629ee60</guid>
+      <pubDate>Thu, 17 Sep 2026 12:15:26 +0000</pubDate>
+      <category>auth</category>
+      <description>NIST provides guidance to enhance token security in cloud and agency setups. This could guide firms in strengthening token lifecycle management to thwart abuse. Adoption is mainly focused on federal agencies and cloud providers, so others need proactive steps.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport</title>
+      <link>http://arxiv.org/abs/2609.22076v1</link>
+      <guid isPermaLink="false">identitybrief-1ff33101ff91f7e1</guid>
+      <pubDate>Fri, 18 Sep 2026 17:58:10 +0000</pubDate>
+      <category>research</category>
+      <description>A benchmark tests authorization scenarios for AI agents, replaying attacks to improve security setups. It serves as a valuable tool for understanding vulnerabilities in AI systems. Only relevant where AI manages pay requests; the broader identity space sees indirect benefits.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>23 Million User Records Compromised in Gyazo Data Breach</title>
+      <link>https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-b8a114f123cc5aa6</guid>
+      <pubDate>Fri, 18 Sep 2026 11:38:40 +0000</pubDate>
+      <category>breach</category>
+      <description>Gyazo breach exposes 23 million user records through a server flaw. This incident underscores the critical need for secure image uploads and server-side vigilance. Reactive, as always: the technical fix is up, but users should verify affected accounts.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root</title>
+      <link>https://thehackernews.com/2026/09/critical-check-point-management-server.html</link>
+      <guid isPermaLink="false">identitybrief-1e55db8feb2f683c</guid>
+      <pubDate>Thu, 17 Sep 2026 18:08:28 +0000</pubDate>
+      <category>breach</category>
+      <description>A Check Point flaw could let attackers run code as root without credentials. This highlights the importance of patch management for critical systems tied to firewall policy. The update's live, but oversight is key to ensure full deployment.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS</title>
+      <link>https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html</link>
+      <guid isPermaLink="false">identitybrief-d2f4589d6516d677</guid>
+      <pubDate>Thu, 17 Sep 2026 08:00:29 +0000</pubDate>
+      <category>auth</category>
+      <description>BIND 9 updates address 14 flaws, including one that enables packet-based server crashes. Ensuring DNS resilience has become part of the critical infrastructure protection checklist. The update requires thorough deployment, so missed patches could still leave open doors.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Oracle’s September patches put Fusion Middleware back in the hot seat</title>
+      <link>https://www.csoonline.com/article/4222875/oracles-september-patches-put-fusion-middleware-back-in-the-hot-seat-2.html</link>
+      <guid isPermaLink="false">identitybrief-6bfe934fe42771e3</guid>
+      <pubDate>Wed, 16 Sep 2026 15:54:18 +0000</pubDate>
+      <category>breach</category>
+      <description>Oracle's updates tackle hundreds of vulnerabilities including some remotely exploitable. Consistent patching is a need, not a nice-to-have, especially with enterprise systems. This cycle's patch demands quick action, yet IT teams' capacity caps persist.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Auth0 Agent Gateway: The Identity Control Plane for Customer-Facing AI</title>
+      <link>https://auth0.com/blog/auth0-agent-gateway-beta/</link>
+      <guid isPermaLink="false">identitybrief-43f77a2ba06eeb50</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Auth0’s Gateway manages identity for AI agents, focusing on secure client interactions. It indicates a shift towards sophisticated identity handling for emerging AI applications. Early stages mean direct use is limited to CIAM-heavy environments.
+
+— via Auth0</description>
+    </item>
+    <item>
       <title>Digital identity wallet deadlines collide with expanding use cases</title>
       <link>https://www.biometricupdate.com/202609/digital-identity-wallet-deadlines-collide-with-expanding-use-cases</link>
       <guid isPermaLink="false">identitybrief-9715911126e1f84e</guid>
@@ -1362,145 +1502,5 @@
       <description>A paper introduces SoulAuth, a Rust implementation for managing long-lived AI actors. It addresses identity persistence for humans and AI over time. However, it's a conceptual framework, limited by its current applicability to specific tech stacks.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Attackers are weaponizing the gap between Chromium fixes and Chrome patches</title>
-      <link>https://www.csoonline.com/article/4220939/attackers-are-weaponizing-the-gap-between-chromium-fixes-and-chrome-patches.html</link>
-      <guid isPermaLink="false">identitybrief-b46b167751a154c2</guid>
-      <pubDate>Fri, 11 Sep 2026 01:10:19 +0000</pubDate>
-      <category>breach</category>
-      <description>New gap-exploiting attacks highlight the risks between Chromium fixes and Chrome patches. These gaps are exploited for spear phishing via an exploit kit named BlueMoon. The catch: users and IT teams must apply patches as soon as they are released to minimize risk.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Deep-Fake CAPTCHA: Mitigating Next-Generation Social Engineering Attacks</title>
-      <link>http://arxiv.org/abs/2609.11404v1</link>
-      <guid isPermaLink="false">identitybrief-dbdb967f224e864a</guid>
-      <pubDate>Thu, 10 Sep 2026 11:35:11 +0000</pubDate>
-      <category>research</category>
-      <description>The DF-CAPTCHA framework offers a defense against real-time deepfake attacks during calls. By requiring challenge-response tasks, it makes impersonation harder. The limitation is that it may not cover all deepfake techniques yet.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AI workflows may be creating a dangerous new authorization blind spot</title>
-      <link>https://www.csoonline.com/article/4220702/ai-workflows-may-be-creating-a-dangerous-new-authorization-blind-spot.html</link>
-      <guid isPermaLink="false">identitybrief-2ce2588bbbfcc3a3</guid>
-      <pubDate>Thu, 10 Sep 2026 12:04:44 +0000</pubDate>
-      <category>iam</category>
-      <description>AI workflows might be opening a new authorization gap, termed 'workflow identity hijacking.' This makes it critical for firms to audit their identity and access processes. The tricky part is ensuring all entry points are adequately protected against unauthorized actions.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>When an AI Agent Acts on Behalf of a Resident</title>
-      <link>https://blog.spruceid.com/when-an-ai-agent-acts-on-behalf-of-a-resident/</link>
-      <guid isPermaLink="false">identitybrief-8fd4d7bb5898bb60</guid>
-      <pubDate>Thu, 10 Sep 2026 19:40:30 +0000</pubDate>
-      <category>fraud</category>
-      <description>AI agents challenge the assumption that an acting person is the one interacting with services. This raises new questions regarding identity verification and authorization. The issue lies in adapting current frameworks to ensure accurate identity proofing with AI involvement.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>Cybercriminals are building phishing pages that exist only inside victims’ browsers</title>
-      <link>https://www.helpnetsecurity.com/2026/09/10/browser-based-phishing-blob-urls-microsoft-oauth/</link>
-      <guid isPermaLink="false">identitybrief-926d404644b9ca92</guid>
-      <pubDate>Thu, 10 Sep 2026 05:00:14 +0000</pubDate>
-      <category>breach</category>
-      <description>Phishing pages are being crafted directly inside victims' browsers using blob URLs. This attack method bypasses traditional web server delivery, making detection harder and exploiting the trust users have in their own browsers. The catch: defense requires focusing on browser-level security measures and user education about content origins.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Federal regulators say mDLs can be used for bank identity checks</title>
-      <link>https://www.biometricupdate.com/202609/federal-regulators-say-mdls-can-be-used-for-bank-identity-checks</link>
-      <guid isPermaLink="false">identitybrief-7f1d9fdee16a31bf</guid>
-      <pubDate>Wed, 09 Sep 2026 21:07:31 +0000</pubDate>
-      <category>did</category>
-      <description>U.S. regulators cleared mobile driver’s licenses (mDLs) for verifying bank account holders. This allows financial institutions to streamline onboarding with digital IDs, moving away from physical documents. The limitation: mDLs need widespread issuer support and updated bank systems to become practical.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Trezor warns users of email provider breach, phishing attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/</link>
-      <guid isPermaLink="false">identitybrief-8b91cb3a1ed2fc10</guid>
-      <pubDate>Thu, 10 Sep 2026 06:56:33 +0000</pubDate>
-      <category>breach</category>
-      <description>Trezor warns users about phishing attacks following a breach of their email provider. Users are targeted through deceptive emails leveraging trust from Trezor’s own branding. The issue here is broad: if your contact details are compromised, phishing can escalate quickly.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Product showcase: GitGuardian Honeytoken catches credential theft as it happens</title>
-      <link>https://www.helpnetsecurity.com/2026/09/10/product-showcase-gitguardian-honeytoken-decoy-service/</link>
-      <guid isPermaLink="false">identitybrief-e0184ee2784d055f</guid>
-      <pubDate>Thu, 10 Sep 2026 05:30:24 +0000</pubDate>
-      <category>breach</category>
-      <description>GitGuardian's new honeytoken product detects credential theft in real time. By placing fake credentials in places attackers are likely to scan, it offers a chance to catch intruders early. It's effective only if decoys are indistinguishable from real data and properly managed.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>RAND warns security biometrics, digital ID can become tools for targeting</title>
-      <link>https://www.biometricupdate.com/202609/rand-warns-security-biometrics-digital-id-can-become-tools-for-targeting</link>
-      <guid isPermaLink="false">identitybrief-8b18870c44399018</guid>
-      <pubDate>Wed, 09 Sep 2026 19:06:00 +0000</pubDate>
-      <category>did</category>
-      <description>RAND warns that digital IDs and biometrics can lead to targeting if misused. Security systems need checks and balances to prevent tools from being repurposed for surveillance. The honest risk: these recommendations often clash with regional laws and actual practice.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>France expands digital identity access in overseas territories</title>
-      <link>https://www.biometricupdate.com/202609/france-expands-digital-identity-access-in-overseas-territories</link>
-      <guid isPermaLink="false">identitybrief-72c7a2bac1d4e1a8</guid>
-      <pubDate>Wed, 09 Sep 2026 20:58:08 +0000</pubDate>
-      <category>did</category>
-      <description>France extends digital identity access to overseas territories. This lets users activate their digital IDs through local apps with QR code validation. It only works if local infrastructure is equipped to handle and verify these digital IDs reliably.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/</link>
-      <guid isPermaLink="false">identitybrief-59db2a487e539e1c</guid>
-      <pubDate>Wed, 09 Sep 2026 21:40:44 +0000</pubDate>
-      <category>breach</category>
-      <description>A severe Cisco Secure FMC flaw, CVE-2026-20079, is being exploited live. Attackers bypass authentication, posing a real threat to network management systems if unpatched. Fixes or mitigations rely on swift patch deployment, which isn’t always instantly feasible.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>MFA's Weakest Link: Account Recovery Is the New Attack Path</title>
-      <link>https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/</link>
-      <guid isPermaLink="false">identitybrief-669df3ff57d307ef</guid>
-      <pubDate>Wed, 09 Sep 2026 14:01:11 +0000</pubDate>
-      <category>fraud</category>
-      <description>MFA-protected accounts are targeted via weak recovery processes. Recovery workflows are being exploited, creating a new vector for account takeovers. Despite MFA, securing recovery processes remains critical to thwarting these attacks.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Show HN: Compute polynomials twice as fast</title>
-      <link>https://thomasahle.com/fast-polynomials/</link>
-      <guid isPermaLink="false">identitybrief-32342fce46aeb414</guid>
-      <pubDate>Wed, 09 Sep 2026 08:53:58 +0000</pubDate>
-      <category>auth</category>
-      <description>A new method speeds up polynomial computation, potentially affecting hashing algorithms. This could change how fast certain cryptographic processes are, benefiting digital-identity systems reliant on rapid hashing. The method is proven, but needs adoption across libraries and platforms to matter.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>AI adoption brings new security headaches for already stretched CISOs</title>
-      <link>https://www.helpnetsecurity.com/2026/09/10/proofpoint-ciso-ai-security-risks-report/</link>
-      <guid isPermaLink="false">identitybrief-800bbd502f9b5e22</guid>
-      <pubDate>Thu, 10 Sep 2026 04:30:14 +0000</pubDate>
-      <category>iam</category>
-      <description>AI adoption burdens CISOs with new security challenges without extra resources. Identity systems are under stress as threat models evolve around AI access and data manipulation. The risk increases but adapting depends heavily on team bandwidth and specific AI policy tools.
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
