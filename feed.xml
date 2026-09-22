@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Passwork NIS2 efficiency guide: Save your team hours before the 2026 audit</title>
+      <link>https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/</link>
+      <guid isPermaLink="false">identitybrief-5ead290a4c055a7f</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:49 +0000</pubDate>
+      <category>iam</category>
+      <description>Passwork offers a guide to streamline compliance with the EU's NIS2 directive. The guide highlights documentation practices that could save time and meet requirements in time for the 2026 audits. The challenge is that many organizations face IAM skills shortages, complicating the task of getting compliant.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>DHS expands RIVR testing to deepfakes, AI-generated IDs</title>
+      <link>https://www.biometricupdate.com/202609/dhs-expands-rivr-testing-to-deepfakes-ai-generated-ids</link>
+      <guid isPermaLink="false">identitybrief-308df340d22ca172</guid>
+      <pubDate>Mon, 21 Sep 2026 23:20:11 +0000</pubDate>
+      <category>fraud</category>
+      <description>DHS is expanding its tests for AI-generated IDs and deepfakes in identity verification. This move aims to improve methods for catching synthetic identities and biometric spoofs, a growing concern for fraud teams. The catch is it's still in the testing phase, so practical solutions might be a way off.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>MojeID introduces post‑quantum digital identity security, with more to come</title>
+      <link>https://www.biometricupdate.com/202609/mojeid-introduces-post-quantum-digital-identity-security-with-more-to-come</link>
+      <guid isPermaLink="false">identitybrief-430bc3973e59398c</guid>
+      <pubDate>Mon, 21 Sep 2026 20:46:33 +0000</pubDate>
+      <category>did</category>
+      <description>MojeID has integrated post-quantum cryptography into its digital identity systems. This upgrade is designed to prepare for the future risk of quantum computers cracking traditional encryption. Right now, adoption depends on your users having compatible browsers, limiting its immediate benefits.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>BigCommerce alerts merchants of data breach linked to Ribon apps</title>
+      <link>https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</link>
+      <guid isPermaLink="false">identitybrief-cd35b6569bff9c4e</guid>
+      <pubDate>Mon, 21 Sep 2026 21:18:49 +0000</pubDate>
+      <category>breach</category>
+      <description>BigCommerce merchants were affected by a breach through third-party Ribon apps. This incident underscores the importance of securing third-party integrations to protect against credential attacks. BigCommerce's communication here seems reactionary, revealing gaps in oversight and safeguards.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Microsoft reminds admins to migrate Entra ID users to passkeys</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/</link>
+      <guid isPermaLink="false">identitybrief-b748715daf690fda</guid>
+      <pubDate>Mon, 21 Sep 2026 13:16:20 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft is pushing Entra ID users towards passkeys, ahead of its retirement of SMS sign-ins. This shift is aimed at enhancing security by promoting more robust authentication methods. However, the transition requires admin action, and the timeline coincides with other security initiatives.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Ghana Card digital wallet to facilitate bank transfers, mobile money payments</title>
+      <link>https://www.biometricupdate.com/202609/ghana-card-digital-wallet-to-facilitate-bank-transfers-mobile-money-payments</link>
+      <guid isPermaLink="false">identitybrief-95c8cc9f4abf013d</guid>
+      <pubDate>Mon, 21 Sep 2026 20:45:20 +0000</pubDate>
+      <category>did</category>
+      <description>Ghana is adding an e-wallet to its national ID card, allowing for bank and mobile money transactions. This transforms the Ghana Card into a trusted financial instrument, expanding its utility beyond ID verification. The rollout is gradual and relies on collaboration with financial institutions.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Japan publishes Digital Wallet Interoperability Tests</title>
+      <link>https://identityweek.net/japan-publishes-digital-wallet-interoperability-tests/</link>
+      <guid isPermaLink="false">identitybrief-58871033202f6a4e</guid>
+      <pubDate>Mon, 21 Sep 2026 16:25:16 +0000</pubDate>
+      <category>did</category>
+      <description>Japan's tests on digital wallet interoperability with the EU highlight credential exchange successes. It shows potential paths for cross-border identity management solutions to follow. Yet, the complexity of different wallet and credential systems remains a bottleneck.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Australian Age Assurance Experience</title>
+      <link>https://openid.net/australian-age-assurance-experience/</link>
+      <guid isPermaLink="false">identitybrief-a2d1f7f17538742b</guid>
+      <pubDate>Mon, 21 Sep 2026 19:25:38 +0000</pubDate>
+      <category>did</category>
+      <description>The Australian Age Assurance Experience discusses steps in implementing age verification systems. For identity teams, it highlights real-world practices and potential pitfalls of age assurance in digital identity frameworks. It's exploratory: concrete outcomes or standards are still unclear.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>A cheap fake base station can still track 5G subscribers</title>
+      <link>https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/</link>
+      <guid isPermaLink="false">identitybrief-07a249d2254edf3e</guid>
+      <pubDate>Tue, 22 Sep 2026 06:30:21 +0000</pubDate>
+      <category>iam</category>
+      <description>Researchers show that a cheap fake base station can track 5G subscribers. Although permanent identity concealment works, temporary IDs reveal patterns that could compromise user privacy. This vulnerability is yet another reminder that new networks aren't immune to old tricks.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’</title>
+      <link>https://www.csoonline.com/article/4224570/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done.html</link>
+      <guid isPermaLink="false">identitybrief-3376919a859317ae</guid>
+      <pubDate>Tue, 22 Sep 2026 01:02:19 +0000</pubDate>
+      <category>auth</category>
+      <description>A Google project led to unauthorized access at three companies via AI-agent mishandling. This raises red flags about relying on AI systems in security-sensitive areas. The minimal disclosure could indicate an underestimation of the broader security implications.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>rApp/xApp Attestation: A New Security Use Case for O-RAN</title>
+      <link>http://arxiv.org/abs/2609.24296v1</link>
+      <guid isPermaLink="false">identitybrief-2c287bf02bf9240a</guid>
+      <pubDate>Mon, 21 Sep 2026 08:56:36 +0000</pubDate>
+      <category>research</category>
+      <description>New research outlines a security framework for rApp/xApp attestation in O-RAN deployments. These efforts aim to ensure the integrity and security of multi-vendor ecosystems. However, practical implementation and integration still require detailed testing and coordination.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Domain Specific Post Quantum Signatures for Blockchains</title>
+      <link>http://arxiv.org/abs/2609.24689v1</link>
+      <guid isPermaLink="false">identitybrief-1b82d72f1c517ffb</guid>
+      <pubDate>Mon, 21 Sep 2026 14:43:17 +0000</pubDate>
+      <category>research</category>
+      <description>Exploring post-quantum signatures, this paper focuses on blockchain security. Understanding these signatures is critical for teams using blockchain for identity verification. These concepts remain theoretical and are not yet ready for production environments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Workload Identity &amp; Cloud-Native Trust</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzEzbGsyb2ZZSHRyZ3NldHVxQ0hlLW1zTUpUcVZhLVZXRWhNLUp3UzJkZk5KbmlRcFRDaU12eTZJOHpDYXZqTFluVGpQeDhpbno4Z0ZOaTBKUW5ScUNreVNGVWxGcW5lbVRfR1VxYUowcUVKQnBFRTNKNUNsbTZsRnh1SQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-588cb19f2aad81fe</guid>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>A report from KuppingerCole examines cloud-native trust and workload identity. This is relevant for identity teams shifting towards cloud deployments and workload management. The premium nature of this research limits accessibility for some teams looking for actionable insights.
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>Securing the modern workforce: What Google Android and Chrome Enterprise are building with Okta</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHBPTDF4X0F5NGIzc3NQcHQ3S1pVVzNUUWNaNDBOZmlRMjBIenJHWTRkMXFoT2hkRkxocXJVSGpWS3RXS1h5LWpzendxVGxPQTZxNDg4UmtEZE0tbWZybzZncWpZMDRPSHFRM1E4dHgtX0pyQTl5RVdONjFKSU5SREcwOXpVeDBpel9lN3k1Q1I?oc=5</link>
+      <guid isPermaLink="false">identitybrief-4df158b3eb93ab17</guid>
+      <pubDate>Tue, 22 Sep 2026 02:45:07 +0000</pubDate>
+      <category>iam</category>
+      <description>Google, Android, and Okta collaborate on security measures for the modern workforce. The focus is on simplifying identity management and enhancing security across platforms. It's a promising initiative, but real-world availability and results are still emerging.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Gopass: Open-source command-line password manager for teams</title>
       <link>https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager/</link>
       <guid isPermaLink="false">identitybrief-f70b02ce8f65148a</guid>
@@ -1362,145 +1502,5 @@
       <description>ConnectWise patches a critical ScreenConnect vulnerability related to user permissions. Quick fixes were essential since unauthorized file transfers could have serious consequences. Yet, dependent users need to actively apply patches for protection.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware</title>
-      <link>https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html</link>
-      <guid isPermaLink="false">identitybrief-2c47337c32fb2e80</guid>
-      <pubDate>Fri, 11 Sep 2026 06:19:59 +0000</pubDate>
-      <category>breach</category>
-      <description>Cisco Secure Firewall Management Center suffers from exploited vulnerabilities leading to credential theft. Highlights the stakes with any authentication bypass flaw when mitigations aren't timely. Effective defense is contingent on prompt patch deployment.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Artifactory flaws chained in attacks deploying backdoor malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/</link>
-      <guid isPermaLink="false">identitybrief-e1def43d4665484a</guid>
-      <pubDate>Fri, 11 Sep 2026 16:29:44 +0000</pubDate>
-      <category>breach</category>
-      <description>JFrog Artifactory vulnerabilities were chained to deploy malware via backdoor access. Admin access through bypassed authentication systems is a significant threat. The pivotal action point: ensure you’re up-to-date on patches.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review</title>
-      <link>https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/</link>
-      <guid isPermaLink="false">identitybrief-04b44d394d6ad028</guid>
-      <pubDate>Fri, 11 Sep 2026 14:19:18 +0000</pubDate>
-      <category>breach</category>
-      <description>Various under-the-radar security stories, including bypassed phishing filters using invisible Unicode. Reinforces how sophisticated phishing can bypass current defenses. The challenge remains to keep awareness high for evolving tactics.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Synced Passkeys in Microsoft Entra for Phishing-resistant MFA</title>
-      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxNekVja1FzbWR4MDNVZW5CZXNLczlXZXZlOE42T0dZa1BaM0p6ZkRtam9mbjM5b3JORC1yY0l6cmtsdkg3Uk5HbHFhRlFsSkhlcXg5aGw2djZmTXNjaUNpTHNCanA1Vi1VNlhkR0tmSnRBQ25rektVcnB1YjJYeDRHWmFXWmNGZkVoSThlSnVZRkVnLTZBb01fY3ctWlhkTmpMS3pYeGFUeEZKQnJpRGNlQjhhdkRLZG9RUE1RSDdQdkpzTWJiUkdMaThCZnQyb1NVc0k4dVNuY0lkdUl3dW9pWVBETkh6cWI2bDRNaWl0bm0?oc=5</link>
-      <guid isPermaLink="false">identitybrief-437d70f95bb10437</guid>
-      <pubDate>Fri, 11 Sep 2026 13:19:24 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft Entra introduces synced passkeys for more phishing-resistant MFA. This simplifies managing secure sign-in methods across devices for better user experiences. It’s still dependent on having up-to-date Microsoft environments.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Companies may be measuring phishing resilience the wrong way</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/</link>
-      <guid isPermaLink="false">identitybrief-ece8e2df31ab303b</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:07 +0000</pubDate>
-      <category>breach</category>
-      <description>A report suggests companies may be assessing phishing resilience incorrectly by focusing on click rates alone. The takeaway is to also track credential submission rates for a true measure of risk. The challenge is shifting internal metrics that may overlook these insights.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>AI agents change the identity security question in the middle of enterprises’ answer</title>
-      <link>https://www.biometricupdate.com/202609/ai-agents-change-the-identity-security-question-in-the-middle-of-enterprises-answer</link>
-      <guid isPermaLink="false">identitybrief-6aedc60847d61535</guid>
-      <pubDate>Thu, 10 Sep 2026 20:19:22 +0000</pubDate>
-      <category>did</category>
-      <description>AI agents are emerging as a new cybersecurity challenge, particularly for digital identity. They complicate authentication processes and demand more secure identity governance. The complication is integrating these layers without slowing down enterprise operations.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>For EU consumers, trust in EUDI Wallet will need to be earned over time: IDnow</title>
-      <link>https://www.biometricupdate.com/202609/for-eu-consumers-trust-in-eudi-wallet-will-need-to-be-earned-over-time-idnow</link>
-      <guid isPermaLink="false">identitybrief-7bc7ac4766dfa18a</guid>
-      <pubDate>Thu, 10 Sep 2026 14:53:50 +0000</pubDate>
-      <category>did</category>
-      <description>IDnow reports that EU consumers may struggle to trust the EUDI Wallet as rollout continues. Trust issues could hinder adoption of these digital ID solutions. The trouble lies in overcoming widespread privacy and security concerns before the year-end deadline.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>The next bottleneck for African digital identity is infrastructure, not software</title>
-      <link>https://www.biometricupdate.com/202609/the-next-bottleneck-for-african-digital-identity-is-infrastructure-not-software</link>
-      <guid isPermaLink="false">identitybrief-5b5cb236f0adf234</guid>
-      <pubDate>Thu, 10 Sep 2026 15:35:30 +0000</pubDate>
-      <category>did</category>
-      <description>Infrastructure, not software, is now the bottleneck for African digital identity deployment. Expanded infrastructure is necessary for more effective digital identity solutions. The setback is that infrastructure projects often take years to complete.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Your passkeys can now move between password managers on Android</title>
-      <link>https://www.helpnetsecurity.com/2026/09/10/google-android-password-manager-transfer/</link>
-      <guid isPermaLink="false">identitybrief-dd0796379829b8f8</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:09 +0000</pubDate>
-      <category>auth</category>
-      <description>Google enables transferring passkeys between password managers on Android without needing to download files. This makes switching managers less risky for users. Now, it depends on password manager support for this feature to function seamlessly.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>GLEIF welcomes eMudhra as a validation agent</title>
-      <link>https://identityweek.net/gleif-welcomes-emudhra-as-a-validation-agent/</link>
-      <guid isPermaLink="false">identitybrief-d44eba1ec5f61617</guid>
-      <pubDate>Thu, 10 Sep 2026 15:19:45 +0000</pubDate>
-      <category>fraud</category>
-      <description>The GLEIF organization has named eMudhra a validation agent in India. This integration simplifies processes for Legal Entity Identifier management. However, the benefit is specific to organizations using eMudhra's services.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>IDScan confirms breach tied to 153 million stolen driver’s licenses</title>
-      <link>https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/</link>
-      <guid isPermaLink="false">identitybrief-4087555a81d12004</guid>
-      <pubDate>Thu, 10 Sep 2026 14:55:33 +0000</pubDate>
-      <category>fraud</category>
-      <description>IDScan confirmed a breach compromising 153 million driver’s licenses. This is significant for identity verification processes relying on scanned documents. The flaw is rooted in stored data security, highlighting the need for stringent access controls.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Implementer’s Draft of OpenID Connect Key Binding Approved</title>
-      <link>https://openid.net/implementers-draft-of-openid-connect-key-binding-approved/</link>
-      <guid isPermaLink="false">identitybrief-96fc820d99d62134</guid>
-      <pubDate>Thu, 10 Sep 2026 21:57:56 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Foundation has approved the Key Binding Implementer’s Draft. This sets a key binding standard that enhances the security framework for OpenID Connect. The caveat is it's a draft, so it may not yet be supported by all implementations.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>SC Media: Why yesterday’s identity security standards no longer work for banks</title>
-      <link>https://fidoalliance.org/sc-media-why-yesterdays-identity-security-standards-no-longer-work-for-banks/</link>
-      <guid isPermaLink="false">identitybrief-4b94198faf99e0b1</guid>
-      <pubDate>Thu, 10 Sep 2026 16:44:35 +0000</pubDate>
-      <category>iam</category>
-      <description>Banks are reconsidering their identity security standards due to new challenges from AI and cyber threats. These outdated standards may not suffice, demanding a shift towards more robust identity solutions. The issue: financial institutions must navigate complex regulatory landscapes before implementing change.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>SoulAuth: An Actor-native Identity Architecture and Rust Reference Implementation for Humans and Long-lived AI Actors</title>
-      <link>http://arxiv.org/abs/2609.11258v1</link>
-      <guid isPermaLink="false">identitybrief-d0132becd5e8c596</guid>
-      <pubDate>Thu, 10 Sep 2026 08:54:02 +0000</pubDate>
-      <category>research</category>
-      <description>A paper introduces SoulAuth, a Rust implementation for managing long-lived AI actors. It addresses identity persistence for humans and AI over time. However, it's a conceptual framework, limited by its current applicability to specific tech stacks.
-
-— via arXiv</description>
     </item>
 </channel></rss>
