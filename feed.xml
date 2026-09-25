@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>UNCTAD project boosts digital identity capacity in small island states</title>
+      <link>https://www.biometricupdate.com/202609/unctad-project-boosts-digital-identity-capacity-in-small-island-states</link>
+      <guid isPermaLink="false">identitybrief-4ae90d0a3485329f</guid>
+      <pubDate>Thu, 24 Sep 2026 20:52:53 +0000</pubDate>
+      <category>did</category>
+      <description>A UNCTAD project has improved digital identity infrastructure in small island developing states. By focusing on trade and digital economy aspects, these regions can better engage in global commerce. However, the widespread impact may be limited to areas with sufficient digital literacy and infrastructure readiness.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Business identity checks face limits as A7 case, UK prosecutions expose changing risk</title>
+      <link>https://www.biometricupdate.com/202609/business-identity-checks-face-limits-as-a7-case-uk-prosecutions-expose-changing-risk</link>
+      <guid isPermaLink="false">identitybrief-a0a5389ed61b693c</guid>
+      <pubDate>Thu, 24 Sep 2026 20:23:35 +0000</pubDate>
+      <category>fraud</category>
+      <description>UK prosecutions are pointing out the limits of current business identity checks. With more complex ownership structures and higher sanction risks, simply knowing who's behind a business is not enough. This means firms need dynamic, continuous verification, which many systems aren't ready for yet.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ICE builds nationwide ERO intelligence layer around biometric targeting operations</title>
+      <link>https://www.biometricupdate.com/202609/ice-builds-nationwide-ero-intelligence-layer-around-biometric-targeting-operations</link>
+      <guid isPermaLink="false">identitybrief-4ec1acc5e9b5eed6</guid>
+      <pubDate>Thu, 24 Sep 2026 22:30:34 +0000</pubDate>
+      <category>auth</category>
+      <description>ICE is expanding its biometric targeting capabilities within enforcement operations. The $100 million initiative aims to incorporate intelligence analysts across the nation. A potential concern is the balance between privacy and surveillance, since expansion into local ERO centers may intensify scrutiny.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing</title>
+      <link>https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</link>
+      <guid isPermaLink="false">identitybrief-99d1feccd5c5c86e</guid>
+      <pubDate>Thu, 24 Sep 2026 21:04:03 +0000</pubDate>
+      <category>breach</category>
+      <description>The 'Salesbleed' techniques leverage Salesforce agents to push phishing tactics across Slack. With internal comms channel compromised, traditional preventative measures often fail. The challenge lies in creating airtight inter-application security.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>How extensive is the AI and proactive protection strategy at JP Morgan? Ryan Loftus speaks out…</title>
+      <link>https://identityweek.net/how-extensive-is-the-ai-and-proactive-protection-strategy-at-jp-morgan-ryan-loftus-speaks-out/</link>
+      <guid isPermaLink="false">identitybrief-be621aa929ec4b23</guid>
+      <pubDate>Thu, 24 Sep 2026 12:15:59 +0000</pubDate>
+      <category>auth</category>
+      <description>JP Morgan discusses their proactive AI and digital identity strategy. They highlight the flaws in reactive approaches, emphasizing the need for smarter AI integration. Despite these advances, transitioning to cross-functional cohesion remains a significant hurdle in large institutions.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore</title>
+      <link>https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html</link>
+      <guid isPermaLink="false">identitybrief-fb9ba04a456ec507</guid>
+      <pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>AI is intensifying the problem of secrets sprawl, doubling the exposure rate over manual input, per GitGuardian's latest report. This highlights the need for better automated secret detection tools that integrate with development pipelines. Yet, deploying these tools to cover all environments universally is cost-prohibitive.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>First implementers certify to OpenID4VP and OpenID4VCI with HAIP</title>
+      <link>https://openid.net/first-implementers-certify-to-openid4vp-and-openid4vci-with-haip/</link>
+      <guid isPermaLink="false">identitybrief-11446f6192deaa1f</guid>
+      <pubDate>Thu, 24 Sep 2026 18:22:24 +0000</pubDate>
+      <category>did</category>
+      <description>Fourteen organizations have self-certified their implementations of OpenID for Verifiable Presentations and Credential Issuance with the High Assurance Interoperability Profile. This means they're now positioned to offer high-assurance identity services conforming to OpenID standards. But the catch is it's still early days, with certification limited to these initial implementers — broad adoption is a ways off.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Roundcube Webmail Vulnerability in Attackers’ Crosshairs</title>
+      <link>https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</link>
+      <guid isPermaLink="false">identitybrief-ec10a2f9edd2b28a</guid>
+      <pubDate>Fri, 25 Sep 2026 06:57:40 +0000</pubDate>
+      <category>breach</category>
+      <description>A vulnerability in Roundcube Webmail, tracked as CVE-2026-48842, is actively being exploited. It's an SQL injection flaw that attackers can use without authentication, potentially compromising a wide range of systems. The catch: patching won't be instantaneous if your users are widespread, increasing interim exposure.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Context Is King: How Identity Context Will Drive Agentic AI Success</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUV2RkEyLWhzWFZITjJpVnJ3U2JiZjlPNzE1c0JLWDB6dDQ1Qmx5VU5vb0xtanBVN0VYNC1aQTBRQVNtOGRLUmNfcE5iLVpVZ3h4WkFOVlM0Z3BDWU5fdE94dWRFbzRxdzdKWkE3b3JDWjlJNzFvR1N3UnNxdE05aXo0U1BoZ0RGR2lJcVBUTklUVURrbmVQXzFHbE1Wbm82?oc=5</link>
+      <guid isPermaLink="false">identitybrief-e85e2ac645f1f2cb</guid>
+      <pubDate>Thu, 24 Sep 2026 16:11:56 +0000</pubDate>
+      <category>iam</category>
+      <description>Forrester discusses how identity context is crucial to successful AI deployment. Correct identity context helps prevent unauthorized AI actions. But integrating context into AI systems remains complex and resource-intensive, deterring quick adoption.
+
+— via Forrester</description>
+    </item>
+    <item>
+      <title>Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution</title>
+      <link>http://arxiv.org/abs/2609.29808v1</link>
+      <guid isPermaLink="false">identitybrief-e9c0a7fd835fdd6b</guid>
+      <pubDate>Thu, 24 Sep 2026 13:42:02 +0000</pubDate>
+      <category>research</category>
+      <description>A paper discusses measures to control rogue AI activities at the kernel level. This aims to curb unauthorized external actions, which is crucial for environments using sensitive credentials. But implementing such control is technical and complex, needing strong architectural adjustments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>TP-CRIV: A Framework for Third-Party Challenge-Response Identity Verification of AI Models</title>
+      <link>http://arxiv.org/abs/2609.29264v1</link>
+      <guid isPermaLink="false">identitybrief-b4aa967166e62d49</guid>
+      <pubDate>Thu, 24 Sep 2026 09:03:48 +0000</pubDate>
+      <category>research</category>
+      <description>Artificial intelligence (AI) models are increasingly deployed through remote services, making model misappropriation a growing concern. Existing approaches, including watermarking, fingerprinting, and model similarity analysis, primarily rely on predefined evidence or direct behavioral comparison and do not explicitly evaluate whether the claimant currently…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing</title>
+      <link>https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958</link>
+      <guid isPermaLink="false">identitybrief-d9cd34d560259a8e</guid>
+      <pubDate>Thu, 24 Sep 2026 19:01:15 +0000</pubDate>
+      <category>breach</category>
+      <description>Salesforce Agentforce vulnerabilities needed zero-click targeting for exploitation. Unauthorized parties could breach CRM data, causing data theft and phishing without user action. Resolving this means staying ahead with regular patch deployment—a challenge amid complex CRM integrations.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>A Data-Driven Analysis of Infostealer Malware Victims</title>
+      <link>http://arxiv.org/abs/2609.30070v1</link>
+      <guid isPermaLink="false">identitybrief-2f4375d929c97bf9</guid>
+      <pubDate>Thu, 24 Sep 2026 16:27:39 +0000</pubDate>
+      <category>research</category>
+      <description>A study presents a detailed look at infostealer malware victims, analyzing data from 170,298 breaches. Understanding the popular targets—largely games and major platforms—can inform better defense strategies. But accessing and using such detailed data ethically remains a challenge for many organizations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Is your identity platform keeping you from autonomous identity?</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzNlVTN0SVZoQUdMLU43Nm5rcWc4TWI2VERSMU1UeHpjWmtzdzhoVHZETmhDTUZiREFvSzJuMW5qM1JhOWhkYmIweVYtaXZ1OWMzN2xRemFEOTRlVVFRQXBEZnFJbE5VN3l3UkJYdXhLMHYtOE1COGdDSXV0X0ZVVjVYb3pHWVNPMFdGRk50M1pPbGNucEdTaA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-5f46ee52a5c8667d</guid>
+      <pubDate>Thu, 24 Sep 2026 17:38:12 +0000</pubDate>
+      <category>iam</category>
+      <description>SailPoint raises a point that identity platforms might hinder moving to an 'autonomous identity'. The focus is on improving adaptability and reducing manual intervention, but shifting from legacy systems remains a large barrier to progress.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>Login.gov adds mobile driver’s licenses as AI fraud reshapes federal identity proofing</title>
       <link>https://www.biometricupdate.com/202609/login-gov-adds-mobile-drivers-licenses-as-ai-fraud-reshapes-federal-identity-proofing</link>
       <guid isPermaLink="false">identitybrief-f4baf4487685aef4</guid>
@@ -1362,145 +1502,5 @@
       <description>A critical flaw in GitLab could allow attackers to access arbitrary files and sensitive data. This vulnerability, marked at maximum severity, can expose credentials on CI/CD servers. The limitation is that exploitation is conditional, requiring specific misconfigurations.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>Cybersecurity jobs available right now: September 15, 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/09/15/cybersecurity-jobs-available-right-now-september-15-2026/</link>
-      <guid isPermaLink="false">identitybrief-a2c4dc5b1c83d353</guid>
-      <pubDate>Mon, 14 Sep 2026 22:15:54 +0000</pubDate>
-      <category>auth</category>
-      <description>Job openings in cybersecurity reflect growing demands in credential management and security architecture. This move highlights the expanding role of AI and security integration in maintaining secure environments. Geographical and skill limitations might restrict applicants.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Japan's Digital Agency says VPN flaw exposed 246,000 personnel records</title>
-      <link>https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/</link>
-      <guid isPermaLink="false">identitybrief-5be5945ddb3fb51d</guid>
-      <pubDate>Mon, 14 Sep 2026 20:36:02 +0000</pubDate>
-      <category>breach</category>
-      <description>A VPN flaw exposed 246,000 personnel records in Japan, highlighting the risks of vulnerable remote access solutions. Such exposure can lead to significant personal and organizational damage. Mitigating the issue depends heavily on timely patch deployments.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>UK.gov begins killing off passwords for 23 million users</title>
-      <link>https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088</link>
-      <guid isPermaLink="false">identitybrief-1cc68e770c2c447d</guid>
-      <pubDate>Mon, 14 Sep 2026 09:16:11 +0000</pubDate>
-      <category>breach</category>
-      <description>The UK government is transitioning 23 million users away from passwords to passkeys. This shift aims to reduce phishing attempts and improve user security. The journey is phased, and challenges remain in account recovery and user adaptability.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Why Identity Security Requires Continuous Resilience and Why Our Investment Here Matters</title>
-      <link>https://www.jumio.com/identity-security-requires-continuous-resilience/</link>
-      <guid isPermaLink="false">identitybrief-a9c0e9e139159180</guid>
-      <pubDate>Mon, 14 Sep 2026 16:56:56 +0000</pubDate>
-      <category>fraud</category>
-      <description>Continuous resilience in identity security involves regular updates beyond initial verification, crucial for maintaining trust. Jumio's emphasis on sustained checks highlights ongoing risks in static identity management. The key challenge is adjusting policies to accommodate this dynamic approach.
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>What we know about the Revolut data breach so far</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/</link>
-      <guid isPermaLink="false">identitybrief-66641ac96558b8d4</guid>
-      <pubDate>Mon, 14 Sep 2026 07:02:51 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers accessed Revolut's customer data by pretending to be from a government agency. This breach sheds light on the need for stringent verification of requests, especially those appearing official. The tricky part is balancing thorough scrutiny with operational efficiency.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Permify: Open-source authorization as a service</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/</link>
-      <guid isPermaLink="false">identitybrief-beb26d942da5d317</guid>
-      <pubDate>Mon, 14 Sep 2026 05:30:58 +0000</pubDate>
-      <category>iam</category>
-      <description>Permify, an open-source tool, simplifies runtime authorization outside app code. This can make managing complex permissions easier and less prone to coding errors. However, teams need to integrate it with existing infrastructure, which could mean upfront work.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data</title>
-      <link>https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html</link>
-      <guid isPermaLink="false">identitybrief-8d32a587d798415e</guid>
-      <pubDate>Sun, 13 Sep 2026 10:11:48 +0000</pubDate>
-      <category>fraud</category>
-      <description>Microsoft reports phishing using passkey themes to breach cloud accounts. It's a reminder that even advanced security measures aren't immune to social engineering. But the approach relies on user interaction, still making user education a critical line of defense.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Revolut confirms customer data breach through fake government requests</title>
-      <link>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</link>
-      <guid isPermaLink="false">identitybrief-1b488bca664f0519</guid>
-      <pubDate>Sun, 13 Sep 2026 09:59:58 +0000</pubDate>
-      <category>breach</category>
-      <description>Revolut suffered a data breach because attackers faked government requests. This incident highlights the threat of social engineering that exploits trust-based processes. The catch is the challenge of verifying every government request without slowing operations.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited</title>
-      <link>https://www.helpnetsecurity.com/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/</link>
-      <guid isPermaLink="false">identitybrief-79e1ebf5323cab4b</guid>
-      <pubDate>Sun, 13 Sep 2026 08:00:57 +0000</pubDate>
-      <category>breach</category>
-      <description>Recent headlines cover rootkits on F5 devices and exploited Cisco bugs. For zero-trust models, it underscores the concept that perimeter defenses are never enough. The limitation is that many existing systems aren’t zero-trust ready and need upgrades.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Accredited testing lab options grow as IAD providers seek edge in burgeoning market</title>
-      <link>https://www.biometricupdate.com/202609/accredited-testing-lab-options-grow-as-iad-providers-seek-edge-in-burgeoning-market</link>
-      <guid isPermaLink="false">identitybrief-5bf248c638b036f1</guid>
-      <pubDate>Fri, 11 Sep 2026 16:27:58 +0000</pubDate>
-      <category>fraud</category>
-      <description>More labs are now available to verify the efficacy of biometric injection attack detection. This helps businesses pick reliable solutions amid rising bypass tactics. However, lab testing adds another step and cost to already stretched budgets.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>DHS launches $440M government-wide biometric capture procurement</title>
-      <link>https://www.biometricupdate.com/202609/dhs-launches-440m-government-wide-biometric-capture-procurement</link>
-      <guid isPermaLink="false">identitybrief-78ca17c5b96cf356</guid>
-      <pubDate>Fri, 11 Sep 2026 13:53:32 +0000</pubDate>
-      <category>auth</category>
-      <description>The DHS seeks standardized biometric capture devices across US federal agencies. It aims to unify capabilities and reduce varied device use, easing interoperability. The challenge lies in transitioning legacy systems without disrupting services.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Securing AI Agent Tool Calls in Azure: Identity, Authorization, and Verified Execution</title>
-      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdlF3NFhvRnhKN3ZwbHB2akpGSXpjMno2R0xjaEVESGhHdHBsMTM1ZjJfUkFpNGpXdUJuUHoxU2xIbFlPWEd3ZXlJYWUzYjJRbnlJb2pEMTMxWk5NcVIyT3JVaGZ3YllUX0MzQVdZLVA0WjZHdlF4aDZaSmJDc0R2aEpVZ28teDdsTXdMS281WkhSbWtQYjZsZENIOFhWTEVSWlJfTWdPd1ZfRXczNVU0TXAzYzJIb3Brc0puTTJyZzVUT1hVVkx4Y2Q3MlVPcFFhS2pTS3VYdG5aODFDeHFVYWQ3WjZFQQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-1db1f51adf52ba06</guid>
-      <pubDate>Mon, 14 Sep 2026 04:53:45 +0000</pubDate>
-      <category>iam</category>
-      <description>Azure's new features aim to secure AI tools with solid identity verification. This could enhance trust in AI interactions by controlling access securely. The downside is it requires organizations already invested in Azure ecosystems to apply effectively.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories</title>
-      <link>https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html</link>
-      <guid isPermaLink="false">identitybrief-96788d5a772f9a8a</guid>
-      <pubDate>Thu, 10 Sep 2026 17:47:38 +0000</pubDate>
-      <category>fraud</category>
-      <description>The recent spree of flaws exposes persistent issues like outdated permissions. Each incident points to overlooked basics like permissions, even within secure domains. Addressing these basics requires consistent audits, not yet a universal practice.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Protecting organizations from AI-assisted executive impersonation and invoice fraud</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/</link>
-      <guid isPermaLink="false">identitybrief-c9a34f690e42ba7e</guid>
-      <pubDate>Thu, 10 Sep 2026 17:23:05 +0000</pubDate>
-      <category>fraud</category>
-      <description>Microsoft spots AI-aided scams that use fake exec emails for invoice fraud. This evolution in BEC tactics stresses safeguarding email identities further. Unfortunately, distinguishing real from fake AI-generated content remains a hurdle with current tools.
-
-— via Microsoft Security</description>
     </item>
 </channel></rss>
