@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>ICAO commits to progress in digitizing traveler identification systems</title>
+      <link>https://www.biometricupdate.com/202609/icao-commits-to-progress-in-digitizing-traveler-identification-systems</link>
+      <guid isPermaLink="false">identitybrief-b73d2ca5649b7a40</guid>
+      <pubDate>Fri, 25 Sep 2026 19:28:27 +0000</pubDate>
+      <category>did</category>
+      <description>ICAO is pushing to digitize traveler IDs, blending biometrics and digital systems. This shift could streamline airport experiences by reducing queues and enhancing security. The catch: Implementation is slow and scattered, requiring global coordination.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Africa’s digital ID push runs into mobile internet usage gap</title>
+      <link>https://www.biometricupdate.com/202609/africas-digital-id-push-runs-into-mobile-internet-usage-gap</link>
+      <guid isPermaLink="false">identitybrief-8cf4449d7a9daf07</guid>
+      <pubDate>Fri, 25 Sep 2026 18:44:09 +0000</pubDate>
+      <category>did</category>
+      <description>Africa aims to boost digital IDs but hits a snag with mobile internet access gaps. It's a hurdle for digital identity adoption where offline populations miss out. The catch: Infrastructure alone isn't enough without user engagement and device access.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Is passwordless inevitable? Adoption, friction, and the zero-trust reality</title>
+      <link>https://identityweek.net/is-passwordless-inevitable-adoption-friction-and-the-zero-trust-reality/</link>
+      <guid isPermaLink="false">identitybrief-49bd4f1be7d52098</guid>
+      <pubDate>Fri, 25 Sep 2026 12:57:39 +0000</pubDate>
+      <category>breach</category>
+      <description>The move towards passwordless authentication faces challenges, particularly around friction and zero-trust frameworks. It ties into phishing and social engineering defenses which are more vital than ever. The catch: User adoption lags due to the friction of new tech and practices.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>ID4Africa 2027 AGM theme highlights digital ID systems connections, utility</title>
+      <link>https://www.biometricupdate.com/202609/id4africa-2027-agm-theme-highlights-digital-id-systems-connections-utility</link>
+      <guid isPermaLink="false">identitybrief-04bf7d096b25285e</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:25 +0000</pubDate>
+      <category>did</category>
+      <description>ID4Africa 2027 highlights integration of digital ID systems for seamless service delivery. This aligns with efforts to unify digital identity across sectors. The catch: Full integration demands robust cross-border cooperation and technological readiness.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/</link>
+      <guid isPermaLink="false">identitybrief-048ae12c4c4834da</guid>
+      <pubDate>Fri, 25 Sep 2026 17:24:20 +0000</pubDate>
+      <category>breach</category>
+      <description>CISA warns of active exploits against Sharepoint, WSO2, and Adobe Commerce. These vulnerabilities underline the need for prompt patching to prevent authentication bypass attacks. The catch: Not all organizations update promptly, leaving blind spots.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script</title>
+      <link>https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264</link>
+      <guid isPermaLink="false">identitybrief-603870d0dc083960</guid>
+      <pubDate>Fri, 25 Sep 2026 19:13:20 +0000</pubDate>
+      <category>breach</category>
+      <description>A satire ad mocks voice phishing by providing a script while claiming not to have one. It's a light story with a reminder to stay skeptical of unsolicited communications. The catch: It's easy to misjudge the threat until it directly impacts user trust.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Bitget blames North Korea for $387.5M crypto wallet raid</title>
+      <link>https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218</link>
+      <guid isPermaLink="false">identitybrief-038426e71336b19a</guid>
+      <pubDate>Fri, 25 Sep 2026 17:04:07 +0000</pubDate>
+      <category>auth</category>
+      <description>Bitget blames North Korea for a massive $387.5M crypto wallet theft. Cryptocurrencies remain a high-value target due to weak custodial controls. The catch: Attributing cyberattacks can become a political narrative, complicating prevention efforts.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Storm-3168: Agentic-driven cloud attacks using compromised service principals</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/</link>
+      <guid isPermaLink="false">identitybrief-9cb5443e96c7eb3c</guid>
+      <pubDate>Fri, 25 Sep 2026 15:35:08 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft exposes a cloud attack tactic involving compromised service principals. Highlighting the risks tied to cloud credential management is key for defense. The catch: Identifying compromised service principals often requires deep internal audits.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance</title>
+      <link>https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/</link>
+      <guid isPermaLink="false">identitybrief-67f9e44e2e52ff24</guid>
+      <pubDate>Fri, 25 Sep 2026 14:51:10 +0000</pubDate>
+      <category>auth</category>
+      <description>Rising AI agents challenge SOC 2, potentially allowing activity without detection. Token Security suggests updating security controls to spot AI actions. The catch: Standard updates lag behind the rapid tech evolution of AI capabilities.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Threat detection dashboards are masking security coverage gaps</title>
+      <link>https://www.helpnetsecurity.com/2026/09/25/threat-detections-coverage-gaps-report/</link>
+      <guid isPermaLink="false">identitybrief-df4f81c737e393c1</guid>
+      <pubDate>Fri, 25 Sep 2026 12:04:03 +0000</pubDate>
+      <category>iam</category>
+      <description>Research shows threat detection dashboards might not fully cover real attacker techniques. Many detections need reassessment to ensure they're effective. The catch: Dashboards can falsely instill confidence, masking true security gaps.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Rydox marketplace admin pleads guilty, faces 22 years in prison</title>
+      <link>https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/</link>
+      <guid isPermaLink="false">identitybrief-aa8d75f810b30241</guid>
+      <pubDate>Fri, 25 Sep 2026 11:35:14 +0000</pubDate>
+      <category>auth</category>
+      <description>A Rydox marketplace admin's guilty plea highlights the ease of accessing stolen credentials online. It's a reminder of the persistent risk of credential theft in cybercrime. The catch: Prosecution doesn't eliminate the availability of such market resources.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild</title>
+      <link>https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html</link>
+      <guid isPermaLink="false">identitybrief-b1531d8f8db5c670</guid>
+      <pubDate>Fri, 25 Sep 2026 10:14:02 +0000</pubDate>
+      <category>breach</category>
+      <description>An SQL injection flaw in Roundcube Webmail is under active exploitation. This vulnerability is significant for mail service security, requiring urgent patching. The catch: Some organizations delay patches, leaving windows open for attackers.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Template Ageing and Longitudinal Verification in Fixed-Text Keystroke Dynamics: A Subject-Disjoint Study Across Eight Weeks</title>
+      <link>http://arxiv.org/abs/2609.29851v1</link>
+      <guid isPermaLink="false">identitybrief-699dc7503d0d04d4</guid>
+      <pubDate>Thu, 24 Sep 2026 14:16:32 +0000</pubDate>
+      <category>research</category>
+      <description>A study on keystroke dynamics reveals accuracy issues over time, indicating template aging. It poses a challenge for stable biometric authentication implementations. The catch: Consistent performance requires frequent template updates and monitoring.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Advancements in Microsoft Entra ID Governance</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVUxhaENueVlsemhPYTNLeHRsY0V2NmllamFZcXY0MnNDbVhnSkZoeFRZdGZsNC0tWndxX2RjZVlla0RhaEVQOVpRU3NNTGJRalczOE1vazA2RGg4RjJhYllRY1NGTUpmMi11NFFVWmRkWS10Tlhnd0VxbXYybExCcVEzWktLanAtYkc1VTY0a28zY2g2ZW5WcTZZcDFjdEpBUlN4UDVlYTJUU21saWlzTG05d1B3cjJwOG02azJtZDFkdE5PNUFUeDFBLUFIZV9pTGVHVA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-018e47dd392962f7</guid>
+      <pubDate>Fri, 25 Sep 2026 17:50:53 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft announces advances in Entra ID Governance, focusing on streamlined identity management. It aims to tighten access controls and simplify identity operations. The catch: Full benefits depend on comprehensive adoption across Microsoft environments.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>UNCTAD project boosts digital identity capacity in small island states</title>
       <link>https://www.biometricupdate.com/202609/unctad-project-boosts-digital-identity-capacity-in-small-island-states</link>
       <guid isPermaLink="false">identitybrief-4ae90d0a3485329f</guid>
@@ -1362,145 +1502,5 @@
       <description>Singapore's Singpass system rolls out Android passkey logins. It broadens access to a password-free, secure authentication method for many users. But, it'll take time to see complete adoption since it's being pushed out gradually via updates.
 
 — via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Plug 'n' Pray: Agentic LLM-based Detection of Potential Log File Exposures in Third-Party Content Management System Plugins</title>
-      <link>http://arxiv.org/abs/2609.17164v1</link>
-      <guid isPermaLink="false">identitybrief-32b57957f925c8e9</guid>
-      <pubDate>Tue, 15 Sep 2026 13:29:53 +0000</pubDate>
-      <category>research</category>
-      <description>A paper proposes an AI framework for identifying exposed CMS log files. It aims to prevent data leaks through unsecured plugin logs. But practical application depends on integration capability with existing CMS setups.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AI is exposing a security structure built for yesterday’s threats</title>
-      <link>https://www.csoonline.com/article/4221801/ai-is-exposing-a-security-structure-built-for-yesterdays-threats.html</link>
-      <guid isPermaLink="false">identitybrief-642c2de1bd46c890</guid>
-      <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>A post highlights how outdated security models fail against AI-driven threats. It underlines the need to adapt strategies to AI-enhanced impersonation and social engineering. Realignment efforts will need to cross traditional security silos.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>How Humans and LLMs Read Gender into Gender-Neutral Physical Descriptions</title>
-      <link>http://arxiv.org/abs/2609.16366v1</link>
-      <guid isPermaLink="false">identitybrief-505ad0e64a0b52bd</guid>
-      <pubDate>Mon, 14 Sep 2026 21:29:15 +0000</pubDate>
-      <category>research</category>
-      <description>Research highlights gender bias in 'neutral' descriptions by AI models. This impacts how identity and characteristics are communicated in digital spaces. It's an alert on the nuances in deploying AI to infer identities without bias.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Who gets to define an AI agent's intent?</title>
-      <link>https://workos.com/blog/define-ai-agent-intent</link>
-      <guid isPermaLink="false">identitybrief-2e658e4334dbab17</guid>
-      <pubDate>Tue, 15 Sep 2026 20:25:55 +0000</pubDate>
-      <category>iam</category>
-      <description>A post from WorkOS discusses defining AI agent intent and resource access management. It's about maintaining security in automated environments. Execution varies by organizational policy compliance needs.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>Product showcase: mSecure makes one vault do more than remember passwords</title>
-      <link>https://www.helpnetsecurity.com/2026/09/15/product-showcase-msecure-password-manager/</link>
-      <guid isPermaLink="false">identitybrief-d30ecfb1222c54a8</guid>
-      <pubDate>Tue, 15 Sep 2026 05:30:02 +0000</pubDate>
-      <category>auth</category>
-      <description>mSecure is enhancing its password manager to handle more than just passwords. It integrates multiple devices with AES-256 encryption, offering a single vault for sensitive information. This enhances data protection and convenience for users, but limits apply if you're not using iOS, Android, macOS, or Windows.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Interoperability, adoption now critical questions facing UK digital identity effort</title>
-      <link>https://www.biometricupdate.com/202609/interoperability-adoption-now-critical-questions-facing-uk-digital-identity-effort</link>
-      <guid isPermaLink="false">identitybrief-a1224033d34a97b4</guid>
-      <pubDate>Mon, 14 Sep 2026 20:58:51 +0000</pubDate>
-      <category>did</category>
-      <description>Interoperability and adoption hurdles are significant for the UK's digital identity initiatives. Addressing these challenges is vital for widespread acceptance and effectiveness of digital IDs. However, progress is slowed by fragmented systems and varying regional regulations.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Cyprus opens bidding for €9.8M digital ID upgrade, EUDI Wallet integration contract</title>
-      <link>https://www.biometricupdate.com/202609/cyprus-opens-bidding-for-e9-8m-digital-id-upgrade-eudi-wallet-integration-contract</link>
-      <guid isPermaLink="false">identitybrief-f1e50b731769f8b2</guid>
-      <pubDate>Mon, 14 Sep 2026 19:47:52 +0000</pubDate>
-      <category>did</category>
-      <description>Cyprus is upgrading its digital services and integrating with the EU's Digital Identity Wallet. This contract aims to enhance citizen services and secure digital identity management. The project faces potential delays due to the complexity of integration and technology updates required.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Germany unveils national EUDI wallet ‘d-you’</title>
-      <link>https://www.biometricupdate.com/202609/germany-unveils-national-eudi-wallet-d-you</link>
-      <guid isPermaLink="false">identitybrief-de175c8ff00e770d</guid>
-      <pubDate>Mon, 14 Sep 2026 19:01:25 +0000</pubDate>
-      <category>did</category>
-      <description>Germany has revealed its national EUDI wallet, 'd-you', for storing digital IDs on smartphones. This wallet is slated to advance digital self-determination for citizens. Yet, the January 2027 launch means users must wait for these benefits, and adoption rates are uncertain.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Twitch extension with 30K installs exposes users’ OAuth tokens</title>
-      <link>https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/</link>
-      <guid isPermaLink="false">identitybrief-c73ccc98a204aa90</guid>
-      <pubDate>Mon, 14 Sep 2026 19:03:51 +0000</pubDate>
-      <category>auth</category>
-      <description>A Twitch extension with 30,000 installs exposed users' OAuth session tokens. This vulnerability poses significant risks for unauthorized access to Twitch accounts. The core issue: many users remain unaware their tokens are compromised until it's too late.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Passkey enrolment pretext leads to a spike in Microsoft social engineering attacks</title>
-      <link>https://identityweek.net/passkey-enrolment-pretext-to-a-rise-in-microsoft-social-engineering-attacks/</link>
-      <guid isPermaLink="false">identitybrief-3239c79fc261618e</guid>
-      <pubDate>Mon, 14 Sep 2026 10:52:04 +0000</pubDate>
-      <category>breach</category>
-      <description>Passkey enrolment social engineering attacks are increasing, targeting Microsoft users. This technique manipulates passkey setups to compromise cloud identities. The flaw here is in traditional user education, which often overlooks this passkey manipulation vector.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Webinar: How malicious OAuth apps can lead to Google Workspace breaches</title>
-      <link>https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</link>
-      <guid isPermaLink="false">identitybrief-0d7dedc4271c6744</guid>
-      <pubDate>Mon, 14 Sep 2026 12:15:23 +0000</pubDate>
-      <category>breach</category>
-      <description>A webinar highlights the risks of malicious OAuth apps leading to Google Workspace breaches. This showcases vulnerabilities through social engineering and OAuth exploitation. Awareness alone isn’t enough due to the sophisticated tactics used in these attacks.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials</title>
-      <link>https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html</link>
-      <guid isPermaLink="false">identitybrief-aac51e2de3936173</guid>
-      <pubDate>Mon, 14 Sep 2026 18:01:49 +0000</pubDate>
-      <category>auth</category>
-      <description>3BB's network was infiltrated using MeshCentral, compromising subscriber credentials. This incident shows how legitimate tools can become significant insider threats. The exploitation's detection relied heavily on luck and post-event analysis.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE</title>
-      <link>https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html</link>
-      <guid isPermaLink="false">identitybrief-ed5aa7d726336f69</guid>
-      <pubDate>Tue, 15 Sep 2026 05:31:05 +0000</pubDate>
-      <category>breach</category>
-      <description>China-linked hackers are exploiting a Chrome-Windows zero-day chain to deliver a backdoor called GRIMWEDGE. This presents a direct threat through spear-phishing campaigns targeting NGOs, bypassing patched vulnerabilities. The catch: only those on the latest browser versions are protected.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>A maximum severity GitLab flaw could turn your CI/CD server into an attacker’s treasure trove</title>
-      <link>https://www.csoonline.com/article/4221934/a-maximum-severity-gitlab-flaw-could-turn-your-ci-cd-server-into-an-attackers-treasure-trove.html</link>
-      <guid isPermaLink="false">identitybrief-ca0799c3cfb3b48e</guid>
-      <pubDate>Tue, 15 Sep 2026 00:52:55 +0000</pubDate>
-      <category>breach</category>
-      <description>A critical flaw in GitLab could allow attackers to access arbitrary files and sensitive data. This vulnerability, marked at maximum severity, can expose credentials on CI/CD servers. The limitation is that exploitation is conditional, requiring specific misconfigurations.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
