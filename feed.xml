@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Authorizer: Open-source authentication and authorization for your apps</title>
+      <link>https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/</link>
+      <guid isPermaLink="false">identitybrief-9284316dc6c00de9</guid>
+      <pubDate>Mon, 28 Sep 2026 05:30:06 +0000</pubDate>
+      <category>auth</category>
+      <description>Authorizer is an open-source server for authentication and access control in apps. It lets teams manage sign-in and permissions on infrastructure they control. This move could boost self-directed security and control, but requires you to set up and maintain the infrastructure yourself.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>If you do one security check this quarter, make it agent memory</title>
+      <link>https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/</link>
+      <guid isPermaLink="false">identitybrief-a551c5dc64324a12</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:40 +0000</pubDate>
+      <category>auth</category>
+      <description>AI agents' memory can expose sensitive data like API keys and credentials. This matters because attackers can exploit these unsecured memories to steal or manipulate data. The challenge is upgrading current tools to secure these at-risk areas for AI systems quickly.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>IRS weighs AI triage for identity theft backlog nearing 257,000 cases</title>
+      <link>https://www.biometricupdate.com/202609/irs-weighs-ai-triage-for-identity-theft-backlog-nearing-257000-cases</link>
+      <guid isPermaLink="false">identitybrief-cb6fc1140edcd08b</guid>
+      <pubDate>Sun, 27 Sep 2026 23:55:16 +0000</pubDate>
+      <category>fraud</category>
+      <description>The IRS considers AI to help sift through its massive identity theft case backlog. It aims to reduce victim wait times but integrating AI in such sensitive cases requires caution. The hurdles include ensuring AI decisions do not compromise case processing quality.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Stolen AI credentials feed growing LLM proxy economy</title>
+      <link>https://www.csoonline.com/article/4227199/stolen-ai-credentials-feed-growing-llm-proxy-economy.html</link>
+      <guid isPermaLink="false">identitybrief-d7af0ea9bcb070b5</guid>
+      <pubDate>Mon, 28 Sep 2026 08:25:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Cybercriminals use stolen AI credentials and proxy servers to hide attacks. It highlights the need for heightened credential scrutiny and stronger authentication for AI tools. The catch: differentiating between legitimate and malicious AI use remains difficult as techniques become more stealthy.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>SADRA: Sound Capability-based Access Control System for Resource-Disaggregated Architectures</title>
+      <link>http://arxiv.org/abs/2609.31119v1</link>
+      <guid isPermaLink="false">identitybrief-a03ca94b472c7c49</guid>
+      <pubDate>Fri, 25 Sep 2026 11:10:17 +0000</pubDate>
+      <category>research</category>
+      <description>A paper proposes a capability-based access system for remote resources in disaggregated architectures. This could potentially enhance security in these setups by controlling access more precisely. The system requires entirely new infrastructure, which can be complex to adopt.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes</title>
+      <link>http://arxiv.org/abs/2609.31039v1</link>
+      <guid isPermaLink="false">identitybrief-d913bf7e7caee530</guid>
+      <pubDate>Fri, 25 Sep 2026 09:32:31 +0000</pubDate>
+      <category>research</category>
+      <description>MetaPermit paper addresses AI agent security using inferred attributes for access control. It emphasizes scalable and auditable permissions but struggles with consistency and task open-endedness. Implementing it involves balancing between static rules and dynamic authorizations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Crypto-bound identity-verified capability tokens for coordinating distributed AI agents: A proposal</title>
+      <link>http://arxiv.org/abs/2609.30824v1</link>
+      <guid isPermaLink="false">identitybrief-bc0294c225201f46</guid>
+      <pubDate>Fri, 25 Sep 2026 05:07:28 +0000</pubDate>
+      <category>research</category>
+      <description>A proposal explores AI with identity-verified capability tokens to mitigate attacks. It looks promising for coordinating AI agent actions securely but note the high risk of exploitation through prompt injection. Full implementation depends on robust proactive security frameworks.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Synced Passkeys in Microsoft Entra for Phishing-resistant MFA</title>
+      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWm1kd0wybFhZeGZFWkR0ODZrREVSTmdZdDZCS3NFeWFfbVVVeFdDRHNKRGlGUjJuOHhTRmRlQWxYdHNNbmRHVEpxelVnbzV5SG1CVG1CX2Vqb2Z6RWJDeVFuRVZKY3hqTHIzQ0Z5YWtERjR3WnpEanVmU2pnVWxmSzJYVHJkUzczU2puY2o5VF9lRVh3dUlKcW8xd2Nzc2h2R29obTEtRC01REJtMGQ0RVdJTjRyYmRCek9HSm05R0h0bWY5WGVkWUtVVlk3X3hKMHFySlA0NHlMS1JTbFc1S2VpS0ZqMDM3TEJWalk5ek8?oc=5</link>
+      <guid isPermaLink="false">identitybrief-97d4c9331fa333e1</guid>
+      <pubDate>Mon, 28 Sep 2026 00:17:08 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft Entra now supports synced passkeys for MFA that resist phishing. This change aims to make secure authentication easier by default. The major barrier: users need all supporting devices and systems fully updated to benefit consistently.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
+      <title>Moldova plans national facial image database for police searches, European data exchange</title>
+      <link>https://www.biometricupdate.com/202609/moldova-plans-national-facial-image-database-for-police-searches-european-data-exchange</link>
+      <guid isPermaLink="false">identitybrief-df8a74fb573696b3</guid>
+      <pubDate>Fri, 25 Sep 2026 19:19:25 +0000</pubDate>
+      <category>auth</category>
+      <description>Moldova plans to build a national facial image database for police usage. It could expedite suspect identification and cross-border security checks but carries significant privacy concerns and risks of misuse. The effectiveness will depend on usage policies and controls.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Interpol builds huge database and IDs 126 terrorist suspects from face biometrics</title>
+      <link>https://www.biometricupdate.com/202609/interpol-builds-huge-database-and-ids-126-terrorist-suspects-from-face-biometrics</link>
+      <guid isPermaLink="false">identitybrief-b6841e5570ae696d</guid>
+      <pubDate>Fri, 25 Sep 2026 19:16:17 +0000</pubDate>
+      <category>auth</category>
+      <description>Interpol has created a large face biometric database from suspected terrorists. This helps international efforts in counterterrorism but raises questions about data protection and privacy. The challenge is balancing public safety with individual rights.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Secure agent access in development workflows with 1Password + NVIDIA OpenShell</title>
+      <link>https://1password.com/blog/1password-nvidia-openshell</link>
+      <guid isPermaLink="false">identitybrief-294afe11cc7b9e37</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>NVIDIA OpenShell now integrates with 1Password to secure agent workflows. It allows agents to operate without openly exposing credentials, which is crucial for maintaining security in developer environments. However, adoption is limited to those using bleeding-edge development versions.
+
+— via 1Password</description>
+    </item>
+    <item>
+      <title>​​​​​​​​What’s new in Microsoft Security: September 2026​​</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/</link>
+      <guid isPermaLink="false">identitybrief-c6afb152812bc41b</guid>
+      <pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft's latest updates include tools for better AI agent discovery and security. These features intend to strengthen Zero Trust and SOC practices concerning autonomous systems. The complexity increases as organizations scale up AI agent use, demanding thorough oversight.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>England and Wales authorise digital proof of age for alcohol purchases</title>
+      <link>https://identityweek.net/england-and-wales-authorise-digital-proof-of-age-for-alcohol-purchases/</link>
+      <guid isPermaLink="false">identitybrief-cd01d3d14856a5bc</guid>
+      <pubDate>Thu, 24 Sep 2026 15:43:36 +0000</pubDate>
+      <category>did</category>
+      <description>New regs in England and Wales permit digital proof of age for alcohol purchases. It modernizes age verification but relies heavily on new tech infrastructure being widely available. Uptake is voluntary, so expect uneven adoption across venues.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Ghost Service Accounts Enable M365 Data Theft in Chile</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile</link>
+      <guid isPermaLink="false">identitybrief-22b3ecbf71899a38</guid>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Ghost service accounts in Microsoft 365 environments are a new target for data theft. These often-overlooked accounts can be exploited if left unmonitored. Addressing this demands regular auditing and proactive decommissioning of unnecessary accounts.
+
+— via Dark Reading</description>
+    </item>
+    <item>
       <title>Prove-it time for face biometrics providers as tech hits cross-sector mainstream</title>
       <link>https://www.biometricupdate.com/202609/prove-it-time-for-face-biometrics-providers-as-tech-hits-cross-sector-mainstream</link>
       <guid isPermaLink="false">identitybrief-1123b985fd668d0f</guid>
@@ -1362,145 +1502,5 @@
       <description>Cisco patched a critical ISE flaw that allowed authentication bypass and root access. This vulnerability highlights the persistent risk of zero-days in network access control systems. Still, full mitigation requires all users to promptly apply the patch across affected systems.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>DIF Newsletter #65</title>
-      <link>https://blog.identity.foundation/dif-newsletter-65/</link>
-      <guid isPermaLink="false">identitybrief-cdce21acbe22a9aa</guid>
-      <pubDate>Thu, 17 Sep 2026 12:51:36 +0000</pubDate>
-      <category>did</category>
-      <description>The DIF's newsletter highlights upcoming steering committee elections and initiatives in decentralized identity. Insights into decentralized identity developments can guide future identity strategies. However, practical adoption remains contingent on broader ecosystem readiness.
-
-— via DIF</description>
-    </item>
-    <item>
-      <title>Post-Quantum OpenID Connect</title>
-      <link>https://openid.net/post-quantum-openid-connect/</link>
-      <guid isPermaLink="false">identitybrief-a35af200d92daf2c</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:52 +0000</pubDate>
-      <category>auth</category>
-      <description>A look at OpenID Connect potential issues in the post-quantum cryptography era. Preparing for quantum resistance now could save much larger headaches later. Actual deployment of these concepts is complex, needing substantial public-key infrastructure transformations.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Before the Arrest: Benchmarking LLMs on Criminal Profiling from Incomplete Evidence</title>
-      <link>http://arxiv.org/abs/2609.19965v1</link>
-      <guid isPermaLink="false">identitybrief-1af29c09e44c5d67</guid>
-      <pubDate>Thu, 17 Sep 2026 09:38:22 +0000</pubDate>
-      <category>research</category>
-      <description>New research benchmarks LLMs on criminal profiling from incomplete evidence. This might open new avenues for AI in legal investigations, where patterns are discerned from fragments. The real-world applicability is speculative, given ethical and accuracy concerns.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Digital IDs are Now Cleared for KYC: How Banks Can Verify Them using Indicio Proven</title>
-      <link>https://indicio.tech/blog/fincen-verifiable-credentials-kyc/</link>
-      <guid isPermaLink="false">identitybrief-d5638b42b576d207</guid>
-      <pubDate>Thu, 17 Sep 2026 14:33:30 +0000</pubDate>
-      <category>did</category>
-      <description>Digital IDs are now accepted for KYC, confirmed by FinCEN and banking regulators. This endorsement can streamline identity verification, simplifying account openings. Yet, widespread implementation may hit snags if dependent technologies are unavailable or incompatible.
-
-— via Indicio</description>
-    </item>
-    <item>
-      <title>The AI security question leaders should be asking instead</title>
-      <link>https://www.helpnetsecurity.com/2026/09/17/frederic-bull-gremlin-ai-in-cybersecurity-gap/</link>
-      <guid isPermaLink="false">identitybrief-a8cf299577b308c1</guid>
-      <pubDate>Thu, 17 Sep 2026 05:30:48 +0000</pubDate>
-      <category>iam</category>
-      <description>Gremlin's Frederic Bull discusses AI's role in security, emphasizing the need for understanding AI model training data and maintaining least privilege access controls. This matters as AI reduces the skill gap between attackers and defenders, shifting security dynamics. The catch: the focus is broad and doesn't address specific implementable strategies.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hiring fraud numbers make the case for end-to-end identity assurance: HYPR</title>
-      <link>https://www.biometricupdate.com/202609/hiring-fraud-numbers-make-the-case-for-end-to-end-identity-assurance-hypr</link>
-      <guid isPermaLink="false">identitybrief-68fa993e63ca3c8e</guid>
-      <pubDate>Wed, 16 Sep 2026 23:32:11 +0000</pubDate>
-      <category>fraud</category>
-      <description>HYPR research shows human judgement still dominates in hiring fraud detection, despite rising AI-assisted fraud tactics. This underscores the need for better automated identity assurance solutions in HR processes. Limitation: the study points to observed trends but doesn't propose specific automated solutions.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Passkeys in the post-quantum era: Why FIDO needs more than new algorithms</title>
-      <link>https://www.biometricupdate.com/202609/passkeys-in-the-post-quantum-era-why-fido-needs-more-than-new-algorithms</link>
-      <guid isPermaLink="false">identitybrief-443d9f1a6aaaa9fb</guid>
-      <pubDate>Wed, 16 Sep 2026 17:45:47 +0000</pubDate>
-      <category>breach</category>
-      <description>Post-quantum challenges are driving updates in FIDO authentication standards to maintain security strength of passkeys. A vital development for maintaining secure authentication in a quantum future. However, transitioning to new standards demands coordinated updates across ecosystems.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>GNOME 51 adds passkey logins, offline maps and drawn PDF signatures</title>
-      <link>https://www.helpnetsecurity.com/2026/09/17/gnome-51-new-features/</link>
-      <guid isPermaLink="false">identitybrief-74ae153b2eb76952</guid>
-      <pubDate>Thu, 17 Sep 2026 04:36:56 +0000</pubDate>
-      <category>auth</category>
-      <description>GNOME 51 introduces passkey logins, marking a shift towards passwordless environments on Linux desktops. This improves user security by reducing password dependencies. The obstacle: older NVIDIA cards lose support, affecting some legacy users.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Socure brings real-time identity intelligence to NextgenID’s in-person ID proofing</title>
-      <link>https://www.biometricupdate.com/202609/socure-brings-real-time-identity-intelligence-to-nextgenids-in-person-id-proofing</link>
-      <guid isPermaLink="false">identitybrief-dcaa986d5ebb4343</guid>
-      <pubDate>Wed, 16 Sep 2026 17:03:00 +0000</pubDate>
-      <category>did</category>
-      <description>Socure partners with NextgenID, merging AI identity intelligence with high-level biometric assurance for stronger ID proofing. This enhances in-person identity verification's resilience against fraud. Yet, scalability may be limited to enterprises with specific regulatory and security requirements.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Malware bypasses browser checks to force install Chrome, Edge extensions</title>
-      <link>https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/</link>
-      <guid isPermaLink="false">identitybrief-8f87d238eb997e47</guid>
-      <pubDate>Wed, 16 Sep 2026 18:50:53 +0000</pubDate>
-      <category>auth</category>
-      <description>Malware using KREMLIN toolkit bypasses browser security to install harmful extensions, risking credential theft. Identity and access teams should note the increased threat to user credentials via exploited browsers. The challenge is deploying effective browser-based defenses and user education rapidly.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security</title>
-      <link>https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html</link>
-      <guid isPermaLink="false">identitybrief-e8602ec2d9a9ebe0</guid>
-      <pubDate>Wed, 16 Sep 2026 11:58:00 +0000</pubDate>
-      <category>breach</category>
-      <description>N0va Phishkit targets US and EU businesses with phishing tactics exploiting real authentication flows. This emphasizes the need for bolstered identity verification processes to prevent unauthorized access. The catch: threat actors' use of legitimate flows complicates detection efforts.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>First Agentic AI Data Breach Reported to Spanish Regulator</title>
-      <link>https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/</link>
-      <guid isPermaLink="false">identitybrief-c82cfd422fd6f3cb</guid>
-      <pubDate>Wed, 16 Sep 2026 16:39:19 +0000</pubDate>
-      <category>breach</category>
-      <description>Spain reports an AI agent successful in breaching security for data theft, marking a new frontier for cyberthreats. Recognizing AI's potential for autonomous cyberattacks is vital for risk assessments. The issue: defenses against AI-driven attacks are still in their infancy.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>CISA Releases Guidance on Deploying Cyber Decoys</title>
-      <link>https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/</link>
-      <guid isPermaLink="false">identitybrief-1aa665bbb7f7ebb7</guid>
-      <pubDate>Thu, 17 Sep 2026 07:53:43 +0000</pubDate>
-      <category>iam</category>
-      <description>CISA's new guidance on cyber decoys complements Zero Trust models to detect and prevent malicious activity. For identity teams, these decoys can enhance visibility and control over threat actors within networks. The honest catch: deploying decoys requires strategic planning and may not fit all organizational architectures.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Cisco warns of max severity ISE zero-day exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/</link>
-      <guid isPermaLink="false">identitybrief-f31db76837ed47ee</guid>
-      <pubDate>Thu, 17 Sep 2026 07:20:54 +0000</pubDate>
-      <category>breach</category>
-      <description>Cisco reports a severe zero-day vulnerability in its Identity Services Engine, actively exploited by attackers. This highlights the perpetual need for timely patch management in identity systems. The challenge: patch distribution may lag across all active environments, leaving gaps for exploits.
-
-— via BleepingComputer</description>
     </item>
 </channel></rss>
