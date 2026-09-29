@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials</title>
+      <link>https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html</link>
+      <guid isPermaLink="false">identitybrief-70b35ed4cc7c633a</guid>
+      <pubDate>Tue, 29 Sep 2026 06:08:25 +0000</pubDate>
+      <category>auth</category>
+      <description>A flaw in the MCP Python SDK allows attackers to steal OAuth credentials via malicious servers. If you're using this SDK, fix it ASAP with version 1.30.0 or above to avoid credential leaks. The downside: only MCP apps using this specific SDK are at risk, but it requires immediate patching to protect access tokens.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>A four-week plan to tackle vendor concentration risk</title>
+      <link>https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/</link>
+      <guid isPermaLink="false">identitybrief-16d9ceb2c4959942</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:20 +0000</pubDate>
+      <category>fraud</category>
+      <description>A plan highlights how businesses can assess their dependency on a handful of vendors. The takeaway is you might be more reliant on a single point of failure than you realized. The real trick is mapping these dependencies accurately, which isn't a quick fix.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Hottest cybersecurity open-source tools of the month: September 2026</title>
+      <link>https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026/</link>
+      <guid isPermaLink="false">identitybrief-908876e036777412</guid>
+      <pubDate>Tue, 29 Sep 2026 04:30:00 +0000</pubDate>
+      <category>auth</category>
+      <description>September's open-source tool roundup features security enhancers, including a secrets scanning tool named Sift. It could help your team find leaked credentials hiding in digital workplaces. But remember, it's open-source, so community support varies and you might need technical savvy to implement.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>OpenID unveils first digital ID providers certified for VP, VCI interoperability</title>
+      <link>https://www.biometricupdate.com/202609/openid-unveils-first-digital-id-providers-certified-for-vp-vci-interoperability</link>
+      <guid isPermaLink="false">identitybrief-7ba6674660820457</guid>
+      <pubDate>Mon, 28 Sep 2026 19:51:23 +0000</pubDate>
+      <category>did</category>
+      <description>OpenID introduced the first digital ID providers certified for interoperability. This allows for more secure and verifiable credential exchanges. However, it's only a start—interoperability across the board needs broader adoption.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>TOTM Technologies, InterBio partner with Crescotec on identity solutions</title>
+      <link>https://www.biometricupdate.com/202609/totm-technologies-interbio-partner-with-crescotec-on-identity-solutions</link>
+      <guid isPermaLink="false">identitybrief-1bae62d05e9084d0</guid>
+      <pubDate>Mon, 28 Sep 2026 16:53:26 +0000</pubDate>
+      <category>did</category>
+      <description>Partnerships for identity solutions are expanding, particularly in Indonesia with biometric tech. This could streamline digital identity infrastructures. However, these solutions remain highly localized, so global relevance may vary.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>IAM for AI agents: A Practical Enterprise Framework</title>
+      <link>https://thehackernews.com/2026/09/iam-for-ai-agent.html</link>
+      <guid isPermaLink="false">identitybrief-953a9269e98f5345</guid>
+      <pubDate>Mon, 28 Sep 2026 18:20:38 +0000</pubDate>
+      <category>iam</category>
+      <description>IAM for AI agents is becoming a structured practice across enterprises. It controls how AI agents authenticate and act within networked environments. But don’t expect a one-size-fits-all; you'll need to tailor architectures to specific AI use cases.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Second US federal biometrics contract win of 2026 for ROC could top $64M</title>
+      <link>https://www.biometricupdate.com/202609/second-us-federal-biometrics-contract-win-of-2026-for-roc-could-top-64m</link>
+      <guid isPermaLink="false">identitybrief-71205a0bfd78c375</guid>
+      <pubDate>Mon, 28 Sep 2026 16:56:15 +0000</pubDate>
+      <category>auth</category>
+      <description>New federal biometrics contract for ROC prioritizes video analysis for investigations. It shows growth in AI-enhanced tools for law enforcement. But it's U.S.-centric, and the solutions come with privacy debates.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Times Car confirms data breach affecting 6.6 million user accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/</link>
+      <guid isPermaLink="false">identitybrief-faaac3929409b969</guid>
+      <pubDate>Mon, 28 Sep 2026 20:31:16 +0000</pubDate>
+      <category>breach</category>
+      <description>Times Car confirmed a breach affecting 6.6 million user accounts. An immediate concern for anyone relying on their services to re-secure accounts. It's another reminder that user data security is an ongoing battle.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>First Steps of the PLC Organization – Independent Public Ledger of Credentials</title>
+      <link>https://blog.plcred.org/3mwlphq42d227</link>
+      <guid isPermaLink="false">identitybrief-6983defb25a2b28b</guid>
+      <pubDate>Mon, 28 Sep 2026 19:27:45 +0000</pubDate>
+      <category>auth</category>
+      <description>An organization is proposing an Independent Public Ledger of Credentials. It's about creating a shared, transparent way to manage digital credentials. Early days, so watch for practical adoption issues and privacy concerns.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>IoT News: WBA and FIDO test zero-touch IoT Wi-Fi onboarding</title>
+      <link>https://fidoalliance.org/iot-news-wba-and-fido-test-zero-touch-iot-wi-fi-onboarding/</link>
+      <guid isPermaLink="false">identitybrief-7b633bad7995ec31</guid>
+      <pubDate>Mon, 28 Sep 2026 12:27:17 +0000</pubDate>
+      <category>fraud</category>
+      <description>FIDO and WBA are testing zero-touch onboarding for IoT devices over Wi-Fi. It automates device connection, cutting down manual setup steps. But it's mostly for industrial settings now and still in testing phases.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Tech Times: Visa Payment Passkey Goes Live at Five India State Banks: OTP Attack Surface Eliminated</title>
+      <link>https://fidoalliance.org/tech-times-visa-payment-passkey-goes-live-at-five-india-state-banks-otp-attack-surface-eliminated/</link>
+      <guid isPermaLink="false">identitybrief-7a78291136523774</guid>
+      <pubDate>Mon, 28 Sep 2026 12:25:41 +0000</pubDate>
+      <category>auth</category>
+      <description>Visa rolls out a payment passkey with five Indian state banks, reducing reliance on OTPs. This better protects transactions from OTP-based attacks. The catch? It's only a local rollout for now; broader deployment could take time.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>FinTech Futures: Sibos 2026: Digital finance in an AI-driven economy – when the agent does the buying, who owns the customer?</title>
+      <link>https://fidoalliance.org/fintech-futures-sibos-2026-digital-finance-in-an-ai-driven-economy-when-the-agent-does-the-buying-who-owns-the-customer/</link>
+      <guid isPermaLink="false">identitybrief-309a9920febf8f2d</guid>
+      <pubDate>Mon, 28 Sep 2026 12:23:28 +0000</pubDate>
+      <category>iam</category>
+      <description>Discussion at Sibos 2026 addresses who owns customer identity in AI-driven economies. Financial institutions focus on maintaining identity standards to protect trust. The debate on control and compliance is ongoing, extending beyond technical fixes.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Sustained Participation as a Security Resource: The Bounded Participation Channel</title>
+      <link>http://arxiv.org/abs/2609.35300v1</link>
+      <guid isPermaLink="false">identitybrief-f55e9253ffd545cc</guid>
+      <pubDate>Mon, 28 Sep 2026 14:40:49 +0000</pubDate>
+      <category>research</category>
+      <description>The Bounded Participation Channel is a new concept for enforcing identity costs over time. It introduces a formal way to limit and verify sustained participation. The framework sounds promising but will require rigorous testing to prove its real-world viability.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Service Accounts: The Hidden AI Security Risk in Your Organization</title>
+      <link>https://jumpcloud.com/blog/service-accounts-the-hidden-ai-security-risk-in-your-organization</link>
+      <guid isPermaLink="false">identitybrief-cee9e52f7bee8d35</guid>
+      <pubDate>Mon, 28 Sep 2026 14:57:10 +0000</pubDate>
+      <category>iam</category>
+      <description>An article discusses the hidden risks of AI service accounts, particularly around permissions. It's a nudge to better manage and audit these accounts to prevent unauthorized access. The details around implementation, however, depend on specific enterprise environments.
+
+— via JumpCloud</description>
+    </item>
+    <item>
       <title>Authorizer: Open-source authentication and authorization for your apps</title>
       <link>https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/</link>
       <guid isPermaLink="false">identitybrief-9284316dc6c00de9</guid>
@@ -1362,145 +1502,5 @@
       <description>A discussion highlights concerns about using passkeys. Despite their phishing resistance, users worry about device dependency and recovery hassles. These concerns suggest passkeys might not be universally accepted yet, especially for those reliant on multiple devices.
 
 — via Hacker News</description>
-    </item>
-    <item>
-      <title>World Economic Forum: Why trust in AI agents requires open global standards</title>
-      <link>https://fidoalliance.org/world-economic-forum-why-trust-in-ai-agents-requires-open-global-standards/</link>
-      <guid isPermaLink="false">identitybrief-c2ac62b51dbea2cc</guid>
-      <pubDate>Fri, 18 Sep 2026 15:54:56 +0000</pubDate>
-      <category>auth</category>
-      <description>The World Economic Forum pushes for global standards to build trust in AI. Open standards could ensure AI systems are reliable across different regions and uses. These standards are proposed but not yet implemented, so there's no immediate impact.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>GhostCode attackers abuse device codes to take over Microsoft 365 accounts</title>
-      <link>https://www.csoonline.com/article/4223898/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts-2.html</link>
-      <guid isPermaLink="false">identitybrief-10375460b986c2c5</guid>
-      <pubDate>Fri, 18 Sep 2026 15:18:40 +0000</pubDate>
-      <category>breach</category>
-      <description>GhostCode attackers are abusing device codes to compromise Microsoft 365 accounts. This shows a weakness in Microsoft's authentication flow that bypasses conventional security measures. It impacts Microsoft 365 users specifically, emphasizing the need for vigilance on this platform.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape</title>
-      <link>http://arxiv.org/abs/2609.20614v1</link>
-      <guid isPermaLink="false">identitybrief-95dabcf8130d401f</guid>
-      <pubDate>Thu, 17 Sep 2026 15:59:45 +0000</pubDate>
-      <category>research</category>
-      <description>Research reveals inference-engine fingerprinting attacks are viable. This indicates potential new attack vectors in AI model deployments. These are theoretical scenarios today and require advanced AI handling capabilities.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Identity may be the design primitive you're overlooking</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGFIZ0xZSC1CVjZaUUpOdlVwQ3JtVF9vZWpBekV1dDBlWnBxdEtzN3B6YXZYbnllV3ZpZlVCQkVubndKMHd0QXdYMUVvX0dsQTNWajktWUdid0NIbVBubXhwN3ZmTGlCRXBOYW02QVRLUnl2Z05lblpXb0x6RVlRWWxTXzVyYnBvdnRpag?oc=5</link>
-      <guid isPermaLink="false">identitybrief-bb7a9808953b9d53</guid>
-      <pubDate>Fri, 18 Sep 2026 21:57:10 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta suggests overlooking identity as a design primitive might be a mistake. Integrating identity thoroughly can strengthen security and functionality. This advice is more strategic than tactical, lacking immediate application steps.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>98% of fraudulent hires have company credentials by the time they’re caught</title>
-      <link>https://www.helpnetsecurity.com/2026/09/18/hypr-hiring-fraud-detection-report/</link>
-      <guid isPermaLink="false">identitybrief-4125a2dfbcf11228</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:51 +0000</pubDate>
-      <category>fraud</category>
-      <description>HYPR's report reveals that 98% of fraudulent hires get credentials before detection. This highlights a critical gap in the hiring-to-onboarding period, risking credential misuse. The problem is no simple fix: calls for dedicated identity verification technologies that most HR systems lack.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hardcoded MCP credentials found in public GitHub files</title>
-      <link>https://www.helpnetsecurity.com/2026/09/18/hush-security-mcp-credential-exposure-report/</link>
-      <guid isPermaLink="false">identitybrief-42d27e43c100cd69</guid>
-      <pubDate>Fri, 18 Sep 2026 05:30:26 +0000</pubDate>
-      <category>breach</category>
-      <description>MCP credentials were hardcoded in public GitHub files, posing a security risk. Direct exposure of credentials could lead to unauthorized system access and exploitation. The fix isn't straightforward, as it requires developers to consistently follow best practices in credential management.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>AI Agent Breaches Spanish Organization, Modifies Personal Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data</link>
-      <guid isPermaLink="false">identitybrief-aa1bfb69fd290b38</guid>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>An AI agent breached a Spanish organization and altered personal data, showcasing AI's role in cyberattacks. This shift means security strategies must now account for and defend against AI-driven threats. The challenge lies in adapting quickly: traditional defenses might not suffice against evolving AI tactics.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Canada’s DIACC certifies Facephi’s biometric onboarding to LOA2</title>
-      <link>https://www.biometricupdate.com/202609/canadas-diacc-certifies-facephis-biometric-onboarding-to-loa2</link>
-      <guid isPermaLink="false">identitybrief-63a12ef34b5bc96f</guid>
-      <pubDate>Thu, 17 Sep 2026 19:33:26 +0000</pubDate>
-      <category>did</category>
-      <description>Facephi's biometric onboarding has been certified to LOA2 by DIACC in Canada. This boosts consumer confidence in biometrics for secure identity verification. However, certification alone doesn't address potential technical integration hurdles within firms' existing ecosystems.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>UK financial services face AML enforcement, certification confusion double-whammy</title>
-      <link>https://www.biometricupdate.com/202609/uk-financial-services-face-aml-enforcement-certification-confusion-double-whammy</link>
-      <guid isPermaLink="false">identitybrief-f072a1053dca42ff</guid>
-      <pubDate>Thu, 17 Sep 2026 19:35:31 +0000</pubDate>
-      <category>did</category>
-      <description>UK financial services face a dual challenge with AML enforcement and identity verification guidance confusion. This scenario pressures businesses to align with shifting compliance landscapes quickly. Unfortunately, regulatory clarity often lags behind technology capabilities.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Identt joins Poland’s mObywatel Europa EUDI Wallet sandbox</title>
-      <link>https://www.biometricupdate.com/202609/identt-joins-polands-mobywatel-europa-eudi-wallet-sandbox</link>
-      <guid isPermaLink="false">identitybrief-5d0f5e1ed2efdca8</guid>
-      <pubDate>Thu, 17 Sep 2026 14:13:28 +0000</pubDate>
-      <category>did</category>
-      <description>Identt joins the mObywatel Europa EUDI Wallet sandbox, engaging with EU digital ID initiatives. It’s an important step for testing interoperable digital identities across Europe. Full-scale use awaits further regulatory endorsements and practical trials.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>OpenID Foundation launches refreshed conformance suite interface</title>
-      <link>https://openid.net/openid-foundation-launches-refreshed-conformance-suite-interface/</link>
-      <guid isPermaLink="false">identitybrief-79f1a2a28eb393cb</guid>
-      <pubDate>Thu, 17 Sep 2026 21:19:04 +0000</pubDate>
-      <category>did</category>
-      <description>The OpenID Foundation has updated its conformance suite interface, making it more user-friendly. This matters because it streamlines the validation process for various OpenID standards, potentially reducing integration time. The catch: this is just an interface update, so the core conformance tools remain unchanged.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS</title>
-      <link>https://www.aclif.ai/</link>
-      <guid isPermaLink="false">identitybrief-4a566c5a533bc344</guid>
-      <pubDate>Thu, 17 Sep 2026 16:48:17 +0000</pubDate>
-      <category>auth</category>
-      <description>Aclif, a new CLI framework, simplifies SaaS interactions by providing unified command grammar. It can streamline developer workflows by reducing the learning curve for multiple services. However, its utility is limited to environments already invested in custom command-line tooling.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall</title>
-      <link>https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html</link>
-      <guid isPermaLink="false">identitybrief-09d722e7770098e0</guid>
-      <pubDate>Fri, 18 Sep 2026 06:17:25 +0000</pubDate>
-      <category>breach</category>
-      <description>RatHat Android malware retains shell access through ADB even after app uninstall. Its persistence underscores the need for rigorous mobile device security and user awareness. The downside is that defensive measures often depend on user compliance with security protocols.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Cisco patches max-severity ISE flaw, the second critical zero-day this week</title>
-      <link>https://www.csoonline.com/article/4223535/cisco-patches-max-severity-ise-flaw-the-second-critical-zero-day-this-week.html</link>
-      <guid isPermaLink="false">identitybrief-288e4c348ae25295</guid>
-      <pubDate>Thu, 17 Sep 2026 21:03:58 +0000</pubDate>
-      <category>breach</category>
-      <description>Cisco patched a critical ISE flaw that allowed authentication bypass and root access. This vulnerability highlights the persistent risk of zero-days in network access control systems. Still, full mitigation requires all users to promptly apply the patch across affected systems.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
