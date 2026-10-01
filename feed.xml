@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Xcelerate and Socure take $163M Login.gov identity proofing work into mobile IDs</title>
+      <link>https://www.biometricupdate.com/202609/xcelerate-and-socure-take-163m-login-gov-identity-proofing-work-into-mobile-ids</link>
+      <guid isPermaLink="false">identitybrief-f702483a7fab09c2</guid>
+      <pubDate>Wed, 30 Sep 2026 15:12:17 +0000</pubDate>
+      <category>did</category>
+      <description>Xcelerate and Socure are expanding their digital identity proofing work with Login.gov to support mobile driver’s licenses. This step will streamline identification processes for users on mobile platforms. However, this technology depends on mDL readiness and acceptance in local markets.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>EU study puts digital identity on research roadmap for next Horizon Europe</title>
+      <link>https://www.biometricupdate.com/202609/eu-study-puts-digital-identity-on-research-roadmap-for-next-horizon-europe</link>
+      <guid isPermaLink="false">identitybrief-c77701d1855e0f40</guid>
+      <pubDate>Wed, 30 Sep 2026 18:26:21 +0000</pubDate>
+      <category>did</category>
+      <description>The EU is positioning digital identity as a strategic element in its Horizon Europe program. This prioritization could lead to significant funding and innovation in digital identity technologies. The proposal is just the beginning; actual budget approval is still pending negotiation.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>NIST tests show progress on key challenges in fingerprint biometrics capture</title>
+      <link>https://www.biometricupdate.com/202609/nist-tests-show-progress-on-key-challenges-in-fingerprint-biometrics-capture</link>
+      <guid isPermaLink="false">identitybrief-abd8e2b5a88a0761</guid>
+      <pubDate>Wed, 30 Sep 2026 20:36:02 +0000</pubDate>
+      <category>auth</category>
+      <description>NIST tests show improvements in capturing fingerprint biometrics, focusing on segmenting images and using smartphones. These advancements may simplify biometric integration in everyday devices. However, widespread adoption is dependent on hardware manufacturers incorporating these technologies.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Simplifying access with CanadaLogin</title>
+      <link>https://identityweek.net/simplifying-access-with-canadalogin/</link>
+      <guid isPermaLink="false">identitybrief-f6e82823b65ea5f8</guid>
+      <pubDate>Wed, 30 Sep 2026 11:28:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Canada's new CanadaLogin system simplifies access with a single sign-on across federal portals. This means fewer headaches for users managing multiple government credentials. The roll-out is gradual, which means not all systems may support it immediately.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager</title>
+      <link>https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html</link>
+      <guid isPermaLink="false">identitybrief-31db54260bd2f67f</guid>
+      <pubDate>Wed, 30 Sep 2026 15:24:54 +0000</pubDate>
+      <category>breach</category>
+      <description>A zero-day in Cisco's SD-WAN Manager is vulnerable to a critical authentication bypass being exploited by attackers. Immediate updates are crucial to securing affected systems. There's no quicker fix, leaving some without full defenses until patched.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Microsoft to block Entra ID script injection attacks starting October</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/</link>
+      <guid isPermaLink="false">identitybrief-af0e7d0ca7c24746</guid>
+      <pubDate>Wed, 30 Sep 2026 13:37:15 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft is bolstering Entra ID against script injection attacks starting in October. This increases security for Entra ID users by addressing the script injection vector proactively. It requires timely updates from admins to ensure protective measures are active.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Over 543,000 valid credentials exposed in public GitHub repositories</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/</link>
+      <guid isPermaLink="false">identitybrief-badc2a6c956e8263</guid>
+      <pubDate>Wed, 30 Sep 2026 18:08:34 +0000</pubDate>
+      <category>breach</category>
+      <description>Over half a million valid credentials have been found exposed in public GitHub repositories. This revelation urges immediate secret scanning to prevent unauthorized access through known credentials. The fix relies on diligent repository management and automated scanning tools.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html</link>
+      <guid isPermaLink="false">identitybrief-03776a47da597a08</guid>
+      <pubDate>Wed, 30 Sep 2026 16:46:29 +0000</pubDate>
+      <category>breach</category>
+      <description>Zimbra's flaw has been exploited to deploy web shells, compromising e-mail security. Organizations using Zimbra should prioritize patching to prevent unauthorized data access. Legacy dependencies may complicate full deployment of these critical patches.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>European consumers choose safety over speed, new Fourthline research reveals</title>
+      <link>https://identityweek.net/european-consumers-choose-safety-over-speed-new-fourthline-research-reveals/</link>
+      <guid isPermaLink="false">identitybrief-08be51dbc58f51e1</guid>
+      <pubDate>Thu, 01 Oct 2026 09:16:11 +0000</pubDate>
+      <category>fraud</category>
+      <description>Fourthline's new research shows 78% of European consumers prefer safe verification methods even if they're slower. This illustrates a growing disinterest in speed when it compromises security. However, implementing more thorough checks could frustrate those used to current convenience.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Many expect AI in the SOC to make entry jobs harder to get</title>
+      <link>https://www.helpnetsecurity.com/2026/10/01/ai-soc-entry-jobs/</link>
+      <guid isPermaLink="false">identitybrief-3a67336a97b17edf</guid>
+      <pubDate>Thu, 01 Oct 2026 05:30:08 +0000</pubDate>
+      <category>breach</category>
+      <description>AI is reducing the repetitive workload in Security Operations Centers (SOC), which could limit entry-level security jobs. This matters because it changes how we train and introduce new talent to operational security work. The challenge is balancing AI efficiency without losing critical human skill building.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs</title>
+      <link>https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</link>
+      <guid isPermaLink="false">identitybrief-238df8b6d39d069d</guid>
+      <pubDate>Thu, 01 Oct 2026 04:35:34 +0000</pubDate>
+      <category>breach</category>
+      <description>Exploits targeting Citrix NetScaler have been observed, with attackers using vulnerabilities to plant web shells and elevate privileges. This poses a direct risk to those using Citrix's Infrastructure-as-Code services. The fix won't be easy for those locked into existing systems, demanding urgent security reviews.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>PassGPT+: Leveraging Linguistic Priors for Password Modeling</title>
+      <link>http://arxiv.org/abs/2609.39880v1</link>
+      <guid isPermaLink="false">identitybrief-01203b8ecaff56a2</guid>
+      <pubDate>Wed, 30 Sep 2026 14:54:20 +0000</pubDate>
+      <category>research</category>
+      <description>PassGPT+ uses linguistic techniques from AI to better understand and model password creation by humans. This offers insights into making stronger password policy and defense strategies, potentially reducing vulnerabilities. It's at the research stage, tailored mostly to academic and tech-heavy environments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The MFA you have isn’t the MFA you think you have</title>
+      <link>https://www.csoonline.com/article/4228386/the-mfa-you-have-isnt-the-mfa-you-think-you-have.html</link>
+      <guid isPermaLink="false">identitybrief-877407947d7b4a1c</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>MFA implementations are not as secure as many organizations believe, with evolving risks outpacing old standards. This misalignment could lead to unexpected vulnerabilities if security teams fail to reevaluate current controls. The adjustment requires educating stakeholders and updating practices comprehensively.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>EUDI Wallet Verification: Indicio Named an APTITUDE Associated Partner</title>
+      <link>https://indicio.tech/blog/eudi-wallet-verification-aptitude/</link>
+      <guid isPermaLink="false">identitybrief-587c3ece9661be9c</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:34 +0000</pubDate>
+      <category>did</category>
+      <description>Indicio has been recognized in the EU Digital Identity Wallet project, showcasing its verification capabilities. This highlights ongoing international efforts to standardize digital identity verifications in various everyday applications. However, these initiatives are still in testing phases and not widely implemented.
+
+— via Indicio</description>
+    </item>
+    <item>
       <title>Genea brings AI agents to access control with role-based permissions</title>
       <link>https://www.helpnetsecurity.com/2026/09/30/genea-mcp/</link>
       <guid isPermaLink="false">identitybrief-69eaf4f9a497b90e</guid>
@@ -1362,145 +1502,5 @@
       <description>Gyazo breach exposes 23 million user records through a server flaw. This incident underscores the critical need for secure image uploads and server-side vigilance. Reactive, as always: the technical fix is up, but users should verify affected accounts.
 
 — via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root</title>
-      <link>https://thehackernews.com/2026/09/critical-check-point-management-server.html</link>
-      <guid isPermaLink="false">identitybrief-1e55db8feb2f683c</guid>
-      <pubDate>Thu, 17 Sep 2026 18:08:28 +0000</pubDate>
-      <category>breach</category>
-      <description>A Check Point flaw could let attackers run code as root without credentials. This highlights the importance of patch management for critical systems tied to firewall policy. The update's live, but oversight is key to ensure full deployment.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS</title>
-      <link>https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html</link>
-      <guid isPermaLink="false">identitybrief-d2f4589d6516d677</guid>
-      <pubDate>Thu, 17 Sep 2026 08:00:29 +0000</pubDate>
-      <category>auth</category>
-      <description>BIND 9 updates address 14 flaws, including one that enables packet-based server crashes. Ensuring DNS resilience has become part of the critical infrastructure protection checklist. The update requires thorough deployment, so missed patches could still leave open doors.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Oracle’s September patches put Fusion Middleware back in the hot seat</title>
-      <link>https://www.csoonline.com/article/4222875/oracles-september-patches-put-fusion-middleware-back-in-the-hot-seat-2.html</link>
-      <guid isPermaLink="false">identitybrief-6bfe934fe42771e3</guid>
-      <pubDate>Wed, 16 Sep 2026 15:54:18 +0000</pubDate>
-      <category>breach</category>
-      <description>Oracle's updates tackle hundreds of vulnerabilities including some remotely exploitable. Consistent patching is a need, not a nice-to-have, especially with enterprise systems. This cycle's patch demands quick action, yet IT teams' capacity caps persist.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Auth0 Agent Gateway: The Identity Control Plane for Customer-Facing AI</title>
-      <link>https://auth0.com/blog/auth0-agent-gateway-beta/</link>
-      <guid isPermaLink="false">identitybrief-43f77a2ba06eeb50</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Auth0’s Gateway manages identity for AI agents, focusing on secure client interactions. It indicates a shift towards sophisticated identity handling for emerging AI applications. Early stages mean direct use is limited to CIAM-heavy environments.
-
-— via Auth0</description>
-    </item>
-    <item>
-      <title>Digital identity wallet deadlines collide with expanding use cases</title>
-      <link>https://www.biometricupdate.com/202609/digital-identity-wallet-deadlines-collide-with-expanding-use-cases</link>
-      <guid isPermaLink="false">identitybrief-9715911126e1f84e</guid>
-      <pubDate>Sat, 19 Sep 2026 16:16:53 +0000</pubDate>
-      <category>did</category>
-      <description>EU digital identity wallets are on the clock, expanding amid new use cases like social media age checks. This pushes identity tech providers to innovate fast, aiming for adaptability across diverse sectors. But deadlines vary by region, creating a patchwork that complicates uniform adoption.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Identity Visibility in 2026: The Foundation of Identity Security</title>
-      <link>https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html</link>
-      <guid isPermaLink="false">identitybrief-b2876269df9a7c19</guid>
-      <pubDate>Sat, 19 Sep 2026 13:28:41 +0000</pubDate>
-      <category>breach</category>
-      <description>Identity visibility is flagged as essential in the 2026 data breach landscape. It's vital because credential theft remains a top breach entry point, emphasizing robust access monitoring. Still, cloud complexities can make maintaining accurate identity oversight challenging.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Biometric Update: UK rolls out passkeys for GOV.UK One Login</title>
-      <link>https://fidoalliance.org/biometric-update-uk-rolls-out-passkeys-for-gov-uk-one-login/</link>
-      <guid isPermaLink="false">identitybrief-076ab0e9638a33af</guid>
-      <pubDate>Fri, 18 Sep 2026 19:38:57 +0000</pubDate>
-      <category>auth</category>
-      <description>The UK is expanding passkey login for GOV.UK, allowing biometric or passcode access. It signifies a boost in secure, user-friendly government login methods. However, widespread passkey adoption faces hurdles, as not all devices support these newer authentication methods yet.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Malaysia and MyDigital ID: When optional starts to look unavoidable</title>
-      <link>https://www.biometricupdate.com/202609/malaysia-and-mydigital-id-when-optional-starts-to-look-unavoidable</link>
-      <guid isPermaLink="false">identitybrief-63780f56bd9810fe</guid>
-      <pubDate>Fri, 18 Sep 2026 15:04:57 +0000</pubDate>
-      <category>did</category>
-      <description>Malaysia's MyDigital ID is shifting from optional to essential, integrating more with public services. This could streamline citizen interactions with government and private sectors alike. The risk is potential overreach, making adoption feel more mandatory than choice-driven.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Are we at a tipping point for digital identity? Biometric Update podcast explores global shifts</title>
-      <link>https://www.biometricupdate.com/202609/are-we-at-a-tipping-point-for-digital-identity-biometric-update-podcast-explores-global-shifts</link>
-      <guid isPermaLink="false">identitybrief-2e0e100cbbb68b7c</guid>
-      <pubDate>Fri, 18 Sep 2026 17:33:38 +0000</pubDate>
-      <category>did</category>
-      <description>A podcast explores potential tipping points in digital identity, pointing to regulatory shifts in the UK and EU as pivotal. These changes could redefine how digital IDs are used and accepted. However, cultural and technological readiness varies, impacting seamless integration.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories</title>
-      <link>https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html</link>
-      <guid isPermaLink="false">identitybrief-bf0f679dfdf491d7</guid>
-      <pubDate>Sat, 19 Sep 2026 07:14:54 +0000</pubDate>
-      <category>breach</category>
-      <description>CrowdSec disclosed a security breach involving 170 GitHub repositories due to an npm attack exploiting a former employee's account. Highlights the importance of deactivating unused credentials to prevent unauthorized access. Realistically, such housekeeping tasks are often overlooked until breaches occur.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>AI agent authorization risks remain a gap in new NIST-CISA token security guidance</title>
-      <link>https://www.csoonline.com/article/4222867/ai-agent-authorization-risks-remain-a-gap-in-new-nist-cisa-token-security-guidance.html</link>
-      <guid isPermaLink="false">identitybrief-a165b38270965a41</guid>
-      <pubDate>Wed, 16 Sep 2026 15:42:00 +0000</pubDate>
-      <category>auth</category>
-      <description>NIST and CISA published new guidance on securing identity tokens, but warned AI agent authorization risks remain uncovered. Important for those managing token-based access systems to shore up against human and AI threats. Yet, AI-specific security gaps could leave doors open.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>FBI: Fake cop and government impersonation scams cost victims $1.6B</title>
-      <link>https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499</link>
-      <guid isPermaLink="false">identitybrief-96cec576ba1bd5aa</guid>
-      <pubDate>Fri, 18 Sep 2026 16:19:27 +0000</pubDate>
-      <category>fraud</category>
-      <description>Scams involving fake cops and government impersonation cost victims $1.6 billion, says FBI. These scams exploit trust in authority, affecting identity verification and trust systems. Defenders must focus on educating users to identify legitimate versus fake authority cues.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>How to use the Liminal MCP: a practical guide</title>
-      <link>https://liminal.co/articles/how-to-use-the-liminal-mcp-practical-guide/</link>
-      <guid isPermaLink="false">identitybrief-f81d1853f9aca1e5</guid>
-      <pubDate>Fri, 18 Sep 2026 16:10:43 +0000</pubDate>
-      <category>fraud</category>
-      <description>Liminal's new MCP guide offers insights on leveraging market intelligence in identity and fraud sectors. This tool can aid strategy by facilitating data-driven decisions. However, access is currently limited to Enterprise accounts, potentially excluding small organizations.
-
-— via Liminal</description>
-    </item>
-    <item>
-      <title>Gyazo server flaw exploited to steal 23.6 million user records</title>
-      <link>https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/</link>
-      <guid isPermaLink="false">identitybrief-830afdb67201ad86</guid>
-      <pubDate>Fri, 18 Sep 2026 16:00:38 +0000</pubDate>
-      <category>breach</category>
-      <description>A flaw in Gyazo's server enabled hackers to steal 23.6 million user records. This breach stresses the importance of constant vulnerability assessments. But, detecting all possible vulnerabilities before exploitation remains a persistent challenge.
-
-— via BleepingComputer</description>
     </item>
 </channel></rss>
