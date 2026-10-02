@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Sri Lanka’s DPI buildout sets stage for fintech expansion</title>
+      <link>https://www.biometricupdate.com/202610/sri-lankas-dpi-buildout-sets-stage-for-fintech-expansion</link>
+      <guid isPermaLink="false">identitybrief-15b93500bc649206</guid>
+      <pubDate>Fri, 02 Oct 2026 07:13:56 +0000</pubDate>
+      <category>did</category>
+      <description>Sri Lanka is expanding its digital public infrastructure with a focus on fintech. This could streamline digital ID integrations and authentication processes in the financial sector. The restriction: This progress is regional, specific to Sri Lanka, and broader adoption remains uncertain.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Do we trust supermarkets more than the police with our biometrics?</title>
+      <link>https://www.biometricupdate.com/202610/do-we-trust-supermarkets-more-than-the-police-with-our-biometrics</link>
+      <guid isPermaLink="false">identitybrief-19bdac2e75ca2073</guid>
+      <pubDate>Fri, 02 Oct 2026 08:37:42 +0000</pubDate>
+      <category>auth</category>
+      <description>The article explores public trust in biometric usage by supermarkets compared to police. Trust affects biometric adoption for authentication, critical for user engagement and acceptance. The limit: It's more about perception than direct application, so actionable steps remain vague.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>AI agents keep access to company data after their work is done</title>
+      <link>https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/</link>
+      <guid isPermaLink="false">identitybrief-9ac8054df5a92a67</guid>
+      <pubDate>Fri, 02 Oct 2026 04:30:21 +0000</pubDate>
+      <category>iam</category>
+      <description>AI agents retain access to company systems after tasks end, causing security concerns. Key issue: Ensuring agents are correctly deprovisioned to prevent unauthorized actions. The gap: Enforcement of AI policies is currently outpacing their development.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>DRC points to digital ID progress amid connectivity bottlenecks</title>
+      <link>https://www.biometricupdate.com/202610/drc-points-to-digital-id-progress-amid-connectivity-bottlenecks</link>
+      <guid isPermaLink="false">identitybrief-88738b8c4bd4a01d</guid>
+      <pubDate>Fri, 02 Oct 2026 07:58:58 +0000</pubDate>
+      <category>did</category>
+      <description>The DRC is making strides in digital ID amid connectivity challenges. This push could transform identity verification and service delivery. The snag: Poor internet infrastructure remains a hurdle for consistent deployment.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>The Day-One Hole in Zero Trust Architecture</title>
+      <link>https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/</link>
+      <guid isPermaLink="false">identitybrief-e63e4da6b1632f0c</guid>
+      <pubDate>Thu, 01 Oct 2026 14:01:11 +0000</pubDate>
+      <category>fraud</category>
+      <description>Specops highlights a zero trust flaw during user onboarding. Issue: Initial identity verification steps often lack strong authentication, inviting risks. The fix is still a balancing act, as early verification tightens access gates but complicates onboarding.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks</title>
+      <link>https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/</link>
+      <guid isPermaLink="false">identitybrief-b56f010daa1100f1</guid>
+      <pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>The Zero Trust model is lauded for resisting AI-aided threats. It reaffirms the indispensability of baseline security measures in a tech-evolving era. Despite its strength, successful implementation is rare and requires careful, ongoing oversight.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Identity Management for Agentic AI [pdf] (2025)</title>
+      <link>https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf</link>
+      <guid isPermaLink="false">identitybrief-8b027a424e61a5b7</guid>
+      <pubDate>Thu, 01 Oct 2026 15:11:10 +0000</pubDate>
+      <category>iam</category>
+      <description>The paper discusses managing identities for autonomous AI agents. Key point: AI systems now need identities that can be handled similarly to humans for accountability and authorization. The catch: It's conceptual, not an implementation guide, so practical applications are still murky.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Oktane 2026 Recap: Okta Announces A Unified IAM Control Plane, With Agent Governance And Identity Details Remaining Unclear</title>
+      <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeGR5cUZjRDVNeV9SLUQ4eVo2ZlJBVENKQ3dwUlgtQnp5R0FScWhFQUl1SHBFUjI2amtDdXJTWWtGM0VTSTNvQVJlQmVzTTh4N0NZaWxNcjlDbmRreXQzcXJGRHg0QXExRWFjN1hwVWNOaEg4VkpiV2pkTDVjbzc3bnhIUWxfRUZmZGpsSjI2QkZlS25xc0NXZElZVG1sVzl4UTFNWEk3aU9nUUpIc0FKdTZJN2N6TEZZVGdicXk0cjB3d2kxYUVqcW1kMEdnZGs5by1MTVNGWHdIYW9vcmktYmprYXl3Z3hwcUE?oc=5</link>
+      <guid isPermaLink="false">identitybrief-07cf12d8357da63b</guid>
+      <pubDate>Thu, 01 Oct 2026 20:41:08 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta announced a unified IAM control plane at Oktane 2026. This aims to streamline identity management with mission-critical integration. Reality check: Agent governance and identity specifics still lack clarity, leaving gaps in operational planning.
+
+— via Forrester</description>
+    </item>
+    <item>
+      <title>AI, Identity and the CISO’s Changing Agenda</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQNlI0bmw4bEstcF94MUFOcmQ1djdtOGdwUldnakZkMFRVTFVweElOR25yaVZiSHdsTVgtV2ZIcEo1RW4tSkJhMzhCaVd1REJTMDFBLUZSNlMxb1V2eC1PaUk1QXJHLW1FWVJZcFhkcjdCN1d1ZnRGZC02UFVOTURjVnJjWmRfS2d2REZYNA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-535126a38c183df5</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>KuppingerCole explores AI's impact on identity management. This examination is timely, with AI integration reshaping CISOs’ strategies. The focus here is more speculative without immediate tactical adjustments.
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>AI agents hacked the hackers, stealing email addresses from security research org</title>
+      <link>https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652</link>
+      <guid isPermaLink="false">identitybrief-5c1f3c60ffc26e2b</guid>
+      <pubDate>Thu, 01 Oct 2026 21:26:42 +0000</pubDate>
+      <category>breach</category>
+      <description>AI agents exploited flaws to hijack sessions at a security research org. This highlights the ability of AI to breach systems using overlooked vulnerabilities. However, these methods still rely on old security lapses that should be monitored regularly.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Protocol Integration of Physical Layer Deception into EAP-TEAP Wi-Fi Authentication</title>
+      <link>http://arxiv.org/abs/2610.01580v1</link>
+      <guid isPermaLink="false">identitybrief-212886df926ddeb8</guid>
+      <pubDate>Thu, 01 Oct 2026 12:36:16 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper proposes integrating physical layer deception into EAP-TEAP Wi-Fi. This enhances credential-based authentication by adding a deceptive step, thwarting adversaries. Challenge is implementing it without impacting network performance or complicating deployment.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Made to Measure: Designing Image Watermarks to Specification</title>
+      <link>http://arxiv.org/abs/2610.00780v1</link>
+      <guid isPermaLink="false">identitybrief-2ebd5c333df0d5e0</guid>
+      <pubDate>Wed, 30 Sep 2026 22:17:04 +0000</pubDate>
+      <category>research</category>
+      <description>Research introduces TAILOR, a framework for designing image watermarks. This can bolster digital identity in images by ensuring provenance and resisting alterations. The limitations lie in added complexity for deployment and potential quality trade-offs.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Researchers find Chinese hacking campaigns targeting AI firms, Asian governments</title>
+      <link>https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan</link>
+      <guid isPermaLink="false">identitybrief-2e7124387088f6fc</guid>
+      <pubDate>Thu, 01 Oct 2026 18:16:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Reports reveal Chinese phishing campaigns targeting AI firms and governments, using impersonation tactics. This is a warning sign for Asian digital hubs dependent on secure identity to deter phishing. Countermeasures depend heavily on regional cooperation and readiness.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Hardware root of trust in a digital world: Verifying identity across every layer of the enterprise</title>
+      <link>https://www.yubico.com/blog/hardware-root-of-trust-in-a-digital-world-verifying-identity-across-every-layer-of-the-enterprise/</link>
+      <guid isPermaLink="false">identitybrief-44900cb5fa9859af</guid>
+      <pubDate>Thu, 01 Oct 2026 15:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Yubico discusses using hardware root of trust for identity verification. This approach fights phishing and simplifies authentication across the enterprise. Yet, not every organization can easily replace existing solutions due to cost and integration hurdles.
+
+— via Yubico</description>
+    </item>
+    <item>
       <title>Xcelerate and Socure take $163M Login.gov identity proofing work into mobile IDs</title>
       <link>https://www.biometricupdate.com/202609/xcelerate-and-socure-take-163m-login-gov-identity-proofing-work-into-mobile-ids</link>
       <guid isPermaLink="false">identitybrief-f702483a7fab09c2</guid>
@@ -1362,145 +1502,5 @@
       <description>A Google project led to unauthorized access at three companies via AI-agent mishandling. This raises red flags about relying on AI systems in security-sensitive areas. The minimal disclosure could indicate an underestimation of the broader security implications.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>rApp/xApp Attestation: A New Security Use Case for O-RAN</title>
-      <link>http://arxiv.org/abs/2609.24296v1</link>
-      <guid isPermaLink="false">identitybrief-2c287bf02bf9240a</guid>
-      <pubDate>Mon, 21 Sep 2026 08:56:36 +0000</pubDate>
-      <category>research</category>
-      <description>New research outlines a security framework for rApp/xApp attestation in O-RAN deployments. These efforts aim to ensure the integrity and security of multi-vendor ecosystems. However, practical implementation and integration still require detailed testing and coordination.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Domain Specific Post Quantum Signatures for Blockchains</title>
-      <link>http://arxiv.org/abs/2609.24689v1</link>
-      <guid isPermaLink="false">identitybrief-1b82d72f1c517ffb</guid>
-      <pubDate>Mon, 21 Sep 2026 14:43:17 +0000</pubDate>
-      <category>research</category>
-      <description>Exploring post-quantum signatures, this paper focuses on blockchain security. Understanding these signatures is critical for teams using blockchain for identity verification. These concepts remain theoretical and are not yet ready for production environments.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Workload Identity &amp; Cloud-Native Trust</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzEzbGsyb2ZZSHRyZ3NldHVxQ0hlLW1zTUpUcVZhLVZXRWhNLUp3UzJkZk5KbmlRcFRDaU12eTZJOHpDYXZqTFluVGpQeDhpbno4Z0ZOaTBKUW5ScUNreVNGVWxGcW5lbVRfR1VxYUowcUVKQnBFRTNKNUNsbTZsRnh1SQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-588cb19f2aad81fe</guid>
-      <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>A report from KuppingerCole examines cloud-native trust and workload identity. This is relevant for identity teams shifting towards cloud deployments and workload management. The premium nature of this research limits accessibility for some teams looking for actionable insights.
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>Securing the modern workforce: What Google Android and Chrome Enterprise are building with Okta</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHBPTDF4X0F5NGIzc3NQcHQ3S1pVVzNUUWNaNDBOZmlRMjBIenJHWTRkMXFoT2hkRkxocXJVSGpWS3RXS1h5LWpzendxVGxPQTZxNDg4UmtEZE0tbWZybzZncWpZMDRPSHFRM1E4dHgtX0pyQTl5RVdONjFKSU5SREcwOXpVeDBpel9lN3k1Q1I?oc=5</link>
-      <guid isPermaLink="false">identitybrief-4df158b3eb93ab17</guid>
-      <pubDate>Tue, 22 Sep 2026 02:45:07 +0000</pubDate>
-      <category>iam</category>
-      <description>Google, Android, and Okta collaborate on security measures for the modern workforce. The focus is on simplifying identity management and enhancing security across platforms. It's a promising initiative, but real-world availability and results are still emerging.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Gopass: Open-source command-line password manager for teams</title>
-      <link>https://www.helpnetsecurity.com/2026/09/21/gopass-open-source-password-manager/</link>
-      <guid isPermaLink="false">identitybrief-f70b02ce8f65148a</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:32 +0000</pubDate>
-      <category>auth</category>
-      <description>Gopass is a command-line tool for managing passwords, designed for team use. It's a more secure, trackable alternative that encrypts passwords with GPG and synchronizes them via git. This is handy for teams preferring open-source solutions over commercial products. The catch: it requires some command-line skills, which may steepen the learning curve for non-technical users.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Week in review: Cisco patches exploited email gateway 0-day, Revolut breach</title>
-      <link>https://www.helpnetsecurity.com/2026/09/20/week-in-review-cisco-patches-exploited-email-gateway-0-day-revolut-breach/</link>
-      <guid isPermaLink="false">identitybrief-1fee885f4214e5b6</guid>
-      <pubDate>Sun, 20 Sep 2026 08:00:21 +0000</pubDate>
-      <category>breach</category>
-      <description>Recent headlines highlight a Revolut breach where attackers impersonated a government agency. This breach shows the importance of verifying email sender authenticity to protect customer credentials. The real issue is the threat of social engineering — knowing the source of authority is crucial to defense.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Fake passkey setup requests lead to Microsoft 365 account compromises</title>
-      <link>https://www.biometricupdate.com/202609/fake-passkey-setup-requests-lead-to-microsoft-365-account-compromises</link>
-      <guid isPermaLink="false">identitybrief-e1db63425e5ffa6e</guid>
-      <pubDate>Fri, 18 Sep 2026 15:00:33 +0000</pubDate>
-      <category>breach</category>
-      <description>Attackers are faking passkey setup requests to compromise Microsoft 365 accounts. This tactic emphasizes the need for vigilance against social engineering under the guise of IT support. Since no passkeys were stolen, awareness and verification processes are key, but the challenge is to educate users without overwhelming them.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>SFPF: Spatio-Frequency Polarization Fingerprint for Anomalous Wireless Device Detection</title>
-      <link>http://arxiv.org/abs/2609.21873v1</link>
-      <guid isPermaLink="false">identitybrief-1b6aa1ec21500bce</guid>
-      <pubDate>Fri, 18 Sep 2026 15:00:38 +0000</pubDate>
-      <category>research</category>
-      <description>A new method uses polarization fingerprints to detect unauthorized wireless devices. The paper tackles the issue of distinguished hardware signatures, important for preventing impersonation in device identity. It's in the research phase, so practical application is still a way away.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>iProov’s experimental HAPS protocol aims to close governance gaps for AI agents</title>
-      <link>https://www.biometricupdate.com/202609/iproovs-experimental-haps-protocol-aims-to-close-governance-gaps-for-ai-agents</link>
-      <guid isPermaLink="false">identitybrief-dfdfc0a01e7ddfcd</guid>
-      <pubDate>Fri, 18 Sep 2026 16:36:23 +0000</pubDate>
-      <category>iam</category>
-      <description>The HAPS protocol by iProov ensures a human approves actions before AI agents execute them. This specification aims to close the governance gaps in managing AI decisions. It's still experimental, leaving companies waiting for mature standards.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Facetagr offers facial recognition to ID missing Nepal flood victims</title>
-      <link>https://www.biometricupdate.com/202609/facetagr-offers-facial-recognition-to-id-missing-nepal-flood-victims</link>
-      <guid isPermaLink="false">identitybrief-80297acd03ded54f</guid>
-      <pubDate>Fri, 18 Sep 2026 15:02:32 +0000</pubDate>
-      <category>auth</category>
-      <description>FaceTagr employs facial recognition to help Nepal authorities identify flood victims. It's integrating AI with established forensic methods, highlighting tech’s role in crisis response. The downside: this relies on the availability and quality of imagery for recognition.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution</title>
-      <link>http://arxiv.org/abs/2609.21284v1</link>
-      <guid isPermaLink="false">identitybrief-a12163616d61f4f1</guid>
-      <pubDate>Fri, 18 Sep 2026 03:52:46 +0000</pubDate>
-      <category>research</category>
-      <description>A proposed protocol to manage authorizations for AI agents highlights the challenge of credential lifecycle. It's crucial for validating permission timelines in active AI workflows to avoid unauthorized acts. As a concept, it needs specific implementations for real-world testing.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>NIST’s guidelines help CSPs and organisations handling identity tokens and assertions</title>
-      <link>https://identityweek.net/nists-guidelines-help-csps-and-organisations-handling-identity-tokens-and-assertions/</link>
-      <guid isPermaLink="false">identitybrief-a64788dc8629ee60</guid>
-      <pubDate>Thu, 17 Sep 2026 12:15:26 +0000</pubDate>
-      <category>auth</category>
-      <description>NIST provides guidance to enhance token security in cloud and agency setups. This could guide firms in strengthening token lifecycle management to thwart abuse. Adoption is mainly focused on federal agencies and cloud providers, so others need proactive steps.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport</title>
-      <link>http://arxiv.org/abs/2609.22076v1</link>
-      <guid isPermaLink="false">identitybrief-1ff33101ff91f7e1</guid>
-      <pubDate>Fri, 18 Sep 2026 17:58:10 +0000</pubDate>
-      <category>research</category>
-      <description>A benchmark tests authorization scenarios for AI agents, replaying attacks to improve security setups. It serves as a valuable tool for understanding vulnerabilities in AI systems. Only relevant where AI manages pay requests; the broader identity space sees indirect benefits.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>23 Million User Records Compromised in Gyazo Data Breach</title>
-      <link>https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/</link>
-      <guid isPermaLink="false">identitybrief-b8a114f123cc5aa6</guid>
-      <pubDate>Fri, 18 Sep 2026 11:38:40 +0000</pubDate>
-      <category>breach</category>
-      <description>Gyazo breach exposes 23 million user records through a server flaw. This incident underscores the critical need for secure image uploads and server-side vigilance. Reactive, as always: the technical fix is up, but users should verify affected accounts.
-
-— via SecurityWeek</description>
     </item>
 </channel></rss>
