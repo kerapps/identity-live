@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Socure adds Google, Samsung mDL verification after US regulatory guidance</title>
+      <link>https://www.biometricupdate.com/202610/socure-adds-google-samsung-mdl-verification-after-us-regulatory-guidance</link>
+      <guid isPermaLink="false">identitybrief-59992b6bb048d862</guid>
+      <pubDate>Fri, 02 Oct 2026 21:24:47 +0000</pubDate>
+      <category>did</category>
+      <description>Socure has added mobile driver's license (mDL) verification to its DocV identity product in the U.S., responding to federal guidance on digital credentials. This opens up new ways for banks to verify identities with government-issued digital credentials, potentially broadening access. The catch: adoption depends heavily on state-level rollout, with only 21 states providing mDLs for now.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>KOSA stalls in Senate as age assurance moves into online safety debate</title>
+      <link>https://www.biometricupdate.com/202610/kosa-stalls-in-senate-as-age-assurance-moves-into-online-safety-debate</link>
+      <guid isPermaLink="false">identitybrief-e945739b5af3bdc9</guid>
+      <pubDate>Fri, 02 Oct 2026 17:12:00 +0000</pubDate>
+      <category>did</category>
+      <description>The Kids Online Safety Act (KOSA) has hit a roadblock in the U.S. Senate, sparked by debates over age verification in digital spaces. Identity professionals see a gap in how platforms can verify the identity of minors, a challenge that remains unaddressed. The pause means solutions for age assurance are stalled, complicating compliance for digital services.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Afghanistan issues 18.3M digital IDs as returnees face documentation barriers</title>
+      <link>https://www.biometricupdate.com/202610/afghanistan-issues-18-3m-digital-ids-as-returnees-face-documentation-barriers</link>
+      <guid isPermaLink="false">identitybrief-97142884ed7db764</guid>
+      <pubDate>Fri, 02 Oct 2026 16:12:25 +0000</pubDate>
+      <category>did</category>
+      <description>Afghanistan has issued 18.3 million digital IDs amidst a crisis of undocumented returnees needing access to essential services. The move toward digital identity aims to solve access challenges for millions of returning Afghans. However, large numbers remain without documentation due to regional instability, undermining the digital ID effort's effectiveness.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes</title>
+      <link>https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html</link>
+      <guid isPermaLink="false">identitybrief-0214f46e5aeb5bf7</guid>
+      <pubDate>Fri, 02 Oct 2026 17:02:12 +0000</pubDate>
+      <category>breach</category>
+      <description>Dell's Container Storage Modules (CSM) have critical flaws allowing unauthenticated admin access to Kubernetes nodes. Fixing these vulnerabilities is essential to prevent unauthorized system takeovers, especially where containerized apps are prevalent. The caveat: the security patches' effectiveness hinges on immediate deployment by impacted users.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>A banking first: tamper-proof encrypted identity verification at National Australia Bank branches</title>
+      <link>https://identityweek.net/a-banking-first-tamper-proof-encrypted-identity-verification-at-national-australia-bank-branches/</link>
+      <guid isPermaLink="false">identitybrief-2198b0ecabae7740</guid>
+      <pubDate>Fri, 02 Oct 2026 10:13:15 +0000</pubDate>
+      <category>did</category>
+      <description>National Australia Bank has introduced tamper-proof encrypted identity verification using mDLs in select branches. This allows for secure identity checks without physical documents, showcasing a tech-forward leap in banking security. Limitations include rollout only in Queensland, limiting immediate broader impact.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Growing mDL adoption for Login.gov remote onboarding</title>
+      <link>https://identityweek.net/growing-mdl-adoption-for-login-gov-remote-onboarding/</link>
+      <guid isPermaLink="false">identitybrief-c4d67849831f1ae3</guid>
+      <pubDate>Fri, 02 Oct 2026 12:27:16 +0000</pubDate>
+      <category>fraud</category>
+      <description>Login.gov is seeing growing adoption of mDLs for remote onboarding. The initiative aims to enhance user privacy while streamlining identity verification for government services. Adoption will depend heavily on public trust and the practical rollout across jurisdictions.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report</title>
+      <link>https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html</link>
+      <guid isPermaLink="false">identitybrief-a1c9b41c601c983f</guid>
+      <pubDate>Fri, 02 Oct 2026 11:30:00 +0000</pubDate>
+      <category>breach</category>
+      <description>CISOs often struggle with strategic security questions at board meetings, tied to diverse identity data and environment platforms. Aligning reporting tools and metrics could ease board communications about overall security. The challenge remains integrating these tools for timely, coherent reporting.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Chinese spies impersonate White House, Anthropic figures to phish AI policy experts</title>
+      <link>https://www.helpnetsecurity.com/2026/10/02/china-aligned-ta419-phishing-ai-policy-experts/</link>
+      <guid isPermaLink="false">identitybrief-ec579fb88c527d68</guid>
+      <pubDate>Fri, 02 Oct 2026 10:21:55 +0000</pubDate>
+      <category>breach</category>
+      <description>Chinese espionage groups have targeted AI policy experts with phishing scams, posing as prominent figures. This raises alerts about sophisticated social engineering attacks targeting credentials. Morphing personas in phishing means ongoing vigilance is crucial for those in tech leadership and policy roles.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Frontline Education breach exposes school district employee data</title>
+      <link>https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/</link>
+      <guid isPermaLink="false">identitybrief-ce515764f1e9e34f</guid>
+      <pubDate>Fri, 02 Oct 2026 19:01:40 +0000</pubDate>
+      <category>breach</category>
+      <description>Frontline Education's data breach exploited third-party software, exposing school employee data like Social Security numbers. This breach underscores the need for rigorous third-party risk management in securing identity and personal data. Immediate challenge: alerting affected parties and quickly patching the vulnerability.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Identity-Bound Governance Under Execution Uncertainty: An Accountability Proof Block for LLM Agent Persistent Halts, with Cryptographic Implementation and Cross-Model Calibration</title>
+      <link>http://arxiv.org/abs/2610.00787v1</link>
+      <guid isPermaLink="false">identitybrief-d83526ffadaa63fc</guid>
+      <pubDate>Wed, 30 Sep 2026 22:22:33 +0000</pubDate>
+      <category>research</category>
+      <description>New paper outlines a system for managing identity-related governance in AI operations. It tackles the 'persistent halt' problem, where AI systems can't decide on operational authority autonomously. Real-world application remains speculative as it’s academic and requires cryptographic implementations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV</title>
+      <link>https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html</link>
+      <guid isPermaLink="false">identitybrief-5da2a0c8ed547e74</guid>
+      <pubDate>Thu, 01 Oct 2026 10:33:16 +0000</pubDate>
+      <category>breach</category>
+      <description>CISA added a Cisco Catalyst SD-WAN Manager authentication bypass flaw to its Known Exploited Vulnerabilities list. The exploited flaw can give attackers unauthorized access, highlighting a need for immediate patching in affected systems. The CVE’s high criticality (9.8) demands urgent attention.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>ABSENTIA: Detecting Broken Access Control Vulnerabilities in Web Applications</title>
+      <link>http://arxiv.org/abs/2610.00977v1</link>
+      <guid isPermaLink="false">identitybrief-bec9a7a7cc48680a</guid>
+      <pubDate>Thu, 01 Oct 2026 03:11:45 +0000</pubDate>
+      <category>research</category>
+      <description>ABSENTIA, a new tool, aims to detect broken access control vulnerabilities by guiding LLM agents systematically. It seeks to provide a structure for identifying authorization issues in web apps, boosting security checks. However, it's early stage, primarily theoretical, and yet to be validated in diverse environments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>A Hybrid Approach to Malware Detection: Integrating Few-Shot Model-Agnostic Meta-Learning with Autoencoders</title>
+      <link>http://arxiv.org/abs/2610.01949v1</link>
+      <guid isPermaLink="false">identitybrief-1d26b4a8e8258bdc</guid>
+      <pubDate>Thu, 01 Oct 2026 16:11:35 +0000</pubDate>
+      <category>research</category>
+      <description>This research introduces a hybrid AI model for improved malware detection, combining Autoencoders and Meta-Learning. It targets ransomware and aims to enhance detection using newer techniques. Practical effectiveness needs more field testing under various ransomware scenarios.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The agent is not the user: Using Amazon Bedrock AgentCore with Okta to secure AI agent identity</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFAxbVdlajJtN09pRFp3YXl0ZjFNd21MaVBaYnNKbzlSUmZXYjNSbTRyWGoxbDdHZ0tlb2NyR0lTVVJwcnlPazVveW9DMDNMN2NiVFJGT1ZtMmdNQ21QTEtscy1fODFybVVlUzkwRGZtVXJNa3JmVXZB?oc=5</link>
+      <guid isPermaLink="false">identitybrief-d7fba91892e91fb5</guid>
+      <pubDate>Sat, 03 Oct 2026 00:29:40 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta and Amazon Bedrock AgentCore focus on securing AI agent identity, separating it from the user. This highlights a security step as AI becomes deeply integrated in business processes. The implementation complexity might deter those unfamiliar with AI identity distinctions.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Sri Lanka’s DPI buildout sets stage for fintech expansion</title>
       <link>https://www.biometricupdate.com/202610/sri-lankas-dpi-buildout-sets-stage-for-fintech-expansion</link>
       <guid isPermaLink="false">identitybrief-15b93500bc649206</guid>
@@ -1362,145 +1502,5 @@
       <description>Prismor introduces an open-source runtime control for AI agents, checking actions against policies. This adds a security layer to agents like Codex, controlling actions like file access and API calls. However, it’s still early days and needs policy updates to cope with evolving AI capabilities.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>AI malware just removed the human from the attack loop</title>
-      <link>https://www.csoonline.com/article/4225264/ai-malware-just-removed-the-human-from-the-attack-loop.html</link>
-      <guid isPermaLink="false">identitybrief-bafa6ca4de499b40</guid>
-      <pubDate>Wed, 23 Sep 2026 00:39:51 +0000</pubDate>
-      <category>auth</category>
-      <description>AI-driven malware now automates attack chains, including C2 operations, to steal credentials. The efficiency and scale pose threats to identity systems bypassing traditional defenses. Enterprises must brace for seamless adoption challenges.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Rogue external MFA providers can steal passwords during logins</title>
-      <link>https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/</link>
-      <guid isPermaLink="false">identitybrief-438ffa3041d216ff</guid>
-      <pubDate>Tue, 22 Sep 2026 21:45:45 +0000</pubDate>
-      <category>auth</category>
-      <description>New research shows rogue MFA providers can capture passwords during legitimate logins. This raises concerns about external MFA integrity outside controlled environments. Evaluation of MFA providers becomes a necessary step in identity protection plans.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>From Alignment to Access Control: A Framework for GenAI Policy Enforcement</title>
-      <link>http://arxiv.org/abs/2609.26682v1</link>
-      <guid isPermaLink="false">identitybrief-aad7bdba13dfdd0e</guid>
-      <pubDate>Tue, 22 Sep 2026 16:40:57 +0000</pubDate>
-      <category>research</category>
-      <description>A new framework paper discusses GenAI policy enforcement for security and compliance. Policies are crucial for managing AI actions safely. But a universal policy standard is lacking, leading to fragmented implementation.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Unlock secure enterprise AI with the growing Cross App Access ecosystem</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxORjR1MUtsWk44VFJqR3d5eFBkaHQzSzhxdktaejFpa0JTd3pvUFk4UUxER2F3NHFKd2I2RVg5dk1RLXI5dFAwUE5qclBRQU5MN0FCd2tSVVlVYVBkY2o0alZfb3VXSVhybHY5WjRvU2pBWlFabl9OVjUydDR6NDF4N25R?oc=5</link>
-      <guid isPermaLink="false">identitybrief-7052350b2cfe09e3</guid>
-      <pubDate>Tue, 22 Sep 2026 20:48:45 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta is expanding into AI with the Cross App Access ecosystem. It promises greater security within interconnected applications. Yet, user adoption and integration complexity need addressing to realize full security potential.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Passwork NIS2 efficiency guide: Save your team hours before the 2026 audit</title>
-      <link>https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/</link>
-      <guid isPermaLink="false">identitybrief-5ead290a4c055a7f</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:49 +0000</pubDate>
-      <category>iam</category>
-      <description>Passwork offers a guide to streamline compliance with the EU's NIS2 directive. The guide highlights documentation practices that could save time and meet requirements in time for the 2026 audits. The challenge is that many organizations face IAM skills shortages, complicating the task of getting compliant.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>DHS expands RIVR testing to deepfakes, AI-generated IDs</title>
-      <link>https://www.biometricupdate.com/202609/dhs-expands-rivr-testing-to-deepfakes-ai-generated-ids</link>
-      <guid isPermaLink="false">identitybrief-308df340d22ca172</guid>
-      <pubDate>Mon, 21 Sep 2026 23:20:11 +0000</pubDate>
-      <category>fraud</category>
-      <description>DHS is expanding its tests for AI-generated IDs and deepfakes in identity verification. This move aims to improve methods for catching synthetic identities and biometric spoofs, a growing concern for fraud teams. The catch is it's still in the testing phase, so practical solutions might be a way off.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>MojeID introduces post‑quantum digital identity security, with more to come</title>
-      <link>https://www.biometricupdate.com/202609/mojeid-introduces-post-quantum-digital-identity-security-with-more-to-come</link>
-      <guid isPermaLink="false">identitybrief-430bc3973e59398c</guid>
-      <pubDate>Mon, 21 Sep 2026 20:46:33 +0000</pubDate>
-      <category>did</category>
-      <description>MojeID has integrated post-quantum cryptography into its digital identity systems. This upgrade is designed to prepare for the future risk of quantum computers cracking traditional encryption. Right now, adoption depends on your users having compatible browsers, limiting its immediate benefits.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>BigCommerce alerts merchants of data breach linked to Ribon apps</title>
-      <link>https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</link>
-      <guid isPermaLink="false">identitybrief-cd35b6569bff9c4e</guid>
-      <pubDate>Mon, 21 Sep 2026 21:18:49 +0000</pubDate>
-      <category>breach</category>
-      <description>BigCommerce merchants were affected by a breach through third-party Ribon apps. This incident underscores the importance of securing third-party integrations to protect against credential attacks. BigCommerce's communication here seems reactionary, revealing gaps in oversight and safeguards.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Microsoft reminds admins to migrate Entra ID users to passkeys</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/</link>
-      <guid isPermaLink="false">identitybrief-b748715daf690fda</guid>
-      <pubDate>Mon, 21 Sep 2026 13:16:20 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft is pushing Entra ID users towards passkeys, ahead of its retirement of SMS sign-ins. This shift is aimed at enhancing security by promoting more robust authentication methods. However, the transition requires admin action, and the timeline coincides with other security initiatives.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Ghana Card digital wallet to facilitate bank transfers, mobile money payments</title>
-      <link>https://www.biometricupdate.com/202609/ghana-card-digital-wallet-to-facilitate-bank-transfers-mobile-money-payments</link>
-      <guid isPermaLink="false">identitybrief-95c8cc9f4abf013d</guid>
-      <pubDate>Mon, 21 Sep 2026 20:45:20 +0000</pubDate>
-      <category>did</category>
-      <description>Ghana is adding an e-wallet to its national ID card, allowing for bank and mobile money transactions. This transforms the Ghana Card into a trusted financial instrument, expanding its utility beyond ID verification. The rollout is gradual and relies on collaboration with financial institutions.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Japan publishes Digital Wallet Interoperability Tests</title>
-      <link>https://identityweek.net/japan-publishes-digital-wallet-interoperability-tests/</link>
-      <guid isPermaLink="false">identitybrief-58871033202f6a4e</guid>
-      <pubDate>Mon, 21 Sep 2026 16:25:16 +0000</pubDate>
-      <category>did</category>
-      <description>Japan's tests on digital wallet interoperability with the EU highlight credential exchange successes. It shows potential paths for cross-border identity management solutions to follow. Yet, the complexity of different wallet and credential systems remains a bottleneck.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Australian Age Assurance Experience</title>
-      <link>https://openid.net/australian-age-assurance-experience/</link>
-      <guid isPermaLink="false">identitybrief-a2d1f7f17538742b</guid>
-      <pubDate>Mon, 21 Sep 2026 19:25:38 +0000</pubDate>
-      <category>did</category>
-      <description>The Australian Age Assurance Experience discusses steps in implementing age verification systems. For identity teams, it highlights real-world practices and potential pitfalls of age assurance in digital identity frameworks. It's exploratory: concrete outcomes or standards are still unclear.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>A cheap fake base station can still track 5G subscribers</title>
-      <link>https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/</link>
-      <guid isPermaLink="false">identitybrief-07a249d2254edf3e</guid>
-      <pubDate>Tue, 22 Sep 2026 06:30:21 +0000</pubDate>
-      <category>iam</category>
-      <description>Researchers show that a cheap fake base station can track 5G subscribers. Although permanent identity concealment works, temporary IDs reveal patterns that could compromise user privacy. This vulnerability is yet another reminder that new networks aren't immune to old tricks.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’</title>
-      <link>https://www.csoonline.com/article/4224570/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done.html</link>
-      <guid isPermaLink="false">identitybrief-3376919a859317ae</guid>
-      <pubDate>Tue, 22 Sep 2026 01:02:19 +0000</pubDate>
-      <category>auth</category>
-      <description>A Google project led to unauthorized access at three companies via AI-agent mishandling. This raises red flags about relying on AI systems in security-sensitive areas. The minimal disclosure could indicate an underestimation of the broader security implications.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
