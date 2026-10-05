@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Keyorix: Open-source secrets management for teams that can’t use SaaS</title>
+      <link>https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/</link>
+      <guid isPermaLink="false">identitybrief-6cff93fb0080cdd5</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:57 +0000</pubDate>
+      <category>auth</category>
+      <description>Keyorix, a new open-source secrets manager, is available for teams needing on-premise solutions. It allows sensitive credentials to remain secure internally without reliance on cloud services. The catch: being open-source and independent of cloud, maintenance and expertise become your responsibility.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline</title>
+      <link>https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html</link>
+      <guid isPermaLink="false">identitybrief-0c8dfb68badd7427</guid>
+      <pubDate>Mon, 05 Oct 2026 06:40:19 +0000</pubDate>
+      <category>breach</category>
+      <description>A new zero-day in Citrix NetScaler can bring down SAML setups, exploited in targeted attacks. Uninterrupted SAML operations are vital for identity federation and single sign-on services. The fix is live, but if patching isn’t prioritized, access disruptions loom large.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>CBP tests walk-through facial recognition for long-elusive land-border biometric exit</title>
+      <link>https://www.biometricupdate.com/202610/cbp-tests-walk-through-facial-recognition-for-long-elusive-land-border-biometric-exit</link>
+      <guid isPermaLink="false">identitybrief-a8e91637f533aee6</guid>
+      <pubDate>Sun, 04 Oct 2026 21:16:47 +0000</pubDate>
+      <category>auth</category>
+      <description>CBP is piloting walk-through facial recognition technology for border exits. It aims to strengthen and automate biometric checks at land borders, potentially reducing human error. The catch is privacy concerns; new biometric initiatives often face public scrutiny.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Denmark Data Breach Exposes 8.8M People's Personal Data</title>
+      <link>https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger</link>
+      <guid isPermaLink="false">identitybrief-d99502a33fd4d930</guid>
+      <pubDate>Mon, 05 Oct 2026 08:09:36 +0000</pubDate>
+      <category>breach</category>
+      <description>Denmark suffered a breach that exposed the personal data of 8.8 million people. It highlights the critical need for robust access controls and incident response around personal data systems. The catch: similar breaches often reveal systemic issues that are not trivial to fix.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Alignment on verification with biometrics, credentials needed to deliver value</title>
+      <link>https://www.biometricupdate.com/202610/alignment-on-verification-with-biometrics-credentials-needed-to-deliver-value</link>
+      <guid isPermaLink="false">identitybrief-8f42c997b839d502</guid>
+      <pubDate>Sat, 03 Oct 2026 13:41:50 +0000</pubDate>
+      <category>did</category>
+      <description>Aligning biometric verification with digital credentials is on the agenda. Interoperability between systems and regulatory bodies ensures smoother digital identity programs across sectors. Yet, achieving global alignment is complex amid varying local regulations.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Quantum Fire with Delegated Cloning</title>
+      <link>http://arxiv.org/abs/2610.03593v1</link>
+      <guid isPermaLink="false">identitybrief-9594f393104ebeee</guid>
+      <pubDate>Fri, 02 Oct 2026 17:00:36 +0000</pubDate>
+      <category>research</category>
+      <description>Researchers introduce 'Quantum Fire,' a quantum state for access control. It allows designated entities to clone quantum states, limiting access effectively. The downside: practical implementation requires advanced quantum capabilities most teams lack.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>A Secure dToF LiDAR SoC with Dual-Domain Fingerprinting and Event-Driven AFE Circuit Achieving Sensor-Level Attack Resilience</title>
+      <link>http://arxiv.org/abs/2610.03562v1</link>
+      <guid isPermaLink="false">identitybrief-18aeb7b0a72eb948</guid>
+      <pubDate>Fri, 02 Oct 2026 16:40:26 +0000</pubDate>
+      <category>research</category>
+      <description>A new LiDAR SoC promises resilience against spoofing attacks. By authenticating signals in a dual-domain space, it improves security for autonomous systems. Technology specifics are cutting-edge, but integrating with existing platforms will be challenging.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>PrivDev: Mapping Static-Analysis Data Types to DPV</title>
+      <link>http://arxiv.org/abs/2610.03518v1</link>
+      <guid isPermaLink="false">identitybrief-281592f718154817</guid>
+      <pubDate>Fri, 02 Oct 2026 16:11:45 +0000</pubDate>
+      <category>research</category>
+      <description>PrivDev project maps static-analysis data types to privacy vocabularies. This enhances how personal data is classified and protected under frameworks like GDPR. The hurdle is the technique's reliance on AI for complex mappings, which isn’t foolproof.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Latin America expands collaborative DPI push through CLARCIEV, 50-in-5</title>
+      <link>https://www.biometricupdate.com/202610/latin-america-expands-collaborative-dpi-push-through-clarciev-50-in-5</link>
+      <guid isPermaLink="false">identitybrief-84c76a08da30ceaf</guid>
+      <pubDate>Fri, 02 Oct 2026 21:41:10 +0000</pubDate>
+      <category>iam</category>
+      <description>Latin America boosts digital identity infrastructure with the '50-in-5' initiative. Collaborative regional efforts aim to strengthen civil registration and identity systems across the region. However, varying political climates might slow uniform adoption.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access</title>
+      <link>https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html</link>
+      <guid isPermaLink="false">identitybrief-e712349506155b3e</guid>
+      <pubDate>Wed, 30 Sep 2026 10:45:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>A phishing campaign targets US executives by hijacking Microsoft 365 sessions. This highlights the veneer of traditional phishing defense methods. Without multi-faceted identity-based security and vigilance, similar attacks pose substantial risks.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Gemini 4 Argon access: What Google's Fairwind rules require</title>
+      <link>https://workos.com/blog/gemini-4-argon-fairwind-access-control</link>
+      <guid isPermaLink="false">identitybrief-d26e1bdbb8bceda4</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Google's Fairwind rules advance authorization models beyond standard checks. Phishing-resistant MFA and rigorous access controls are highlighted as best practices. Their application in specialized environments could be limited without industry-wide acceptance.
+
+— via WorkOS</description>
+    </item>
+    <item>
+      <title>The Evolution of Selfie ID Verification: From Capture to Continuous Trust</title>
+      <link>https://www.jumio.com/selfie-id-verification/</link>
+      <guid isPermaLink="false">identitybrief-709da1e66b4b813b</guid>
+      <pubDate>Thu, 01 Oct 2026 13:31:34 +0000</pubDate>
+      <category>fraud</category>
+      <description>Selfie ID verification is maturing into a continuous trust signal. It began with simple photo matching and now counters deepfake fraud, rising sharply. The advance needs strong AI to avoid false positives, a challenge amid growing biometric data use.
+
+— via Jumio</description>
+    </item>
+    <item>
+      <title>Google halts open-source bug bounty program amid AI spam surge</title>
+      <link>https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/</link>
+      <guid isPermaLink="false">identitybrief-d1d96c9ba89b3188</guid>
+      <pubDate>Mon, 05 Oct 2026 08:27:46 +0000</pubDate>
+      <category>breach</category>
+      <description>Google pauses its open-source bug bounty program due to AI spam. This decision highlights the strain AI-generated noise places on security initiatives. The gap it leaves is significant but dealing with spam may clear capacity for more critical reports.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Apple tightens macOS disk access as AI agents become more powerful</title>
+      <link>https://www.helpnetsecurity.com/2026/10/05/macos-full-disk-access-updates/</link>
+      <guid isPermaLink="false">identitybrief-19aa5bed8acf5a88</guid>
+      <pubDate>Mon, 05 Oct 2026 08:11:17 +0000</pubDate>
+      <category>iam</category>
+      <description>Apple announces stricter macOS disk access controls due to advanced AI risks. Enhanced granular permissions aim to guard sensitive data more effectively. The industry's challenge will be balancing innovation with increased restrictions.
+
+— via Help Net Security</description>
+    </item>
+    <item>
       <title>China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing</title>
       <link>https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html</link>
       <guid isPermaLink="false">identitybrief-453d2c5398a1fe24</guid>
@@ -1362,145 +1502,5 @@
       <description>A paper discusses measures to control rogue AI activities at the kernel level. This aims to curb unauthorized external actions, which is crucial for environments using sensitive credentials. But implementing such control is technical and complex, needing strong architectural adjustments.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>TP-CRIV: A Framework for Third-Party Challenge-Response Identity Verification of AI Models</title>
-      <link>http://arxiv.org/abs/2609.29264v1</link>
-      <guid isPermaLink="false">identitybrief-b4aa967166e62d49</guid>
-      <pubDate>Thu, 24 Sep 2026 09:03:48 +0000</pubDate>
-      <category>research</category>
-      <description>Artificial intelligence (AI) models are increasingly deployed through remote services, making model misappropriation a growing concern. Existing approaches, including watermarking, fingerprinting, and model similarity analysis, primarily rely on predefined evidence or direct behavioral comparison and do not explicitly evaluate whether the claimant currently…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing</title>
-      <link>https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958</link>
-      <guid isPermaLink="false">identitybrief-d9cd34d560259a8e</guid>
-      <pubDate>Thu, 24 Sep 2026 19:01:15 +0000</pubDate>
-      <category>breach</category>
-      <description>Salesforce Agentforce vulnerabilities needed zero-click targeting for exploitation. Unauthorized parties could breach CRM data, causing data theft and phishing without user action. Resolving this means staying ahead with regular patch deployment—a challenge amid complex CRM integrations.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>A Data-Driven Analysis of Infostealer Malware Victims</title>
-      <link>http://arxiv.org/abs/2609.30070v1</link>
-      <guid isPermaLink="false">identitybrief-2f4375d929c97bf9</guid>
-      <pubDate>Thu, 24 Sep 2026 16:27:39 +0000</pubDate>
-      <category>research</category>
-      <description>A study presents a detailed look at infostealer malware victims, analyzing data from 170,298 breaches. Understanding the popular targets—largely games and major platforms—can inform better defense strategies. But accessing and using such detailed data ethically remains a challenge for many organizations.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Is your identity platform keeping you from autonomous identity?</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzNlVTN0SVZoQUdMLU43Nm5rcWc4TWI2VERSMU1UeHpjWmtzdzhoVHZETmhDTUZiREFvSzJuMW5qM1JhOWhkYmIweVYtaXZ1OWMzN2xRemFEOTRlVVFRQXBEZnFJbE5VN3l3UkJYdXhLMHYtOE1COGdDSXV0X0ZVVjVYb3pHWVNPMFdGRk50M1pPbGNucEdTaA?oc=5</link>
-      <guid isPermaLink="false">identitybrief-5f46ee52a5c8667d</guid>
-      <pubDate>Thu, 24 Sep 2026 17:38:12 +0000</pubDate>
-      <category>iam</category>
-      <description>SailPoint raises a point that identity platforms might hinder moving to an 'autonomous identity'. The focus is on improving adaptability and reducing manual intervention, but shifting from legacy systems remains a large barrier to progress.
-
-— via SailPoint</description>
-    </item>
-    <item>
-      <title>Login.gov adds mobile driver’s licenses as AI fraud reshapes federal identity proofing</title>
-      <link>https://www.biometricupdate.com/202609/login-gov-adds-mobile-drivers-licenses-as-ai-fraud-reshapes-federal-identity-proofing</link>
-      <guid isPermaLink="false">identitybrief-f4baf4487685aef4</guid>
-      <pubDate>Wed, 23 Sep 2026 19:07:43 +0000</pubDate>
-      <category>did</category>
-      <description>Login.gov now supports mobile driver’s licenses for remote ID proofing. This adds a cryptographically secure credential option that's gaining federal traction. The catch? It's limited to certain digital wallets for now, with others planned.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Kantara first accredited to certify UK digital ID providers to framework v1.0</title>
-      <link>https://www.biometricupdate.com/202609/kantara-first-accredited-to-certify-uk-digital-id-providers-to-framework-v1-0</link>
-      <guid isPermaLink="false">identitybrief-b6ff46a2fd83fe75</guid>
-      <pubDate>Wed, 23 Sep 2026 20:55:42 +0000</pubDate>
-      <category>did</category>
-      <description>Kantara Initiative is now accredited to certify UK digital ID providers to a new framework. It formalizes trust levels compliant with UK standards for digital identity. But the accreditation is new, so watch for initial teething troubles in execution.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>ShareID secures high-level certification across PAD and IAD standards</title>
-      <link>https://www.biometricupdate.com/202609/shareid-secures-high-level-certification-across-pad-and-iad-standards</link>
-      <guid isPermaLink="false">identitybrief-d498c5532570e975</guid>
-      <pubDate>Wed, 23 Sep 2026 20:53:46 +0000</pubDate>
-      <category>fraud</category>
-      <description>ShareID achieved certification in biometric liveness detection standards. It offers greater confidence in biometric onboarding protection levels. It's certified heavily in Europe, so assess if equally robust for your region’s regulations.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>UK regulator to investigate Pornhub parent company for alleged age verification failings</title>
-      <link>https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy</link>
-      <guid isPermaLink="false">identitybrief-7ba3a75cd3178ffb</guid>
-      <pubDate>Wed, 23 Sep 2026 20:07:00 +0000</pubDate>
-      <category>did</category>
-      <description>UK watchdog is scrutinizing Pornhub's age verification methods. The probe questions the new checks' effectiveness against minors accessing content. This reinforces the need for robust age verification beyond singular vendor claims.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Network Solutions Dark Web Monitoring alerts small businesses to domain-linked data exposure</title>
-      <link>https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/</link>
-      <guid isPermaLink="false">identitybrief-d99660b10dabc492</guid>
-      <pubDate>Wed, 23 Sep 2026 13:40:14 +0000</pubDate>
-      <category>fraud</category>
-      <description>Network Solutions launched Dark Web Monitoring for small businesses. It proactively alerts firms to domain-linked data exposures. However, it's just an alert; action is still needed from businesses to mitigate discovered risks.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</title>
-      <link>https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/</link>
-      <guid isPermaLink="false">identitybrief-384ff55b8a79a60f</guid>
-      <pubDate>Wed, 23 Sep 2026 11:23:30 +0000</pubDate>
-      <category>breach</category>
-      <description>EvilTokens, an AI-backed phishing platform, was disrupted by Microsoft. It exemplifies the growing sophistication of automated social engineering attacks. Yet, focus on prevention remains centered on reactive take-down efforts.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Keep human-in-the-loop biometrics in the age of agentic AI, says SAIC’s Jerry Tipton</title>
-      <link>https://identityweek.net/keep-human-in-the-loop-biometrics-in-the-age-of-agentic-ai-says-saics-jerry-tipton/</link>
-      <guid isPermaLink="false">identitybrief-f2d10eca9bbaa4b0</guid>
-      <pubDate>Wed, 23 Sep 2026 11:22:20 +0000</pubDate>
-      <category>auth</category>
-      <description>Human oversight in biometrics remains vital, as discussed by SAIC's Jerry Tipton. In AI-driven systems, manual checks help ensure reliability. The catch is maintaining effective human intervention amid widespread automation.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>How OTP Bank Moldova Modernized Security &amp; UX For Corporate Customers</title>
-      <link>https://fidoalliance.org/how-otp-bank-moldova-modernized-security-ux-for-corporate-customers/</link>
-      <guid isPermaLink="false">identitybrief-62ea8429faf50353</guid>
-      <pubDate>Wed, 23 Sep 2026 17:13:28 +0000</pubDate>
-      <category>auth</category>
-      <description>OTP Bank Moldova upgraded corporate authentication processes. It modernized transaction signing to strengthen security and enhance user experience. Details on the tech are scant, so it's hard to judge overall impact right now.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>F5 fixes actively exploited zero-day flaw in BIG-IP APM</title>
-      <link>https://www.csoonline.com/article/4225721/f5-fixes-actively-exploited-zero-day-flaw-in-big-ip-apm.html</link>
-      <guid isPermaLink="false">identitybrief-2c3f6834ecb98f4e</guid>
-      <pubDate>Wed, 23 Sep 2026 20:44:25 +0000</pubDate>
-      <category>breach</category>
-      <description>F5 patched a zero-day flaw in BIG-IP APM, which was actively exploited. The vulnerability affected OAuth setups, crucial for network resource access. Be aware: timely patching required to prevent ongoing exploitations in unpatched systems.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Check Point hacked: The security software protecting your network has become a prime attack target</title>
-      <link>https://www.csoonline.com/article/4225812/check-point-hacked-the-security-software-protecting-your-network-has-become-a-prime-attack-target.html</link>
-      <guid isPermaLink="false">identitybrief-5094e4a92746b351</guid>
-      <pubDate>Thu, 24 Sep 2026 02:05:30 +0000</pubDate>
-      <category>breach</category>
-      <description>Check Point's security products faced active exploits targeting critical vulnerabilities. Such breaches make even safety solutions potential risks. Review current deployments for patches, as the vulnerabilities have been publicly disclosed.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
