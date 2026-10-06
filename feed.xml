@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Cybersecurity jobs available right now: October 6, 2026</title>
+      <link>https://www.helpnetsecurity.com/2026/10/06/cybersecurity-jobs-available-right-now-october-6-2026/</link>
+      <guid isPermaLink="false">identitybrief-98c259498eded6e7</guid>
+      <pubDate>Tue, 06 Oct 2026 04:00:58 +0000</pubDate>
+      <category>auth</category>
+      <description>The latest cybersecurity job listings include a role as an Associate IAM Engineer for New York City's Office of Technology &amp; Innovation. It demonstrates the rising demand for specialists in identity and access management (IAM) using platforms like Microsoft Entra ID. The catch: the job is on-site only, limiting applicants to those in or near NYC.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Data breach at Denmark’s population register exposes 8.8 million people</title>
+      <link>https://www.helpnetsecurity.com/2026/10/06/denmark-central-population-register-cpr-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-1205a4dcc89ea5e7</guid>
+      <pubDate>Tue, 06 Oct 2026 09:05:34 +0000</pubDate>
+      <category>breach</category>
+      <description>Denmark's Central Population Register suffered a data breach affecting 8.8 million people. This breach exposes sensitive personal information, including the CPR number used for identification across numerous services. The challenge: it highlights vulnerabilities in managing centralized identity repositories with broad access requirements.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Social Engineering Detection Moves Into the Live Conversation</title>
+      <link>https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/</link>
+      <guid isPermaLink="false">identitybrief-131347d44f203753</guid>
+      <pubDate>Tue, 06 Oct 2026 08:38:14 +0000</pubDate>
+      <category>iam</category>
+      <description>A new approach aims to detect social engineering during live conversations. Security awareness training hasn't proven enough, and this method attempts real-time intervention. However, it requires extensive adoption and careful context understanding to avoid false positives.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>NIS2 compliance: 7 low-cost steps to secure credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/10/06/passwork-nis2-credential-security/</link>
+      <guid isPermaLink="false">identitybrief-a73ee7dfd74032c8</guid>
+      <pubDate>Tue, 06 Oct 2026 05:00:44 +0000</pubDate>
+      <category>breach</category>
+      <description>Low-cost steps for NIS2 compliance focus on credential security. This allows organizations to manage access without significant new investment, pivoting on risk management. The limitation: these steps must align with specific organizational risks as per Article 21 of NIS2.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>New Zealand still working to fill government wallet with digital credentials</title>
+      <link>https://www.biometricupdate.com/202610/new-zealand-still-working-to-fill-government-wallet-with-digital-credentials</link>
+      <guid isPermaLink="false">identitybrief-c50add013fd61e62</guid>
+      <pubDate>Mon, 05 Oct 2026 15:10:41 +0000</pubDate>
+      <category>did</category>
+      <description>New Zealand is working to populate its government wallet with digital credentials. The intention is to unify identity management, but delays underline challenges in deployment. Current use is limited, affecting the wallet's proposed utility until more credentials are added.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Elevated fraud risk brings friction back into fashion for European bank customers</title>
+      <link>https://www.biometricupdate.com/202610/elevated-fraud-risk-brings-friction-back-into-fashion-for-european-bank-customers</link>
+      <guid isPermaLink="false">identitybrief-71822c3e93a33ca8</guid>
+      <pubDate>Mon, 05 Oct 2026 19:17:40 +0000</pubDate>
+      <category>fraud</category>
+      <description>Increased fraud risks are leading European banks to reintroduce friction in user authentication. This reflects a shift in public tolerance for inconvenience in exchange for security. The downside is the potential negative impact on user experience and satisfaction.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>DHS puts numbers behind RIVR-2, details new deepfake testing</title>
+      <link>https://www.biometricupdate.com/202610/dhs-puts-numbers-behind-rivr-2-details-new-deepfake-testing</link>
+      <guid isPermaLink="false">identitybrief-352aba1284b65135</guid>
+      <pubDate>Mon, 05 Oct 2026 22:01:03 +0000</pubDate>
+      <category>fraud</category>
+      <description>The DHS released data on its deepfake detection project RIVR-2. It underscores the urgency in evolving defenses against AI impersonation and document forgery. The complexity: effective solutions require frequent updates and rigorous testing to stay ahead of evolving threats.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ID Tech: IDEMIA Adds Passkeys and Restricted-Use Tokens for AI-Agent Payments</title>
+      <link>https://fidoalliance.org/id-tech-idemia-adds-passkeys-and-restricted-use-tokens-for-ai-agent-payments/</link>
+      <guid isPermaLink="false">identitybrief-d1c27dc72aad738d</guid>
+      <pubDate>Mon, 05 Oct 2026 15:36:08 +0000</pubDate>
+      <category>auth</category>
+      <description>IDEMIA has added passkeys and restricted-use tokens for payments by AI agents. This is a step forward in securing transactions initiated by AI, using advanced authentication methods. But it's specifically tailored for card networks, so smaller players might not benefit immediately.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>ID Tech: Thales Brings Agent Access Controls to Google Cloud Gemini Enterprise</title>
+      <link>https://fidoalliance.org/id-tech-thales-brings-agent-access-controls-to-google-cloud-gemini-enterprise/</link>
+      <guid isPermaLink="false">identitybrief-eacc6ff40ce18979</guid>
+      <pubDate>Mon, 05 Oct 2026 15:34:23 +0000</pubDate>
+      <category>iam</category>
+      <description>Thales is integrating its security controls into Google Cloud's Gemini Enterprise. This partnership aims to enhance security for AI-driven enterprise interactions. The catch: it's best suited for larger businesses already using these platforms, potentially leaving smaller firms behind.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Dell patches 18 critical flaws that could hand attackers the keys to storage and Kubernetes</title>
+      <link>https://www.csoonline.com/article/4230923/dell-patches-18-critical-flaws-that-could-hand-attackers-the-keys-to-storage-and-kubernetes.html</link>
+      <guid isPermaLink="false">identitybrief-e4ee7acb03fe8a17</guid>
+      <pubDate>Tue, 06 Oct 2026 01:25:24 +0000</pubDate>
+      <category>breach</category>
+      <description>Dell patched 18 critical vulnerabilities affecting its software platforms. These flaws could let attackers bypass authentication and gain critical access, highlighting the vital need for regular updates. The immediate challenge: ensure all affected environments install these patches promptly.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Despite ShinyHunters arrests after FBI jobs data breach, enterprises still have no answers about PeopleSoft risks</title>
+      <link>https://www.csoonline.com/article/4230892/despite-shinyhunters-arrests-after-fbi-jobs-data-breach-enterprises-still-have-no-answers-about-peoplesoft-risks.html</link>
+      <guid isPermaLink="false">identitybrief-d44a239d5cbf7583</guid>
+      <pubDate>Tue, 06 Oct 2026 01:02:05 +0000</pubDate>
+      <category>breach</category>
+      <description>Despite arrests following an FBI job portal breach, concerns about PeopleSoft's security remain. This highlights ongoing risks in enterprise software management. The stagnation: no official guidance yet from PeopleSoft complicates a coordinated response.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>From Studio to Stream: Why Music Needs Content Credentials Now</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWTRXVll6bHEzeGlOWEctbzQyWWFwbjJGRnhEU21VSEphRTNhemhybHRfVHFYSmZOSVdMS0VBSHBSa0JkdUVpMjBtMFBiNWtpa1gyWDhvSjNrOWx2U1QzNEI3ZVlpZnlMcU9LNy1PZw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-1ab9155c1d0e1b5c</guid>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Content credentials are becoming crucial in the music industry to combat fraudulent distribution. This new layer of protection is vital against piracy and unauthorized use. Its complexity lies in industry-wide adoption and consistent integration across platforms.
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>Compromise Is Not Consequence: Evaluating Task-Scoped Authorization in LLM Agents with Paired Replay</title>
+      <link>http://arxiv.org/abs/2610.05840v1</link>
+      <guid isPermaLink="false">identitybrief-65273ac1dbfab185</guid>
+      <pubDate>Mon, 05 Oct 2026 05:47:08 +0000</pubDate>
+      <category>research</category>
+      <description>Task-scoped authorization may prevent LLM agents from executing harmful tasks with valid credentials. The study shows promise for restricting AI tools' access scope effectively. But, as it's experimental, it'll take time to see industry adoption and real-world efficacy.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>1Password named a leader in the GigaOm Radar for Enterprise Password Management</title>
+      <link>https://1password.com/blog/gigaom-radar-for-enterprise-password-management</link>
+      <guid isPermaLink="false">identitybrief-aaf00e306b5f24f2</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>1Password leads in the enterprise password management radar by GigaOm. It now emphasizes passwordless access and breach intelligence, beyond simple password storage. However, its full capabilities require investment in complementary infrastructure, posing barriers for smaller teams.
+
+— via 1Password</description>
+    </item>
+    <item>
       <title>Keyorix: Open-source secrets management for teams that can’t use SaaS</title>
       <link>https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/</link>
       <guid isPermaLink="false">identitybrief-6cff93fb0080cdd5</guid>
@@ -1362,145 +1502,5 @@
       <description>Research shows threat detection dashboards might not fully cover real attacker techniques. Many detections need reassessment to ensure they're effective. The catch: Dashboards can falsely instill confidence, masking true security gaps.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Rydox marketplace admin pleads guilty, faces 22 years in prison</title>
-      <link>https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/</link>
-      <guid isPermaLink="false">identitybrief-aa8d75f810b30241</guid>
-      <pubDate>Fri, 25 Sep 2026 11:35:14 +0000</pubDate>
-      <category>auth</category>
-      <description>A Rydox marketplace admin's guilty plea highlights the ease of accessing stolen credentials online. It's a reminder of the persistent risk of credential theft in cybercrime. The catch: Prosecution doesn't eliminate the availability of such market resources.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild</title>
-      <link>https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html</link>
-      <guid isPermaLink="false">identitybrief-b1531d8f8db5c670</guid>
-      <pubDate>Fri, 25 Sep 2026 10:14:02 +0000</pubDate>
-      <category>breach</category>
-      <description>An SQL injection flaw in Roundcube Webmail is under active exploitation. This vulnerability is significant for mail service security, requiring urgent patching. The catch: Some organizations delay patches, leaving windows open for attackers.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Template Ageing and Longitudinal Verification in Fixed-Text Keystroke Dynamics: A Subject-Disjoint Study Across Eight Weeks</title>
-      <link>http://arxiv.org/abs/2609.29851v1</link>
-      <guid isPermaLink="false">identitybrief-699dc7503d0d04d4</guid>
-      <pubDate>Thu, 24 Sep 2026 14:16:32 +0000</pubDate>
-      <category>research</category>
-      <description>A study on keystroke dynamics reveals accuracy issues over time, indicating template aging. It poses a challenge for stable biometric authentication implementations. The catch: Consistent performance requires frequent template updates and monitoring.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Advancements in Microsoft Entra ID Governance</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVUxhaENueVlsemhPYTNLeHRsY0V2NmllamFZcXY0MnNDbVhnSkZoeFRZdGZsNC0tWndxX2RjZVlla0RhaEVQOVpRU3NNTGJRalczOE1vazA2RGg4RjJhYllRY1NGTUpmMi11NFFVWmRkWS10Tlhnd0VxbXYybExCcVEzWktLanAtYkc1VTY0a28zY2g2ZW5WcTZZcDFjdEpBUlN4UDVlYTJUU21saWlzTG05d1B3cjJwOG02azJtZDFkdE5PNUFUeDFBLUFIZV9pTGVHVA?oc=5</link>
-      <guid isPermaLink="false">identitybrief-018e47dd392962f7</guid>
-      <pubDate>Fri, 25 Sep 2026 17:50:53 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft announces advances in Entra ID Governance, focusing on streamlined identity management. It aims to tighten access controls and simplify identity operations. The catch: Full benefits depend on comprehensive adoption across Microsoft environments.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>UNCTAD project boosts digital identity capacity in small island states</title>
-      <link>https://www.biometricupdate.com/202609/unctad-project-boosts-digital-identity-capacity-in-small-island-states</link>
-      <guid isPermaLink="false">identitybrief-4ae90d0a3485329f</guid>
-      <pubDate>Thu, 24 Sep 2026 20:52:53 +0000</pubDate>
-      <category>did</category>
-      <description>A UNCTAD project has improved digital identity infrastructure in small island developing states. By focusing on trade and digital economy aspects, these regions can better engage in global commerce. However, the widespread impact may be limited to areas with sufficient digital literacy and infrastructure readiness.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Business identity checks face limits as A7 case, UK prosecutions expose changing risk</title>
-      <link>https://www.biometricupdate.com/202609/business-identity-checks-face-limits-as-a7-case-uk-prosecutions-expose-changing-risk</link>
-      <guid isPermaLink="false">identitybrief-a0a5389ed61b693c</guid>
-      <pubDate>Thu, 24 Sep 2026 20:23:35 +0000</pubDate>
-      <category>fraud</category>
-      <description>UK prosecutions are pointing out the limits of current business identity checks. With more complex ownership structures and higher sanction risks, simply knowing who's behind a business is not enough. This means firms need dynamic, continuous verification, which many systems aren't ready for yet.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>ICE builds nationwide ERO intelligence layer around biometric targeting operations</title>
-      <link>https://www.biometricupdate.com/202609/ice-builds-nationwide-ero-intelligence-layer-around-biometric-targeting-operations</link>
-      <guid isPermaLink="false">identitybrief-4ec1acc5e9b5eed6</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:34 +0000</pubDate>
-      <category>auth</category>
-      <description>ICE is expanding its biometric targeting capabilities within enforcement operations. The $100 million initiative aims to incorporate intelligence analysts across the nation. A potential concern is the balance between privacy and surveillance, since expansion into local ERO centers may intensify scrutiny.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing</title>
-      <link>https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</link>
-      <guid isPermaLink="false">identitybrief-99d1feccd5c5c86e</guid>
-      <pubDate>Thu, 24 Sep 2026 21:04:03 +0000</pubDate>
-      <category>breach</category>
-      <description>The 'Salesbleed' techniques leverage Salesforce agents to push phishing tactics across Slack. With internal comms channel compromised, traditional preventative measures often fail. The challenge lies in creating airtight inter-application security.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>How extensive is the AI and proactive protection strategy at JP Morgan? Ryan Loftus speaks out…</title>
-      <link>https://identityweek.net/how-extensive-is-the-ai-and-proactive-protection-strategy-at-jp-morgan-ryan-loftus-speaks-out/</link>
-      <guid isPermaLink="false">identitybrief-be621aa929ec4b23</guid>
-      <pubDate>Thu, 24 Sep 2026 12:15:59 +0000</pubDate>
-      <category>auth</category>
-      <description>JP Morgan discusses their proactive AI and digital identity strategy. They highlight the flaws in reactive approaches, emphasizing the need for smarter AI integration. Despite these advances, transitioning to cross-functional cohesion remains a significant hurdle in large institutions.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore</title>
-      <link>https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html</link>
-      <guid isPermaLink="false">identitybrief-fb9ba04a456ec507</guid>
-      <pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>AI is intensifying the problem of secrets sprawl, doubling the exposure rate over manual input, per GitGuardian's latest report. This highlights the need for better automated secret detection tools that integrate with development pipelines. Yet, deploying these tools to cover all environments universally is cost-prohibitive.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>First implementers certify to OpenID4VP and OpenID4VCI with HAIP</title>
-      <link>https://openid.net/first-implementers-certify-to-openid4vp-and-openid4vci-with-haip/</link>
-      <guid isPermaLink="false">identitybrief-11446f6192deaa1f</guid>
-      <pubDate>Thu, 24 Sep 2026 18:22:24 +0000</pubDate>
-      <category>did</category>
-      <description>Fourteen organizations have self-certified their implementations of OpenID for Verifiable Presentations and Credential Issuance with the High Assurance Interoperability Profile. This means they're now positioned to offer high-assurance identity services conforming to OpenID standards. But the catch is it's still early days, with certification limited to these initial implementers — broad adoption is a ways off.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Roundcube Webmail Vulnerability in Attackers’ Crosshairs</title>
-      <link>https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</link>
-      <guid isPermaLink="false">identitybrief-ec10a2f9edd2b28a</guid>
-      <pubDate>Fri, 25 Sep 2026 06:57:40 +0000</pubDate>
-      <category>breach</category>
-      <description>A vulnerability in Roundcube Webmail, tracked as CVE-2026-48842, is actively being exploited. It's an SQL injection flaw that attackers can use without authentication, potentially compromising a wide range of systems. The catch: patching won't be instantaneous if your users are widespread, increasing interim exposure.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Context Is King: How Identity Context Will Drive Agentic AI Success</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUV2RkEyLWhzWFZITjJpVnJ3U2JiZjlPNzE1c0JLWDB6dDQ1Qmx5VU5vb0xtanBVN0VYNC1aQTBRQVNtOGRLUmNfcE5iLVpVZ3h4WkFOVlM0Z3BDWU5fdE94dWRFbzRxdzdKWkE3b3JDWjlJNzFvR1N3UnNxdE05aXo0U1BoZ0RGR2lJcVBUTklUVURrbmVQXzFHbE1Wbm82?oc=5</link>
-      <guid isPermaLink="false">identitybrief-e85e2ac645f1f2cb</guid>
-      <pubDate>Thu, 24 Sep 2026 16:11:56 +0000</pubDate>
-      <category>iam</category>
-      <description>Forrester discusses how identity context is crucial to successful AI deployment. Correct identity context helps prevent unauthorized AI actions. But integrating context into AI systems remains complex and resource-intensive, deterring quick adoption.
-
-— via Forrester</description>
-    </item>
-    <item>
-      <title>Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution</title>
-      <link>http://arxiv.org/abs/2609.29808v1</link>
-      <guid isPermaLink="false">identitybrief-e9c0a7fd835fdd6b</guid>
-      <pubDate>Thu, 24 Sep 2026 13:42:02 +0000</pubDate>
-      <category>research</category>
-      <description>A paper discusses measures to control rogue AI activities at the kernel level. This aims to curb unauthorized external actions, which is crucial for environments using sensitive credentials. But implementing such control is technical and complex, needing strong architectural adjustments.
-
-— via arXiv</description>
     </item>
 </channel></rss>
