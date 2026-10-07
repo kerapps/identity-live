@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>AI Agent Gateway: Open-source tool keeps credentials out of agent configs</title>
+      <link>https://www.helpnetsecurity.com/2026/10/07/open-source-ai-agent-gateway/</link>
+      <guid isPermaLink="false">identitybrief-dc3cf233860615aa</guid>
+      <pubDate>Wed, 07 Oct 2026 05:30:59 +0000</pubDate>
+      <category>auth</category>
+      <description>Tuskira’s AI Agent Gateway is an open-source solution keeping credentials out of AI agent configurations. It provides a secure way to manage credentials inside your environment, reducing exposure. However, it adds another component to your infrastructure to manage.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>US Social Security awards Carahsoft identity, biometrics deal worth up to $29.6M</title>
+      <link>https://www.biometricupdate.com/202610/us-social-security-awards-carahsoft-identity-biometrics-deal-worth-up-to-29-6m</link>
+      <guid isPermaLink="false">identitybrief-b3ef2f3e92858044</guid>
+      <pubDate>Tue, 06 Oct 2026 18:43:41 +0000</pubDate>
+      <category>fraud</category>
+      <description>Carahsoft wins a deal with the US Social Security Administration for identity verification services worth up to $29.6M. It's a significant uptake of biometric verification in government services, indicating a shift towards more robust identity checks. But, vendor lock-in and data privacy remain concerns.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Where commercial value can actually be created around the EUDI Wallet</title>
+      <link>https://www.biometricupdate.com/202610/where-commercial-value-can-actually-be-created-around-the-eudi-wallet</link>
+      <guid isPermaLink="false">identitybrief-f391e30b816a45db</guid>
+      <pubDate>Tue, 06 Oct 2026 18:31:32 +0000</pubDate>
+      <category>did</category>
+      <description>The EUDI Wallet project is exploring commercial value and business models for digital IDs in Europe. This could reshape how identity stakeholders benefit financially from ID services. Practical implementation will heavily depend on regulatory harmonization and market reception.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Bermuda explores digital ID, begins supplier qualification process</title>
+      <link>https://www.biometricupdate.com/202610/bermuda-explores-digital-id-begins-supplier-qualification-process</link>
+      <guid isPermaLink="false">identitybrief-d0968f7d7d5f4cc7</guid>
+      <pubDate>Tue, 06 Oct 2026 18:54:21 +0000</pubDate>
+      <category>did</category>
+      <description>Bermuda is exploring the development of a digital ID framework. It could streamline citizen services across public and private sectors if implemented. The focus is still in very early, potentially exploratory stages.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes</title>
+      <link>https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/</link>
+      <guid isPermaLink="false">identitybrief-22cd16a9c638c87c</guid>
+      <pubDate>Tue, 06 Oct 2026 15:16:44 +0000</pubDate>
+      <category>auth</category>
+      <description>Fake ChatGPT and Gemini sites are stealing login credentials and MFA codes. This highlights the ongoing threat of phishing and browser-in-browser attacks targeting digital advertisers. Staying ahead requires constant user education and vigilance, as tools are often catching up with known methods.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>AppViewX targets shadow AI risks with agent discovery and runtime enforcement</title>
+      <link>https://www.helpnetsecurity.com/2026/10/06/appviewx-shadow-ai-visibility/</link>
+      <guid isPermaLink="false">identitybrief-7a654acf3e25defb</guid>
+      <pubDate>Tue, 06 Oct 2026 13:37:15 +0000</pubDate>
+      <category>iam</category>
+      <description>AppViewX's enhanced identity security discovers and governs every AI agent in a network. This addresses shadow AI risks, ensuring trust in evolving cryptographic infrastructures. Implementation might necessitate significant resources to audit and maintain the expanded scope.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Call for proposals: sharing lessons on adoption and scale</title>
+      <link>https://openid.net/call-for-proposals-sharing-lessons-on-adoption-and-scale/</link>
+      <guid isPermaLink="false">identitybrief-042721533cec730c</guid>
+      <pubDate>Tue, 06 Oct 2026 12:09:04 +0000</pubDate>
+      <category>did</category>
+      <description>The OpenID Foundation is calling for lessons on moving digital identity implementations to large-scale adoption. This could help your team understand shared challenges in building trust and interoperability across sectors. The focus is more on discussion than immediate pragmatic solutions.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Your enterprise doesn’t need six BOM programs. It needs one evidence graph</title>
+      <link>https://www.csoonline.com/article/4231283/your-enterprise-doesnt-need-six-bom-programs-it-needs-one-evidence-graph.html</link>
+      <guid isPermaLink="false">identitybrief-1f6ddbdab30b8de7</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Companies are consolidating bill-of-materials (BOM) programs into a single evidence graph. This aims to provide clearer visibility and control over software components and identity-related actions. The shift can be complex, needing careful planning to ensure it doesn’t just add another layer of operational burden.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Reflections on AGNTCon + MCPCon Europe 2026: The best of the big shill?</title>
+      <link>https://blog.identity.foundation/reflections-on-agntcon-mcpcon-europe-2026/</link>
+      <guid isPermaLink="false">identitybrief-75e5abd5a2c33e60</guid>
+      <pubDate>Tue, 06 Oct 2026 15:50:18 +0000</pubDate>
+      <category>did</category>
+      <description>AGNTCon + MCPCon Europe 2026 highlighted decentralized identity, though much of the content was vendor-driven. It’s a reminder to always question the sales spin at such events. Truly useful insights were sparse amid the shiny showcases.
+
+— via DIF</description>
+    </item>
+    <item>
+      <title>SCSM: A Traffic-Native Foundation Model for Transferable Website Fingerprinting</title>
+      <link>http://arxiv.org/abs/2610.07776v1</link>
+      <guid isPermaLink="false">identitybrief-e32b0206aab6230a</guid>
+      <pubDate>Tue, 06 Oct 2026 05:12:35 +0000</pubDate>
+      <category>research</category>
+      <description>SCSM is a website fingerprinting method for identifying web activity through encrypted data. It promises better accuracy despite changing conditions in cybersecurity landscapes. However, its practical application is limited to research phases and not yet foolproof.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>FBI removes contractor working with its PeopleSoft system after data breach, says report</title>
+      <link>https://www.csoonline.com/article/4231356/fbi-removes-contractor-working-with-its-peoplesoft-system-after-data-breach-says-report.html</link>
+      <guid isPermaLink="false">identitybrief-1f77f612c576e5fe</guid>
+      <pubDate>Tue, 06 Oct 2026 18:26:16 +0000</pubDate>
+      <category>breach</category>
+      <description>The FBI removed a contractor after a data breach exposed employee data in its PeopleSoft system. This serves as a caution to ensure contractors implement all security patches. The incident stresses the importance of patch management and third-party oversight.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>The AI app builder your team trusts has a root-level backdoor</title>
+      <link>https://www.csoonline.com/article/4230802/the-ai-app-builder-your-team-trusts-has-a-root-level-backdoor.html</link>
+      <guid isPermaLink="false">identitybrief-705339c6805dc23e</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Langflow, a popular AI app builder, has a root-level backdoor that poses security risks. It emphasizes the need for thorough security assessments of low-code platforms connecting to your sensitive environments. Widespread deployment makes ongoing security evaluations essential.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>South Korean officials believe AI agents were used to hack several banks</title>
+      <link>https://therecord.media/south-korean-bank-hacks-ai-agents</link>
+      <guid isPermaLink="false">identitybrief-ed66aeeb68d267bc</guid>
+      <pubDate>Tue, 06 Oct 2026 15:29:22 +0000</pubDate>
+      <category>breach</category>
+      <description>South Korean banks were reportedly hacked using AI agents, leaking personal data of 68,000 people. This attack showcases the growing use of sophisticated AI in cybersecurity threats. It underlines the need for banks and financial institutions to strengthen their defenses against AI-driven attacks.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Beyond the Sandbox: Why AI Agents Need Digital Passports</title>
+      <link>https://indicio.tech/blog/ai-agent-passports-nvidia-openshell/</link>
+      <guid isPermaLink="false">identitybrief-05d673c26825e582</guid>
+      <pubDate>Tue, 06 Oct 2026 19:14:08 +0000</pubDate>
+      <category>did</category>
+      <description>NVIDIA introduces AI agent passports for safer cross-organization operations. This highlights a movement towards verifiable credentials to ensure secure AI interactions. The adoption will depend on cooperation across diverse AI ecosystems, which may take time to standardize.
+
+— via Indicio</description>
+    </item>
+    <item>
       <title>Cybersecurity jobs available right now: October 6, 2026</title>
       <link>https://www.helpnetsecurity.com/2026/10/06/cybersecurity-jobs-available-right-now-october-6-2026/</link>
       <guid isPermaLink="false">identitybrief-98c259498eded6e7</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Fri, 25 Sep 2026 07:57:50 +0000</pubDate>
       <category>iam</category>
       <description>Docker launches OCI-based kits for secure agent packaging and lifecycle management. These kits aim to improve security while simplifying cloud-based agent deployments. The hurdle: developers must adjust workflows to incorporate these kits, requiring resources and training.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Half of threat hunters say bad data is their biggest problem</title>
-      <link>https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/</link>
-      <guid isPermaLink="false">identitybrief-8acdc380d5354e03</guid>
-      <pubDate>Fri, 25 Sep 2026 05:00:56 +0000</pubDate>
-      <category>iam</category>
-      <description>Many threat hunters cite poor data quality as their main challenge. Effective threat detection suffers when logs and telemetry aren't reliable. Catch: improving data involves significant investment in logging infrastructure and processes.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers</title>
-      <link>https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html</link>
-      <guid isPermaLink="false">identitybrief-03b9753abd7a90e4</guid>
-      <pubDate>Wed, 23 Sep 2026 08:29:48 +0000</pubDate>
-      <category>breach</category>
-      <description>A critical F5 BIG-IP APM flaw lets attackers execute code without authentication. The vulnerability mainly affects OAuth server configurations, escalating breach risks. Caveat: organizations must apply hotfixes quickly to mitigate exposure.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>OllamaDrama: Designing and Deploying a Honeypot to Measure Attacks on Exposed LLM Infrastructure</title>
-      <link>http://arxiv.org/abs/2609.29757v1</link>
-      <guid isPermaLink="false">identitybrief-4058a8378f913616</guid>
-      <pubDate>Thu, 24 Sep 2026 13:06:48 +0000</pubDate>
-      <category>research</category>
-      <description>A honeypot study reveals extensive probing and exploitation efforts on LLM infrastructure. Stakes are high, with attacks spanning model management abuses to RCE attempts. Limitation: real-world applicability of honeypots can be limited by attackers' evolving tactics.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Why States Are Paying Attention to SEDI</title>
-      <link>https://blog.spruceid.com/why-states-are-paying-attention-to-sedi/</link>
-      <guid isPermaLink="false">identitybrief-194538ee1c5c1394</guid>
-      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
-      <category>did</category>
-      <description>States are aligning on digital identity frameworks like Utah's SEDI. This step aims to balance user verification with ecosystem rules. The drawback: differing state approaches may lead to fragmented identity standards.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>ICAO commits to progress in digitizing traveler identification systems</title>
-      <link>https://www.biometricupdate.com/202609/icao-commits-to-progress-in-digitizing-traveler-identification-systems</link>
-      <guid isPermaLink="false">identitybrief-b73d2ca5649b7a40</guid>
-      <pubDate>Fri, 25 Sep 2026 19:28:27 +0000</pubDate>
-      <category>did</category>
-      <description>ICAO is pushing to digitize traveler IDs, blending biometrics and digital systems. This shift could streamline airport experiences by reducing queues and enhancing security. The catch: Implementation is slow and scattered, requiring global coordination.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Africa’s digital ID push runs into mobile internet usage gap</title>
-      <link>https://www.biometricupdate.com/202609/africas-digital-id-push-runs-into-mobile-internet-usage-gap</link>
-      <guid isPermaLink="false">identitybrief-8cf4449d7a9daf07</guid>
-      <pubDate>Fri, 25 Sep 2026 18:44:09 +0000</pubDate>
-      <category>did</category>
-      <description>Africa aims to boost digital IDs but hits a snag with mobile internet access gaps. It's a hurdle for digital identity adoption where offline populations miss out. The catch: Infrastructure alone isn't enough without user engagement and device access.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Is passwordless inevitable? Adoption, friction, and the zero-trust reality</title>
-      <link>https://identityweek.net/is-passwordless-inevitable-adoption-friction-and-the-zero-trust-reality/</link>
-      <guid isPermaLink="false">identitybrief-49bd4f1be7d52098</guid>
-      <pubDate>Fri, 25 Sep 2026 12:57:39 +0000</pubDate>
-      <category>breach</category>
-      <description>The move towards passwordless authentication faces challenges, particularly around friction and zero-trust frameworks. It ties into phishing and social engineering defenses which are more vital than ever. The catch: User adoption lags due to the friction of new tech and practices.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>ID4Africa 2027 AGM theme highlights digital ID systems connections, utility</title>
-      <link>https://www.biometricupdate.com/202609/id4africa-2027-agm-theme-highlights-digital-id-systems-connections-utility</link>
-      <guid isPermaLink="false">identitybrief-04bf7d096b25285e</guid>
-      <pubDate>Fri, 25 Sep 2026 15:57:25 +0000</pubDate>
-      <category>did</category>
-      <description>ID4Africa 2027 highlights integration of digital ID systems for seamless service delivery. This aligns with efforts to unify digital identity across sectors. The catch: Full integration demands robust cross-border cooperation and technological readiness.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/</link>
-      <guid isPermaLink="false">identitybrief-048ae12c4c4834da</guid>
-      <pubDate>Fri, 25 Sep 2026 17:24:20 +0000</pubDate>
-      <category>breach</category>
-      <description>CISA warns of active exploits against Sharepoint, WSO2, and Adobe Commerce. These vulnerabilities underline the need for prompt patching to prevent authentication bypass attacks. The catch: Not all organizations update promptly, leaving blind spots.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script</title>
-      <link>https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264</link>
-      <guid isPermaLink="false">identitybrief-603870d0dc083960</guid>
-      <pubDate>Fri, 25 Sep 2026 19:13:20 +0000</pubDate>
-      <category>breach</category>
-      <description>A satire ad mocks voice phishing by providing a script while claiming not to have one. It's a light story with a reminder to stay skeptical of unsolicited communications. The catch: It's easy to misjudge the threat until it directly impacts user trust.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Bitget blames North Korea for $387.5M crypto wallet raid</title>
-      <link>https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218</link>
-      <guid isPermaLink="false">identitybrief-038426e71336b19a</guid>
-      <pubDate>Fri, 25 Sep 2026 17:04:07 +0000</pubDate>
-      <category>auth</category>
-      <description>Bitget blames North Korea for a massive $387.5M crypto wallet theft. Cryptocurrencies remain a high-value target due to weak custodial controls. The catch: Attributing cyberattacks can become a political narrative, complicating prevention efforts.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Storm-3168: Agentic-driven cloud attacks using compromised service principals</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/</link>
-      <guid isPermaLink="false">identitybrief-9cb5443e96c7eb3c</guid>
-      <pubDate>Fri, 25 Sep 2026 15:35:08 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft exposes a cloud attack tactic involving compromised service principals. Highlighting the risks tied to cloud credential management is key for defense. The catch: Identifying compromised service principals often requires deep internal audits.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance</title>
-      <link>https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/</link>
-      <guid isPermaLink="false">identitybrief-67f9e44e2e52ff24</guid>
-      <pubDate>Fri, 25 Sep 2026 14:51:10 +0000</pubDate>
-      <category>auth</category>
-      <description>Rising AI agents challenge SOC 2, potentially allowing activity without detection. Token Security suggests updating security controls to spot AI actions. The catch: Standard updates lag behind the rapid tech evolution of AI capabilities.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Threat detection dashboards are masking security coverage gaps</title>
-      <link>https://www.helpnetsecurity.com/2026/09/25/threat-detections-coverage-gaps-report/</link>
-      <guid isPermaLink="false">identitybrief-df4f81c737e393c1</guid>
-      <pubDate>Fri, 25 Sep 2026 12:04:03 +0000</pubDate>
-      <category>iam</category>
-      <description>Research shows threat detection dashboards might not fully cover real attacker techniques. Many detections need reassessment to ensure they're effective. The catch: Dashboards can falsely instill confidence, masking true security gaps.
 
 — via Help Net Security</description>
     </item>
