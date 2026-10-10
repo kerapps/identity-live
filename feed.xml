@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Passkey adoption rises, but passwords persist in enterprise authentication</title>
+      <link>https://www.biometricupdate.com/202610/passkey-adoption-rises-but-passwords-persist-in-enterprise-authentication</link>
+      <guid isPermaLink="false">identitybrief-7fee5fdf8831de58</guid>
+      <pubDate>Fri, 09 Oct 2026 16:52:39 +0000</pubDate>
+      <category>fraud</category>
+      <description>Enterprise usage of passkeys is inching up, but passwords still hold strong. This survey suggests passkeys have yet to dethrone the password entirely, especially in onboarding situations. It's a reminder that shifting away from passwords isn't just about technology—it's a cultural change too.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Checkr layers biometrics, data analysis and fraud signals to catch fake candidates</title>
+      <link>https://www.biometricupdate.com/202610/checkr-layers-biometrics-data-analysis-and-fraud-signals-to-catch-fake-candidates</link>
+      <guid isPermaLink="false">identitybrief-379768f4767ad702</guid>
+      <pubDate>Fri, 09 Oct 2026 15:57:11 +0000</pubDate>
+      <category>fraud</category>
+      <description>Checkr's new fraud suite combines biometrics with data analysis to spot fake job applicants. It tackles the new AI-powered job application fraud by layering identification signals. The challenge is integrating such systems smoothly without overly complicating the hiring process.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>‘We’re verifying identity in a way that we haven’t’: Janice Kephart on 25 years after 9/11</title>
+      <link>https://www.biometricupdate.com/202610/were-verifying-identity-in-a-way-that-we-havent-janice-kephart-on-25-years-after-9-11</link>
+      <guid isPermaLink="false">identitybrief-097a276fe4a4e68c</guid>
+      <pubDate>Fri, 09 Oct 2026 17:16:18 +0000</pubDate>
+      <category>did</category>
+      <description>Reflecting on 25 years post-9/11, identity verification has evolved dramatically. It underlines how critical identity systems have become to national security infrastructure. But with such evolution, privacy concerns and tech adoption speed remain hurdles.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition</title>
+      <link>https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html</link>
+      <guid isPermaLink="false">identitybrief-b7ae45cc252807b0</guid>
+      <pubDate>Fri, 09 Oct 2026 11:30:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Contrasting AI drive against security is creating a paradox. AI operations are outpacing the traditional human-driven security models, per SailPoint's report. Balancing sophistication and control without lagging security remains the tricky part for enterprises.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>How to keep AI agents within their permissions</title>
+      <link>https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/</link>
+      <guid isPermaLink="false">identitybrief-b6d9bdc02d9aa6b7</guid>
+      <pubDate>Fri, 09 Oct 2026 14:01:11 +0000</pubDate>
+      <category>auth</category>
+      <description>AI agents risk stepping beyond their intended permissions. Ensuring they act within set limits without completely stifling their benefits presents an ongoing challenge. Companies need clear policies on AI autonomy and its boundaries to mitigate these risks.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories</title>
+      <link>https://thehackernews.com/2026/10/credential-stealing-github-actions.html</link>
+      <guid isPermaLink="false">identitybrief-fbb467666674859b</guid>
+      <pubDate>Fri, 09 Oct 2026 19:14:28 +0000</pubDate>
+      <category>breach</category>
+      <description>GitHub repositories have been targeted in a credential-theft campaign. This highlights the persistent threat from malicious workflows leveraging open-source technologies. Developers and maintainers need stricter monitoring and access management to thwart such risks.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>UK begins rollout of contactless eGates across airport network</title>
+      <link>https://identityweek.net/uk-begins-rollout-of-contactless-egates-across-airport-network/</link>
+      <guid isPermaLink="false">identitybrief-99fcd629116eb964</guid>
+      <pubDate>Fri, 09 Oct 2026 10:09:08 +0000</pubDate>
+      <category>auth</category>
+      <description>UK airports are introducing contactless eGates using facial recognition. This tech simplifies border control by checking identities via pre-verified records. The catch is balancing speed with the potential issues of privacy and data protection.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Hundreds of thousands impacted by data breach at biosensor firm iRhythm</title>
+      <link>https://therecord.media/irhythm-data-breach-reports</link>
+      <guid isPermaLink="false">identitybrief-10b8bb252112bd70</guid>
+      <pubDate>Fri, 09 Oct 2026 16:06:00 +0000</pubDate>
+      <category>breach</category>
+      <description>A significant data breach hit iRhythm, affecting thousands. It underscores the importance of sensitive health data protection. Breach frequency sends a wake-up call for more robust data management and breach response setups.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Citrix issues its weekly critical security patch for NetScaler ADC and NetScaler Gateway</title>
+      <link>https://www.csoonline.com/article/4233187/citrix-issues-its-weekly-critical-security-patch-for-netscaler-adc-and-netscaler-gateway-2.html</link>
+      <guid isPermaLink="false">identitybrief-7376a649120e1dbb</guid>
+      <pubDate>Fri, 09 Oct 2026 14:28:21 +0000</pubDate>
+      <category>breach</category>
+      <description>Citrix has another patch for a critical security flaw in NetScaler. This one involves SAML configurations, allowing potential denial of service or remote code execution. Keeping systems up-to-date can be labor-intensive but is necessary as vulnerabilities emerge frequently.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>ASOS Breach Reveals the Risks in Customer-Facing SaaS</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas</link>
+      <guid isPermaLink="false">identitybrief-ccb789114f703b87</guid>
+      <pubDate>Fri, 09 Oct 2026 20:58:32 +0000</pubDate>
+      <category>breach</category>
+      <description>ASOS's recent breach reveals vulnerabilities in customer-facing SaaS solutions. It highlights how a compromised identity can ripple through a network with deeper impacts. Monitoring identities and safeguarding SaaS access points are more critical than ever.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Deepak Tewari on why privacy-preserving age verification starts on the device</title>
+      <link>https://liminal.co/articles/privacy-preserving-age-verification-deepak-tewari-friday-five/</link>
+      <guid isPermaLink="false">identitybrief-09fca554fe21a171</guid>
+      <pubDate>Fri, 09 Oct 2026 10:35:58 +0000</pubDate>
+      <category>did</category>
+      <description>A new take on age verification puts privacy at the forefront. It emphasizes customer privacy by keeping verification details on-device rather than sharing sensitive data between platforms. Implementing such approaches might be complex but could enhance trust.
+
+— via Liminal</description>
+    </item>
+    <item>
+      <title>AWS AgentCore security undone by prompt requesting credentials</title>
+      <link>https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436</link>
+      <guid isPermaLink="false">identitybrief-b36590152159ff4a</guid>
+      <pubDate>Fri, 09 Oct 2026 19:15:48 +0000</pubDate>
+      <category>auth</category>
+      <description>AWS faced a credential vulnerability when an AI requested identities from users. It's a stark reminder that credential management remains a weak spot, even in high-tech environments. Keeping credential requests secure and isolated is crucial for data integrity.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Characterizing Statistical Separability in TP-CRIV for Probabilistic AI Models</title>
+      <link>http://arxiv.org/abs/2610.11163v1</link>
+      <guid isPermaLink="false">identitybrief-577e57e7cd7bc641</guid>
+      <pubDate>Thu, 08 Oct 2026 03:22:59 +0000</pubDate>
+      <category>research</category>
+      <description>Third-party AI model verification examines the statistical reliability of identity assertions. It's a method still entangled with challenges regarding evidence sufficiency. The feet-dragging on resolution means reliable adoption depends on further advancements.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>7 Takeaways from SBC Summit 2026: Trust, Identity and Less Friction</title>
+      <link>https://www.jumio.com/sbc-summit-2026-takeaways/</link>
+      <guid isPermaLink="false">identitybrief-426b957119845ab2</guid>
+      <pubDate>Fri, 09 Oct 2026 16:24:16 +0000</pubDate>
+      <category>fraud</category>
+      <description>The SBC Summit highlighted trust and reduced friction in identity. Transitioning focus from just compliance to improving user experience could revolutionize identity systems. Businesses should consider this as the core of their identity strategies moving forward.
+
+— via Jumio</description>
+    </item>
+    <item>
       <title>ROC looks beyond biometrics with unified Vision AI strategy</title>
       <link>https://www.biometricupdate.com/202610/roc-looks-beyond-biometrics-with-unified-vision-ai-strategy</link>
       <guid isPermaLink="false">identitybrief-2a150088d37af5ef</guid>
@@ -1362,145 +1502,5 @@
       <description>The new 'pikit' toolkit lets researchers experiment with indirect prompt injections in systems using large language models. It helps evaluate how these threats exploit and bypass security measures in AI setups. Adoption is mainly for researchers now, as using it requires specific technical skills.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Phishing Abuses RMM Tools for Persistent Access</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/</link>
-      <guid isPermaLink="false">identitybrief-1bb297cd2b3d919b</guid>
-      <pubDate>Tue, 29 Sep 2026 21:39:27 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft reports phishing attacks using remote monitoring and management tools for persistence. This tactic exemplifies the expanding methods attackers use to maintain footholds. The attackers' use of legitimate tools complicates detection and remediation.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Retrieval Sensitivity to Identity Signals in Queries</title>
-      <link>http://arxiv.org/abs/2609.36534v1</link>
-      <guid isPermaLink="false">identitybrief-e51aa0e101628251</guid>
-      <pubDate>Tue, 29 Sep 2026 02:26:09 +0000</pubDate>
-      <category>research</category>
-      <description>A new study sheds light on retrieval bias in AI based on identity signals like politics or dialects. The potential for skewed content delivery raises concerns for fairness and objectivity in automated systems. The challenge lies in addressing bias without sacrificing retrieval performance.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Hackers exploit Citrix NetScaler zero-day to deploy web shells</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/</link>
-      <guid isPermaLink="false">identitybrief-d1d94d1b15d4f2ca</guid>
-      <pubDate>Tue, 29 Sep 2026 18:37:12 +0000</pubDate>
-      <category>breach</category>
-      <description>Citrix NetScaler's zero-day exploit demonstrates active threats targeting web shells. The incident shows that attackers can quickly capitalize on vulnerabilities to infiltrate networks. Organizations using Citrix must update systems promptly to mitigate these risks.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Sign in to Microsoft apps with passkeys from external identity providers</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUhiWkJ0d2R1T3p0dVI2c1JtWkdiZXh0STlHY1ZRek9POU1uMzFMc3laRlV4UXpBZFhXRVNNdjhPSkF0Q2hXbGNZdDU1MUl4QlRPQldnLWZETzBnUk9sa3lUNzBKcURFWVRSb1lpOTVPSkw0aFk3ZFRuZnU3TFk1UVJzcGN5eVBEX3hkdHpQTmxEWFFiWWoyZkJjMllMWjBDRnM0LWw4U3FPMmRUVVM5S1FCRzFrWXlZZnVKVF9iUGZkcWV5b2VGdUxJa1FGb3R1T1lDcHdsdkhHdw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-c5686eb1ecaaf250</guid>
-      <pubDate>Tue, 29 Sep 2026 15:05:38 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft now permits passkeys from external identity providers for app sign-ins. This move signals a broader shift towards flexible and secure authentication methods. Adoption depends on users linking their Microsoft accounts to supported identity providers.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials</title>
-      <link>https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html</link>
-      <guid isPermaLink="false">identitybrief-70b35ed4cc7c633a</guid>
-      <pubDate>Tue, 29 Sep 2026 06:08:25 +0000</pubDate>
-      <category>auth</category>
-      <description>A flaw in the MCP Python SDK allows attackers to steal OAuth credentials via malicious servers. If you're using this SDK, fix it ASAP with version 1.30.0 or above to avoid credential leaks. The downside: only MCP apps using this specific SDK are at risk, but it requires immediate patching to protect access tokens.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>A four-week plan to tackle vendor concentration risk</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/</link>
-      <guid isPermaLink="false">identitybrief-16d9ceb2c4959942</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:20 +0000</pubDate>
-      <category>fraud</category>
-      <description>A plan highlights how businesses can assess their dependency on a handful of vendors. The takeaway is you might be more reliant on a single point of failure than you realized. The real trick is mapping these dependencies accurately, which isn't a quick fix.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hottest cybersecurity open-source tools of the month: September 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026/</link>
-      <guid isPermaLink="false">identitybrief-908876e036777412</guid>
-      <pubDate>Tue, 29 Sep 2026 04:30:00 +0000</pubDate>
-      <category>auth</category>
-      <description>September's open-source tool roundup features security enhancers, including a secrets scanning tool named Sift. It could help your team find leaked credentials hiding in digital workplaces. But remember, it's open-source, so community support varies and you might need technical savvy to implement.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>OpenID unveils first digital ID providers certified for VP, VCI interoperability</title>
-      <link>https://www.biometricupdate.com/202609/openid-unveils-first-digital-id-providers-certified-for-vp-vci-interoperability</link>
-      <guid isPermaLink="false">identitybrief-7ba6674660820457</guid>
-      <pubDate>Mon, 28 Sep 2026 19:51:23 +0000</pubDate>
-      <category>did</category>
-      <description>OpenID introduced the first digital ID providers certified for interoperability. This allows for more secure and verifiable credential exchanges. However, it's only a start—interoperability across the board needs broader adoption.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>TOTM Technologies, InterBio partner with Crescotec on identity solutions</title>
-      <link>https://www.biometricupdate.com/202609/totm-technologies-interbio-partner-with-crescotec-on-identity-solutions</link>
-      <guid isPermaLink="false">identitybrief-1bae62d05e9084d0</guid>
-      <pubDate>Mon, 28 Sep 2026 16:53:26 +0000</pubDate>
-      <category>did</category>
-      <description>Partnerships for identity solutions are expanding, particularly in Indonesia with biometric tech. This could streamline digital identity infrastructures. However, these solutions remain highly localized, so global relevance may vary.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>IAM for AI agents: A Practical Enterprise Framework</title>
-      <link>https://thehackernews.com/2026/09/iam-for-ai-agent.html</link>
-      <guid isPermaLink="false">identitybrief-953a9269e98f5345</guid>
-      <pubDate>Mon, 28 Sep 2026 18:20:38 +0000</pubDate>
-      <category>iam</category>
-      <description>IAM for AI agents is becoming a structured practice across enterprises. It controls how AI agents authenticate and act within networked environments. But don’t expect a one-size-fits-all; you'll need to tailor architectures to specific AI use cases.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Second US federal biometrics contract win of 2026 for ROC could top $64M</title>
-      <link>https://www.biometricupdate.com/202609/second-us-federal-biometrics-contract-win-of-2026-for-roc-could-top-64m</link>
-      <guid isPermaLink="false">identitybrief-71205a0bfd78c375</guid>
-      <pubDate>Mon, 28 Sep 2026 16:56:15 +0000</pubDate>
-      <category>auth</category>
-      <description>New federal biometrics contract for ROC prioritizes video analysis for investigations. It shows growth in AI-enhanced tools for law enforcement. But it's U.S.-centric, and the solutions come with privacy debates.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Times Car confirms data breach affecting 6.6 million user accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/</link>
-      <guid isPermaLink="false">identitybrief-faaac3929409b969</guid>
-      <pubDate>Mon, 28 Sep 2026 20:31:16 +0000</pubDate>
-      <category>breach</category>
-      <description>Times Car confirmed a breach affecting 6.6 million user accounts. An immediate concern for anyone relying on their services to re-secure accounts. It's another reminder that user data security is an ongoing battle.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>First Steps of the PLC Organization – Independent Public Ledger of Credentials</title>
-      <link>https://blog.plcred.org/3mwlphq42d227</link>
-      <guid isPermaLink="false">identitybrief-6983defb25a2b28b</guid>
-      <pubDate>Mon, 28 Sep 2026 19:27:45 +0000</pubDate>
-      <category>auth</category>
-      <description>An organization is proposing an Independent Public Ledger of Credentials. It's about creating a shared, transparent way to manage digital credentials. Early days, so watch for practical adoption issues and privacy concerns.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>IoT News: WBA and FIDO test zero-touch IoT Wi-Fi onboarding</title>
-      <link>https://fidoalliance.org/iot-news-wba-and-fido-test-zero-touch-iot-wi-fi-onboarding/</link>
-      <guid isPermaLink="false">identitybrief-7b633bad7995ec31</guid>
-      <pubDate>Mon, 28 Sep 2026 12:27:17 +0000</pubDate>
-      <category>fraud</category>
-      <description>FIDO and WBA are testing zero-touch onboarding for IoT devices over Wi-Fi. It automates device connection, cutting down manual setup steps. But it's mostly for industrial settings now and still in testing phases.
-
-— via FIDO Alliance</description>
     </item>
 </channel></rss>
