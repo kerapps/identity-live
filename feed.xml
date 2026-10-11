@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Border biometrics move toward better gates, or none at all</title>
+      <link>https://www.biometricupdate.com/202610/border-biometrics-move-toward-better-gates-or-none-at-all</link>
+      <guid isPermaLink="false">identitybrief-72316936e8afb1e8</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:14 +0000</pubDate>
+      <category>auth</category>
+      <description>Border control is testing walk-through biometric systems, aiming for smoother travel with pre-registration. This shifts identity checks upstream and might untangle queues at immigration. But privacy concerns and tech malfunctions remain a hurdle for widespread adoption.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't</title>
+      <link>https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html</link>
+      <guid isPermaLink="false">identitybrief-4f95732c4969a235</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>A report highlights that many AI-driven services aren’t visible to existing identity controls. This means they can operate outside the identity framework, posing potential security blind spots. The issue: most organizations rely on SSO, but visibility gaps persist with indirect agents.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>`123456' password used in Danish CPR data breach</title>
+      <link>https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-79f50ad950398f99</guid>
+      <pubDate>Sat, 10 Oct 2026 09:51:49 +0000</pubDate>
+      <category>breach</category>
+      <description>The Danish CPR data breach involved using the basic '123456' password. This underscores the ongoing issue of weak passwords leading to data breaches. The catch? Password policies are only effective if users actually follow them.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Ethiopia launches developer sandbox to support Fayda digital ID innovation, integration</title>
+      <link>https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration</link>
+      <guid isPermaLink="false">identitybrief-e0329ce7b4ca3e7d</guid>
+      <pubDate>Fri, 09 Oct 2026 18:24:32 +0000</pubDate>
+      <category>did</category>
+      <description>Ethiopia's Fayda digital ID now has a sandbox for testing authentication APIs. Developers can experiment freely, promoting innovation in digital ID systems. However, the initiative is currently specific to Ethiopia, limiting its global reach for now.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Deepfakes, social engineering push identity checks into live conversations</title>
+      <link>https://www.biometricupdate.com/202610/deepfakes-social-engineering-push-identity-checks-into-live-conversations</link>
+      <guid isPermaLink="false">identitybrief-dea43b866ae20188</guid>
+      <pubDate>Fri, 09 Oct 2026 16:23:18 +0000</pubDate>
+      <category>fraud</category>
+      <description>Deepfakes and AI-driven social engineering are pushing live identity checks. This shift reflects how advanced manipulation tactics challenge existing verification processes. But, real-time checks require significant infrastructure and trained personnel to implement effectively.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>FBI touts another ShinyHunters arrest in response to data breach</title>
+      <link>https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation</link>
+      <guid isPermaLink="false">identitybrief-0419de820a0c85c8</guid>
+      <pubDate>Fri, 09 Oct 2026 15:41:00 +0000</pubDate>
+      <category>breach</category>
+      <description>An arrest related to ShinyHunters highlights continued efforts against data breach culprits. Despite arrests, groups like ShinyHunters still pose a risk due to their dispersed networks. Long-term solutions lie in strengthening data protection measures, not just prosecutions.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access</title>
+      <link>https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html</link>
+      <guid isPermaLink="false">identitybrief-addcfda79adda4a8</guid>
+      <pubDate>Fri, 09 Oct 2026 12:59:22 +0000</pubDate>
+      <category>breach</category>
+      <description>A pre-auth exploit for AnyDesk on Linux was disclosed that allows root access. Knowing about these vulnerabilities is crucial for securing remote administration tools. However, the flaw was patched months ago, and awareness is the barrier for those not keeping systems updated.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Social Engineering AI Agents: The New BEC for 2026</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026</link>
+      <guid isPermaLink="false">identitybrief-700296eea43d7cc4</guid>
+      <pubDate>Fri, 09 Oct 2026 13:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>AI agents can be manipulated like in business email compromise (BEC) tactics. This reveals the potential for AI systems to introduce new attack surfaces. Controlling this involves rigorous monitoring and verification, which is harder than it sounds.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge</title>
+      <link>https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html</link>
+      <guid isPermaLink="false">identitybrief-2ce4fb4e00ced6de</guid>
+      <pubDate>Fri, 09 Oct 2026 12:47:26 +0000</pubDate>
+      <category>breach</category>
+      <description>Exploiting AhsayCBS to deploy crypto miners shows the ongoing threat of unpatched software. Attackers are taking advantage of systems that lag on updates. The real issue is that without a CVE being immediately issued, some organizations might overlook the urgency to patch.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>The ID Talk Podcast explores: What does document security look like as we move rapidly towards digital tech?</title>
+      <link>https://identityweek.net/the-id-talk-podcast-explores-what-does-document-security-look-like-as-we-move-rapidly-towards-digital-tech/</link>
+      <guid isPermaLink="false">identitybrief-21d963d83b4aa99b</guid>
+      <pubDate>Fri, 09 Oct 2026 12:36:54 +0000</pubDate>
+      <category>iam</category>
+      <description>A podcast discusses document security within the rapidly digitalizing identity landscape. As more documents go digital, the challenge is maintaining security without hampering access. But this transition risks sidelining those reliant on physical docs, necessitating careful change management.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Unpatched AhsayCBS Vulnerabilities Exploited in the Wild</title>
+      <link>https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/</link>
+      <guid isPermaLink="false">identitybrief-5a75ec693b680fd2</guid>
+      <pubDate>Fri, 09 Oct 2026 10:23:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Unpatched vulnerabilities in AhsayCBS are being exploited, allowing attackers to bypass authentication. This highlights the critical need to pay attention to disclosed, but sometimes ignored, security updates. Unfortunately, these vulnerabilities often take organizations by surprise if visibility isn't prioritized.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks</title>
+      <link>http://arxiv.org/abs/2610.12024v1</link>
+      <guid isPermaLink="false">identitybrief-ffec53747f83e2f5</guid>
+      <pubDate>Thu, 08 Oct 2026 14:21:41 +0000</pubDate>
+      <category>research</category>
+      <description>HPQ-AKE offers a secure protocol for IoT and edge networks during post-quantum migration. The approach maintains existing RSA infrastructure, easing transition pains. However, its adoption is limited to systems already leveraging RSA, which might not apply universally.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Stop My Dancing! Understanding, Detecting and Attributing Motion-Aware Deepfake Videos</title>
+      <link>http://arxiv.org/abs/2610.11496v1</link>
+      <guid isPermaLink="false">identitybrief-062209956dc150d2</guid>
+      <pubDate>Thu, 08 Oct 2026 08:35:40 +0000</pubDate>
+      <category>research</category>
+      <description>A new study aims to improve detection of Motion Aware Deepfakes (MAD). As video manipulation becomes more advanced, better detection methods are needed for reliable identity verification. The challenge is keeping up with the rapidly evolving capabilities of these deepfake models.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Top Fraud Trends: How Identity Intelligence Can Help</title>
+      <link>https://www.jumio.com/fraud-trends-identity-intelligence/</link>
+      <guid isPermaLink="false">identitybrief-cf1d1e0a0765c32e</guid>
+      <pubDate>Fri, 09 Oct 2026 12:23:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>A post from Jumio points to identity intelligence as a tool for combating fraud trends. With fraud evolving quickly, adaptive measures are crucial. The pitfall is identity intelligence depends heavily on current data quality and structure.
+
+— via Jumio</description>
+    </item>
+    <item>
       <title>Passkey adoption rises, but passwords persist in enterprise authentication</title>
       <link>https://www.biometricupdate.com/202610/passkey-adoption-rises-but-passwords-persist-in-enterprise-authentication</link>
       <guid isPermaLink="false">identitybrief-7fee5fdf8831de58</guid>
@@ -1362,145 +1502,5 @@
       <description>AI is reducing the repetitive workload in Security Operations Centers (SOC), which could limit entry-level security jobs. This matters because it changes how we train and introduce new talent to operational security work. The challenge is balancing AI efficiency without losing critical human skill building.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs</title>
-      <link>https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</link>
-      <guid isPermaLink="false">identitybrief-238df8b6d39d069d</guid>
-      <pubDate>Thu, 01 Oct 2026 04:35:34 +0000</pubDate>
-      <category>breach</category>
-      <description>Exploits targeting Citrix NetScaler have been observed, with attackers using vulnerabilities to plant web shells and elevate privileges. This poses a direct risk to those using Citrix's Infrastructure-as-Code services. The fix won't be easy for those locked into existing systems, demanding urgent security reviews.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>PassGPT+: Leveraging Linguistic Priors for Password Modeling</title>
-      <link>http://arxiv.org/abs/2609.39880v1</link>
-      <guid isPermaLink="false">identitybrief-01203b8ecaff56a2</guid>
-      <pubDate>Wed, 30 Sep 2026 14:54:20 +0000</pubDate>
-      <category>research</category>
-      <description>PassGPT+ uses linguistic techniques from AI to better understand and model password creation by humans. This offers insights into making stronger password policy and defense strategies, potentially reducing vulnerabilities. It's at the research stage, tailored mostly to academic and tech-heavy environments.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>The MFA you have isn’t the MFA you think you have</title>
-      <link>https://www.csoonline.com/article/4228386/the-mfa-you-have-isnt-the-mfa-you-think-you-have.html</link>
-      <guid isPermaLink="false">identitybrief-877407947d7b4a1c</guid>
-      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>MFA implementations are not as secure as many organizations believe, with evolving risks outpacing old standards. This misalignment could lead to unexpected vulnerabilities if security teams fail to reevaluate current controls. The adjustment requires educating stakeholders and updating practices comprehensively.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>EUDI Wallet Verification: Indicio Named an APTITUDE Associated Partner</title>
-      <link>https://indicio.tech/blog/eudi-wallet-verification-aptitude/</link>
-      <guid isPermaLink="false">identitybrief-587c3ece9661be9c</guid>
-      <pubDate>Wed, 30 Sep 2026 15:00:34 +0000</pubDate>
-      <category>did</category>
-      <description>Indicio has been recognized in the EU Digital Identity Wallet project, showcasing its verification capabilities. This highlights ongoing international efforts to standardize digital identity verifications in various everyday applications. However, these initiatives are still in testing phases and not widely implemented.
-
-— via Indicio</description>
-    </item>
-    <item>
-      <title>Genea brings AI agents to access control with role-based permissions</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/genea-mcp/</link>
-      <guid isPermaLink="false">identitybrief-69eaf4f9a497b90e</guid>
-      <pubDate>Wed, 30 Sep 2026 06:49:24 +0000</pubDate>
-      <category>fraud</category>
-      <description>Genea has launched an AI-driven Model Context Protocol server for access control. This makes actions like onboarding or temporary access simpler with a single command instead of numerous clicks, cutting down workflow friction. However, this ease comes with reliance on Genea's platform, so integration with other systems may be tricky.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Sri Lanka targets year-end digital ID pilot as funding talks with India continue</title>
-      <link>https://www.biometricupdate.com/202609/sri-lanka-targets-year-end-digital-id-pilot-as-funding-talks-with-india-continue</link>
-      <guid isPermaLink="false">identitybrief-5e0b64ebd02375c3</guid>
-      <pubDate>Tue, 29 Sep 2026 22:15:48 +0000</pubDate>
-      <category>did</category>
-      <description>Sri Lanka aims to kick off its digital ID pilot by year's end despite funding setbacks. This pilot phase is crucial for ironing out technical kinks before a nationwide rollout. Yet, securing the necessary funding is proving difficult, leading to possible delays.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>US Social Security becomes major test of digital identity at scale</title>
-      <link>https://www.biometricupdate.com/202609/us-social-security-becomes-major-test-of-digital-identity-at-scale</link>
-      <guid isPermaLink="false">identitybrief-20e578168c866a97</guid>
-      <pubDate>Tue, 29 Sep 2026 20:21:49 +0000</pubDate>
-      <category>did</category>
-      <description>The US Social Security Administration's online service now requires digital identity verification for access. This shift could set a precedent for handling large-scale public access to online services with identity checks. However, it might also complicate access for individuals less familiar with digital tools.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Uneven age check enforcement has warped UK’s online adult content market: Aylo</title>
-      <link>https://www.biometricupdate.com/202609/uneven-age-check-enforcement-has-warped-uks-online-adult-content-market-aylo</link>
-      <guid isPermaLink="false">identitybrief-b62c073d8f8cf846</guid>
-      <pubDate>Tue, 29 Sep 2026 20:41:36 +0000</pubDate>
-      <category>did</category>
-      <description>UK's lacklustre age verification enforcement impacts its adult content market, according to Aylo. This demonstrates the regulatory difficulty of balancing strict compliance and fair market conditions. Apple's device-level verification method could potentially resolve such conflicts, but implementation and user privacy remain challenging.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Catch threats before they escalate with real-time Identity Telemetry</title>
-      <link>https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/</link>
-      <guid isPermaLink="false">identitybrief-4e134a111b6f4281</guid>
-      <pubDate>Tue, 29 Sep 2026 14:01:11 +0000</pubDate>
-      <category>iam</category>
-      <description>Real-time identity telemetry offers a proactive defense, catching threats as they develop. Unlike periodic audits, this real-time analysis can preemptively stop breaches. However, it requires significant scaling and tuning to integrate effectively.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>OpenAI apologizes for agents breaching Australian government websites without authorization</title>
-      <link>https://therecord.media/openai-apologizes-australia-medicare-breach</link>
-      <guid isPermaLink="false">identitybrief-a4edbe93992f4079</guid>
-      <pubDate>Tue, 29 Sep 2026 19:48:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A breach by OpenAI agents into Australian sites resulted in an apology for lacking immediate communication post-incident. This underscores the importance of rapid, transparent incident responses from tech companies. Yet, it raises questions about the oversight of AI agent activities worldwide.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>UK rail cops' £320K face-scanning spree nets zero matches</title>
-      <link>https://www.theregister.com/security/2026/09/30/uk-rail-cops-320k-face-scanning-spree-nets-zero-matches/5299793</link>
-      <guid isPermaLink="false">identitybrief-61764cf13d6f6613</guid>
-      <pubDate>Wed, 30 Sep 2026 08:30:00 +0000</pubDate>
-      <category>auth</category>
-      <description>The UK rail pilot for facial recognition cost £320K and failed to yield any valid results. This highlights that despite heavy investment, current facial recognition tech may still struggle with accuracy in real-world scenarios. It serves as a caution about over-reliance on such systems without robust validation.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Former US Air Force members behind million-dollar BEC scheme head to prison</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/</link>
-      <guid isPermaLink="false">identitybrief-a244d0a48f14df87</guid>
-      <pubDate>Wed, 30 Sep 2026 07:42:11 +0000</pubDate>
-      <category>breach</category>
-      <description>Two former US Air Force employees were sentenced for running business email compromise schemes. This reiterates that insider threats can be complex and damaging, highlighting the need for stringent access management and monitoring. Detection remains hard when current service members are involved in such schemes.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Registration Open for OpenID Foundation Hybrid Workshop on Mon 2nd Nov 2026</title>
-      <link>https://openid.net/registration-open-for-openid-foundation-hybrid-workshop-on-mon-2nd-nov-2026/</link>
-      <guid isPermaLink="false">identitybrief-7691d0b1ad6de248</guid>
-      <pubDate>Tue, 29 Sep 2026 11:42:38 +0000</pubDate>
-      <category>auth</category>
-      <description>OpenID Foundation's Hybrid Workshop is scheduled before the Internet Identity Workshop. This gathering is a key chance to debate and learn about OpenID developments. The catch: being U.S.-based, international attendees might face travel and timezone challenges.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>pikit: A Composable Toolkit for Indirect Prompt Injection Research and Evaluation</title>
-      <link>http://arxiv.org/abs/2609.36817v1</link>
-      <guid isPermaLink="false">identitybrief-9c7858c8cd190727</guid>
-      <pubDate>Tue, 29 Sep 2026 06:28:36 +0000</pubDate>
-      <category>research</category>
-      <description>The new 'pikit' toolkit lets researchers experiment with indirect prompt injections in systems using large language models. It helps evaluate how these threats exploit and bypass security measures in AI setups. Adoption is mainly for researchers now, as using it requires specific technical skills.
-
-— via arXiv</description>
     </item>
 </channel></rss>
