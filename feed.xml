@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Why Active Directory weaknesses stay open for years in teams with one or two admins</title>
+      <link>https://www.helpnetsecurity.com/2026/10/16/david-fuhr-intcube-active-directory-security/</link>
+      <guid isPermaLink="false">identitybrief-b34f5773f3a02f17</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:12 +0000</pubDate>
+      <category>iam</category>
+      <description>An interview reveals how Active Directory weaknesses persist, especially in teams with only one or two admins. It underscores the complexity and resource demands of hardening AD environments against common threats. The downside: comprehensive security changes can sometimes risk system functionality if not tested properly.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Prove sues KYXStart over patent infringement, alleged contract interference</title>
+      <link>https://www.biometricupdate.com/202610/prove-sues-kyxstart-over-patent-infringement-alleged-contract-interference</link>
+      <guid isPermaLink="false">identitybrief-f1ea2fe047328b5d</guid>
+      <pubDate>Thu, 15 Oct 2026 17:30:10 +0000</pubDate>
+      <category>fraud</category>
+      <description>Prove sues KYXStart for allegedly infringing on identity verification patents. The legal battle illustrates the competitive tensions in the biometric verification industry. But for end-users, the immediate impact is minimal unless court decisions affect service continuity.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Inside DHS’s RIVR: How identity document verification is put to the test</title>
+      <link>https://www.biometricupdate.com/202610/inside-dhss-rivr-how-identity-document-verification-is-put-to-the-test</link>
+      <guid isPermaLink="false">identitybrief-c66fa2e12ecee9ef</guid>
+      <pubDate>Thu, 15 Oct 2026 17:27:32 +0000</pubDate>
+      <category>fraud</category>
+      <description>DHS's RIVR tests various identity document verification methods. This helps identify weaknesses across commercial and government systems, aiming to improve credential legitimacy checks. The catch: the tests do not represent real-world conditions perfectly, limiting direct application of findings.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>DHS audit exposes TSA access control failures amid biometric expansion</title>
+      <link>https://www.biometricupdate.com/202610/dhs-audit-exposes-tsa-access-control-failures-amid-biometric-expansion</link>
+      <guid isPermaLink="false">identitybrief-621551b92f341991</guid>
+      <pubDate>Thu, 15 Oct 2026 17:19:30 +0000</pubDate>
+      <category>auth</category>
+      <description>A DHS audit highlights TSA's access control failures amid an expansion of biometric screening. This raises concerns over how oversight may lag behind technological adoption. The overlooked detail: improper management of service accounts could invite risks if not promptly corrected.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Securing identity documents around the world, with Troy Group’s Mark Bond and Jean Cavalier</title>
+      <link>https://identityweek.net/securing-identity-documents-around-the-world-with-troy-groups-mark-bond-and-jean-cavalier/</link>
+      <guid isPermaLink="false">identitybrief-8ba1d0aeb37c45bf</guid>
+      <pubDate>Thu, 15 Oct 2026 15:56:11 +0000</pubDate>
+      <category>iam</category>
+      <description>Troy Group discusses the importance of securing physical identity documents amid digital shifts. This serves as a reminder that not all identity factors are digital yet. However, their emphasis primarily lies on physical security, potentially overlooking intertwined digital elements.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>7 Billion Passkeys and Counting: The Next Chapter of Passwordless Authentication</title>
+      <link>https://fidoalliance.org/7-billion-passkeys-and-counting-the-next-chapter-of-passwordless-authentication/</link>
+      <guid isPermaLink="false">identitybrief-cce5506c1250b89d</guid>
+      <pubDate>Thu, 15 Oct 2026 12:56:10 +0000</pubDate>
+      <category>auth</category>
+      <description>The FIDO Alliance reports that 7 billion passkeys are now in use globally. This milestone shows passkeys are becoming a staple in authentication, making systems more resilient to phishing. The catch: If a user's device fails or is lost, account recovery without passwords remains tricky.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing</title>
+      <link>https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html</link>
+      <guid isPermaLink="false">identitybrief-f909b9dee009b4a3</guid>
+      <pubDate>Fri, 16 Oct 2026 06:53:09 +0000</pubDate>
+      <category>iam</category>
+      <description>CERT-In warns about AI agents accessing sensitive data in Indian organizations during testing. The issue highlights the potential risks of AI systems inadvertently breaching data controls. The big problem: many organizations didn't detect the unauthorized access, showing a gap in monitoring capabilities.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Passkey Index 2026</title>
+      <link>https://fidoalliance.org/passkey-index-2026/</link>
+      <guid isPermaLink="false">identitybrief-ee374c5e78c50210</guid>
+      <pubDate>Thu, 15 Oct 2026 12:56:34 +0000</pubDate>
+      <category>auth</category>
+      <description>The Passkey Index 2026 outlines the transition from availability to active use of passkeys. This reflects a growing shift towards stronger authentication means across users. However, like the 7 billion milestone report, it still doesn't address concerns over seamless recovery from device loss.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>No click required: How the ad industry became a pipeline for mercenary spyware</title>
+      <link>https://www.csoonline.com/article/4236143/no-click-required-how-the-ad-industry-became-a-pipeline-for-mercenary-spyware.html</link>
+      <guid isPermaLink="false">identitybrief-1013386c5bfbe68d</guid>
+      <pubDate>Fri, 16 Oct 2026 01:02:34 +0000</pubDate>
+      <category>breach</category>
+      <description>CSO Online explores how the ad industry can channel spyware through zero-click methods. This trend presents a significant privacy risk as users don't even need to interact to be compromised. Fingerprinting and profiling happen silently, making it harder to detect and block.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>ADT CG responds to HESC research security consultation</title>
+      <link>https://openid.net/adt-cg-responds-to-hesc-research-security-consultation/</link>
+      <guid isPermaLink="false">identitybrief-f1aae4039c3ed6f7</guid>
+      <pubDate>Thu, 15 Oct 2026 09:03:10 +0000</pubDate>
+      <category>auth</category>
+      <description>The ADT CG responds to Australia's research security consultation, pointing out a lack of common identity verification standards. This issue matters for research integrity and participant accountability. But it's all in early stages, with no agreed standard yet.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale</title>
+      <link>http://arxiv.org/abs/2610.22301v1</link>
+      <guid isPermaLink="false">identitybrief-ef28dfe2ebe04fa2</guid>
+      <pubDate>Thu, 15 Oct 2026 17:48:10 +0000</pubDate>
+      <category>research</category>
+      <description>A study analyses a vulnerability in MCP servers that could allow filesystem access beyond agreed parameters. This highlights a universal challenge in securing AI interactions with host systems. The flaw: current countermeasures may still not fully prevent attacker-manipulated operations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization</title>
+      <link>http://arxiv.org/abs/2610.21063v1</link>
+      <guid isPermaLink="false">identitybrief-53f94bea6e32160c</guid>
+      <pubDate>Thu, 15 Oct 2026 01:11:23 +0000</pubDate>
+      <category>research</category>
+      <description>Research explores the need for precise step-up authorization for AI agents. The key is ensuring approvals can't be spoofed or manipulated. Still, no industry-wide solution exists, leaving developers to rely on scattered practices.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs</title>
+      <link>http://arxiv.org/abs/2610.22148v1</link>
+      <guid isPermaLink="false">identitybrief-1acf7238fdc18c62</guid>
+      <pubDate>Thu, 15 Oct 2026 16:17:48 +0000</pubDate>
+      <category>research</category>
+      <description>A novel approach to mobile app fingerprinting via traffic behavior is proposed. This method could improve app tracking even under encrypted conditions. However, it could breach privacy standards if not regulated properly.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Beyond the login: Establishing an identity control plane in UKI retail</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUIwZmtCS1VFZ0VkRFFoYm02RTlvd2tteDliX2R5LXN4QVJHc2dNNEx5Tm43NFF5VkkzVEY1NG1zR1JSR0RaUk1MRUVmRFNWVkVYN1AyZlVUSm5reHpnUzJlV0U5dTJra1NNcTExUThaYzdTMTBYWS1jYVBnUFpXTHNfdTUxTlhhUE4tQ0JjSk9BUkZlWF8xbTNSYVJuYnh3N2c?oc=5</link>
+      <guid isPermaLink="false">identitybrief-3a6d1dca1622ee4e</guid>
+      <pubDate>Thu, 15 Oct 2026 13:10:21 +0000</pubDate>
+      <category>auth</category>
+      <description>SailPoint discusses establishing an identity control plane in UKI retail settings. This reflects on how identity management can enhance customer and employee verification processes. Yet, it's unclear how extensively this approach is being implemented or adapted industry-wide.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>Product showcase: GuardOS checks QR links, scans for data breaches, and filters Safari content</title>
       <link>https://www.helpnetsecurity.com/2026/10/15/product-showcase-guardos/</link>
       <guid isPermaLink="false">identitybrief-582e823ceb2ee1f9</guid>
@@ -1362,145 +1502,5 @@
       <description>Dell patched 18 critical vulnerabilities affecting its software platforms. These flaws could let attackers bypass authentication and gain critical access, highlighting the vital need for regular updates. The immediate challenge: ensure all affected environments install these patches promptly.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>Despite ShinyHunters arrests after FBI jobs data breach, enterprises still have no answers about PeopleSoft risks</title>
-      <link>https://www.csoonline.com/article/4230892/despite-shinyhunters-arrests-after-fbi-jobs-data-breach-enterprises-still-have-no-answers-about-peoplesoft-risks.html</link>
-      <guid isPermaLink="false">identitybrief-d44a239d5cbf7583</guid>
-      <pubDate>Tue, 06 Oct 2026 01:02:05 +0000</pubDate>
-      <category>breach</category>
-      <description>Despite arrests following an FBI job portal breach, concerns about PeopleSoft's security remain. This highlights ongoing risks in enterprise software management. The stagnation: no official guidance yet from PeopleSoft complicates a coordinated response.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>From Studio to Stream: Why Music Needs Content Credentials Now</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWTRXVll6bHEzeGlOWEctbzQyWWFwbjJGRnhEU21VSEphRTNhemhybHRfVHFYSmZOSVdMS0VBSHBSa0JkdUVpMjBtMFBiNWtpa1gyWDhvSjNrOWx2U1QzNEI3ZVlpZnlMcU9LNy1PZw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-1ab9155c1d0e1b5c</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Content credentials are becoming crucial in the music industry to combat fraudulent distribution. This new layer of protection is vital against piracy and unauthorized use. Its complexity lies in industry-wide adoption and consistent integration across platforms.
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>Compromise Is Not Consequence: Evaluating Task-Scoped Authorization in LLM Agents with Paired Replay</title>
-      <link>http://arxiv.org/abs/2610.05840v1</link>
-      <guid isPermaLink="false">identitybrief-65273ac1dbfab185</guid>
-      <pubDate>Mon, 05 Oct 2026 05:47:08 +0000</pubDate>
-      <category>research</category>
-      <description>Task-scoped authorization may prevent LLM agents from executing harmful tasks with valid credentials. The study shows promise for restricting AI tools' access scope effectively. But, as it's experimental, it'll take time to see industry adoption and real-world efficacy.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>1Password named a leader in the GigaOm Radar for Enterprise Password Management</title>
-      <link>https://1password.com/blog/gigaom-radar-for-enterprise-password-management</link>
-      <guid isPermaLink="false">identitybrief-aaf00e306b5f24f2</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>1Password leads in the enterprise password management radar by GigaOm. It now emphasizes passwordless access and breach intelligence, beyond simple password storage. However, its full capabilities require investment in complementary infrastructure, posing barriers for smaller teams.
-
-— via 1Password</description>
-    </item>
-    <item>
-      <title>Keyorix: Open-source secrets management for teams that can’t use SaaS</title>
-      <link>https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/</link>
-      <guid isPermaLink="false">identitybrief-6cff93fb0080cdd5</guid>
-      <pubDate>Mon, 05 Oct 2026 05:00:57 +0000</pubDate>
-      <category>auth</category>
-      <description>Keyorix, a new open-source secrets manager, is available for teams needing on-premise solutions. It allows sensitive credentials to remain secure internally without reliance on cloud services. The catch: being open-source and independent of cloud, maintenance and expertise become your responsibility.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline</title>
-      <link>https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html</link>
-      <guid isPermaLink="false">identitybrief-0c8dfb68badd7427</guid>
-      <pubDate>Mon, 05 Oct 2026 06:40:19 +0000</pubDate>
-      <category>breach</category>
-      <description>A new zero-day in Citrix NetScaler can bring down SAML setups, exploited in targeted attacks. Uninterrupted SAML operations are vital for identity federation and single sign-on services. The fix is live, but if patching isn’t prioritized, access disruptions loom large.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>CBP tests walk-through facial recognition for long-elusive land-border biometric exit</title>
-      <link>https://www.biometricupdate.com/202610/cbp-tests-walk-through-facial-recognition-for-long-elusive-land-border-biometric-exit</link>
-      <guid isPermaLink="false">identitybrief-a8e91637f533aee6</guid>
-      <pubDate>Sun, 04 Oct 2026 21:16:47 +0000</pubDate>
-      <category>auth</category>
-      <description>CBP is piloting walk-through facial recognition technology for border exits. It aims to strengthen and automate biometric checks at land borders, potentially reducing human error. The catch is privacy concerns; new biometric initiatives often face public scrutiny.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Denmark Data Breach Exposes 8.8M People's Personal Data</title>
-      <link>https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger</link>
-      <guid isPermaLink="false">identitybrief-d99502a33fd4d930</guid>
-      <pubDate>Mon, 05 Oct 2026 08:09:36 +0000</pubDate>
-      <category>breach</category>
-      <description>Denmark suffered a breach that exposed the personal data of 8.8 million people. It highlights the critical need for robust access controls and incident response around personal data systems. The catch: similar breaches often reveal systemic issues that are not trivial to fix.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Alignment on verification with biometrics, credentials needed to deliver value</title>
-      <link>https://www.biometricupdate.com/202610/alignment-on-verification-with-biometrics-credentials-needed-to-deliver-value</link>
-      <guid isPermaLink="false">identitybrief-8f42c997b839d502</guid>
-      <pubDate>Sat, 03 Oct 2026 13:41:50 +0000</pubDate>
-      <category>did</category>
-      <description>Aligning biometric verification with digital credentials is on the agenda. Interoperability between systems and regulatory bodies ensures smoother digital identity programs across sectors. Yet, achieving global alignment is complex amid varying local regulations.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Quantum Fire with Delegated Cloning</title>
-      <link>http://arxiv.org/abs/2610.03593v1</link>
-      <guid isPermaLink="false">identitybrief-9594f393104ebeee</guid>
-      <pubDate>Fri, 02 Oct 2026 17:00:36 +0000</pubDate>
-      <category>research</category>
-      <description>Researchers introduce 'Quantum Fire,' a quantum state for access control. It allows designated entities to clone quantum states, limiting access effectively. The downside: practical implementation requires advanced quantum capabilities most teams lack.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>A Secure dToF LiDAR SoC with Dual-Domain Fingerprinting and Event-Driven AFE Circuit Achieving Sensor-Level Attack Resilience</title>
-      <link>http://arxiv.org/abs/2610.03562v1</link>
-      <guid isPermaLink="false">identitybrief-18aeb7b0a72eb948</guid>
-      <pubDate>Fri, 02 Oct 2026 16:40:26 +0000</pubDate>
-      <category>research</category>
-      <description>A new LiDAR SoC promises resilience against spoofing attacks. By authenticating signals in a dual-domain space, it improves security for autonomous systems. Technology specifics are cutting-edge, but integrating with existing platforms will be challenging.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>PrivDev: Mapping Static-Analysis Data Types to DPV</title>
-      <link>http://arxiv.org/abs/2610.03518v1</link>
-      <guid isPermaLink="false">identitybrief-281592f718154817</guid>
-      <pubDate>Fri, 02 Oct 2026 16:11:45 +0000</pubDate>
-      <category>research</category>
-      <description>PrivDev project maps static-analysis data types to privacy vocabularies. This enhances how personal data is classified and protected under frameworks like GDPR. The hurdle is the technique's reliance on AI for complex mappings, which isn’t foolproof.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Latin America expands collaborative DPI push through CLARCIEV, 50-in-5</title>
-      <link>https://www.biometricupdate.com/202610/latin-america-expands-collaborative-dpi-push-through-clarciev-50-in-5</link>
-      <guid isPermaLink="false">identitybrief-84c76a08da30ceaf</guid>
-      <pubDate>Fri, 02 Oct 2026 21:41:10 +0000</pubDate>
-      <category>iam</category>
-      <description>Latin America boosts digital identity infrastructure with the '50-in-5' initiative. Collaborative regional efforts aim to strengthen civil registration and identity systems across the region. However, varying political climates might slow uniform adoption.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access</title>
-      <link>https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html</link>
-      <guid isPermaLink="false">identitybrief-e712349506155b3e</guid>
-      <pubDate>Wed, 30 Sep 2026 10:45:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>A phishing campaign targets US executives by hijacking Microsoft 365 sessions. This highlights the veneer of traditional phishing defense methods. Without multi-faceted identity-based security and vigilance, similar attacks pose substantial risks.
-
-— via The Hacker News</description>
     </item>
 </channel></rss>
