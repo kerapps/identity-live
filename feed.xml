@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>When neighbourhood watch becomes a biometric surveillance network</title>
+      <link>https://www.biometricupdate.com/202610/when-neighbourhood-watch-becomes-a-biometric-surveillance-network</link>
+      <guid isPermaLink="false">identitybrief-c879960ea5972733</guid>
+      <pubDate>Mon, 19 Oct 2026 07:52:12 +0000</pubDate>
+      <category>auth</category>
+      <description>Amazon's Ring doorbell now offers UK households a Neighbours app, turning front doors into biometric surveillance points. This shift makes facial and motion recognition a part of daily life, integrating security into community apps. However, this raises significant privacy concerns as data from these devices could be misused or mishandled.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation</title>
+      <link>http://arxiv.org/abs/2610.23685v1</link>
+      <guid isPermaLink="false">identitybrief-6fcf7689e6b4f645</guid>
+      <pubDate>Fri, 16 Oct 2026 16:14:58 +0000</pubDate>
+      <category>research</category>
+      <description>HardEval is a new AI-driven benchmark aiming to execute and verify security configuration improvements. It ensures that security guidelines translate into effective changes across systems, highlighting AI's role in system compliance. But it's currently a benchmark in development, not yet a ready-to-deploy solution.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Does what we call AI change how we govern it?</title>
+      <link>https://www.biometricupdate.com/202610/does-what-we-call-ai-change-how-we-govern-it</link>
+      <guid isPermaLink="false">identitybrief-950b3f293861bcc8</guid>
+      <pubDate>Sat, 17 Oct 2026 15:20:47 +0000</pubDate>
+      <category>auth</category>
+      <description>A post explores how the terminology around AI, specifically in biometrics, influences regulatory approaches. Governance models often adapt to how these technologies are framed, impacting authentication strategies. This semantic shift can lead to mismatches between technical potential and regulatory oversight.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>An Agentic ENF Framework for Forensic Video Authentication Against Generative AI</title>
+      <link>http://arxiv.org/abs/2610.22440v1</link>
+      <guid isPermaLink="false">identitybrief-5746be6f96e95b8b</guid>
+      <pubDate>Thu, 15 Oct 2026 14:44:48 +0000</pubDate>
+      <category>research</category>
+      <description>A new forensic framework uses the electric network frequency to authenticate videos against deepfakes. This method could enhance trust in video authenticity by bypassing technological artefacts generators. Its effectiveness depends on the video's audio presence and rolling-shutter, limiting use in silent or fixed-shutter footage.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Cryptographically Secure Agent-to-Agent Communication in Multi-Agent Systems</title>
+      <link>http://arxiv.org/abs/2610.23078v1</link>
+      <guid isPermaLink="false">identitybrief-cb95a535145fc8b7</guid>
+      <pubDate>Fri, 16 Oct 2026 07:49:54 +0000</pubDate>
+      <category>research</category>
+      <description>A study surveys threats in agent-to-agent communications and proposes a zero-trust architecture for enhanced security. The solution leverages decentralized identifiers and secure messaging, boosting identity management in dynamic multi-agent systems. Real-world implementation will require significant architectural changes and integration efforts.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Public services should drive DPI investment, says ID4Africa’s Atick</title>
+      <link>https://www.biometricupdate.com/202610/public-services-should-drive-dpi-investment-says-id4africas-atick</link>
+      <guid isPermaLink="false">identitybrief-f8e60f61a04beaa3</guid>
+      <pubDate>Fri, 16 Oct 2026 16:50:19 +0000</pubDate>
+      <category>did</category>
+      <description>Dr. Joseph Atick suggests public services should prioritize driving digital public infrastructure (DPI) investments. By aligning national goals with DPI projects, nations can effectively target resources and fill infrastructure gaps. Implementing this approach requires balancing international support with local needs assessments.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Hackers abuse the Ivanti Connect Secure bug to gain access without accounts</title>
+      <link>https://www.csoonline.com/article/4235129/hackers-abuse-the-ivanti-connect-secure-bug-to-gain-access-without-accounts.html</link>
+      <guid isPermaLink="false">identitybrief-c4ec27c9af9a1763</guid>
+      <pubDate>Wed, 14 Oct 2026 11:46:45 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers exploited an Ivanti Connect Secure bug for unauthorized access, executing arbitrary commands. Highlighting the importance of timely vulnerability management, this serves as a cautionary tale for patch delays. Exploits occurred before full mitigation, showcasing the imperative for rapid deployment of security fixes.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>The world’s most important event in identity. 115+ countries. One room 🌎</title>
+      <link>https://identityweek.net/the-worlds-most-important-event-in-identity-115-countries-one-room-%f0%9f%8c%8e/</link>
+      <guid isPermaLink="false">identitybrief-a06de488bbd5da11</guid>
+      <pubDate>Thu, 15 Oct 2026 15:05:57 +0000</pubDate>
+      <category>iam</category>
+      <description>Identity Week Europe has become a focal event for identity professionals, promising high returns on time investment. It's a strategic gathering for leaders looking to understand global identity trends and solutions. However, the ROI depends heavily on engagement quality, not just attendance numbers.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Ransomware extortion gets personal as attackers target employees’ families</title>
+      <link>https://www.csoonline.com/article/4235782/ransomware-extortion-gets-personal-as-attackers-target-employees-families.html</link>
+      <guid isPermaLink="false">identitybrief-b333a11e2a404642</guid>
+      <pubDate>Thu, 15 Oct 2026 11:39:45 +0000</pubDate>
+      <category>breach</category>
+      <description>Ransomware tactics now include AI and threats to employees' families, adding extra pressure to victims. This evolution of extortion emphasizes the need for robust identity management systems as attackers target vulnerabilities. These social tactics complicate defenses by extending threat vectors beyond IT systems.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories</title>
+      <link>https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html</link>
+      <guid isPermaLink="false">identitybrief-1d72630baefb7528</guid>
+      <pubDate>Thu, 15 Oct 2026 08:45:10 +0000</pubDate>
+      <category>breach</category>
+      <description>GhostAction compromised 1,900 GitHub accounts, impacting 30,000 repositories to extract sensitive CI secrets. This underscores the criticality of strong credential hygiene and monitoring in code environments. The attacker’s focus on public repositories reveals the potential fallout from overlooked secure coding practices.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches</title>
+      <link>https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html</link>
+      <guid isPermaLink="false">identitybrief-a713f2422da2706f</guid>
+      <pubDate>Thu, 15 Oct 2026 06:43:08 +0000</pubDate>
+      <category>breach</category>
+      <description>Two AhsayCBS flaws were exploited to deploy web shells and cryptocurrency miners, prompting new patches. It highlights the danger of incomplete patches in leaving systems open to exploitation. Users of affected systems should promptly apply the updated fixes to mitigate further risks.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Yam Store: The Phishing Network Behind a Billion Messages</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages</link>
+      <guid isPermaLink="false">identitybrief-7e13ef5a175ca27b</guid>
+      <pubDate>Wed, 14 Oct 2026 20:57:16 +0000</pubDate>
+      <category>breach</category>
+      <description>Yam Store operates a vast phishing network, pushing over a billion messages globally via cloud infrastructure. Identity teams should be vigilant about emerging phishing methods using readily available resources. The scale shows how massive operations bypass basic security, demanding more sophisticated defenses.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat</title>
+      <link>https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat</link>
+      <guid isPermaLink="false">identitybrief-914ae5b00e0a431f</guid>
+      <pubDate>Wed, 14 Oct 2026 20:09:42 +0000</pubDate>
+      <category>auth</category>
+      <description>A flaw in the Claude Code Desktop preview pane allows silent credential theft, including SSH and AWS keys. This zero-click exploit bypasses typical user interactions, highlighting the need for proactive security measures. Developers should be wary and apply updates if using affected software.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Digital Identity Without Surveillance: Understanding SEDI's No-Phone-Home Principle</title>
+      <link>https://blog.spruceid.com/digital-identity-without-surveillance-understanding-sedis-no-phone-home-principle/</link>
+      <guid isPermaLink="false">identitybrief-3fb4f05aecf13420</guid>
+      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
+      <category>did</category>
+      <description>Utah's SEDI statute's no-phone-home principle mandates privacy in digital identity verification. It challenges systems to verify independently, reducing centralized oversight of credential use. Adopting such privacy-first principles requires rethinking architecture to ensure compliance without losing efficiency.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>GAO finds US agencies unprepared for quantum threats to digital identity</title>
       <link>https://www.biometricupdate.com/202610/gao-finds-us-agencies-unprepared-for-quantum-threats-to-digital-identity</link>
       <guid isPermaLink="false">identitybrief-af1de77b6afff815</guid>
@@ -1362,145 +1502,5 @@
       <description>A new paper discusses SAEID, a framework for secure FPGA cloud deployment. This offers a way to integrate authorization and authentication without certificates. The downside is this approach is theoretical: not yet proven in real-world deployment environments.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Post-quantum authentication: Why organizations should start testing certificate ecosystems now</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/</link>
-      <guid isPermaLink="false">identitybrief-dfdbbd12cd51ab2d</guid>
-      <pubDate>Thu, 08 Oct 2026 20:44:28 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft advises starting post-quantum certificate ecosystem testing now. This forward-thinking approach could buffer future quantum threats. The challenge: early adopters must invest in today's resources without immediate ROI.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>CPU-Auth: Device Fingerprinting for Authentication via DVFS Side-Channel</title>
-      <link>http://arxiv.org/abs/2610.10766v1</link>
-      <guid isPermaLink="false">identitybrief-98ecdadc57297d93</guid>
-      <pubDate>Wed, 07 Oct 2026 18:27:17 +0000</pubDate>
-      <category>research</category>
-      <description>CPU-Auth proposes using device fingerprinting through DVFS side-channels for authentication. This could create a new, effective authentication factor by leveraging device behavior. But it remains a theory: practical application and security implications need thorough vetting.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>One Node, Two Roles: Simultaneous Contests for Validation and Attention in Rollups</title>
-      <link>http://arxiv.org/abs/2610.12220v1</link>
-      <guid isPermaLink="false">identitybrief-7590a121b11881e4</guid>
-      <pubDate>Thu, 08 Oct 2026 16:05:12 +0000</pubDate>
-      <category>research</category>
-      <description>A paper discusses 'One Node, Two Roles' in rollup validation, focusing on cost-effective state execution. It introduces a mixed role for nodes to encourage broader participation without sacrificing security. Practical adoption is limited as the model is speculative and unproven.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Init demo recap: Rami Banna provisions WorkOS from an agent with Stripe Projects</title>
-      <link>https://workos.com/blog/init-demo-recap-rami-banna-stripe-projects</link>
-      <guid isPermaLink="false">identitybrief-e70b213dd1f2ef89</guid>
-      <pubDate>Thu, 08 Oct 2026 23:29:31 +0000</pubDate>
-      <category>auth</category>
-      <description>An init demo shows Stripe's provisioning of WorkOS accounts via coding agents. This showcases automated credential handling, streamlining account setups. Yet, it's a demo: organizations will need to evaluate integration into existing frameworks.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>The people who know passkeys best are still typing passwords</title>
-      <link>https://www.helpnetsecurity.com/2026/10/08/passkey-adoption-typing-passwords/</link>
-      <guid isPermaLink="false">identitybrief-65fc64787b320155</guid>
-      <pubDate>Thu, 08 Oct 2026 04:30:20 +0000</pubDate>
-      <category>auth</category>
-      <description>Despite familiarity with passkeys, many security professionals still favor old-school passwords. The key issue is that passkeys, although known, aren't replacing usernames and passwords, often due to inertia or issuance practices. The catch is getting organizations to shift these habits, requiring both tech and cultural change.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Oracle Health Data Breach Tally Climbs to Nearly 20 Million</title>
-      <link>https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/</link>
-      <guid isPermaLink="false">identitybrief-8b8155d3cfe8f4d3</guid>
-      <pubDate>Thu, 08 Oct 2026 08:23:31 +0000</pubDate>
-      <category>breach</category>
-      <description>Oracle Health's breach now potentially affects nearly 20 million records. This expands the impact, suggesting broader gaps in data protection for large entities. The catch: remediation is ongoing — knowing exactly what data was exposed and securing it could take significant time.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Indonesia seeks facial liveness technology for national digital ID</title>
-      <link>https://www.biometricupdate.com/202610/indonesia-seeks-facial-liveness-technology-for-national-digital-id</link>
-      <guid isPermaLink="false">identitybrief-60daa834a61fa969</guid>
-      <pubDate>Wed, 07 Oct 2026 21:26:07 +0000</pubDate>
-      <category>did</category>
-      <description>Indonesia seeks facial liveness detection tech for its digital ID project. This could enhance remote identity verification and curb identity fraud. The catch: successful deployment of such tech demands extensive testing and privacy safeguards to avoid exclusion errors.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm</title>
-      <link>https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html</link>
-      <guid isPermaLink="false">identitybrief-6877a62a0bf960dd</guid>
-      <pubDate>Thu, 08 Oct 2026 05:46:20 +0000</pubDate>
-      <category>breach</category>
-      <description>A compromised npm package, tensorlake, delivered a credential-stealing worm. It demonstrates the vulnerability of software supply chains and the need for rigorous package vetting. The catch: dependency on open source can leave companies wide open unless they implement strict controls and regular audits.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Biometric authentication still needs an accessible fallback</title>
-      <link>https://www.biometricupdate.com/202610/biometric-authentication-still-needs-an-accessible-fallback</link>
-      <guid isPermaLink="false">identitybrief-a0fdda2f72711010</guid>
-      <pubDate>Wed, 07 Oct 2026 21:10:02 +0000</pubDate>
-      <category>auth</category>
-      <description>Biometric authentication’s accessibility challenges addressed. Recognition failures pose usability issues for the visually impaired, highlighting the need for reliable back-ups. The catch: many systems lack comprehensive accessibility, risking user lockout and usability concerns.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Twyn earns iBeta Level 2 for facial liveness detection</title>
-      <link>https://www.biometricupdate.com/202610/twyn-earns-ibeta-level-2-for-facial-liveness-detection</link>
-      <guid isPermaLink="false">identitybrief-0a021d2f031fc927</guid>
-      <pubDate>Wed, 07 Oct 2026 20:51:50 +0000</pubDate>
-      <category>fraud</category>
-      <description>Level 2 compliance achieved by Twyn for facial liveness detection. This compliance ensures stronger identity verification through robust attack detection. The catch: while the standard is a positive step, its effectiveness will vary depending on the implementation context.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Finland prepares for European digital ID wallets ahead of legislative launch</title>
-      <link>https://identityweek.net/finland-prepares-for-european-digital-id-wallets-ahead-of-legislative-launch/</link>
-      <guid isPermaLink="false">identitybrief-68015aeb02a24607</guid>
-      <pubDate>Wed, 07 Oct 2026 15:43:41 +0000</pubDate>
-      <category>did</category>
-      <description>Finland prepares its digital ID framework to align with European standards. This sets the path for potential pan-European use, simplifying cross-border verification. The catch: successful rollout depends on seamless integration and user adoption.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>We are fighting phishing at the wrong layer</title>
-      <link>https://www.csoonline.com/article/4231923/we-are-fighting-phishing-at-the-wrong-layer.html</link>
-      <guid isPermaLink="false">identitybrief-7846f8792271b916</guid>
-      <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A post argues we’re tackling phishing ineffectively. It highlights that while we block phishing domains efficiently, attackers quickly adapt, rendering our expensive defenses less impactful. The catch: we need to beef up technical defenses at more strategic layers, rather than merely counting blocked domains.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>GitHub adds AI to catch passwords before a code push</title>
-      <link>https://www.helpnetsecurity.com/2026/10/08/github-push-protection-modernbert/</link>
-      <guid isPermaLink="false">identitybrief-0b1de88b8f4585b2</guid>
-      <pubDate>Thu, 08 Oct 2026 09:02:11 +0000</pubDate>
-      <category>auth</category>
-      <description>GitHub's new AI tool catches passwords before they're committed to code repositories. This helps prevent exposing sensitive credentials and improves code security by alerting developers in real-time. The catch: AI can still miss novel formats or clever obfuscation, emphasizing the need for human oversight.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Sponsor the conference where ecosystems learn to scale</title>
-      <link>https://openid.net/sponsor-the-conference-where-ecosystems-learn-to-scale/</link>
-      <guid isPermaLink="false">identitybrief-4dd011405630dc64</guid>
-      <pubDate>Wed, 07 Oct 2026 13:22:53 +0000</pubDate>
-      <category>auth</category>
-      <description>A chance to sponsor the OpenID Well-Known Conference in 2027. It’s an opportunity for organizations to engage with identity ecosystem leaders. The catch: sponsoring might be more beneficial for large companies with spare marketing budget than smaller players.
-
-— via OpenID Foundation</description>
     </item>
 </channel></rss>
