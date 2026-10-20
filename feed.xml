@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Your frontline workers have a workaround for that MFA prompt</title>
+      <link>https://www.helpnetsecurity.com/2026/10/20/frontline-worker-authentication-passwordless/</link>
+      <guid isPermaLink="false">identitybrief-c99937e0128511a6</guid>
+      <pubDate>Tue, 20 Oct 2026 04:30:18 +0000</pubDate>
+      <category>auth</category>
+      <description>Frontline workers in healthcare and manufacturing are bypassing slow and unreliable logins, often by sharing credentials. This trend breaks the crucial link between a digital account and its real user. Bear in mind: These bypasses are a symptom of broader infrastructure problems often calling for more comprehensive system upgrades.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>EasyDMARC and GMO GlobalSign connect email authentication with verified branding</title>
+      <link>https://www.helpnetsecurity.com/2026/10/20/easydmarc-gmo-globalsign-partnership/</link>
+      <guid isPermaLink="false">identitybrief-cf3fbd801cf1a687</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:13 +0000</pubDate>
+      <category>auth</category>
+      <description>EasyDMARC and GMO GlobalSign are teaming up to enhance email authentication with verified branding. This collaboration aims to bolster trust in email identities through improved DNS security and sender authentication. The catch: Implementing these improvements may be complex due to integration with existing email systems, especially for large organizations.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Germany sets graduated age model for social media ahead of d-you wallet launch</title>
+      <link>https://www.biometricupdate.com/202610/germany-sets-graduated-age-model-for-social-media-ahead-of-d-you-wallet-launch</link>
+      <guid isPermaLink="false">identitybrief-2e16bfa9b8867d19</guid>
+      <pubDate>Mon, 19 Oct 2026 20:03:03 +0000</pubDate>
+      <category>did</category>
+      <description>Germany is setting age restrictions on social media and prepping its digital identity wallet. This is an effort to control social media use amongst minors more responsibly. However, implementation of such policies might be inconsistent until wider EU coordination takes place.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>HID sells $58M PKI business to Vista Equity Partners</title>
+      <link>https://www.biometricupdate.com/202610/hid-sells-58m-pki-business-to-vista-equity-partners</link>
+      <guid isPermaLink="false">identitybrief-5f62e4e408f3f79e</guid>
+      <pubDate>Mon, 19 Oct 2026 19:20:51 +0000</pubDate>
+      <category>auth</category>
+      <description>HID is selling its $58M PKI business to Vista Equity Partners. The deal highlights a shift in focus towards integrated physical and digital access control solutions. But, divesting a PKI unit might create gaps in competencies for customers reliant on these services.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>UK digital ID providers improve accessibility, but biometric alternatives lag</title>
+      <link>https://www.biometricupdate.com/202610/uk-digital-id-providers-improve-accessibility-but-biometric-alternatives-lag</link>
+      <guid isPermaLink="false">identitybrief-1dd992bcf578e0e9</guid>
+      <pubDate>Mon, 19 Oct 2026 15:48:42 +0000</pubDate>
+      <category>did</category>
+      <description>UK digital ID providers are pushing for greater accessibility, but biometric options lag. Although efforts are underway to improve inclusion in digital identity systems, biometric technology isn't keeping pace. Slow adoption and development of biometric alternatives could hinder the overall accessibility goals.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Designing safe, functioning DPI that establishes clear boundaries</title>
+      <link>https://identityweek.net/designing-safe-functioning-dpi-that-establishes-clear-boundaries/</link>
+      <guid isPermaLink="false">identitybrief-3ef4085c1eeeb028</guid>
+      <pubDate>Mon, 19 Oct 2026 11:43:18 +0000</pubDate>
+      <category>did</category>
+      <description>Deep Packet Inspection (DPI) is being designed to establish clearer boundaries and safety. This effort aims to enhance biometric and digital identity systems' security. However, rolling out effective DPI solutions that users trust may present challenges in user perception and technology integration.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Inside the Underground Market for Know Your Client Services</title>
+      <link>https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/</link>
+      <guid isPermaLink="false">identitybrief-a7ef4531de005b4d</guid>
+      <pubDate>Mon, 19 Oct 2026 14:00:10 +0000</pubDate>
+      <category>fraud</category>
+      <description>Cybercriminals are exploiting the market for fake Know Your Client (KYC) services. They use forged ID documents and deepfake technology to bypass checks. The ongoing risk is that these services feed into a cycle of illegitimate identity verification practices that are challenging to crack down on.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Authentication Issues Cost Frontline Organizations Thousands of Working Hours Each Year According to Research from Imprivata and FIDO Alliance</title>
+      <link>https://fidoalliance.org/authentication-issues-cost-frontline-organizations-thousands-of-working-hours-each-year-according-to-research-from-imprivata-and-fido-alliance/</link>
+      <guid isPermaLink="false">identitybrief-2eacd84b5983db09</guid>
+      <pubDate>Mon, 19 Oct 2026 13:12:21 +0000</pubDate>
+      <category>fraud</category>
+      <description>It turns out authentication issues are costing frontline organizations thousands of working hours each year, as revealed in research by Imprivata and the FIDO Alliance. The main issue is these authentication problems lead to delayed tasks like patient care and force security workarounds. The catch: this is based on a survey, so it's more descriptive than prescriptive — action might require deeper dives.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Authenticate 2026 day 1: From passkeys to the new frontier</title>
+      <link>https://fidoalliance.org/authenticate-2026-day-1-from-passkeys-to-the-new-frontier/</link>
+      <guid isPermaLink="false">identitybrief-2a8fd931676d63e9</guid>
+      <pubDate>Mon, 19 Oct 2026 13:08:27 +0000</pubDate>
+      <category>auth</category>
+      <description>Authenticate 2026 kicked off with conversations on passkeys and new authentication strategies. Passkeys are touted as a seamless and secure alternative to passwords, aiming to reduce the risk of phishing. The challenge: Passkey adoption is still in early stages for many, with infrastructure and user retraining hurdles.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Frontline Friction: The State of Authentication for Frontline Workers</title>
+      <link>https://fidoalliance.org/frontline-friction-the-state-of-authentication-for-frontline-workers/</link>
+      <guid isPermaLink="false">identitybrief-dda167551a74b095</guid>
+      <pubDate>Mon, 19 Oct 2026 13:04:57 +0000</pubDate>
+      <category>auth</category>
+      <description>A new report highlights that authentication friction significantly affects frontline workers, delaying crucial operations. The study shows how these delays can cause major consequences like postponed patient care. Remember, though: the report's insights are more about recognizing the issue rather than offering an out-of-the-box solution.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules</title>
+      <link>http://arxiv.org/abs/2610.26501v1</link>
+      <guid isPermaLink="false">identitybrief-3f9e8dddeedf618f</guid>
+      <pubDate>Mon, 19 Oct 2026 14:36:05 +0000</pubDate>
+      <category>research</category>
+      <description>ICANN is testing new technology for law enforcement to access non-public WHOIS info via single sign-on. This aims to help address urgent risks quickly. The snag: Privacy advocates might push back against the balance of access versus user privacy concerns.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ICANN testing tech to let law enforcement access non-public WHOIS info</title>
+      <link>https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036</link>
+      <guid isPermaLink="false">identitybrief-394cca3f8c173049</guid>
+      <pubDate>Tue, 20 Oct 2026 02:11:27 +0000</pubDate>
+      <category>auth</category>
+      <description>Single sign-on to help address imminent threats to life, critical infrastructure, or kids It landed in the last few hours.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Auditor-Assisted Summary-Channel Verification for Hosted LLM Identity Substitution</title>
+      <link>http://arxiv.org/abs/2610.25982v1</link>
+      <guid isPermaLink="false">identitybrief-97f321acf02e164b</guid>
+      <pubDate>Mon, 19 Oct 2026 08:09:11 +0000</pubDate>
+      <category>research</category>
+      <description>Research looks at how AI agents are trusted and verified using auditor-assisted frameworks. This helps ensure the models used are as claimed without direct access to internal logs. But, practical implementation may face resistance from providers as it adds a layer of external oversight.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>How to Stop Modern Healthcare Identity Attacks: AI Risks &amp; Defense Guide</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPRExGZ0NPNDcxMm51TTRGaVVXdkVXRldtT0JVVzR1Tlp1SHlUdnNHQU1VUk5HMnJIQ1h1SkNBcHE0eFRFZW1sS0M0Mld4WDNGSDRkSllJejI2ZEUtcU9SQ3ZsWWxSdDFBandNaUNrdndBSVZkM1RWQUpucS1GQkhxRGxfNm11MHZydXNOUzFiZw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-ada5824aab8fdd20</guid>
+      <pubDate>Mon, 19 Oct 2026 20:11:05 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta discusses AI risks and defenses in modern healthcare identity attacks. The focus is on protecting identities in rapidly digitizing healthcare settings. Despite the guide's valuable insights, the real-world application of AI defenses in healthcare might face resistance due to complexity and cost.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>When neighbourhood watch becomes a biometric surveillance network</title>
       <link>https://www.biometricupdate.com/202610/when-neighbourhood-watch-becomes-a-biometric-surveillance-network</link>
       <guid isPermaLink="false">identitybrief-c879960ea5972733</guid>
@@ -1362,145 +1502,5 @@
       <description>ASOS's recent breach reveals vulnerabilities in customer-facing SaaS solutions. It highlights how a compromised identity can ripple through a network with deeper impacts. Monitoring identities and safeguarding SaaS access points are more critical than ever.
 
 — via Dark Reading</description>
-    </item>
-    <item>
-      <title>Deepak Tewari on why privacy-preserving age verification starts on the device</title>
-      <link>https://liminal.co/articles/privacy-preserving-age-verification-deepak-tewari-friday-five/</link>
-      <guid isPermaLink="false">identitybrief-09fca554fe21a171</guid>
-      <pubDate>Fri, 09 Oct 2026 10:35:58 +0000</pubDate>
-      <category>did</category>
-      <description>A new take on age verification puts privacy at the forefront. It emphasizes customer privacy by keeping verification details on-device rather than sharing sensitive data between platforms. Implementing such approaches might be complex but could enhance trust.
-
-— via Liminal</description>
-    </item>
-    <item>
-      <title>AWS AgentCore security undone by prompt requesting credentials</title>
-      <link>https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436</link>
-      <guid isPermaLink="false">identitybrief-b36590152159ff4a</guid>
-      <pubDate>Fri, 09 Oct 2026 19:15:48 +0000</pubDate>
-      <category>auth</category>
-      <description>AWS faced a credential vulnerability when an AI requested identities from users. It's a stark reminder that credential management remains a weak spot, even in high-tech environments. Keeping credential requests secure and isolated is crucial for data integrity.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Characterizing Statistical Separability in TP-CRIV for Probabilistic AI Models</title>
-      <link>http://arxiv.org/abs/2610.11163v1</link>
-      <guid isPermaLink="false">identitybrief-577e57e7cd7bc641</guid>
-      <pubDate>Thu, 08 Oct 2026 03:22:59 +0000</pubDate>
-      <category>research</category>
-      <description>Third-party AI model verification examines the statistical reliability of identity assertions. It's a method still entangled with challenges regarding evidence sufficiency. The feet-dragging on resolution means reliable adoption depends on further advancements.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>7 Takeaways from SBC Summit 2026: Trust, Identity and Less Friction</title>
-      <link>https://www.jumio.com/sbc-summit-2026-takeaways/</link>
-      <guid isPermaLink="false">identitybrief-426b957119845ab2</guid>
-      <pubDate>Fri, 09 Oct 2026 16:24:16 +0000</pubDate>
-      <category>fraud</category>
-      <description>The SBC Summit highlighted trust and reduced friction in identity. Transitioning focus from just compliance to improving user experience could revolutionize identity systems. Businesses should consider this as the core of their identity strategies moving forward.
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>ROC looks beyond biometrics with unified Vision AI strategy</title>
-      <link>https://www.biometricupdate.com/202610/roc-looks-beyond-biometrics-with-unified-vision-ai-strategy</link>
-      <guid isPermaLink="false">identitybrief-2a150088d37af5ef</guid>
-      <pubDate>Thu, 08 Oct 2026 21:20:02 +0000</pubDate>
-      <category>did</category>
-      <description>ROC is expanding from just biometrics to a Unified Vision AI Platform for identity and security. This suggests a convergence of digital and physical security practices. However, the shift is strategic: the tech is still being developed and positioned in the market.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>NIST launches resource hub to support SP 800-63-4 implementation</title>
-      <link>https://www.biometricupdate.com/202610/nist-launches-resource-hub-to-support-sp-800-63-4-implementation</link>
-      <guid isPermaLink="false">identitybrief-a35dca5ce4cb8427</guid>
-      <pubDate>Thu, 08 Oct 2026 20:14:01 +0000</pubDate>
-      <category>did</category>
-      <description>NIST's new online hub supports the implementation of its SP 800-63-4 guidelines. It simplifies finding conformance and guidance documents for digital identity management. Note, this hub doesn't introduce new requirements—those remain unchanged within the existing SP 800-63-4 documents.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Access earned: how your credential keeps up with your career</title>
-      <link>https://www.biometricupdate.com/202610/access-earned-how-your-credential-keeps-up-with-your-career</link>
-      <guid isPermaLink="false">identitybrief-6dde7bb2a9d3d266</guid>
-      <pubDate>Fri, 09 Oct 2026 02:57:26 +0000</pubDate>
-      <category>auth</category>
-      <description>This exploration features how credentials adapt throughout a professional career in an access matrix. It highlights the fluidity and implicit trust in access control. Yet, it's conceptual: without specific implementation advice, translating this into practice may be challenging.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>EY treats IAM as a holistic business capability</title>
-      <link>https://identityweek.net/ey-treats-iam-as-a-holistic-business-capability/</link>
-      <guid isPermaLink="false">identitybrief-1c8ff441ce6b7bf1</guid>
-      <pubDate>Thu, 08 Oct 2026 14:50:54 +0000</pubDate>
-      <category>did</category>
-      <description>EY views IAM as a business capability rather than just a tech issue. This holistic approach could transform fragmented security practices into unified strategies. But the broad scope means initial rollout can be resource-intensive and require buy-in across many teams.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>ASOS links data breach to social engineering attack, credential theft</title>
-      <link>https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/</link>
-      <guid isPermaLink="false">identitybrief-1895b34f7907a3c0</guid>
-      <pubDate>Thu, 08 Oct 2026 11:42:46 +0000</pubDate>
-      <category>breach</category>
-      <description>ASOS reports a data breach resulting from social engineering and credential theft. For security teams, it underscores the vulnerability of human factors in security breaches. There aren't many details yet, so assessing the full impact is difficult.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Microsoft Teams to get support for third-party deepfake detection tools</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/</link>
-      <guid isPermaLink="false">identitybrief-1afb7d5617de2565</guid>
-      <pubDate>Thu, 08 Oct 2026 12:08:16 +0000</pubDate>
-      <category>fraud</category>
-      <description>Microsoft Teams will add support for third-party tools to detect deepfakes. This measures up against increasing impersonation threats to video meetings. However, effectiveness hinges on selecting the right third-party tools—no native solution yet.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>OIDF responds to EMVCo Agentic Payments framework draft</title>
-      <link>https://openid.net/oidf-responds-to-emvco-agentic-payments-framework-draft/</link>
-      <guid isPermaLink="false">identitybrief-d4e10361393eb41a</guid>
-      <pubDate>Thu, 08 Oct 2026 20:55:45 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Foundation has commented on EMVCo's draft framework for Agentic Payments. This signals a shift in how AI agents might handle payments, blurring lines between payments and identity verification. But it's early days: this framework is still in draft, not a final standard.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>OpenID Connect Ephemeral Subject Identifier 1.0 Final Specification Approved</title>
-      <link>https://openid.net/openid-connect-ephemeral-subject-identifier-1-0-final-specification-approved/</link>
-      <guid isPermaLink="false">identitybrief-003e006e452df376</guid>
-      <pubDate>Thu, 08 Oct 2026 12:31:33 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Connect Ephemeral Subject Identifier 1.0 has received final approval. It's key for services that need transient, privacy-preserving identifiers for users. The catch is uptake: organizations must implement it into their existing OpenID Connect flows.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>PCI SSC calls for human approval of AI agent actions involving cardholder data</title>
-      <link>https://www.helpnetsecurity.com/2026/10/09/pci-ssc-payment-environments-ai-security-guidance/</link>
-      <guid isPermaLink="false">identitybrief-43565c4f28e16342</guid>
-      <pubDate>Fri, 09 Oct 2026 05:00:25 +0000</pubDate>
-      <category>iam</category>
-      <description>The PCI SSC has issued guidance on the use of AI in payment environments. It emphasizes the need for human oversight in AI-driven processes involving cardholder data. However, this guidance is optional and existing PCI standards still take precedence.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Secure Aggregate Encryption with Identity-Based Authentication for Multi-Vendor FPGA Cloud Deployment</title>
-      <link>http://arxiv.org/abs/2610.11873v1</link>
-      <guid isPermaLink="false">identitybrief-3ea451746df07be1</guid>
-      <pubDate>Thu, 08 Oct 2026 12:46:37 +0000</pubDate>
-      <category>research</category>
-      <description>A new paper discusses SAEID, a framework for secure FPGA cloud deployment. This offers a way to integrate authorization and authentication without certificates. The downside is this approach is theoretical: not yet proven in real-world deployment environments.
-
-— via arXiv</description>
     </item>
 </channel></rss>
