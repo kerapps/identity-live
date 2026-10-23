@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Switzerland to launch optional biometric ID cards on November 2</title>
+      <link>https://www.biometricupdate.com/202610/switzerland-to-launch-optional-biometric-id-cards-on-november-2</link>
+      <guid isPermaLink="false">identitybrief-2d4da25f9c3caf75</guid>
+      <pubDate>Thu, 22 Oct 2026 18:48:36 +0000</pubDate>
+      <category>auth</category>
+      <description>Starting November 2, Switzerland offers optional biometric ID cards. These cards add another layer of security with facial and fingerprint biometrics. The catch: they're optional, so non-biometric IDs remain a potential weak link.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>French police use facial recognition, social media images to identify rioters</title>
+      <link>https://www.biometricupdate.com/202610/french-police-use-facial-recognition-social-media-images-to-identify-rioters</link>
+      <guid isPermaLink="false">identitybrief-ac897ed9be5375b7</guid>
+      <pubDate>Thu, 22 Oct 2026 19:09:29 +0000</pubDate>
+      <category>auth</category>
+      <description>French police are employing facial recognition with social media to track riot suspects. This tech's use raises significant privacy and surveillance concerns. It’s still dependent on the quality and legality of collected social media data.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Somalia enrolls citizens returning from Yemen for biometric national IDs</title>
+      <link>https://www.biometricupdate.com/202610/somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-ids</link>
+      <guid isPermaLink="false">identitybrief-d47dd9bc9a76a979</guid>
+      <pubDate>Thu, 22 Oct 2026 17:40:44 +0000</pubDate>
+      <category>did</category>
+      <description>Somalia is issuing biometric national ID cards to returning citizens from Yemen. This aims to streamline access to public services and improve identity verification. The initiative's limitation lies in its current scope, focusing only on returnees.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>UK Gov lays draft code of practice for digital identity ‘Information Gateway’</title>
+      <link>https://identityweek.net/uk-gov-lays-draft-code-of-practice-for-digital-identity-information-gateway/</link>
+      <guid isPermaLink="false">identitybrief-06b54d4724381be3</guid>
+      <pubDate>Thu, 22 Oct 2026 12:04:02 +0000</pubDate>
+      <category>did</category>
+      <description>The UK government is pushing a draft code for a digital identity data-sharing gateway. Public bodies will soon have clearer rules on sharing data with the private sector. The reach is limited to registered verification services and subject to the draft's approval.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Fingerprint uses AI coding tools to automate fraud detection setup</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/fingerprint-agentic-installation/</link>
+      <guid isPermaLink="false">identitybrief-213c6c17df5075da</guid>
+      <pubDate>Thu, 22 Oct 2026 11:45:24 +0000</pubDate>
+      <category>fraud</category>
+      <description>Fingerprint uses AI to speed up fraud detection deployment. The tool automates how device intelligence is set up, slashing deployment time. However, its effectiveness hinges on the chosen AI coding tool's capabilities.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Toronto crime tips org freezes operations after details of data breach come to light</title>
+      <link>https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach</link>
+      <guid isPermaLink="false">identitybrief-0589859b680b25bd</guid>
+      <pubDate>Thu, 22 Oct 2026 20:52:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Toronto's Crime Stoppers paused operations after a data breach was exposed. Revealing the timeline shows transparency but highlights vulnerability in information handling. The real test will be stronger future safeguards and faster response times.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Capcom confirms data breach affecting 11.7 million accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</link>
+      <guid isPermaLink="false">identitybrief-fc291b78824a72e6</guid>
+      <pubDate>Thu, 22 Oct 2026 20:22:45 +0000</pubDate>
+      <category>breach</category>
+      <description>Capcom confirms a breach affecting 11.7 million user accounts. Membership service vulnerabilities show the risks in customer data management. Response and recovery plans will be the focus for reducing future exposure.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Machine speed attacks require machine speed detection and response</title>
+      <link>https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</link>
+      <guid isPermaLink="false">identitybrief-49897ddbe2469767</guid>
+      <pubDate>Thu, 22 Oct 2026 14:02:12 +0000</pubDate>
+      <category>breach</category>
+      <description>Sponsored piece discusses the speed of modern assaults and responses. Highlights the need for swift automated detection solutions. Sponsored by Exaforce, which means it's from the perspective of promoting their agenda.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>State Bank of India Suffers a Customer PII Data Leak</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak</link>
+      <guid isPermaLink="false">identitybrief-1b4a65bd6e1128ce</guid>
+      <pubDate>Fri, 23 Oct 2026 03:30:00 +0000</pubDate>
+      <category>breach</category>
+      <description>State Bank of India suffered a leak of customer PII data. This breach underscores the risk of identity theft in regions with active markets for personal data. The issue: even small data leaks can have major consequences in India.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>When the attacker becomes the user: Rethinking account takeover</title>
+      <link>https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913</link>
+      <guid isPermaLink="false">identitybrief-abfcbfb60201c537</guid>
+      <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Sponsored content claims AI eases phishing, increasing account takeover risks. Heightened vigilance is crucial as AI tools evolve rapidly. It's sponsored insight, so take it with some skepticism.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq</title>
+      <link>http://arxiv.org/abs/2610.30645v1</link>
+      <guid isPermaLink="false">identitybrief-6002a2c80c3857b7</guid>
+      <pubDate>Thu, 22 Oct 2026 03:06:21 +0000</pubDate>
+      <category>research</category>
+      <description>Researchers offer a formal verification tool for quantum key distribution security. It enhances trust in QKD with machine-checked proofs. Usage requires technical expertise in both quantum mechanics and formal verification.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</link>
+      <guid isPermaLink="false">identitybrief-b57b1f6a14271e76</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:51 +0000</pubDate>
+      <category>breach</category>
+      <description>LiteLLM's release pipeline was hijacked to distribute info-stealer malware. Credential theft risk shows the importance of securing open-source pipelines. Prevention depends on robust code signing and pipeline monitoring.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure</title>
+      <link>http://arxiv.org/abs/2610.31573v1</link>
+      <guid isPermaLink="false">identitybrief-5a19d86623c85339</guid>
+      <pubDate>Thu, 22 Oct 2026 17:13:46 +0000</pubDate>
+      <category>research</category>
+      <description>New research explores social media profiling's risks in social engineering. Exposure arises more from what can be inferred than what users post. It's an academic framework, not yet an operational tool for practitioners.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AI-powered Identity Threat Defense: Identity Security Fabric</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Mm9kUTdxNXB1VjJ4V2NyMENsT2dUNnV1NG94ZjJodDlwN3BQNzNQVHZVRUc5bFBNTTduckc3RTVTMkV3Wko3aFNhbkdtZlBGeFJ2V3FrbzgzZFo5Q3c?oc=5</link>
+      <guid isPermaLink="false">identitybrief-a45c60bf2611520f</guid>
+      <pubDate>Thu, 22 Oct 2026 21:56:39 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta discusses AI in identity threat defense and security fabric. It highlights AI's role in thwarting identity-based risks. Content comes from a vendor, so check for practical applicability and neutrality.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Philippines launches $7.8M tender for national digital ID infrastructure</title>
       <link>https://www.biometricupdate.com/202610/philippines-launches-7-8m-tender-for-national-digital-id-infrastructure</link>
       <guid isPermaLink="false">identitybrief-32b333fa5f74dce5</guid>
@@ -1362,145 +1502,5 @@
       <description>SecuGen's Unity 20 fingerprint key now has FIDO2 certification. It means more secure biometric authentication options that comply with industry standards. The limitation: if you're not integrating biometrics, this doesn't move your needle.
 
 — via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Security Informed: Intercede Launches MyID Authenticate Passkey Solution</title>
-      <link>https://fidoalliance.org/security-informed-intercede-launches-myid-authenticate-passkey-solution/</link>
-      <guid isPermaLink="false">identitybrief-19d2835bb5986249</guid>
-      <pubDate>Mon, 12 Oct 2026 19:20:34 +0000</pubDate>
-      <category>breach</category>
-      <description>Intercede's MyID Authenticate offers a new solution for passkey-secured sign-ins. It's a step toward making phishing-resistant authentication standard in enterprises. The catch: it's tailored for government and enterprise settings, not small businesses.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>npm Trusted Publishing flaw exposed 1,500+ npm packages to takeover</title>
-      <link>https://www.helpnetsecurity.com/2026/10/13/slugfest-npm-trusted-publishing-flaw/</link>
-      <guid isPermaLink="false">identitybrief-aba3c56b53768179</guid>
-      <pubDate>Tue, 13 Oct 2026 09:00:08 +0000</pubDate>
-      <category>breach</category>
-      <description>A flaw in npm's Trusted Publishing exposed over 1,500 packages to script hijacking. This is a reminder of the dangers of abandoned repositories and credential vulnerabilities. Catch: GitHub's fix is recent, so it's yet to prove airtight.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>FBI seizes Chinese hacking tools</title>
-      <link>https://identityweek.net/fbi-seizes-chinese-hacking-tools/</link>
-      <guid isPermaLink="false">identitybrief-e372d82f0baff45a</guid>
-      <pubDate>Mon, 12 Oct 2026 11:07:35 +0000</pubDate>
-      <category>breach</category>
-      <description>FBI seizes Chinese hacking tools aimed at U.S. targets. This highlights the continual threat of state-sponsored cyber operations. Remember: it’s a snapshot of current risks, not a solution, as tools evolve.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Modernizing DoW IL5 Office 365 Identity Lifecycle Management</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOd045LWJyRmJiaGlETHdvaUo4dDk0WThfRGF4QWFVV0RWYmlQZzgtTF9LWlk5eXNKRzUwS3puc2gzeHFyeXZScVQyRWlJUmtOcDZtZ1laX2JBQjB5Mmo2Qmk1OXBHODNYR3hkWmNUSmNUaTljNTd5X19fUW9jVFdFbDhfT2tId1o5NmpzQQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-3e843564cb99dd58</guid>
-      <pubDate>Tue, 13 Oct 2026 03:22:30 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta discusses modernization of identity lifecycle management in Office 365. Improvements in management workflows can reduce vulnerabilities. The restriction: focused on Okta users within a particular Office 365 environment.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>ASEAN moves toward interoperable digital identity with verifiable credentials</title>
-      <link>https://www.biometricupdate.com/202610/asean-moves-toward-interoperable-digital-identity-with-verifiable-credentials</link>
-      <guid isPermaLink="false">identitybrief-ffca2432ad23e842</guid>
-      <pubDate>Mon, 12 Oct 2026 05:07:01 +0000</pubDate>
-      <category>did</category>
-      <description>ASEAN countries are working on making digital identities that are both verifiable and interoperable. This move could bring more seamless identity checks across borders in Southeast Asia, impacting businesses and travel. The snag: The system's effectiveness will depend heavily on each country's tech infrastructure maturity.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>DHS biometric overhaul remains tied to Thales as HART deadline passes</title>
-      <link>https://www.biometricupdate.com/202610/dhs-biometric-overhaul-remains-tied-to-thales-as-hart-deadline-passes</link>
-      <guid isPermaLink="false">identitybrief-c76a809485f3ad67</guid>
-      <pubDate>Mon, 12 Oct 2026 03:17:55 +0000</pubDate>
-      <category>auth</category>
-      <description>The DHS's new biometric system, HART, is delayed again, keeping reliance on the old IDENT system. For now, any improvements in national security measures are on hold. The concern: Ongoing dependence on older tech might lead to vulnerabilities if not properly addressed.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Passkeys are a trap</title>
-      <link>https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</link>
-      <guid isPermaLink="false">identitybrief-9c56f72c25896395</guid>
-      <pubDate>Sun, 11 Oct 2026 21:59:48 +0000</pubDate>
-      <category>auth</category>
-      <description>A hackernews discussion warns passkeys might not be the silver bullet for security they're hailed as. The key argument is against adopting them blindly, as issues like device lockout and trust dependency aren't well solved. The catch: It's mostly a theoretical critique — practical examples are sparse.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Onions in the ATmosphere: Decentralizing Trust in Identity</title>
-      <link>http://arxiv.org/abs/2610.12764v1</link>
-      <guid isPermaLink="false">identitybrief-339fd9ab457c82da</guid>
-      <pubDate>Thu, 08 Oct 2026 22:16:52 +0000</pubDate>
-      <category>research</category>
-      <description>New academic work explores ways to connect onion addresses and domain names securely. For identity teams, it represents potential paths to manage decentralized digital identities without centralized control. However, widespread application might be hindered by technical barriers and legal constraints.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Next Biometrics to file for bankruptcy</title>
-      <link>https://www.biometricupdate.com/202610/next-biometrics-to-file-for-bankruptcy</link>
-      <guid isPermaLink="false">identitybrief-029bdf2fa0159c4e</guid>
-      <pubDate>Fri, 09 Oct 2026 18:24:33 +0000</pubDate>
-      <category>auth</category>
-      <description>Next Biometrics will file for bankruptcy due to financial struggles despite their pivot in biometric technology. Their failure serves as a cautionary tale for those investing heavily in niche biometric tech. The catch: The bankruptcy could stall innovation in their specific area of fingerprint tech.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia</title>
-      <link>https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html</link>
-      <guid isPermaLink="false">identitybrief-1aa8f38815afd8a2</guid>
-      <pubDate>Thu, 08 Oct 2026 10:30:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A new phishing kit, Wazza, targets sensitive industries with advanced features like traffic management. It's a reminder that threat actors continually evolve phishing tactics to bypass defences. The key issue: Without agile countermeasures, organizations remain at high risk.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Extracting Illicit-Rich Subgraph from Transaction Networks via Feed-Guided Shortest Paths</title>
-      <link>http://arxiv.org/abs/2610.13280v1</link>
-      <guid isPermaLink="false">identitybrief-f42ceb9af8e26d1a</guid>
-      <pubDate>Fri, 09 Oct 2026 09:29:58 +0000</pubDate>
-      <category>research</category>
-      <description>Researchers unveil a method for detecting illicit transaction patterns using shortest path algorithms. It's a promising tool against financial crime within transaction networks. The limitation: The approach is complex and may require significant computational resources.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AgentValve: Sybil-Resilient Payment Authorization for Permissionless AI Markets</title>
-      <link>http://arxiv.org/abs/2610.12948v1</link>
-      <guid isPermaLink="false">identitybrief-5771a0c8a286e90f</guid>
-      <pubDate>Fri, 09 Oct 2026 03:45:31 +0000</pubDate>
-      <category>research</category>
-      <description>A paper introduces AgentValve, a protocol to protect AI markets from fake identity manipulation in payment authorizations. Useful for deploying AI safely in transaction-heavy environments without human oversight. The downside: Implementation might be limited to environments that can handle complex blockchain operations.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies</title>
-      <link>https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html</link>
-      <guid isPermaLink="false">identitybrief-83f8612997a50a58</guid>
-      <pubDate>Fri, 09 Oct 2026 12:21:51 +0000</pubDate>
-      <category>breach</category>
-      <description>CISA adds five flaws to its list of exploited vulnerabilities, urging swift action. These vulnerabilities signify a critical point of failure for systems relying on proper access control. The catch: The high immediacy in patching might strain IT resources, especially in large networks.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments</title>
-      <link>https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html</link>
-      <guid isPermaLink="false">identitybrief-313976c425033f79</guid>
-      <pubDate>Fri, 09 Oct 2026 08:11:33 +0000</pubDate>
-      <category>breach</category>
-      <description>Citrix fixes a serious NetScaler flaw that risked remote code execution in SAML setups. If you're using NetScaler for identity authentication, prompt patching is vital. The issue: Misconfigurations following the update could lead to service disruption if not managed properly.
-
-— via The Hacker News</description>
     </item>
 </channel></rss>
