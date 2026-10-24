@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Deepfake hiring fraud drives demand for continuous identity verification</title>
+      <link>https://www.biometricupdate.com/202610/deepfake-hiring-fraud-drives-demand-for-continuous-identity-verification</link>
+      <guid isPermaLink="false">identitybrief-1ae7e8ec48958914</guid>
+      <pubDate>Fri, 23 Oct 2026 18:17:03 +0000</pubDate>
+      <category>fraud</category>
+      <description>Deepfake-driven hiring fraud is prompting a shift towards continuous identity verification in the hiring process. This means companies may need to rethink how they ensure the person they hire is truly who they claim to be. The catch: implementing such systems can be resource-intensive and may face pushback over privacy concerns.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Bermuda weighs digital ID options as supplier deadline approaches</title>
+      <link>https://www.biometricupdate.com/202610/bermuda-weighs-digital-id-options-as-supplier-deadline-approaches</link>
+      <guid isPermaLink="false">identitybrief-c353ff1e282e85d2</guid>
+      <pubDate>Fri, 23 Oct 2026 19:53:42 +0000</pubDate>
+      <category>did</category>
+      <description>Bermuda is exploring digital ID options as a supplier deadline looms. A successful framework could streamline identity verification for residents. The challenge will be ensuring uptake and trust among a potentially skeptical public.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>mDL4EU consortium launches to establish cross-border interoperability by 2028</title>
+      <link>https://www.biometricupdate.com/202610/mdl4eu-consortium-launches-to-establish-cross-border-interoperability-by-2028</link>
+      <guid isPermaLink="false">identitybrief-e8829cbaa7654777</guid>
+      <pubDate>Fri, 23 Oct 2026 16:48:07 +0000</pubDate>
+      <category>did</category>
+      <description>The mDL4EU consortium launches to develop cross-border mobile driver's licenses by 2028. This initiative might streamline identity verification across EU nations. However, the true test will be its ability to scale consistently across diverse member states.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Microsoft Teams to get AI-powered, context-aware phishing detection</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</link>
+      <guid isPermaLink="false">identitybrief-a7611ad9edc57742</guid>
+      <pubDate>Fri, 23 Oct 2026 18:54:41 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft Teams will soon feature AI-powered phishing detection, providing added security against contextual threats. Phishing attempts won't just need to look convincing — they'll have to outsmart AI. The limitation: users still must update to use this feature, and initial device compatibility remains unverified.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>HPE patches eight max severity RCE and auth bypass AOS flaws</title>
+      <link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/</link>
+      <guid isPermaLink="false">identitybrief-697286418ff3f223</guid>
+      <pubDate>Fri, 23 Oct 2026 12:48:00 +0000</pubDate>
+      <category>auth</category>
+      <description>HPE has released updates to fix severe vulnerabilities in ArubaOS, including critical authentication bypass flaws. It's a reminder to apply patches swiftly to prevent exploitations. Complications might arise if the updates conflict with existing configurations.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Quest Diagnostics confirms data breach exposed patient records</title>
+      <link>https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/</link>
+      <guid isPermaLink="false">identitybrief-a3c8e502da9b07b5</guid>
+      <pubDate>Fri, 23 Oct 2026 16:40:07 +0000</pubDate>
+      <category>breach</category>
+      <description>Quest Diagnostics has confirmed a data breach exposing patient records via unauthorized system access. This breach highlights the need for airtight security in healthcare systems. The catch is, healthcare regulations mean breaches are costly beyond just data loss.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
+      <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
+      <guid isPermaLink="false">identitybrief-f059789b24373367</guid>
+      <pubDate>Fri, 23 Oct 2026 13:50:56 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers breached enterprise firewalls and VPNs, exposing over 70,000 credentials. Network edge device security is vital to prevent such large-scale breaches. However, many companies struggle with resource allocation for thorough defenses.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Dual BIOS: The laptop security feature SMBs don’t know they need</title>
+      <link>https://www.csoonline.com/article/4239779/dual-bios-the-laptop-security-feature-smbs-dont-know-they-need.html</link>
+      <guid isPermaLink="false">identitybrief-8e8577dc555501e5</guid>
+      <pubDate>Fri, 23 Oct 2026 15:54:22 +0000</pubDate>
+      <category>breach</category>
+      <description>Dual BIOS setups aim to better protect SMBs from low-level firmware attacks. It's another line of defense below regular OS and application security. But not all devices support it, and upgrading hardware can be costly for small businesses.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
+      <guid isPermaLink="false">identitybrief-c5a466f9ecb69f5c</guid>
+      <pubDate>Fri, 23 Oct 2026 18:12:19 +0000</pubDate>
+      <category>breach</category>
+      <description>The LiteLLM supply chain compromise reveals credential theft through Python startup hooks. It’s an alert to monitor software dependencies more closely. Mitigating such threats requires potentially burdensome monitoring of all third-party code.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Meta hit with $25 billion fine for illegally sharing user data</title>
+      <link>https://www.csoonline.com/article/4239754/meta-hit-with-25-billion-fine-for-illegally-sharing-user-data-2.html</link>
+      <guid isPermaLink="false">identitybrief-43ca8fe116fc7637</guid>
+      <pubDate>Fri, 23 Oct 2026 15:23:54 +0000</pubDate>
+      <category>iam</category>
+      <description>Meta was fined $25 billion for illegally sharing user data, a significant penalty for privacy law violations. This serves as a warning to all companies to respect data privacy laws. Lawsuits like this can have wider financial implications due to regulatory scopes.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Cyber Insurance's New Reality: Underwriting Isn't Enough</title>
+      <link>https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough</link>
+      <guid isPermaLink="false">identitybrief-d067a2a05c523771</guid>
+      <pubDate>Fri, 23 Oct 2026 13:30:00 +0000</pubDate>
+      <category>iam</category>
+      <description>The limits of underwriting are evident in cyber insurance as risks grow. Insurers are moving deeper into security solutions, beyond just risk assessments. The challenge remains equitably balancing risk and cost, especially for small businesses.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+      <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
+      <guid isPermaLink="false">identitybrief-80697809b26e3096</guid>
+      <pubDate>Fri, 23 Oct 2026 11:11:23 +0000</pubDate>
+      <category>breach</category>
+      <description>Russian-linked hackers used a new mesh network backdoor in a Ukrainian attack. This shows advanced threats leveraging hidden network paths, making detection harder. The complexity: these network structures are evolving faster than monitoring tools.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AIRO: A Streaming-Based Machine Learning Framework for Threat Detection and Security in Industrial Internet of Things</title>
+      <link>http://arxiv.org/abs/2610.30713v1</link>
+      <guid isPermaLink="false">identitybrief-28c25840970f1f69</guid>
+      <pubDate>Thu, 22 Oct 2026 04:30:48 +0000</pubDate>
+      <category>research</category>
+      <description>The AIRO framework offers new machine learning strategies for detecting threats in the Industrial IoT. Such tools promise enhanced security for industrial operations. However, the integration of AI systems, especially in legacy environments, can be complicated.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Microsoft Entra provisioning Agent Error</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnNiNjF0TkE0a3M3am9RRmU3TnZtRERkR2NseVpWbWE4NWtFQnZONks3SlRFWDNGdm9LVXc0am1aczEwQW5JaEVtRUppZEg0RDk1eThzdHMxZHBlN2FtUkxuajNyeDZoMTc3R1pQckFGR203SGtCRUIzWUQzbXdNeHVJNjU2VUxPemVZazN1X25sYVhvdmphZW44bzZNVVAxTm9nODd6SXNkcXM?oc=5</link>
+      <guid isPermaLink="false">identitybrief-7b949f54feba9716</guid>
+      <pubDate>Fri, 23 Oct 2026 19:19:34 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft Entra users face provisioning agent errors, spotlighting dependency issues within identity management systems. It highlights the importance of error monitoring in cloud infrastructure. Troubleshooting can be complex, requiring robust technical support.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Switzerland to launch optional biometric ID cards on November 2</title>
       <link>https://www.biometricupdate.com/202610/switzerland-to-launch-optional-biometric-id-cards-on-november-2</link>
       <guid isPermaLink="false">identitybrief-2d4da25f9c3caf75</guid>
@@ -1362,145 +1502,5 @@
       <description>IonQ's $1.2 billion buyout of Elisity positions it for quantum cybersecurity services. This merger combines post-quantum cryptography with zero trust frameworks. Current practical implications are limited until quantum tech is more advanced.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>ARACDE: Retrofitting Databases with ABAC using External Authorization Engines</title>
-      <link>http://arxiv.org/abs/2610.18660v1</link>
-      <guid isPermaLink="false">identitybrief-bad7a6e10d83e191</guid>
-      <pubDate>Tue, 13 Oct 2026 16:23:43 +0000</pubDate>
-      <category>research</category>
-      <description>ARACDE proposes a way to separate authorization logic from databases using ABAC policies. It promises advanced access controls with minimal database changes. Note, actual deployment will require compatible external policy engines.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>North Korea Phishes Ukrainians for War Intel</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel</link>
-      <guid isPermaLink="false">identitybrief-dfaac159b1b76356</guid>
-      <pubDate>Tue, 13 Oct 2026 21:24:45 +0000</pubDate>
-      <category>breach</category>
-      <description>North Korean hackers are using phishing to gather intelligence on Ukraine. Such state-level cyber espionage underscores phishing's potential for serious impact. It's a geopolitical concern that might affect defense-related communications.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>AegisAsync: Symbolic Async-Event Simulation for Risks in Python Asynchronous Programs</title>
-      <link>http://arxiv.org/abs/2610.18831v1</link>
-      <guid isPermaLink="false">identitybrief-852f6e74dd0dcfdb</guid>
-      <pubDate>Tue, 13 Oct 2026 17:54:57 +0000</pubDate>
-      <category>research</category>
-      <description>AegisAsync offers a way to analyze risks in Python async programs. It tracks event orders and object identities to find vulnerabilities. This analysis requires Python 3.10-3.14, limiting to specific versions and environments.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Okta Workflows: How Real Customers Automate &amp; Scale Identity Security</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0pwWG5rTHNhczdHVjZpMkFwbnNhcDl3LV9MRkRTUTJXMl9VWTFDOHJGY3gxNWVlLTBWS014cGtHMzh4WXk2emx4SnZiRHNSUjkxTlBPb2s0YVNyLVc2WWdJS2o0UTRXUmlCLVJGcGJHTVFPbmZOcmVjMmRvSTlCT3laSFE2VGtqYnc?oc=5</link>
-      <guid isPermaLink="false">identitybrief-e2848b0ece82bbfb</guid>
-      <pubDate>Tue, 13 Oct 2026 20:00:14 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta Workflows showcases how customers automate identity security. It demonstrates real-world applications of identity management automation. The examples are from select Okta users, not a comprehensive market view.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Cybersecurity jobs available right now: October 13, 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/10/13/cybersecurity-jobs-available-right-now-october-13-2026/</link>
-      <guid isPermaLink="false">identitybrief-377451fdaf333e02</guid>
-      <pubDate>Tue, 13 Oct 2026 04:00:40 +0000</pubDate>
-      <category>iam</category>
-      <description>Help Net Security lists numerous current openings in identity and security. It's a sign of strong demand in access management and identity roles. Bear in mind: these roles are region-specific, requiring physical or hybrid presence.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>QTSPs face end-2026 deadline for biometric attack testing under eIDAS</title>
-      <link>https://www.biometricupdate.com/202610/qtsps-face-end-2026-deadline-for-biometric-attack-testing-under-eidas</link>
-      <guid isPermaLink="false">identitybrief-8569463e595be3a6</guid>
-      <pubDate>Mon, 12 Oct 2026 16:49:33 +0000</pubDate>
-      <category>did</category>
-      <description>QTSPs must complete biometric attack testing by 2026 under eIDAS. This compels more rigorous identity assurance for services within Europe. The challenge: it's just a deadline; real change requires executing these tests effectively.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>No Identity, No Recovery: Cyber Resilience Starts With IAM</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam</link>
-      <guid isPermaLink="false">identitybrief-9e25a4965a3b7614</guid>
-      <pubDate>Mon, 12 Oct 2026 18:27:25 +0000</pubDate>
-      <category>iam</category>
-      <description>Identity at the center of cyber resilience, stresses this post. It argues that strong IAM strategies prevent breaches and aid recovery. Caveat: it's a familiar message—applying it effectively is the real hurdle.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Türkiye’s age assurance law sets minimum age of 15 for having social media accounts</title>
-      <link>https://www.biometricupdate.com/202610/turkiyes-age-assurance-law-sets-minimum-age-of-15-for-having-social-media-accounts</link>
-      <guid isPermaLink="false">identitybrief-74c0a6d1d9652639</guid>
-      <pubDate>Mon, 12 Oct 2026 15:46:51 +0000</pubDate>
-      <category>did</category>
-      <description>Türkiye's new law sets a social media age limit and mandates age verification. This legal move impacts identity verification processes on social platforms. Catch: compliance hinges on integration with Türkiye’s e-Devlet system, a big lift for global firms.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Bangladesh weighs Securiport proposal for biometric‑driven border modernization</title>
-      <link>https://www.biometricupdate.com/202610/bangladesh-weighs-securiport-proposal-for-biometric-driven-border-modernization</link>
-      <guid isPermaLink="false">identitybrief-49e052d56acdff4d</guid>
-      <pubDate>Mon, 12 Oct 2026 15:07:38 +0000</pubDate>
-      <category>fraud</category>
-      <description>Bangladesh considers a biometric modernization for border control. This could streamline identity checks and improve security. The bottleneck: waiting on government approvals and lengthy procurement processes.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>New AI feature detects romance scammers, investment heists and deepfake phishing attempts</title>
-      <link>https://identityweek.net/new-ai-feature-detects-romance-scammers-investment-heists-and-deepfake-phishing-attempts/</link>
-      <guid isPermaLink="false">identitybrief-25086fd9586ad3cf</guid>
-      <pubDate>Mon, 12 Oct 2026 15:25:26 +0000</pubDate>
-      <category>fraud</category>
-      <description>AI feature from Starling Bank aims to detect romance scams and phishing. It's an application of AI to enhance digital fraud detection. Limitation: the AI needs substantial real-world testing to ensure effectiveness.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion</title>
-      <link>https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/</link>
-      <guid isPermaLink="false">identitybrief-00a09f156c806b9e</guid>
-      <pubDate>Mon, 12 Oct 2026 14:25:00 +0000</pubDate>
-      <category>iam</category>
-      <description>IonQ's acquisition of Elisity brings zero-trust tools into their fold. It underscores the trend of integrating zero-trust into broader security frameworks. Catch: the deal is stock-based, so it’s all on future synergy and execution.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Ricky Mondello responds to "Passkeys are a trap. Do not use them."</title>
-      <link>https://hachyderm.io/@rmondello/117428258722253709</link>
-      <guid isPermaLink="false">identitybrief-55b113ff942a3672</guid>
-      <pubDate>Mon, 12 Oct 2026 19:09:01 +0000</pubDate>
-      <category>auth</category>
-      <description>Ricky Mondello addresses concerns that passkeys may be misleadingly beneficial. The debate highlights ongoing skepticism about passkey usability and security benefits. The honest catch: while passkeys are phishing-resistant, not all users are convinced of their practicality.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Two Breaches in Denmark: What the DTU and the CPR Incidents Teach Us About Identity</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1RN0oxZUhZNDF5dnExVkxZaVBIb0VzcVFlbWZlOXFGSzl5WVNwbVZDaGVGWnRONzhqUEpmcWhBN0JuZVJJaGxHWDNFT2twNjdyMlRJa2h0ai0xMEJPR1BJVVdxWTVtNFFyb3BIc0EtMXM?oc=5</link>
-      <guid isPermaLink="false">identitybrief-667fd0ab0d69a0ee</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Denmark's DTU and CPR breaches are under the microscope for identity lessons. They underscore the need for robust identity management in preventing breaches. Catch: the post doesn't offer new techniques, just echoes known identity vulnerabilities.
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>ID Tech: SecuGen Unity 20 Fingerprint Security Key Gains FIDO2 Certification</title>
-      <link>https://fidoalliance.org/id-tech-secugen-unity-20-fingerprint-security-key-gains-fido2-certification/</link>
-      <guid isPermaLink="false">identitybrief-b49d9e19c830d641</guid>
-      <pubDate>Mon, 12 Oct 2026 19:24:29 +0000</pubDate>
-      <category>auth</category>
-      <description>SecuGen's Unity 20 fingerprint key now has FIDO2 certification. It means more secure biometric authentication options that comply with industry standards. The limitation: if you're not integrating biometrics, this doesn't move your needle.
-
-— via FIDO Alliance</description>
     </item>
 </channel></rss>
