@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Innov8tif adds MyDigital ID verification to EMAS eKYC platform</title>
+      <link>https://www.biometricupdate.com/202610/innov8tif-adds-mydigital-id-verification-to-emas-ekyc-platform</link>
+      <guid isPermaLink="false">identitybrief-f5dae10411063277</guid>
+      <pubDate>Sun, 25 Oct 2026 16:25:43 +0000</pubDate>
+      <category>did</category>
+      <description>Innov8tif's EMAS platform now integrates Malaysia's MyDigital ID for stronger eKYC. This makes digital onboarding more secure by adding national identity verification. The integration aims to combat advanced identity fraud. However, it applies primarily to Malaysian businesses and users.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Identity at checkout: why payments must prove more and share less</title>
+      <link>https://www.biometricupdate.com/202610/identity-at-checkout-why-payments-must-prove-more-and-share-less</link>
+      <guid isPermaLink="false">identitybrief-3a67b06145b4812a</guid>
+      <pubDate>Sun, 25 Oct 2026 16:54:52 +0000</pubDate>
+      <category>did</category>
+      <description>Payment systems face a challenge integrating digital IDs with financial tools. EU's upcoming digital wallets will put credentials and payments in one place, increasing convenience but also complexity for issuers. The key is controlling how credentials are validated. The risk is in increasing the points where identity can be misused if not properly managed.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ICE expansion deepens dependence on proprietary digital identity, network infrastructure</title>
+      <link>https://www.biometricupdate.com/202610/ice-expansion-deepens-dependence-on-proprietary-digital-identity-network-infrastructure</link>
+      <guid isPermaLink="false">identitybrief-57f2864f52ef21d5</guid>
+      <pubDate>Sun, 25 Oct 2026 17:19:43 +0000</pubDate>
+      <category>did</category>
+      <description>U.S. ICE's network expansion depends heavily on proprietary identity tech. While boosting their operations, ICE's reliance on Cisco systems limits competitive options and flexibility. This choice focuses on cohesion at the potential cost of vendor lock-in. It's a reminder of the trade-offs in balancing scale and supplier diversity in identity systems.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Forgotten AI agents may still access sensitive company data</title>
+      <link>https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/</link>
+      <guid isPermaLink="false">identitybrief-185a06fbdafec4f5</guid>
+      <pubDate>Mon, 26 Oct 2026 05:30:27 +0000</pubDate>
+      <category>auth</category>
+      <description>Arrakis Security reports that dormant AI agents may retain access to company data. These agents, even when not recently active, can still exploit credentials and connections. The real concern is the widespread presence of inactive agents making up 76% that haven't run in 60 days. The catch: without routine audits, it's tough to spot these idle threats.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Synthetic identities leave US lenders with $2.4 billion in fraud exposure</title>
+      <link>https://www.helpnetsecurity.com/2026/10/26/transunion-synthetic-identity-fraud-risks-report/</link>
+      <guid isPermaLink="false">identitybrief-af3d943f5e66fc66</guid>
+      <pubDate>Mon, 26 Oct 2026 05:00:59 +0000</pubDate>
+      <category>fraud</category>
+      <description>TransUnion highlights synthetic identity fraud costing US lenders $2.4 billion. Many financial frauds occur during account logins and transactions, showing that trust doesn't end at initial verification. This remains a problem as scammers trick legitimate customers. The challenge lies in maintaining vigilance after onboarding, throughout the customer lifecycle.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Identity Amortization: Shared Resources and the Cost of Sybil Attacks</title>
+      <link>http://arxiv.org/abs/2610.32685v1</link>
+      <guid isPermaLink="false">identitybrief-5526753707c50869</guid>
+      <pubDate>Fri, 23 Oct 2026 14:17:10 +0000</pubDate>
+      <category>research</category>
+      <description>A study introduces 'identity amortization', where resources lower the cost of maintaining multiple identities, aiding Sybil attacks. This concept highlights a gap in provisioning costs that can be exploited. Understanding this dynamic is crucial for defending against Sybil methods in identity systems. Current defenses may misjudge the real cost, making them less effective.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The 3DS Oracle: BIN Attack via the Network</title>
+      <link>http://arxiv.org/abs/2610.32206v1</link>
+      <guid isPermaLink="false">identitybrief-c0ca340b0ff86940</guid>
+      <pubDate>Fri, 23 Oct 2026 05:59:18 +0000</pubDate>
+      <category>research</category>
+      <description>Research on EMV 3-D Secure shows it can leak information pre-authorization, affecting user privacy. This impacts how authentication and transaction processes are handled. You see the scope for profiling using unintended data exposures. It's key to understand these architectural weaknesses in 3DS implementations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Democratic Accountability for Autonomous Systems: A Legislative Notification Framework and Comparative Institutional Design</title>
+      <link>http://arxiv.org/abs/2610.32226v1</link>
+      <guid isPermaLink="false">identitybrief-33434db6f368dfe7</guid>
+      <pubDate>Fri, 23 Oct 2026 06:35:23 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper calls for democratic accountability in autonomous cyber operations via a legislative framework. This could strengthen control and oversight over such systems. The framework suggests involving legislative bodies for higher decision transparency. However, the challenge remains in adopting this systematically across international lines.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>11 Million Impacted by Capcom Data Breach</title>
+      <link>https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-992ebb273ebb0e0c</guid>
+      <pubDate>Fri, 23 Oct 2026 08:34:14 +0000</pubDate>
+      <category>breach</category>
+      <description>Capcom's data breach exposed 11 million email addresses and led to password changes for 196 accounts. The breach shows how vulnerable email repositories can still impact identity security. Despite high numbers, the lack of nuanced detail suggests unclear long-term impact. It highlights the importance of timely incident disclosure and response.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’</title>
+      <link>https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</link>
+      <guid isPermaLink="false">identitybrief-0bec492554f64bba</guid>
+      <pubDate>Fri, 23 Oct 2026 08:25:06 +0000</pubDate>
+      <category>breach</category>
+      <description>Quest Diagnostics faced unauthorized access to its lab services platform, exposing patient records. This incident underscores the vulnerabilities in protected health information systems. Although access was reportedly limited, it raises concerns about ongoing data confidentiality. The breach calls for a deeper look into compliance and data protection policies.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>LiteLLM release pipeline hacked to distribute credential-stealing malware</title>
+      <link>https://www.csoonline.com/article/4239033/litellm-release-pipeline-hacked-to-distribute-credential-stealing-malware.html</link>
+      <guid isPermaLink="false">identitybrief-04b9886dffabf79c</guid>
+      <pubDate>Thu, 22 Oct 2026 12:07:08 +0000</pubDate>
+      <category>breach</category>
+      <description>LiteLLM's release pipeline was hacked, distributing malware through its Python and Docker images. This incident reveals the risks in supply chain security even after previous breaches. Despite a short exposure window, it highlights the need for constant vigilance. It's a reminder of defensive gaps in even well-monitored systems.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>China-linked hackers used agentic AI in attack on 2,250 Microsoft 365 tenants</title>
+      <link>https://www.csoonline.com/article/4239028/china-linked-hackers-used-agentic-ai-in-attack-on-2250-microsoft-365-tenants.html</link>
+      <guid isPermaLink="false">identitybrief-e2a305ac7bed769b</guid>
+      <pubDate>Thu, 22 Oct 2026 11:47:38 +0000</pubDate>
+      <category>breach</category>
+      <description>A China-linked group used AI to automate attacks on Microsoft 365, targeting over 2,250 tenants. Stolen credentials and automated methods highlight the need for advanced detection systems. Even though Microsoft attributes this to ongoing Chinese state activity, details on direct impacts remain sparse. The incident underlines the arms race in AI-powered cyber attacks.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</title>
+      <link>https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html</link>
+      <guid isPermaLink="false">identitybrief-76b18c2dc5a90e0a</guid>
+      <pubDate>Thu, 22 Oct 2026 11:15:42 +0000</pubDate>
+      <category>auth</category>
+      <description>A potential breach in Railway's environment variable storage led to advice for credential rotation. This highlights risk in PaaS setups where sensitive information could be accessed. The company's acknowledgment points to the need for improving access control measures. However, the extent of actual damage remains unclear without full user impact details.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>KYC Requirements for Financial Institutions: An AML Compliance Guide</title>
+      <link>https://www.jumio.com/kyc-requirements-guide-financial-institutions/</link>
+      <guid isPermaLink="false">identitybrief-9241cf2654161a3e</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:05 +0000</pubDate>
+      <category>fraud</category>
+      <description>The Jumio guide emphasizes KYC's role in complyments to prevent identity misuse and money laundering. It stresses the ongoing identification and risk diligence required post-customer onboarding. This approach helps mitigate fraud throughout client interactions. The guide's context is limited to financial services but offers generalizable insights.
+
+— via Jumio</description>
+    </item>
+    <item>
       <title>Agentic authorization emerges as biometrics’ next killer use case</title>
       <link>https://www.biometricupdate.com/202610/agentic-authorization-emerges-as-biometrics-next-killer-use-case</link>
       <guid isPermaLink="false">identitybrief-eb6646e51a6d12bd</guid>
@@ -1362,145 +1502,5 @@
       <description>The ADT CG responds to Australia's research security consultation, pointing out a lack of common identity verification standards. This issue matters for research integrity and participant accountability. But it's all in early stages, with no agreed standard yet.
 
 — via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale</title>
-      <link>http://arxiv.org/abs/2610.22301v1</link>
-      <guid isPermaLink="false">identitybrief-ef28dfe2ebe04fa2</guid>
-      <pubDate>Thu, 15 Oct 2026 17:48:10 +0000</pubDate>
-      <category>research</category>
-      <description>A study analyses a vulnerability in MCP servers that could allow filesystem access beyond agreed parameters. This highlights a universal challenge in securing AI interactions with host systems. The flaw: current countermeasures may still not fully prevent attacker-manipulated operations.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization</title>
-      <link>http://arxiv.org/abs/2610.21063v1</link>
-      <guid isPermaLink="false">identitybrief-53f94bea6e32160c</guid>
-      <pubDate>Thu, 15 Oct 2026 01:11:23 +0000</pubDate>
-      <category>research</category>
-      <description>Research explores the need for precise step-up authorization for AI agents. The key is ensuring approvals can't be spoofed or manipulated. Still, no industry-wide solution exists, leaving developers to rely on scattered practices.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>MAppPrint: Robust and Real-time Mobile App Fingerprinting via Traffic Behavior Correlation Graphs</title>
-      <link>http://arxiv.org/abs/2610.22148v1</link>
-      <guid isPermaLink="false">identitybrief-1acf7238fdc18c62</guid>
-      <pubDate>Thu, 15 Oct 2026 16:17:48 +0000</pubDate>
-      <category>research</category>
-      <description>A novel approach to mobile app fingerprinting via traffic behavior is proposed. This method could improve app tracking even under encrypted conditions. However, it could breach privacy standards if not regulated properly.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Beyond the login: Establishing an identity control plane in UKI retail</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUIwZmtCS1VFZ0VkRFFoYm02RTlvd2tteDliX2R5LXN4QVJHc2dNNEx5Tm43NFF5VkkzVEY1NG1zR1JSR0RaUk1MRUVmRFNWVkVYN1AyZlVUSm5reHpnUzJlV0U5dTJra1NNcTExUThaYzdTMTBYWS1jYVBnUFpXTHNfdTUxTlhhUE4tQ0JjSk9BUkZlWF8xbTNSYVJuYnh3N2c?oc=5</link>
-      <guid isPermaLink="false">identitybrief-3a6d1dca1622ee4e</guid>
-      <pubDate>Thu, 15 Oct 2026 13:10:21 +0000</pubDate>
-      <category>auth</category>
-      <description>SailPoint discusses establishing an identity control plane in UKI retail settings. This reflects on how identity management can enhance customer and employee verification processes. Yet, it's unclear how extensively this approach is being implemented or adapted industry-wide.
-
-— via SailPoint</description>
-    </item>
-    <item>
-      <title>Product showcase: GuardOS checks QR links, scans for data breaches, and filters Safari content</title>
-      <link>https://www.helpnetsecurity.com/2026/10/15/product-showcase-guardos/</link>
-      <guid isPermaLink="false">identitybrief-582e823ceb2ee1f9</guid>
-      <pubDate>Thu, 15 Oct 2026 04:00:08 +0000</pubDate>
-      <category>breach</category>
-      <description>GuardOS, an iPhone app, offers security tools like QR link scanning and Safari content filtering. These features aim to enhance device security and protect against data breaches. The limitation is its dependency on user engagement and consistent app updates to be effective.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Gains in passkey adoption as primary authentication option lag behind availability</title>
-      <link>https://www.biometricupdate.com/202610/gains-in-passkey-adoption-as-primary-authentication-option-lag-behind-availability</link>
-      <guid isPermaLink="false">identitybrief-ef1394103aef1c16</guid>
-      <pubDate>Wed, 14 Oct 2026 20:18:09 +0000</pubDate>
-      <category>did</category>
-      <description>Passkey adoption is slower than the availability of the technology, causing a lag in widespread use. Although passkeys offer strong biometric security, companies still struggle with full implementation. A main challenge is integrating passkeys seamlessly without disrupting user workflows.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Michelle Wilson on digital credentials, document security, and global standards</title>
-      <link>https://identityweek.net/michelle-wilson-on-digital-credentials-document-security-and-global-standards/</link>
-      <guid isPermaLink="false">identitybrief-e4a3239a1b45af4c</guid>
-      <pubDate>Wed, 14 Oct 2026 16:25:57 +0000</pubDate>
-      <category>did</category>
-      <description>Michelle Wilson discusses digital credentials and document security at Identity Week America. Her insights emphasize the need for standardized approaches to identity management. However, applying these standards globally remains a complex challenge due to varying privacy laws.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</link>
-      <guid isPermaLink="false">identitybrief-928f971698360b7a</guid>
-      <pubDate>Wed, 14 Oct 2026 21:20:13 +0000</pubDate>
-      <category>breach</category>
-      <description>A zero-day vulnerability in Ivanti ICS highlights patching challenges for vendors. Attackers could exploit this partially patched vulnerability, posing a risk to systems. The issue underscores the importance of thorough patch management, which is still a significant obstacle.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Toss expands facial recognition payments to department stores, cinemas</title>
-      <link>https://www.biometricupdate.com/202610/toss-expands-facial-recognition-payments-to-department-stores-cinemas</link>
-      <guid isPermaLink="false">identitybrief-2a8f773844d64b64</guid>
-      <pubDate>Wed, 14 Oct 2026 14:58:17 +0000</pubDate>
-      <category>auth</category>
-      <description>South Korea's Toss expands face recognition payments to more retail settings. This technology makes transactions quicker and potentially more secure. The caveat is biometric data privacy, which could pose risks if not managed properly.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Virtual Event Today: Zero Trust Strategies Summit</title>
-      <link>https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/</link>
-      <guid isPermaLink="false">identitybrief-19cd7986c4585e74</guid>
-      <pubDate>Wed, 14 Oct 2026 13:56:36 +0000</pubDate>
-      <category>iam</category>
-      <description>A virtual summit today explores developments in zero trust and identity security. The focus is moving from theory to actionable strategies. Attendees should prepare to engage deeply, as practical takeaway depends on participation.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Developing countries provision DPI ecosystems without understanding governance issues</title>
-      <link>https://identityweek.net/developing-countries-create-dpi-ecosystems-without-understanding-governance-issues/</link>
-      <guid isPermaLink="false">identitybrief-29ceaa784472b895</guid>
-      <pubDate>Wed, 14 Oct 2026 11:21:38 +0000</pubDate>
-      <category>did</category>
-      <description>Developing countries are building digital infrastructures without fully addressing governance. This oversight might lead to privacy issues despite technological advances. Balancing innovation with regulation remains a significant challenge.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Google brings age inference to Malaysia as platforms push their own assurance models</title>
-      <link>https://www.biometricupdate.com/202610/google-brings-age-inference-to-malaysia-as-platforms-push-their-own-assurance-models</link>
-      <guid isPermaLink="false">identitybrief-dd95c2287aa39430</guid>
-      <pubDate>Wed, 14 Oct 2026 16:44:50 +0000</pubDate>
-      <category>did</category>
-      <description>Google is expanding its age inference technology to Malaysia. This move aims to enhance the protection of young users on Google platforms. However, the reliance on biometric and AI-driven assurance models could raise privacy concerns.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Passkeys are not a trap</title>
-      <link>https://scotthelme.co.uk/passkeys-are-not-a-trap/</link>
-      <guid isPermaLink="false">identitybrief-3c496adf6b0846a6</guid>
-      <pubDate>Wed, 14 Oct 2026 15:15:45 +0000</pubDate>
-      <category>auth</category>
-      <description>A discussion on Hacker News insists that passkeys are not a trap. The key takeaway is that passkeys represent a more secure, phishing-resistant method of authentication. The hesitation remains in adoption hurdles, particularly with managing lost devices and account recovery securely.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Immuta CISO predicts critical AI incidents at major enterprises within 18 months</title>
-      <link>https://www.helpnetsecurity.com/2026/10/15/michael-scott-immuta-ai-agent-permissions/</link>
-      <guid isPermaLink="false">identitybrief-351fd4fd054a9cd4</guid>
-      <pubDate>Thu, 15 Oct 2026 05:30:27 +0000</pubDate>
-      <category>auth</category>
-      <description>Immuta's CISO predicts critical AI incidents due to improper permission settings in major enterprises within 18 months. The concern is that AI agents could access more than they're supposed to, posing a security threat. Organizations must rethink how they assign privileges to these agents, but there's no quick fix yet.
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
