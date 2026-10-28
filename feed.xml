@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Practical implementation is cross-border digital ID’s weak spot</title>
+      <link>https://www.biometricupdate.com/202610/practical-implementation-is-cross-border-digital-ids-weak-spot</link>
+      <guid isPermaLink="false">identitybrief-c2bd30ef396abb17</guid>
+      <pubDate>Tue, 27 Oct 2026 22:09:56 +0000</pubDate>
+      <category>did</category>
+      <description>Cross-border digital ID systems are stalling at implementation. This means digital identities can't work seamlessly between countries, a big hurdle for international transactions. The catch: the regulatory differences and technical standards need more alignment before this can change.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Vietnam proposes digital ID law to tackle fraud, expand national framework</title>
+      <link>https://www.biometricupdate.com/202610/vietnam-proposes-digital-id-law-to-tackle-fraud-expand-national-framework</link>
+      <guid isPermaLink="false">identitybrief-b42b8b85f16edd03</guid>
+      <pubDate>Tue, 27 Oct 2026 19:48:00 +0000</pubDate>
+      <category>did</category>
+      <description>Vietnam proposes a digital ID law to curb fraud and unify ID systems. It's a step towards more secure national identity management, especially through the VNeID platform. However, rollout depends heavily on technological support and citizen adoption.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Age assurance reshapes the internet as platform accountability gains ground</title>
+      <link>https://www.biometricupdate.com/202610/age-assurance-reshapes-the-internet-as-platform-accountability-gains-ground</link>
+      <guid isPermaLink="false">identitybrief-eea75dc2963bf160</guid>
+      <pubDate>Tue, 27 Oct 2026 19:50:46 +0000</pubDate>
+      <category>did</category>
+      <description>Governments turning to age verification tech are altering online access. It's becoming standard in response to calls for platform accountability. The challenge: privacy concerns and the tech still being intrusive and not foolproof.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>AI agent management: setting boundaries with IAM governance</title>
+      <link>https://identityweek.net/ai-agent-management-setting-boundaries-with-iam-governance/</link>
+      <guid isPermaLink="false">identitybrief-6804ee262b5cab7b</guid>
+      <pubDate>Tue, 27 Oct 2026 15:20:03 +0000</pubDate>
+      <category>iam</category>
+      <description>Banks block AI agents from making automatic payments to secure accounts. Emphasizes the importance of IAM governance in managing AI interactions. Still, IAM needs to evolve faster to match the scale of AI integration.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Identity Week Europe returns bigger than ever with co-located ‘Tech in Gov’ forum</title>
+      <link>https://identityweek.net/55266-2/</link>
+      <guid isPermaLink="false">identitybrief-af8f7d7cee23cd3e</guid>
+      <pubDate>Tue, 27 Oct 2026 14:34:41 +0000</pubDate>
+      <category>fraud</category>
+      <description>Identity Week Europe expands with Tech in Gov forum. This could further collective understanding of global digital transformation. But the downside: sheer event size may dilute focus for niche interest areas.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>HPE Patches Dozens of Critical Flaws in Networking Products</title>
+      <link>https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/</link>
+      <guid isPermaLink="false">identitybrief-ce6145da881840d7</guid>
+      <pubDate>Tue, 27 Oct 2026 13:13:58 +0000</pubDate>
+      <category>auth</category>
+      <description>HPE releases patches for critical flaws in networking products. These vulnerabilities could allow remote code execution or bypass authentication. Immediate application required, but legacy systems may still remain vulnerable.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>AI-Generated Fake Login Pages Are Making Account Takeovers Easier</title>
+      <link>https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html</link>
+      <guid isPermaLink="false">identitybrief-1ce9ccf10a03fa0a</guid>
+      <pubDate>Tue, 27 Oct 2026 11:32:46 +0000</pubDate>
+      <category>fraud</category>
+      <description>AI-generated fake login pages are on the rise, complicating account security. They mimic real logins, making phishing more dangerous by capturing both credentials and MFA codes. The issue: current anti-phishing measures may not fully detect AI-crafted complexities.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AbuseBox: Open-source monitor for blacklists, DNS, SSL and email records</title>
+      <link>https://www.helpnetsecurity.com/2026/10/28/abusebox-open-source-ip-blacklist-monitoring/</link>
+      <guid isPermaLink="false">identitybrief-6afb343261e5745f</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:45 +0000</pubDate>
+      <category>auth</category>
+      <description>AbuseBox is an open-source tool monitoring IP blacklists, DNS, and other records. It helps security teams keep tabs on potential threats by alerting changes in reputation scores or unauthorized listings. The downside: reliance on third-party blacklist accuracy and update frequency.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Breach victims discover their data was held by companies they’ve never heard of</title>
+      <link>https://www.helpnetsecurity.com/2026/10/28/kroll-third-party-data-breaches-insurance-claims-report/</link>
+      <guid isPermaLink="false">identitybrief-6a64c430c2d7743a</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:19 +0000</pubDate>
+      <category>breach</category>
+      <description>Kroll's report shows 70% of data breaches involve unknown third parties. This highlights the risk hidden in third-party dependencies in your supply chain. The limitation: knowing your exposure requires thorough audits of third-party data sharing practices.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Attackers built a ‘Skynet’ AI agent that hijacks exposed models to run cyberattacks</title>
+      <link>https://www.csoonline.com/article/4241421/attackers-built-a-skynet-ai-agent-that-hijacks-exposed-models-to-run-cyberattacks.html</link>
+      <guid isPermaLink="false">identitybrief-5c3df169b13df57d</guid>
+      <pubDate>Wed, 28 Oct 2026 02:10:33 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers have created a Skynet-like AI that exploits exposed AI models. This can lead to undetected cyberattacks on systems without human intervention. The snag: AI model security lags behind the pace of such threat developments.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>External Teams Chats Anchor 15-Minute Malware Delivery</title>
+      <link>https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path</link>
+      <guid isPermaLink="false">identitybrief-52babda33286526d</guid>
+      <pubDate>Tue, 27 Oct 2026 20:42:40 +0000</pubDate>
+      <category>breach</category>
+      <description>External Teams chats are being used to deliver malware rapidly. This highlights the risks of integrating external communication tools with internal systems. The limitation: detection and mitigation depend on user awareness and system monitoring.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Tailscale warns of SSH flaws allowing root privilege escalation</title>
+      <link>https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/</link>
+      <guid isPermaLink="false">identitybrief-413191cdab732787</guid>
+      <pubDate>Tue, 27 Oct 2026 14:09:46 +0000</pubDate>
+      <category>breach</category>
+      <description>Tailscale warns about severe SSH vulnerabilities. These issues could escalate privileges to root level, compromising security. Immediate patching needed, but some systems might need careful configuration checks post-update.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Socure links AI agents to verified people and businesses</title>
+      <link>https://www.helpnetsecurity.com/2026/10/27/socure-agent-intelligence/</link>
+      <guid isPermaLink="false">identitybrief-0e15a60c007a857f</guid>
+      <pubDate>Tue, 27 Oct 2026 13:28:31 +0000</pubDate>
+      <category>auth</category>
+      <description>Socure's Agent Intelligence ties AI agents to verified users. It aims to prevent unauthorized AI use in digital transactions. However, full protection relies on widespread adoption and continual updates to detection capabilities.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>The LLM-agnostic defense: Blocking agentic threats at the MCP layer</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPOWRJcFRiUHlpMGk1RDZXSzJZT1FHX1Z1a3JwSGplUDNyVzJjX3J2R093TWJEME1aZWZhWGdaSnR0ZDVxWC1MbmxQYmNqT1VLNDVsYVBXdi13Z0VDbWJTTzkxa2VOMnlQUjVnMTJrSkRfSmhYUGhDbUxjWmo4ekl0OE5FaE9fd1lyTGJDWWUzTFhZY3dXWUwyeFpfRkZDUQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-443253e99ebc90f0</guid>
+      <pubDate>Wed, 28 Oct 2026 02:54:24 +0000</pubDate>
+      <category>iam</category>
+      <description>SailPoint discusses defenses against agentic threats within AI models. It's about securing identity and access management against sophisticated threats. The challenge is ensuring these strategies are robust enough against rapidly evolving AI threats.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>MOSIP upgrades digital ID registration processing, ABIS performance</title>
       <link>https://www.biometricupdate.com/202610/mosip-upgrades-digital-id-registration-processing-abis-performance</link>
       <guid isPermaLink="false">identitybrief-e99c05f6ffefef9e</guid>
@@ -1362,145 +1502,5 @@
       <description>CISA urges urgent updates to Ivanti products due to an authentication bypass flaw. Quick action can mitigate potential attacks exploiting this high-severity vulnerability. Implementation relies heavily on the users’ commitment to staying updated.
 
 — via The Hacker News</description>
-    </item>
-    <item>
-      <title>An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.</title>
-      <link>https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html</link>
-      <guid isPermaLink="false">identitybrief-181d174bbac468db</guid>
-      <pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>An AI agent independently found a major auth bypass by exploiting OTP flexibility. This showcases the potential of AI in security testing, especially in identifying logic flaws. But it's crucial to validate AI findings with human oversight to ensure accuracy.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>“A 5-to-10 year horizon”: Dion Chamberlain on the operational future of Digital Travel Credentials</title>
-      <link>https://identityweek.net/a-5-to-10-year-horizon-dion-chamberlain-on-the-operational-future-of-digital-travel-credentials/</link>
-      <guid isPermaLink="false">identitybrief-6ce5423ace38195e</guid>
-      <pubDate>Tue, 13 Oct 2026 11:50:41 +0000</pubDate>
-      <category>auth</category>
-      <description>Digital Travel Credentials continue to develop as a universal travel identity tool. Their promise is streamlined travel and enhanced security rooted in e-passport models. Real-world implementation, however, remains in pilot stages and faces a long adoption path.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>NEST: Stale-Robust Tokenized-Stock Measurement for a Crypto-Treasury LETF Stack</title>
-      <link>http://arxiv.org/abs/2610.21491v1</link>
-      <guid isPermaLink="false">identitybrief-dbf418a5ef6d5662</guid>
-      <pubDate>Thu, 15 Oct 2026 08:28:59 +0000</pubDate>
-      <category>research</category>
-      <description>A study on tokenized equities discusses their identity and measurement challenges. The focus is on improving trading consistency even when markets are closed. However, it's primarily theoretical and needs practical application scope.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Event | Ask Microsoft Anything - Updates to Microsoft Entra - July 20, 2023</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNU9OOTFQbFBtRk82aVF3ZWZnekthZFZ4azhoVkdDbDRiNFpBSkZ1TlRRbWRDZzlwUW5WYm91OG9QdnBscjhEekNFT0dfVG9JVll3UFUxWHdXZm51WjJhOEdBa2pvV1kxYUdwcEFMX2R6ZERuYmhnY2QwcEJzMkRnT29pTzRIenZJbVhLd0lsZTNCNGpVeE5BQmVaRmNKQzhsSlNBQUY3WThRemhDNGNtV1JXSUg2VzdldGx5NkxEcWZzM2dwSjZDMzdQUE5LelB4X1c3SzZXcVI?oc=5</link>
-      <guid isPermaLink="false">identitybrief-2d5f7ec2dbc37c8e</guid>
-      <pubDate>Sat, 17 Oct 2026 10:04:06 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft Entra updates reflect ongoing enhancements in identity infrastructure. Staying informed about these updates is vital for optimal identity management. Access to detailed notes might require participation in community forums or events.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants</title>
-      <link>https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</link>
-      <guid isPermaLink="false">identitybrief-b3dabcb4d0c0986a</guid>
-      <pubDate>Sat, 17 Oct 2026 06:16:46 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers exploited a ConnectWise credential to access 173 Microsoft 365 tenants. MSPs using ConnectWise need to reassess their credential management as trust in third-party tools is shaken. The specific gap: using a single compromised credential to affect various clients.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Germany approves digital ID law with biometrics opt-out for EUDI Wallet</title>
-      <link>https://www.biometricupdate.com/202610/germany-approves-digital-id-law-with-biometrics-opt-out-for-eudi-wallet</link>
-      <guid isPermaLink="false">identitybrief-d0093d6e479f3cc1</guid>
-      <pubDate>Fri, 16 Oct 2026 16:43:20 +0000</pubDate>
-      <category>did</category>
-      <description>Germany's new digital ID law includes a biometrics opt-out for its EUDI Wallet version. This offers more flexibility for personal data handling preferences. The compromise: it might slow full digital ID adoption as optional biometric use adds complexity.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FinCEN digital credential guidance leaves banks responsible for identity assurance</title>
-      <link>https://www.biometricupdate.com/202610/fincen-digital-credential-guidance-leaves-banks-responsible-for-identity-assurance</link>
-      <guid isPermaLink="false">identitybrief-cbc527ee418f1793</guid>
-      <pubDate>Fri, 16 Oct 2026 16:18:29 +0000</pubDate>
-      <category>did</category>
-      <description>FinCEN's new guidance emphasizes banks' role in verifying digital identity credentials. This puts more responsibility on financial institutions to ensure digital ID accuracy. The challenge: creating consistent standards while managing diverse identity formats.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing</title>
-      <link>https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html</link>
-      <guid isPermaLink="false">identitybrief-7ca539292393b052</guid>
-      <pubDate>Fri, 16 Oct 2026 16:16:44 +0000</pubDate>
-      <category>breach</category>
-      <description>APT group UAT-11985 targets Taiwan researchers with Google-based AitM phishing. This reveals how attackers bypass MFA by stealing tokens. The lingering issue: phishing remains a primary route for compromising even well-secured accounts.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Socure Q3 growth reflects shifts in identity verification market</title>
-      <link>https://www.biometricupdate.com/202610/socure-q3-growth-reflects-shifts-in-identity-verification-market</link>
-      <guid isPermaLink="false">identitybrief-0f9131a1c8088e56</guid>
-      <pubDate>Fri, 16 Oct 2026 13:36:59 +0000</pubDate>
-      <category>did</category>
-      <description>Socure's Q3 data shows shifts in identity verification as fraud scales with AI. Its growth signifies market demand for robust verification against evolving tactics. The gap: constant evolution in fraud tech demands agile adaptation by vendors.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>How prepared are the Western Balkans for EU Digital ID? World Bank releases 6 country diagnostic</title>
-      <link>https://identityweek.net/how-prepared-are-the-western-balkans-for-eu-digital-id-world-bank-releases-6-country-diagnostic/</link>
-      <guid isPermaLink="false">identitybrief-d7b6756cee2eca9f</guid>
-      <pubDate>Fri, 16 Oct 2026 10:55:07 +0000</pubDate>
-      <category>did</category>
-      <description>World Bank releases diagnostic reports on EU Digital ID readiness for Western Balkans. It's a push for regional alignment with the EUDI framework. The snag: actual implementation may lag behind political readiness and benchmarks.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Hackers disguise phishing as promising business opportunities</title>
-      <link>https://www.helpnetsecurity.com/2026/10/16/rfq-phishing-emails-sales-procurement-staff/</link>
-      <guid isPermaLink="false">identitybrief-2e0517ddc3f37d4a</guid>
-      <pubDate>Fri, 16 Oct 2026 12:45:43 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers exploit business-like 'RFQ' emails for phishing attacks. Sales teams are at risk of credential theft through familiar business channels. The consistent problem: blending phishing with standard business requests increases the challenge of detection.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Baltimore suburb confirms August data breach after ransomware claims</title>
-      <link>https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</link>
-      <guid isPermaLink="false">identitybrief-38208afe28ec700d</guid>
-      <pubDate>Fri, 16 Oct 2026 13:05:00 +0000</pubDate>
-      <category>breach</category>
-      <description>A suburb of Baltimore confirms a data breach linked to ransomware. It highlights vulnerabilities in public sector systems handling sensitive data. The limitation: full data exposure details and impacts are not yet clear.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Burger King Japan data breach exposes 11 million customer records</title>
-      <link>https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/</link>
-      <guid isPermaLink="false">identitybrief-c77121d5269a387c</guid>
-      <pubDate>Fri, 16 Oct 2026 12:01:29 +0000</pubDate>
-      <category>breach</category>
-      <description>Burger King Japan suffers a data breach, affecting 11 million customer records. This underscores the risks associated with massive customer data storage. The hitch: local regulations may dictate the path and speed of the remediation process.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Why I Still Shun Passkeys</title>
-      <link>https://lapcatsoftware.com/articles/2026/10/6.html</link>
-      <guid isPermaLink="false">identitybrief-dc1d398d4e50cc77</guid>
-      <pubDate>Fri, 16 Oct 2026 15:07:31 +0000</pubDate>
-      <category>auth</category>
-      <description>An article from 'HotGarbage' on Hacker News questions the value of passkeys. The discussion puts the spotlight on usability versus security trade-offs. The limitation: it might reflect personal preference rather than universal security principles.
-
-— via Hacker News</description>
     </item>
 </channel></rss>
