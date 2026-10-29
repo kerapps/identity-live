@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Shame and sleepless nights haunt scam victims long after the money is gone</title>
+      <link>https://www.helpnetsecurity.com/2026/10/29/itrc-identity-theft-recovery-report/</link>
+      <guid isPermaLink="false">identitybrief-9a2691fd01905cd4</guid>
+      <pubDate>Thu, 29 Oct 2026 05:30:22 +0000</pubDate>
+      <category>fraud</category>
+      <description>A new report highlights emotional struggles scam victims face post-incident. Repairing the damage of identity theft involves more than financial recovery, affecting victims' mental well-being. The catch: it focuses on the U.S., with lessons mainly for consumer-support frameworks.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million</title>
+      <link>https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/</link>
+      <guid isPermaLink="false">identitybrief-1ca239b0a2bb01a5</guid>
+      <pubDate>Thu, 29 Oct 2026 08:27:16 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers breached iRhythm, stealing personal and account data from apps hosted on third-party platforms. It's a reminder of the risks tied to third-party data handling and the need for strict vetting. However, it remains unclear how iRhythm will mitigate potential fallout for affected users.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>IATA survey finds growing demand for biometrics as travel barriers persist</title>
+      <link>https://www.biometricupdate.com/202610/iata-survey-finds-growing-demand-for-biometrics-as-travel-barriers-persist</link>
+      <guid isPermaLink="false">identitybrief-5f98bae4a6cc8621</guid>
+      <pubDate>Wed, 28 Oct 2026 21:15:15 +0000</pubDate>
+      <category>did</category>
+      <description>An IATA survey reveals rising biometric demand as travel barriers persist. As travel shifts to digital IDs, biometric adoption pressures businesses to stay current on identity verification tech. But, administrative complexities add a layer of challenges not yet overcome.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>HyperVerge passes BixeLab IAD and Level 3 PAD evaluations</title>
+      <link>https://www.biometricupdate.com/202610/hyperverge-passes-bixelab-iad-and-level-3-pad-evaluations</link>
+      <guid isPermaLink="false">identitybrief-9834d6f768365f4c</guid>
+      <pubDate>Wed, 28 Oct 2026 16:53:54 +0000</pubDate>
+      <category>did</category>
+      <description>HyperVerge's biometric platform passed rigorous security evaluations against deepfakes. It's a step forward for biometrics in securing identity verification against sophisticated attacks. However, its applicability is limited without widespread device compatibility.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Australia presses US for biometric validation model that could keep fingerprints at home</title>
+      <link>https://www.biometricupdate.com/202610/australia-presses-us-for-biometric-validation-model-that-could-keep-fingerprints-at-home</link>
+      <guid isPermaLink="false">identitybrief-ae18c63e5a52ba5f</guid>
+      <pubDate>Wed, 28 Oct 2026 20:16:39 +0000</pubDate>
+      <category>auth</category>
+      <description>Australia seeks a U.S. biometric validation model that doesn't require data sharing. This model could optimize international border security protocols by keeping biometric data local. The approach's success hinges on U.S. acceptance and technological alignment.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Microsoft urges Entra ID admins to migrate users to passkeys</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/</link>
+      <guid isPermaLink="false">identitybrief-42279ffd24bfffbd</guid>
+      <pubDate>Wed, 28 Oct 2026 14:48:32 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft is urging Entra ID admins to move users to passkeys ahead of upcoming changes. Passkeys reduce phishing risk and improve authentication resilience. Be aware: transitioning smoothly requires preparation for the February 2027 retirement of SMS/voice methods.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Authentication friction costs organisations 32,000 working hours annually, study finds</title>
+      <link>https://identityweek.net/authentication-friction-costs-organisations-32000-working-hours-annually-study-finds/</link>
+      <guid isPermaLink="false">identitybrief-ac399b6b4c6dc6c8</guid>
+      <pubDate>Wed, 28 Oct 2026 15:20:47 +0000</pubDate>
+      <category>auth</category>
+      <description>Authentication friction costs enterprises 32,000 working hours annually. Streamlining login processes can mitigate operational delays and security risks from cumbersome authentication. But resolving friction without compromising security is a delicate balancing act.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Court strikes down West Virginia law barring disclosure of public officials’ personal data</title>
+      <link>https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court</link>
+      <guid isPermaLink="false">identitybrief-bf65784fd277bccf</guid>
+      <pubDate>Wed, 28 Oct 2026 20:50:00 +0000</pubDate>
+      <category>iam</category>
+      <description>A court struck down a West Virginia law protecting officials' personal info, citing constitutional issues. Privacy policy dynamics around protecting public figures' data are evolving. A major legal sticking point is balancing transparency and privacy rights.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed</title>
+      <link>https://thehackernews.com/2026/10/american-organizations-under-attack.html</link>
+      <guid isPermaLink="false">identitybrief-169a3a02ba4a388f</guid>
+      <pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Analysis reveals Skyw4lker, a phishing campaign leveraging device codes. It showcases how cybercriminals bypass traditional credential theft, exploiting trust in legitimate services for access. The complexity of the campaign makes detection challenging, requiring nuanced security responses.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Japan Airlines warns of data breach as country grapples with multiple cyber incidents</title>
+      <link>https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents</link>
+      <guid isPermaLink="false">identitybrief-6297f1390dfad249</guid>
+      <pubDate>Wed, 28 Oct 2026 20:33:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Japan Airlines suffered a breach exposing customer data amid multiple national incidents. The breach underscores continuous threats and data exposure risks in the airline industry. Managing this requires robust incident response and customer communication strategies.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Stolen staff logins are spreading attacks between K-12 school districts</title>
+      <link>https://www.helpnetsecurity.com/2026/10/29/cis-k-12-cybersecurity/</link>
+      <guid isPermaLink="false">identitybrief-873edd2035b4deee</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:01 +0000</pubDate>
+      <category>auth</category>
+      <description>Leaked staff credentials are fueling cyberattacks across K-12 school districts. Mass sharing of logins on dark markets can lead to chain-reaction breaches, particularly vulnerable in districts less equipped to respond. The main issue is the reactive nature of defenses, needing proactive strategies instead.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.</title>
+      <link>https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html</link>
+      <guid isPermaLink="false">identitybrief-b057f3381d273763</guid>
+      <pubDate>Wed, 28 Oct 2026 17:08:09 +0000</pubDate>
+      <category>iam</category>
+      <description>Google will allow third-party Android app stores to offer one-tap installs, pending identity checks. It streamlines app distribution but poses security questions on third-party code review’s rigor. Only non-U.S. apps qualify, limiting its impact geographically.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Constraining the Commit Boundary: A DIO/ODI-Informed Authorization Guardrail for Agentic Entity Resolution</title>
+      <link>http://arxiv.org/abs/2610.37407v1</link>
+      <guid isPermaLink="false">identitybrief-84c261f1d1f13f78</guid>
+      <pubDate>Tue, 27 Oct 2026 15:22:00 +0000</pubDate>
+      <category>research</category>
+      <description>A paper suggests new authorization constraints for identity resolution systems. It's about integrating tighter controls to prevent erroneous identity mutations in digital systems. The specifics, however, may surpass immediate practical application, needing specialized context.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>WorkOS makes the Cyber60 as CISOs put agent identity first</title>
+      <link>https://workos.com/blog/workos-cyber60-2026-2027-ciso-survey</link>
+      <guid isPermaLink="false">identitybrief-b3a877973f512aa4</guid>
+      <pubDate>Thu, 29 Oct 2026 00:37:03 +0000</pubDate>
+      <category>iam</category>
+      <description>WorkOS's recognition in the Cyber60 emphasizes the shift towards agent-centric identity models. Agents managing exact identities could streamline user management and access control. Still, identity provisioning for machines remains complex without clear industry-wide standards.
+
+— via WorkOS</description>
+    </item>
+    <item>
       <title>Practical implementation is cross-border digital ID’s weak spot</title>
       <link>https://www.biometricupdate.com/202610/practical-implementation-is-cross-border-digital-ids-weak-spot</link>
       <guid isPermaLink="false">identitybrief-c2bd30ef396abb17</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 15 Oct 2026 08:45:10 +0000</pubDate>
       <category>breach</category>
       <description>GhostAction compromised 1,900 GitHub accounts, impacting 30,000 repositories to extract sensitive CI secrets. This underscores the criticality of strong credential hygiene and monitoring in code environments. The attacker’s focus on public repositories reveals the potential fallout from overlooked secure coding practices.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches</title>
-      <link>https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html</link>
-      <guid isPermaLink="false">identitybrief-a713f2422da2706f</guid>
-      <pubDate>Thu, 15 Oct 2026 06:43:08 +0000</pubDate>
-      <category>breach</category>
-      <description>Two AhsayCBS flaws were exploited to deploy web shells and cryptocurrency miners, prompting new patches. It highlights the danger of incomplete patches in leaving systems open to exploitation. Users of affected systems should promptly apply the updated fixes to mitigate further risks.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Yam Store: The Phishing Network Behind a Billion Messages</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages</link>
-      <guid isPermaLink="false">identitybrief-7e13ef5a175ca27b</guid>
-      <pubDate>Wed, 14 Oct 2026 20:57:16 +0000</pubDate>
-      <category>breach</category>
-      <description>Yam Store operates a vast phishing network, pushing over a billion messages globally via cloud infrastructure. Identity teams should be vigilant about emerging phishing methods using readily available resources. The scale shows how massive operations bypass basic security, demanding more sophisticated defenses.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat</title>
-      <link>https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat</link>
-      <guid isPermaLink="false">identitybrief-914ae5b00e0a431f</guid>
-      <pubDate>Wed, 14 Oct 2026 20:09:42 +0000</pubDate>
-      <category>auth</category>
-      <description>A flaw in the Claude Code Desktop preview pane allows silent credential theft, including SSH and AWS keys. This zero-click exploit bypasses typical user interactions, highlighting the need for proactive security measures. Developers should be wary and apply updates if using affected software.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Digital Identity Without Surveillance: Understanding SEDI's No-Phone-Home Principle</title>
-      <link>https://blog.spruceid.com/digital-identity-without-surveillance-understanding-sedis-no-phone-home-principle/</link>
-      <guid isPermaLink="false">identitybrief-3fb4f05aecf13420</guid>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
-      <category>did</category>
-      <description>Utah's SEDI statute's no-phone-home principle mandates privacy in digital identity verification. It challenges systems to verify independently, reducing centralized oversight of credential use. Adopting such privacy-first principles requires rethinking architecture to ensure compliance without losing efficiency.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>GAO finds US agencies unprepared for quantum threats to digital identity</title>
-      <link>https://www.biometricupdate.com/202610/gao-finds-us-agencies-unprepared-for-quantum-threats-to-digital-identity</link>
-      <guid isPermaLink="false">identitybrief-af1de77b6afff815</guid>
-      <pubDate>Sat, 17 Oct 2026 14:57:14 +0000</pubDate>
-      <category>did</category>
-      <description>The GAO audited US agencies and found them unprepared for quantum threats to digital identity. Quantum computing poses a potential risk to current cryptographic techniques, pressing agencies to update their systems. Yet, no one has fully rolled out or tested quantum-resistant cryptography solutions.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>US State Department awards Paravision up to $6.5M for digital identity assurance</title>
-      <link>https://www.biometricupdate.com/202610/us-state-department-awards-paravision-up-to-6-5m-for-digital-identity-assurance</link>
-      <guid isPermaLink="false">identitybrief-dbb57e74ca4207ee</guid>
-      <pubDate>Sat, 17 Oct 2026 15:04:18 +0000</pubDate>
-      <category>did</category>
-      <description>The U.S. State Department granted Paravision up to $6.5M to enhance digital identity assurance. This contract underscores the value of biometric solutions in secure digital ID verification. Public details on the implementation and scope remain scarce.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Biometric testing gets tougher as real-world demands grow</title>
-      <link>https://www.biometricupdate.com/202610/biometric-testing-gets-tougher-as-real-world-demands-grow</link>
-      <guid isPermaLink="false">identitybrief-2c07b8c687cb9250</guid>
-      <pubDate>Sat, 17 Oct 2026 15:10:24 +0000</pubDate>
-      <category>fraud</category>
-      <description>Biometric systems now face tougher testing to meet real-world complexities. This reflects a shift towards more trustworthy identity verification systems, especially in handling deepfakes. However, the specifics of these real-world conditions and their standardization are still evolving.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>OpenCode Hacked: User credentials leaked</title>
-      <link>https://twitter.com/opencode/status/2111516673953935833</link>
-      <guid isPermaLink="false">identitybrief-5c8e18336ca4c6ed</guid>
-      <pubDate>Sat, 17 Oct 2026 18:01:41 +0000</pubDate>
-      <category>breach</category>
-      <description>OpenCode has suffered a breach exposing user credentials. For identity and access teams, this means another data point for risk analysis and threat modeling. But specifics about how or what was compromised haven't been fully detailed yet.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel</title>
-      <link>https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/</link>
-      <guid isPermaLink="false">identitybrief-e6dcd4c9a726da8f</guid>
-      <pubDate>Sat, 17 Oct 2026 11:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>An Israeli ad firm's tools were repurposed for zero-click spyware deployment. This method highlights the persistent risk of device fingerprinting and underscores the importance of scrutinizing third-party services. Yet, details about detection and mitigation strategies remain limited.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Scammers clone candidates’ voices to steal cash and voter data ahead of 2026 midterms, FBI warns</title>
-      <link>https://www.helpnetsecurity.com/2026/10/16/usa-2026-midterm-election-scams/</link>
-      <guid isPermaLink="false">identitybrief-56d6da8e0e6ab0a8</guid>
-      <pubDate>Fri, 16 Oct 2026 11:34:35 +0000</pubDate>
-      <category>fraud</category>
-      <description>Scammers are using AI to clone political candidates’ voices in fraudulent schemes. This tactic amplifies the risk of identity spoofing and data breaches ahead of elections. Voter awareness and robust authentication could reduce exposure, but large-scale prevention tactics aren't fully detailed.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>BeyondTrust zero-day tied to Chinese spies puts Remote Support users on alert</title>
-      <link>https://www.csoonline.com/article/4236421/beyondtrust-zero-day-tied-to-chinese-spies-puts-remote-support-users-on-alert.html</link>
-      <guid isPermaLink="false">identitybrief-957d652366835744</guid>
-      <pubDate>Fri, 16 Oct 2026 10:24:19 +0000</pubDate>
-      <category>breach</category>
-      <description>Chinese spies exploited a zero-day in BeyondTrust to compromise remote support systems. This attack stresses the need for constant vigilance and rapid patch management in self-hosted environments. Fixing this requires proactive updates, but it also calls for a thorough security policy review.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Malware evasion made easier with AI — but behavior still gives it away</title>
-      <link>https://www.csoonline.com/article/4235447/malware-evasion-made-easier-with-ai-but-behavior-still-gives-it-away.html</link>
-      <guid isPermaLink="false">identitybrief-c3b9c6ff554caaaf</guid>
-      <pubDate>Fri, 16 Oct 2026 08:25:00 +0000</pubDate>
-      <category>breach</category>
-      <description>AI tools help create more evasive malware, yet behavioral analysis can still identify them. The growing sophistication of AI-generated threats highlights the need for improved detection techniques. Simply relying on signature-based detection won't suffice.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Trust 25: Recognising leaders from Uber, Citi, PayPal, Visa, and 20+ other organisations solving the hardest digital ID challenges</title>
-      <link>https://identityweek.net/trust-25-recognising-leaders-from-uber-citi-paypal-visa-and-20-other-organisations-solving-the-hardest-digital-id-challenges/</link>
-      <guid isPermaLink="false">identitybrief-ba206fd181039f5b</guid>
-      <pubDate>Wed, 14 Oct 2026 14:19:19 +0000</pubDate>
-      <category>did</category>
-      <description>The Trust 25 celebrates leaders tackling digital ID challenges across sectors. Recognizing innovation in digital identity builds momentum toward more secure solutions. However, the challenge remains in translating recognition into impactful, widespread changes.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</title>
-      <link>https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</link>
-      <guid isPermaLink="false">identitybrief-c8c2a8e77f0c47d2</guid>
-      <pubDate>Wed, 14 Oct 2026 12:30:42 +0000</pubDate>
-      <category>breach</category>
-      <description>CISA urges urgent updates to Ivanti products due to an authentication bypass flaw. Quick action can mitigate potential attacks exploiting this high-severity vulnerability. Implementation relies heavily on the users’ commitment to staying updated.
 
 — via The Hacker News</description>
     </item>
