@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw</title>
+      <link>https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</link>
+      <guid isPermaLink="false">identitybrief-6d2a0802c49f854e</guid>
+      <pubDate>Fri, 30 Oct 2026 07:45:30 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers are exploiting a critical authorization bypass flaw in Drupal's Commerce Core module. This affects sites using versions 0.0.0 to 2.41 and 3.0.0 to 3.3.13, potentially allowing unauthorized access to sensitive operations. If your organization uses Drupal Commerce, patch immediately to avoid compromise.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>FIDO testing experts address deepfake threat and biometrics certification changes</title>
+      <link>https://www.biometricupdate.com/202610/fido-testing-experts-address-deepfake-threat-and-biometrics-certification-changes</link>
+      <guid isPermaLink="false">identitybrief-f6367c2e9c48a66f</guid>
+      <pubDate>Thu, 29 Oct 2026 18:16:24 +0000</pubDate>
+      <category>fraud</category>
+      <description>FIDO Alliance experts address biometric threats from deepfakes and other attacks. These vulnerabilities highlight the evolving risks to biometric authentication systems. However, the fix is complex and may not keep pace with rapid AI advancements in fraud techniques.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Ofcom identifies 4 age assurance methods as highly-effective for 16 year-olds</title>
+      <link>https://www.biometricupdate.com/202610/ofcom-identifies-4-age-assurance-methods-as-highly-effective-for-16-year-olds</link>
+      <guid isPermaLink="false">identitybrief-d5af68f589899a71</guid>
+      <pubDate>Thu, 29 Oct 2026 20:50:21 +0000</pubDate>
+      <category>did</category>
+      <description>Ofcom has identified four effective age verification methods for users 16 and older on social media. These measure readiness for compliance with age-related regulations using biometrics and digital IDs. The challenge remains effectiveness for the entire under-18 spectrum.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>DHS plans $100M contract consolidating biometric identity decisions, accuracy oversight</title>
+      <link>https://www.biometricupdate.com/202610/dhs-plans-100m-contract-consolidating-biometric-identity-decisions-accuracy-oversight</link>
+      <guid isPermaLink="false">identitybrief-71b3f1bd85853419</guid>
+      <pubDate>Thu, 29 Oct 2026 17:53:24 +0000</pubDate>
+      <category>auth</category>
+      <description>DHS plans to consolidate its biometric identity accuracy oversight into a $100 million contract. This aims to streamline decision-making across fingerprint, facial, and iris data, improving cross-system consistency. The real hurdle will be integrating diverse data sources into a single decisive framework.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>HKIA the first airport to achieve IATA One ID certification</title>
+      <link>https://identityweek.net/hkia-the-first-airport-to-achieve-iata-one-id-certification/</link>
+      <guid isPermaLink="false">identitybrief-1e91a3e2308bf909</guid>
+      <pubDate>Thu, 29 Oct 2026 12:46:57 +0000</pubDate>
+      <category>did</category>
+      <description>Hong Kong International Airport achieves IATA's One ID certification for its use of digital identity solutions. This marks a milestone in contactless and biometric traveler processing. However, maintaining privacy with such advancements remains an ongoing concern.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Japan Airlines suffers third-party data breach exposing passenger info</title>
+      <link>https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/</link>
+      <guid isPermaLink="false">identitybrief-dcfc83564a4e9795</guid>
+      <pubDate>Thu, 29 Oct 2026 22:08:04 +0000</pubDate>
+      <category>breach</category>
+      <description>Japan Airlines disclosed a third-party data breach affecting 92,000 customers. The breach underscores vulnerabilities in supply chain security, particularly with PSS providers. A complete resolution involves both JAL and the vendor enhancing their security postures to prevent future incidents.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Anthropic-Themed Phishing Emails Bypass Top Security Tools</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools</link>
+      <guid isPermaLink="false">identitybrief-a43db913e25cf3a4</guid>
+      <pubDate>Thu, 29 Oct 2026 21:21:56 +0000</pubDate>
+      <category>breach</category>
+      <description>Anthropic-themed phishing emails are bypassing top email security tools. This highlights how attackers evolve tactics to penetrate secure email gateways, challenging organizations to constantly adapt their defenses. The catch is the reliance on human vigilance amid tool-based defenses.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Over 41,000 DHS Employee Records Leaked Online</title>
+      <link>https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/</link>
+      <guid isPermaLink="false">identitybrief-468bc0728b48868f</guid>
+      <pubDate>Thu, 29 Oct 2026 12:54:14 +0000</pubDate>
+      <category>breach</category>
+      <description>The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Deep Learning Based Behavioral Drift Modeling for Continuous Biometric Authentication</title>
+      <link>http://arxiv.org/abs/2610.40398v1</link>
+      <guid isPermaLink="false">identitybrief-4ade32258883957b</guid>
+      <pubDate>Thu, 29 Oct 2026 16:33:49 +0000</pubDate>
+      <category>research</category>
+      <description>Research introduces a two-level keystroke dynamics system for continuous biometric authentication using deep learning. This could strengthen session security by detecting behavioral drifts. But, the approach requires complex machine learning models, limiting accessibility for smaller organizations.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers</title>
+      <link>http://arxiv.org/abs/2610.39234v1</link>
+      <guid isPermaLink="false">identitybrief-b1b7379b18d6095c</guid>
+      <pubDate>Thu, 29 Oct 2026 02:51:58 +0000</pubDate>
+      <category>research</category>
+      <description>Recent research proposes a stateful authentication model using segmented hash-entangled chains. This could enhance security through logical resource allocation in stateful systems. However, implementing such models demands significant architectural changes that may be impractical for existing systems.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>New Cisco firewall zero-day being actively exploited</title>
+      <link>https://www.csoonline.com/article/4242420/new-cisco-firewall-zero-day-being-actively-exploited.html</link>
+      <guid isPermaLink="false">identitybrief-aec8050af8ff257c</guid>
+      <pubDate>Thu, 29 Oct 2026 19:31:38 +0000</pubDate>
+      <category>breach</category>
+      <description>A high-severity flaw in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security Appliance (ASA) and Cisco Secure Firewall Threat Defense (FTD) is under active exploitation to crash vulnerable devices. The vulnerability, tracked as CVE-2026-76418 and rated 8.6 in severity, is due to logic errors when secondary authentication is…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Fake Anthropic AI previews lure in overeager employees</title>
+      <link>https://www.csoonline.com/article/4241895/fake-anthropic-ai-previews-lure-in-overeager-employees.html</link>
+      <guid isPermaLink="false">identitybrief-9869525436e3668c</guid>
+      <pubDate>Thu, 29 Oct 2026 13:05:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Everyone wants to know what Anthropic is up to, and hackers are gleefully exploiting the fact. New research from cybersecurity company Cofense describes a phishing campaign that hooks overeager enterprise users by making them think they are getting an invite to a private invite-only Anthropic preview. In reality, adversarial actors are trying to steal…
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>RecHash: Segmented Hash-Entangled Chains for Stateful Sequential Authentication</title>
+      <link>http://arxiv.org/abs/2610.40507v1</link>
+      <guid isPermaLink="false">identitybrief-1f4c9dabc2607dc2</guid>
+      <pubDate>Thu, 29 Oct 2026 17:23:08 +0000</pubDate>
+      <category>research</category>
+      <description>RecHash is a stateful sequential authentication construction based on paired hash-chain openings and an authenticated record history. It develops the decreasing position relation of the 2019 hash-entangled construction, whose exact integer normalization yields a two-coordinate constant-sum antichain. Direct proportional reuse is constrained by integer…
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Indicio Named a Catalyst in Acuity’s PRISM Financial Services Report</title>
+      <link>https://indicio.tech/blog/blog-passwordless-authentication-prism-catalyst/</link>
+      <guid isPermaLink="false">identitybrief-4fe475356234ded7</guid>
+      <pubDate>Thu, 29 Oct 2026 13:38:53 +0000</pubDate>
+      <category>did</category>
+      <description>Indicio named a “Catalyst” for passwordless authentication in the 2026 Financial Services Prism . By Trevor Butterworth, VP Digital Strategy &amp; Governance The Prism Project, Acuity Market Intelligence’s research program on biometric and digital identity, has named Indicio a Catalyst in the Passwordless Authentication category of its 2026 Financial Services…
+
+— via Indicio</description>
+    </item>
+    <item>
       <title>Shame and sleepless nights haunt scam victims long after the money is gone</title>
       <link>https://www.helpnetsecurity.com/2026/10/29/itrc-identity-theft-recovery-report/</link>
       <guid isPermaLink="false">identitybrief-9a2691fd01905cd4</guid>
@@ -1362,145 +1502,5 @@
       <description>A new report highlights that authentication friction significantly affects frontline workers, delaying crucial operations. The study shows how these delays can cause major consequences like postponed patient care. Remember, though: the report's insights are more about recognizing the issue rather than offering an out-of-the-box solution.
 
 — via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules</title>
-      <link>http://arxiv.org/abs/2610.26501v1</link>
-      <guid isPermaLink="false">identitybrief-3f9e8dddeedf618f</guid>
-      <pubDate>Mon, 19 Oct 2026 14:36:05 +0000</pubDate>
-      <category>research</category>
-      <description>ICANN is testing new technology for law enforcement to access non-public WHOIS info via single sign-on. This aims to help address urgent risks quickly. The snag: Privacy advocates might push back against the balance of access versus user privacy concerns.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>ICANN testing tech to let law enforcement access non-public WHOIS info</title>
-      <link>https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036</link>
-      <guid isPermaLink="false">identitybrief-394cca3f8c173049</guid>
-      <pubDate>Tue, 20 Oct 2026 02:11:27 +0000</pubDate>
-      <category>auth</category>
-      <description>Single sign-on to help address imminent threats to life, critical infrastructure, or kids It landed in the last few hours.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>Auditor-Assisted Summary-Channel Verification for Hosted LLM Identity Substitution</title>
-      <link>http://arxiv.org/abs/2610.25982v1</link>
-      <guid isPermaLink="false">identitybrief-97f321acf02e164b</guid>
-      <pubDate>Mon, 19 Oct 2026 08:09:11 +0000</pubDate>
-      <category>research</category>
-      <description>Research looks at how AI agents are trusted and verified using auditor-assisted frameworks. This helps ensure the models used are as claimed without direct access to internal logs. But, practical implementation may face resistance from providers as it adds a layer of external oversight.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How to Stop Modern Healthcare Identity Attacks: AI Risks &amp; Defense Guide</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPRExGZ0NPNDcxMm51TTRGaVVXdkVXRldtT0JVVzR1Tlp1SHlUdnNHQU1VUk5HMnJIQ1h1SkNBcHE0eFRFZW1sS0M0Mld4WDNGSDRkSllJejI2ZEUtcU9SQ3ZsWWxSdDFBandNaUNrdndBSVZkM1RWQUpucS1GQkhxRGxfNm11MHZydXNOUzFiZw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-ada5824aab8fdd20</guid>
-      <pubDate>Mon, 19 Oct 2026 20:11:05 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta discusses AI risks and defenses in modern healthcare identity attacks. The focus is on protecting identities in rapidly digitizing healthcare settings. Despite the guide's valuable insights, the real-world application of AI defenses in healthcare might face resistance due to complexity and cost.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>When neighbourhood watch becomes a biometric surveillance network</title>
-      <link>https://www.biometricupdate.com/202610/when-neighbourhood-watch-becomes-a-biometric-surveillance-network</link>
-      <guid isPermaLink="false">identitybrief-c879960ea5972733</guid>
-      <pubDate>Mon, 19 Oct 2026 07:52:12 +0000</pubDate>
-      <category>auth</category>
-      <description>Amazon's Ring doorbell now offers UK households a Neighbours app, turning front doors into biometric surveillance points. This shift makes facial and motion recognition a part of daily life, integrating security into community apps. However, this raises significant privacy concerns as data from these devices could be misused or mishandled.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>HardEval: An Execution-Verified Benchmark for AI-Driven Security Hardening and Compliance Remediation</title>
-      <link>http://arxiv.org/abs/2610.23685v1</link>
-      <guid isPermaLink="false">identitybrief-6fcf7689e6b4f645</guid>
-      <pubDate>Fri, 16 Oct 2026 16:14:58 +0000</pubDate>
-      <category>research</category>
-      <description>HardEval is a new AI-driven benchmark aiming to execute and verify security configuration improvements. It ensures that security guidelines translate into effective changes across systems, highlighting AI's role in system compliance. But it's currently a benchmark in development, not yet a ready-to-deploy solution.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Does what we call AI change how we govern it?</title>
-      <link>https://www.biometricupdate.com/202610/does-what-we-call-ai-change-how-we-govern-it</link>
-      <guid isPermaLink="false">identitybrief-950b3f293861bcc8</guid>
-      <pubDate>Sat, 17 Oct 2026 15:20:47 +0000</pubDate>
-      <category>auth</category>
-      <description>A post explores how the terminology around AI, specifically in biometrics, influences regulatory approaches. Governance models often adapt to how these technologies are framed, impacting authentication strategies. This semantic shift can lead to mismatches between technical potential and regulatory oversight.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>An Agentic ENF Framework for Forensic Video Authentication Against Generative AI</title>
-      <link>http://arxiv.org/abs/2610.22440v1</link>
-      <guid isPermaLink="false">identitybrief-5746be6f96e95b8b</guid>
-      <pubDate>Thu, 15 Oct 2026 14:44:48 +0000</pubDate>
-      <category>research</category>
-      <description>A new forensic framework uses the electric network frequency to authenticate videos against deepfakes. This method could enhance trust in video authenticity by bypassing technological artefacts generators. Its effectiveness depends on the video's audio presence and rolling-shutter, limiting use in silent or fixed-shutter footage.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Cryptographically Secure Agent-to-Agent Communication in Multi-Agent Systems</title>
-      <link>http://arxiv.org/abs/2610.23078v1</link>
-      <guid isPermaLink="false">identitybrief-cb95a535145fc8b7</guid>
-      <pubDate>Fri, 16 Oct 2026 07:49:54 +0000</pubDate>
-      <category>research</category>
-      <description>A study surveys threats in agent-to-agent communications and proposes a zero-trust architecture for enhanced security. The solution leverages decentralized identifiers and secure messaging, boosting identity management in dynamic multi-agent systems. Real-world implementation will require significant architectural changes and integration efforts.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Public services should drive DPI investment, says ID4Africa’s Atick</title>
-      <link>https://www.biometricupdate.com/202610/public-services-should-drive-dpi-investment-says-id4africas-atick</link>
-      <guid isPermaLink="false">identitybrief-f8e60f61a04beaa3</guid>
-      <pubDate>Fri, 16 Oct 2026 16:50:19 +0000</pubDate>
-      <category>did</category>
-      <description>Dr. Joseph Atick suggests public services should prioritize driving digital public infrastructure (DPI) investments. By aligning national goals with DPI projects, nations can effectively target resources and fill infrastructure gaps. Implementing this approach requires balancing international support with local needs assessments.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Hackers abuse the Ivanti Connect Secure bug to gain access without accounts</title>
-      <link>https://www.csoonline.com/article/4235129/hackers-abuse-the-ivanti-connect-secure-bug-to-gain-access-without-accounts.html</link>
-      <guid isPermaLink="false">identitybrief-c4ec27c9af9a1763</guid>
-      <pubDate>Wed, 14 Oct 2026 11:46:45 +0000</pubDate>
-      <category>breach</category>
-      <description>Attackers exploited an Ivanti Connect Secure bug for unauthorized access, executing arbitrary commands. Highlighting the importance of timely vulnerability management, this serves as a cautionary tale for patch delays. Exploits occurred before full mitigation, showcasing the imperative for rapid deployment of security fixes.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>The world’s most important event in identity. 115+ countries. One room 🌎</title>
-      <link>https://identityweek.net/the-worlds-most-important-event-in-identity-115-countries-one-room-%f0%9f%8c%8e/</link>
-      <guid isPermaLink="false">identitybrief-a06de488bbd5da11</guid>
-      <pubDate>Thu, 15 Oct 2026 15:05:57 +0000</pubDate>
-      <category>iam</category>
-      <description>Identity Week Europe has become a focal event for identity professionals, promising high returns on time investment. It's a strategic gathering for leaders looking to understand global identity trends and solutions. However, the ROI depends heavily on engagement quality, not just attendance numbers.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Ransomware extortion gets personal as attackers target employees’ families</title>
-      <link>https://www.csoonline.com/article/4235782/ransomware-extortion-gets-personal-as-attackers-target-employees-families.html</link>
-      <guid isPermaLink="false">identitybrief-b333a11e2a404642</guid>
-      <pubDate>Thu, 15 Oct 2026 11:39:45 +0000</pubDate>
-      <category>breach</category>
-      <description>Ransomware tactics now include AI and threats to employees' families, adding extra pressure to victims. This evolution of extortion emphasizes the need for robust identity management systems as attackers target vulnerabilities. These social tactics complicate defenses by extending threat vectors beyond IT systems.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories</title>
-      <link>https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html</link>
-      <guid isPermaLink="false">identitybrief-1d72630baefb7528</guid>
-      <pubDate>Thu, 15 Oct 2026 08:45:10 +0000</pubDate>
-      <category>breach</category>
-      <description>GhostAction compromised 1,900 GitHub accounts, impacting 30,000 repositories to extract sensitive CI secrets. This underscores the criticality of strong credential hygiene and monitoring in code environments. The attacker’s focus on public repositories reveals the potential fallout from overlooked secure coding practices.
-
-— via The Hacker News</description>
     </item>
 </channel></rss>
