@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>The first ten lines of a command policy for AI coding agents</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/</link>
+      <guid isPermaLink="false">identitybrief-fa151c6b68b83976</guid>
+      <pubDate>Mon, 02 Nov 2026 06:30:36 +0000</pubDate>
+      <category>auth</category>
+      <description>Setting the first ten lines of command policy for AI coding agents can reduce risk. This means AI acts under its identity but requires human identity attachment when necessary. The catch: concrete examples were scant in showing how this solves existing proxy issues completely.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Byoky: Open-source wallet for AI API keys</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/</link>
+      <guid isPermaLink="false">identitybrief-39c886feecb9e136</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:33 +0000</pubDate>
+      <category>iam</category>
+      <description>Byoky is an open-source wallet for managing AI API keys, safeguarding them on local devices. This ensures that actual keys aren't shared, enhancing security by granting only session tokens. The limitation here is it's an ecosystem play; developers need to integrate it with their apps.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Ransomware gang talked AI agents into doing much of its dirty work</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/</link>
+      <guid isPermaLink="false">identitybrief-47700cf31ca37597</guid>
+      <pubDate>Mon, 02 Nov 2026 05:00:46 +0000</pubDate>
+      <category>breach</category>
+      <description>A ransomware gang used AI agents to move laterally within networks, collecting credentials. This highlights AI's role not only in defending but also in facilitating attacks. The wrinkle: Sophos notes they found artifacts, but full methods of AI misuse are not publicly detailed yet.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>OrionLink: Single Sign-On with Oblivious Identity Brokers</title>
+      <link>http://arxiv.org/abs/2610.41323v1</link>
+      <guid isPermaLink="false">identitybrief-b970231aaa5b68d7</guid>
+      <pubDate>Fri, 30 Oct 2026 06:37:40 +0000</pubDate>
+      <category>research</category>
+      <description>OrionLink proposes a Single Sign-On (SSO) model with clueless brokers to enhance privacy. This minimizes exposure of authentication credentials to identity brokers. However, adoption depends on widespread trust and proof of security with real-world deployments.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Fooling Relying Parties of the EUDI Wallet Architecture: Credential Pooling Attacks and CRESTA, a Standard-Compliant Countermeasure</title>
+      <link>http://arxiv.org/abs/2610.41655v1</link>
+      <guid isPermaLink="false">identitybrief-a2f3cfcd8ce363a2</guid>
+      <pubDate>Fri, 30 Oct 2026 12:28:25 +0000</pubDate>
+      <category>research</category>
+      <description>Credential pooling attacks threaten the European Digital Identity (EUDI) Wallet's trustworthiness. Colluding users can present pooled credentials as if from a single source. The cure, CRESTA, exists but relies heavily on adoption and education among relying parties.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks</title>
+      <link>http://arxiv.org/abs/2610.41055v1</link>
+      <guid isPermaLink="false">identitybrief-42e99df4d7a6e377</guid>
+      <pubDate>Thu, 29 Oct 2026 22:52:45 +0000</pubDate>
+      <category>research</category>
+      <description>This paper examines secure federation of AI in vehicular networks with post-quantum authentication. It's crucial for ensuring communication privacy and efficiency without centralized data risks. The issue: applying such complex frameworks needs a robust, compatible infrastructure.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>US Treasury makes ID.me mandatory as federal policy shifts toward Login.gov</title>
+      <link>https://www.biometricupdate.com/202610/us-treasury-makes-id-me-mandatory-as-federal-policy-shifts-toward-login-gov</link>
+      <guid isPermaLink="false">identitybrief-27fb6c27a60532e4</guid>
+      <pubDate>Fri, 30 Oct 2026 17:10:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>ID.me is now mandatory for U.S. Treasury users even as overall federal shifts focus to Login.gov. It complicates the identity landscape as private verification clashes with federal preference. The drawback: users lacking ID.me face barriers without government-backed alternatives.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Moldova data breach exposes records linked to 750,000 national ID numbers</title>
+      <link>https://www.biometricupdate.com/202610/moldova-data-breach-exposes-records-linked-to-750000-national-id-numbers</link>
+      <guid isPermaLink="false">identitybrief-2d6cad97e6ac0452</guid>
+      <pubDate>Fri, 30 Oct 2026 16:20:20 +0000</pubDate>
+      <category>did</category>
+      <description>A cyberattack on Moldova compromised 750,000 national ID records. This breach highlights the danger to digital government infrastructures. AGE's response notes but doesn't detail the countermeasures planned or implemented.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Podcast: Deepfakes threaten election trust as AI-generated ads surge</title>
+      <link>https://www.biometricupdate.com/202610/podcast-deepfakes-threaten-election-trust-as-ai-generated-ads-surge</link>
+      <guid isPermaLink="false">identitybrief-6f5d0d091cc34d3b</guid>
+      <pubDate>Fri, 30 Oct 2026 16:05:25 +0000</pubDate>
+      <category>fraud</category>
+      <description>Deepfakes are threatening trust in electoral processes with AI-generated ads. The biosphere of AI-assisted fraud expands into public opinion manipulation. Yet, current detection and mitigation technologies lag behind the threat's sophistication.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Imposter abused trust in OpenAI, Anthropic, and 30 others to hunt for secrets</title>
+      <link>https://www.csoonline.com/article/4242088/imposter-abused-trust-in-openai-anthropic-and-30-others-to-hunt-for-secrets.html</link>
+      <guid isPermaLink="false">identitybrief-7150fd3d8ffb6f5f</guid>
+      <pubDate>Thu, 29 Oct 2026 11:52:51 +0000</pubDate>
+      <category>auth</category>
+      <description>Imposters are pretending to be AI agents from major tech companies to uncover secrets. This escalation in credential harvesting adds a new layer to phishing tactics. The concern: lack of specific defenses against deceit via familiar AI interfaces.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories</title>
+      <link>https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html</link>
+      <guid isPermaLink="false">identitybrief-c9e7c513e1436e5a</guid>
+      <pubDate>Thu, 29 Oct 2026 11:33:15 +0000</pubDate>
+      <category>breach</category>
+      <description>Thousands of valid credentials on Gitee were publicly exposed, risking misuse. A stark reminder of the risks in public code repositories. The critical point: visibility on such scale questions how companies monitor developer-driven data leaks.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Vulnerability exploitation rising as the root cause of many breaches</title>
+      <link>https://www.csoonline.com/article/4241912/vulnerability-exploitation-rising-as-the-root-cause-of-many-breaches.html</link>
+      <guid isPermaLink="false">identitybrief-bca90e0350a02404</guid>
+      <pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Rising vulnerability exploitation shows a pivot from phishing in breaking into systems. This shift requires different defense strategies focusing on patch management. LevelBlue's findings point out vulnerabilities but miss deeper investigation into deterrent methods.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Admin dropped the F-bomb in a password to show hackers who was really 1337</title>
+      <link>https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139</link>
+      <guid isPermaLink="false">identitybrief-c02963657f129c75</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>An admin humorously used expletives in passwords for a sense of digital rebellion. Highlighting security culture met with a dose of reality—true security needs more than clever passwords. The take-home: robust measures beyond just passphrases are critical.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>How to add enterprise SSO and SCIM to a Better Auth app</title>
+      <link>https://workos.com/blog/add-enterprise-sso-scim-better-auth-app</link>
+      <guid isPermaLink="false">identitybrief-5bb4129c7a815d86</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Integrate SSO and SCIM for Better Auth apps for enterprise client needs. This addresses the scaling of modern identity management with external users. Bear in mind: customization could bring longer integration cycles without experienced hands.
+
+— via WorkOS</description>
+    </item>
+    <item>
       <title>Biometrics and standards bring cross-border digital ID closer</title>
       <link>https://www.biometricupdate.com/202610/biometrics-and-standards-bring-cross-border-digital-id-closer</link>
       <guid isPermaLink="false">identitybrief-d44fabc39509e748</guid>
@@ -1362,145 +1502,5 @@
       <description>Sponsored content claims AI eases phishing, increasing account takeover risks. Heightened vigilance is crucial as AI tools evolve rapidly. It's sponsored insight, so take it with some skepticism.
 
 — via The Register Security</description>
-    </item>
-    <item>
-      <title>FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq</title>
-      <link>http://arxiv.org/abs/2610.30645v1</link>
-      <guid isPermaLink="false">identitybrief-6002a2c80c3857b7</guid>
-      <pubDate>Thu, 22 Oct 2026 03:06:21 +0000</pubDate>
-      <category>research</category>
-      <description>Researchers offer a formal verification tool for quantum key distribution security. It enhances trust in QKD with machine-checked proofs. Usage requires technical expertise in both quantum mechanics and formal verification.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</link>
-      <guid isPermaLink="false">identitybrief-b57b1f6a14271e76</guid>
-      <pubDate>Thu, 22 Oct 2026 19:12:51 +0000</pubDate>
-      <category>breach</category>
-      <description>LiteLLM's release pipeline was hijacked to distribute info-stealer malware. Credential theft risk shows the importance of securing open-source pipelines. Prevention depends on robust code signing and pipeline monitoring.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure</title>
-      <link>http://arxiv.org/abs/2610.31573v1</link>
-      <guid isPermaLink="false">identitybrief-5a19d86623c85339</guid>
-      <pubDate>Thu, 22 Oct 2026 17:13:46 +0000</pubDate>
-      <category>research</category>
-      <description>New research explores social media profiling's risks in social engineering. Exposure arises more from what can be inferred than what users post. It's an academic framework, not yet an operational tool for practitioners.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AI-powered Identity Threat Defense: Identity Security Fabric</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Mm9kUTdxNXB1VjJ4V2NyMENsT2dUNnV1NG94ZjJodDlwN3BQNzNQVHZVRUc5bFBNTTduckc3RTVTMkV3Wko3aFNhbkdtZlBGeFJ2V3FrbzgzZFo5Q3c?oc=5</link>
-      <guid isPermaLink="false">identitybrief-a45c60bf2611520f</guid>
-      <pubDate>Thu, 22 Oct 2026 21:56:39 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta discusses AI in identity threat defense and security fabric. It highlights AI's role in thwarting identity-based risks. Content comes from a vendor, so check for practical applicability and neutrality.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Philippines launches $7.8M tender for national digital ID infrastructure</title>
-      <link>https://www.biometricupdate.com/202610/philippines-launches-7-8m-tender-for-national-digital-id-infrastructure</link>
-      <guid isPermaLink="false">identitybrief-32b333fa5f74dce5</guid>
-      <pubDate>Wed, 21 Oct 2026 18:31:26 +0000</pubDate>
-      <category>did</category>
-      <description>The Philippines has launched a $7.8M tender for building national digital ID infrastructure. It underscores the nation's commitment to secure, large-scale identity verification. The tender’s short span and technical scope could pose integration and vendor selection challenges.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Utah pushes SEDI privacy framework as alternative to digital ID tracking</title>
-      <link>https://www.biometricupdate.com/202610/utah-pushes-sedi-privacy-framework-as-alternative-to-digital-id-tracking</link>
-      <guid isPermaLink="false">identitybrief-7019a8e23afc4342</guid>
-      <pubDate>Wed, 21 Oct 2026 18:45:50 +0000</pubDate>
-      <category>did</category>
-      <description>Utah introduces the SEDI privacy framework as an alternative to 'phone home' digital ID tracking. For privacy-conscious agencies, it's a model worth examining for reduced issuer tracking. Its efficiency remains in question until broader application and feedback.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>eMudhra cryptographic failure raises questions about digital identity trust</title>
-      <link>https://www.biometricupdate.com/202610/emudhra-cryptographic-failure-raises-questions-about-digital-identity-trust</link>
-      <guid isPermaLink="false">identitybrief-06d7b12d1cb72070</guid>
-      <pubDate>Wed, 21 Oct 2026 18:00:54 +0000</pubDate>
-      <category>did</category>
-      <description>eMudhra's cryptographic failure involving eight intermediate CAs raises trust issues around digital identity trust frameworks. It puts a spotlight on the importance of robust PKI systems in managing sensitive identity information. Catch: It might take significant time and effort to rebuild user confidence.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FaceTec partners with Police &amp; Sheriffs Press to fight law enforcement impersonation</title>
-      <link>https://identityweek.net/facetec-partners-with-police-sheriffs-press-to-fight-law-enforcement-impersonation/</link>
-      <guid isPermaLink="false">identitybrief-22336840c03bab64</guid>
-      <pubDate>Wed, 21 Oct 2026 15:26:38 +0000</pubDate>
-      <category>fraud</category>
-      <description>FaceTec collaborates with Police &amp; Sheriffs Press to enhance law enforcement IDs with facial biometrics. This aims to fortify credential authenticity and reduce impersonation risks. It remains contingent on widespread agency adoption and physical card management.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Digital verification providers called to join the GOV.UK Wallet sandbox</title>
-      <link>https://identityweek.net/digital-verification-providers-called-to-join-the-gov-uk-wallet-sandbox/</link>
-      <guid isPermaLink="false">identitybrief-8354bf3dffd2a017</guid>
-      <pubDate>Wed, 21 Oct 2026 11:36:06 +0000</pubDate>
-      <category>fraud</category>
-      <description>GOV.UK Wallet invites digital verification providers to join its sandbox program. This could accelerate the integration of private sector solutions in governmental ID initiatives. Initial participation and its impact on standardization remains speculative.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</title>
-      <link>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/</link>
-      <guid isPermaLink="false">identitybrief-63a8197e2e1b58ff</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:26 +0000</pubDate>
-      <category>breach</category>
-      <description>LiteLLM version 1.107.0 on PyPI has been compromised to install a credential stealer and backdoor. This highlights significant risks in supply chain security and the immediate need for vigilance around open-source dependencies. The catch: such attacks can be persistent until all instances are fully mitigated.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Launch HN: Alter (YC S25) – Access control for multi-user agents</title>
-      <link>https://alterauth.com/</link>
-      <guid isPermaLink="false">identitybrief-ab19e36ed5f82edb</guid>
-      <pubDate>Wed, 21 Oct 2026 06:42:12 +0000</pubDate>
-      <category>iam</category>
-      <description>Alter (YC S25) is developing access control solutions for multi-user agents. This could simplify managing permissions for tools that interact with multiple APIs using shared keys. Initial limitations include the need for specialized use-case compatibility, mainly for teams using these specific integrated agents.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Biometric Update: FIDO sets out certification framework for digital identity wallets</title>
-      <link>https://fidoalliance.org/biometric-update-fido-sets-out-certification-framework-for-digital-identity-wallets/</link>
-      <guid isPermaLink="false">identitybrief-1f09331bcbb13906</guid>
-      <pubDate>Wed, 21 Oct 2026 19:22:13 +0000</pubDate>
-      <category>did</category>
-      <description>The FIDO Alliance has released certification frameworks for digital identity wallets. This move aims to standardize credential management across different platforms. The challenge: adoption hurdles remain, especially integrating into existing identity ecosystems.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>GhostFaceMPC: Privacy-Preserving Face Recognition with Multi-Party Computation</title>
-      <link>http://arxiv.org/abs/2610.29987v1</link>
-      <guid isPermaLink="false">identitybrief-8f8d88f36511c035</guid>
-      <pubDate>Wed, 21 Oct 2026 16:28:18 +0000</pubDate>
-      <category>research</category>
-      <description>GhostFaceMPC proposes privacy-preserving face recognition through multi-party computation. It suggests a way to secure biometric processing without exposing raw data. However, implementation complexity and computational demand might slow down its adoption.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Chrome puts insecure sites behind a permission prompt</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/google-chrome-https-protection/</link>
-      <guid isPermaLink="false">identitybrief-e71bb5e70cc3b9db</guid>
-      <pubDate>Wed, 21 Oct 2026 22:30:30 +0000</pubDate>
-      <category>breach</category>
-      <description>Chrome’s new update prompts users before loading insecure HTTP sites. This is a positive step towards reducing phishing and data exposure risks. However, users still need education on recognizing and responding to these prompts correctly.
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
