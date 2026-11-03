@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Opal’s agent.ID virtual event: Top security leaders on governing Al agents</title>
+      <link>https://www.helpnetsecurity.com/2026/11/03/opal-security-agent-id-virtual-event/</link>
+      <guid isPermaLink="false">identitybrief-eb5ade18647e4c74</guid>
+      <pubDate>Tue, 03 Nov 2026 08:55:07 +0000</pubDate>
+      <category>iam</category>
+      <description>Opal is hosting a virtual event on managing AI agents in identity systems. It aims to help security leaders adapt IAM practices to AI, focusing on access and accountability. While insightful, the event is specific to those handling AI integrations.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Innovatrics biometric IAD certified by CLR Labs for High level protection</title>
+      <link>https://www.biometricupdate.com/202611/innovatrics-biometric-iad-certified-by-clr-labs-for-high-level-protection</link>
+      <guid isPermaLink="false">identitybrief-ee012aa1eaf20d7c</guid>
+      <pubDate>Mon, 02 Nov 2026 21:10:56 +0000</pubDate>
+      <category>fraud</category>
+      <description>Innovatrics' biometric verification gets certified for high-level protection. It addresses deepfake and camera-path injection attacks in identity onboarding. This certification applies mostly to those already invested in Innovatrics' ecosystem.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Somalia puts Hubiye national ID verification platform into operation</title>
+      <link>https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation</link>
+      <guid isPermaLink="false">identitybrief-dfec874c445abf53</guid>
+      <pubDate>Mon, 02 Nov 2026 20:57:53 +0000</pubDate>
+      <category>did</category>
+      <description>Somalia launches Hubiye, a national ID verification platform. It expands digital identity's role in public and banking sectors. Regional focus means the impact is more local, with broader adoption challenges globally.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials</title>
+      <link>https://thehackernews.com/2026/11/attackers-target-unpatched.html</link>
+      <guid isPermaLink="false">identitybrief-d4042f8de11d05d6</guid>
+      <pubDate>Tue, 03 Nov 2026 05:34:37 +0000</pubDate>
+      <category>breach</category>
+      <description>An unpatched WordPress flaw in CryptoPayment Gateway reveals wallet credentials. This could allow unauthorized file deletions on servers. The specific impact is confined to systems using this plugin, urging immediate fixes.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Philippines expands national ID ecosystem with offline KYC platform</title>
+      <link>https://www.biometricupdate.com/202611/philippines-expands-national-id-ecosystem-with-offline-kyc-platform</link>
+      <guid isPermaLink="false">identitybrief-9d31f29dcad34567</guid>
+      <pubDate>Mon, 02 Nov 2026 17:18:38 +0000</pubDate>
+      <category>did</category>
+      <description>Philippines rolls out offline KYC using its national ID system. It provides authentication in areas with unreliable internet. The solution fits rural needs but depends on successful biometric verification uptake.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data</title>
+      <link>https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html</link>
+      <guid isPermaLink="false">identitybrief-d596e3f2baced4c0</guid>
+      <pubDate>Mon, 02 Nov 2026 11:08:45 +0000</pubDate>
+      <category>auth</category>
+      <description>Fake IT support scams on MS Teams leverage AD CS vulnerabilities. Attackers gain privileged access via weak certificate settings. It's a reminder to audit and restrict certificate authority configurations to limit exposure.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>67% of security leaders say their teams struggle to meet business needs</title>
+      <link>https://www.csoonline.com/article/4243598/67-of-security-leaders-say-their-teams-struggle-to-meet-business-needs.html</link>
+      <guid isPermaLink="false">identitybrief-d733d5a282a882a3</guid>
+      <pubDate>Tue, 03 Nov 2026 08:25:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Barracuda's report says 67% of security leaders find teams overstretched. Rising AI risks and complex identity threats are common challenges. The report highlights skill gaps, but doesn't offer new solutions beyond recognizing the issue.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>An Empirical Evaluation of Signing and Verification Performance of Verifiable Credential Formats: A Cross-Language Benchmark of SD-JWT VC, W3C VCDM, and mdoc</title>
+      <link>http://arxiv.org/abs/2611.03493v1</link>
+      <guid isPermaLink="false">identitybrief-32915a705e97030f</guid>
+      <pubDate>Mon, 02 Nov 2026 17:35:04 +0000</pubDate>
+      <category>research</category>
+      <description>A study compares signing and verification speeds of three verifiable credential formats. It helps understand performance trade-offs among SD-JWT VC, W3C VCDM, and mdoc formats. This is technical and doesn't address practical deployment hurdles or policy requirements.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Gorbag APT group hits Ukrainian courts and city councils with self-deleting malware</title>
+      <link>https://www.helpnetsecurity.com/2026/11/03/gorbag-apt-group-malware/</link>
+      <guid isPermaLink="false">identitybrief-580d890bd820af8c</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:14 +0000</pubDate>
+      <category>breach</category>
+      <description>ESET tracks a group using self-deleting malware against Ukrainian entities. Spearphishing is the primary entry point for these attacks. The scope is limited to Ukraine, but the technique highlights risks in email-centric defenses.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors</title>
+      <link>https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html</link>
+      <guid isPermaLink="false">identitybrief-3e6bc640da57c0d4</guid>
+      <pubDate>Tue, 03 Nov 2026 05:34:41 +0000</pubDate>
+      <category>breach</category>
+      <description>A severe flaw in Siemens IoT2050 allows attackers to run arbitrary code. The vulnerability can be exploited remotely, posing a significant threat. It's critical, but specific to Siemens devices, prompting update urgency.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>TrafficInstruct: A Multi-Task Network Traffic Dataset and Benchmark for Instruction Tuning</title>
+      <link>http://arxiv.org/abs/2611.03319v1</link>
+      <guid isPermaLink="false">identitybrief-6ea52a87213e9c56</guid>
+      <pubDate>Mon, 02 Nov 2026 15:44:53 +0000</pubDate>
+      <category>research</category>
+      <description>TrafficInstruct introduces a diverse network traffic dataset for instruction tuning. It's useful for training AI models on security tasks like malware detection. This remains a research tool, requiring technical setup to use effectively.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning</title>
+      <link>http://arxiv.org/abs/2611.03431v1</link>
+      <guid isPermaLink="false">identitybrief-11da196cfaedf3b9</guid>
+      <pubDate>Mon, 02 Nov 2026 16:52:44 +0000</pubDate>
+      <category>research</category>
+      <description>IAMRAGBENCH tests AWS IAM policies against LLM-induced flaws. It benchmarks model-generated policy expansions under RAG poisoning conditions. While insightful, this is highly experimental and best suited for security researchers.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>CISA to federal agencies: Remediate exploited Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527)</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/cisa-to-federal-agencies-remediate-exploited-ivanti-connect-secure-vulnerabilities-cve-2026-111357-cve-2026-118527/</link>
+      <guid isPermaLink="false">identitybrief-5b859d544d735a3f</guid>
+      <pubDate>Mon, 02 Nov 2026 15:58:08 +0000</pubDate>
+      <category>breach</category>
+      <description>CISA advises agencies to patch critical Ivanti Connect Secure vulnerabilities. The flaws could allow privilege escalation and unauthorized file uploads. Timely updates are crucial, yet awareness and patch distribution remain hurdles.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Secure identity and access for every agent, local or cloud - Microsoft Entra</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2hnTjQ0cVNuNjJUeTNNM2pNbG9zZVpUU040RmI0TmFQdUxXb0ZlNEZCREdNeVRaN2VWZDlobW5IS3BydHpiNFRwSkVxQThTMTc2aGdtR1hhcFJIRHk2UXhhUzBoWGwtZWM2UzYxUXhvZEFlOUdCQW5DZ3k4WXozU2FMSmRIMHVteVRYNlVCOFk1RWZINWpJeFlEXzdYV1BRVjVZNExsYnRHZnZ5WklsMDRzQWlyNGd1dFotelBSU2xZcmxkbGNZbl9XOFFVZw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-88cf09257f9b8937</guid>
+      <pubDate>Tue, 03 Nov 2026 06:05:33 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft Entra's post focuses on secure identity management in diverse environments. It integrates identity handling for local and cloud agents. The overview remains high-level, with practical details left to user exploration.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>The first ten lines of a command policy for AI coding agents</title>
       <link>https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/</link>
       <guid isPermaLink="false">identitybrief-fa151c6b68b83976</guid>
@@ -1362,145 +1502,5 @@
       <description>Meta was fined $25 billion for illegally sharing user data, a significant penalty for privacy law violations. This serves as a warning to all companies to respect data privacy laws. Lawsuits like this can have wider financial implications due to regulatory scopes.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>Cyber Insurance's New Reality: Underwriting Isn't Enough</title>
-      <link>https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough</link>
-      <guid isPermaLink="false">identitybrief-d067a2a05c523771</guid>
-      <pubDate>Fri, 23 Oct 2026 13:30:00 +0000</pubDate>
-      <category>iam</category>
-      <description>The limits of underwriting are evident in cyber insurance as risks grow. Insurers are moving deeper into security solutions, beyond just risk assessments. The challenge remains equitably balancing risk and cost, especially for small businesses.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
-      <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
-      <guid isPermaLink="false">identitybrief-80697809b26e3096</guid>
-      <pubDate>Fri, 23 Oct 2026 11:11:23 +0000</pubDate>
-      <category>breach</category>
-      <description>Russian-linked hackers used a new mesh network backdoor in a Ukrainian attack. This shows advanced threats leveraging hidden network paths, making detection harder. The complexity: these network structures are evolving faster than monitoring tools.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>AIRO: A Streaming-Based Machine Learning Framework for Threat Detection and Security in Industrial Internet of Things</title>
-      <link>http://arxiv.org/abs/2610.30713v1</link>
-      <guid isPermaLink="false">identitybrief-28c25840970f1f69</guid>
-      <pubDate>Thu, 22 Oct 2026 04:30:48 +0000</pubDate>
-      <category>research</category>
-      <description>The AIRO framework offers new machine learning strategies for detecting threats in the Industrial IoT. Such tools promise enhanced security for industrial operations. However, the integration of AI systems, especially in legacy environments, can be complicated.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Microsoft Entra provisioning Agent Error</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnNiNjF0TkE0a3M3am9RRmU3TnZtRERkR2NseVpWbWE4NWtFQnZONks3SlRFWDNGdm9LVXc0am1aczEwQW5JaEVtRUppZEg0RDk1eThzdHMxZHBlN2FtUkxuajNyeDZoMTc3R1pQckFGR203SGtCRUIzWUQzbXdNeHVJNjU2VUxPemVZazN1X25sYVhvdmphZW44bzZNVVAxTm9nODd6SXNkcXM?oc=5</link>
-      <guid isPermaLink="false">identitybrief-7b949f54feba9716</guid>
-      <pubDate>Fri, 23 Oct 2026 19:19:34 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft Entra users face provisioning agent errors, spotlighting dependency issues within identity management systems. It highlights the importance of error monitoring in cloud infrastructure. Troubleshooting can be complex, requiring robust technical support.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Switzerland to launch optional biometric ID cards on November 2</title>
-      <link>https://www.biometricupdate.com/202610/switzerland-to-launch-optional-biometric-id-cards-on-november-2</link>
-      <guid isPermaLink="false">identitybrief-2d4da25f9c3caf75</guid>
-      <pubDate>Thu, 22 Oct 2026 18:48:36 +0000</pubDate>
-      <category>auth</category>
-      <description>Starting November 2, Switzerland offers optional biometric ID cards. These cards add another layer of security with facial and fingerprint biometrics. The catch: they're optional, so non-biometric IDs remain a potential weak link.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>French police use facial recognition, social media images to identify rioters</title>
-      <link>https://www.biometricupdate.com/202610/french-police-use-facial-recognition-social-media-images-to-identify-rioters</link>
-      <guid isPermaLink="false">identitybrief-ac897ed9be5375b7</guid>
-      <pubDate>Thu, 22 Oct 2026 19:09:29 +0000</pubDate>
-      <category>auth</category>
-      <description>French police are employing facial recognition with social media to track riot suspects. This tech's use raises significant privacy and surveillance concerns. It’s still dependent on the quality and legality of collected social media data.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Somalia enrolls citizens returning from Yemen for biometric national IDs</title>
-      <link>https://www.biometricupdate.com/202610/somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-ids</link>
-      <guid isPermaLink="false">identitybrief-d47dd9bc9a76a979</guid>
-      <pubDate>Thu, 22 Oct 2026 17:40:44 +0000</pubDate>
-      <category>did</category>
-      <description>Somalia is issuing biometric national ID cards to returning citizens from Yemen. This aims to streamline access to public services and improve identity verification. The initiative's limitation lies in its current scope, focusing only on returnees.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>UK Gov lays draft code of practice for digital identity ‘Information Gateway’</title>
-      <link>https://identityweek.net/uk-gov-lays-draft-code-of-practice-for-digital-identity-information-gateway/</link>
-      <guid isPermaLink="false">identitybrief-06b54d4724381be3</guid>
-      <pubDate>Thu, 22 Oct 2026 12:04:02 +0000</pubDate>
-      <category>did</category>
-      <description>The UK government is pushing a draft code for a digital identity data-sharing gateway. Public bodies will soon have clearer rules on sharing data with the private sector. The reach is limited to registered verification services and subject to the draft's approval.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Fingerprint uses AI coding tools to automate fraud detection setup</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/fingerprint-agentic-installation/</link>
-      <guid isPermaLink="false">identitybrief-213c6c17df5075da</guid>
-      <pubDate>Thu, 22 Oct 2026 11:45:24 +0000</pubDate>
-      <category>fraud</category>
-      <description>Fingerprint uses AI to speed up fraud detection deployment. The tool automates how device intelligence is set up, slashing deployment time. However, its effectiveness hinges on the chosen AI coding tool's capabilities.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Toronto crime tips org freezes operations after details of data breach come to light</title>
-      <link>https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach</link>
-      <guid isPermaLink="false">identitybrief-0589859b680b25bd</guid>
-      <pubDate>Thu, 22 Oct 2026 20:52:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Toronto's Crime Stoppers paused operations after a data breach was exposed. Revealing the timeline shows transparency but highlights vulnerability in information handling. The real test will be stronger future safeguards and faster response times.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Capcom confirms data breach affecting 11.7 million accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</link>
-      <guid isPermaLink="false">identitybrief-fc291b78824a72e6</guid>
-      <pubDate>Thu, 22 Oct 2026 20:22:45 +0000</pubDate>
-      <category>breach</category>
-      <description>Capcom confirms a breach affecting 11.7 million user accounts. Membership service vulnerabilities show the risks in customer data management. Response and recovery plans will be the focus for reducing future exposure.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Machine speed attacks require machine speed detection and response</title>
-      <link>https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</link>
-      <guid isPermaLink="false">identitybrief-49897ddbe2469767</guid>
-      <pubDate>Thu, 22 Oct 2026 14:02:12 +0000</pubDate>
-      <category>breach</category>
-      <description>Sponsored piece discusses the speed of modern assaults and responses. Highlights the need for swift automated detection solutions. Sponsored by Exaforce, which means it's from the perspective of promoting their agenda.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>State Bank of India Suffers a Customer PII Data Leak</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak</link>
-      <guid isPermaLink="false">identitybrief-1b4a65bd6e1128ce</guid>
-      <pubDate>Fri, 23 Oct 2026 03:30:00 +0000</pubDate>
-      <category>breach</category>
-      <description>State Bank of India suffered a leak of customer PII data. This breach underscores the risk of identity theft in regions with active markets for personal data. The issue: even small data leaks can have major consequences in India.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>When the attacker becomes the user: Rethinking account takeover</title>
-      <link>https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913</link>
-      <guid isPermaLink="false">identitybrief-abfcbfb60201c537</guid>
-      <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>Sponsored content claims AI eases phishing, increasing account takeover risks. Heightened vigilance is crucial as AI tools evolve rapidly. It's sponsored insight, so take it with some skepticism.
-
-— via The Register Security</description>
     </item>
 </channel></rss>
