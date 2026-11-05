@@ -4,6 +4,286 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Most consumers aren’t ready to let AI agents shop unsupervised</title>
+      <link>https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/</link>
+      <guid isPermaLink="false">identitybrief-12a42ecb57e9d79f</guid>
+      <pubDate>Thu, 05 Nov 2026 05:00:30 +0000</pubDate>
+      <category>iam</category>
+      <description>A report from Okta reveals most consumers aren't comfortable with AI agents making unsupervised decisions. This matters for businesses using or planning to use AI-driven customer services. The issue is trust and robust verification systems needed to reassure users.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>mSecure password manager hack prompts password reset warnings</title>
+      <link>https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/</link>
+      <guid isPermaLink="false">identitybrief-201b2063f67ce9cb</guid>
+      <pubDate>Wed, 04 Nov 2026 16:00:18 +0000</pubDate>
+      <category>breach</category>
+      <description>mSecure users are urged to reset passwords due to an exposed encrypted database. It shows the persistent risks of storing sensitive data, even if encrypted. For users, the real concern is breach fatigue — just how many resets users will tolerate.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Traceable evidence will form the basis of AI agents: Authenticate 2026 speakers</title>
+      <link>https://www.biometricupdate.com/202611/traceable-evidence-will-form-the-basis-of-ai-agents-authenticate-2026-speakers</link>
+      <guid isPermaLink="false">identitybrief-91aa3c8f4f4d87dd</guid>
+      <pubDate>Wed, 04 Nov 2026 22:46:38 +0000</pubDate>
+      <category>fraud</category>
+      <description>At FIDO’s Authenticate 2026, speakers discussed AI agents' accountable authentication. The focus on traceability suggests the need for transparency in machine decision-making processes. The barrier is integrating such traceability into existing infrastructures.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Facephi free cash flow improves despite revenue dip amid transition to SaaS</title>
+      <link>https://www.biometricupdate.com/202611/facephi-free-cash-flow-improves-despite-revenue-dip-amid-transition-to-saas</link>
+      <guid isPermaLink="false">identitybrief-0cc2bd04f2ceb251</guid>
+      <pubDate>Wed, 04 Nov 2026 22:13:27 +0000</pubDate>
+      <category>fraud</category>
+      <description>Facephi shares positive cash flow amidst its shift to a SaaS model in biometrics. For fraud prevention, moving to SaaS could mean more agile updates and easier integration. However, as with any transition, adapting existing customers to new systems can test loyalty.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Ghana kicks off enforcement of compulsory biometric verification</title>
+      <link>https://www.biometricupdate.com/202611/ghana-kicks-off-enforcement-of-compulsory-biometric-verification</link>
+      <guid isPermaLink="false">identitybrief-d7941ecb5bf89cb1</guid>
+      <pubDate>Wed, 04 Nov 2026 16:17:24 +0000</pubDate>
+      <category>did</category>
+      <description>Ghana begins enforcing biometric verification for service access as part of new regulations. It underlines a move towards robust identity systems in state functions. However, challenges persist in public acceptance and privacy concerns.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Building incident playbooks for machine identity breaches</title>
+      <link>https://www.csoonline.com/article/4244632/building-incident-playbooks-for-machine-identity-breaches.html</link>
+      <guid isPermaLink="false">identitybrief-2a9e6f7c49073414</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>CSO Online discusses the need for incident playbooks specifically for machine identity breaches. It's crucial because traditional incident responses don't work for non-human accounts. The challenge is getting buy-in to create and maintain these specialized processes.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Zyxel patches a zero-day hiding behind an old fix</title>
+      <link>https://www.csoonline.com/article/4245028/zyxel-patches-a-zero-day-hiding-behind-an-old-fix.html</link>
+      <guid isPermaLink="false">identitybrief-27b6afc767767559</guid>
+      <pubDate>Thu, 05 Nov 2026 09:44:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Zyxel fixed a zero-day flaw in GS1900 switches, initially masked by a prior patch. This highlights the importance of verifying patch efficacy in complex networks. The snag is how mixed signals about what’s patched can complicate operational security planning.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>AI Agents Need More Than Least Privilege — They Need Least Agency</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0JpN1YyRWc3cWJIQWtvSEszSTZyOTBTS1RuWS1QR08wN0JLa2ZBOW1DY1dNNXRacDBSeTdDMUFoOGUxSnFuVFB6a2s0OE1IMXNSaDJvWXNsNVNZWi1QUWhKLU1QdllQNlFRSU5kZ2FINWhGTVV1NVQtOVdnTUVZaEpVSzhGb2htRnJUU2Fpa0k4dk54cFIzNDZkX3o?oc=5</link>
+      <guid isPermaLink="false">identitybrief-a8034a2ce09114c1</guid>
+      <pubDate>Wed, 04 Nov 2026 22:09:25 +0000</pubDate>
+      <category>iam</category>
+      <description>An article argues AI agents need 'least agency', beyond just 'least privilege'. This matters for preventing over-reach where automated tasks might unintentionally exceed their intended scope. Understanding and enforcing 'least agency' can be difficult.
+
+— via Forrester</description>
+    </item>
+    <item>
+      <title>AI agent detection signals that still work when agents look human</title>
+      <link>https://www.helpnetsecurity.com/2026/11/05/zohaib-ahmed-resemble-ai-detecting-ai-agent-traffic/</link>
+      <guid isPermaLink="false">identitybrief-21d7b1f50a8898e0</guid>
+      <pubDate>Thu, 05 Nov 2026 06:45:07 +0000</pubDate>
+      <category>iam</category>
+      <description>Detecting AI agents disguised as human traffic remains challenging. Misleading signals can bypass traditional bot detection. The difficulty lies in staying ahead of evolving AI mimicking techniques.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says</title>
+      <link>https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html</link>
+      <guid isPermaLink="false">identitybrief-2a5b7d5a686a585d</guid>
+      <pubDate>Thu, 05 Nov 2026 05:17:04 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers are exploiting a patched Apple flaw with info-stealing malware, says CISA. This highlights that even patched systems may not be secure if an attacker is active before the patch. Enticing users to apply patches immediately remains a hurdle.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Attackers turned OpsShield’s trusted update channel into a supply-chain attack</title>
+      <link>https://www.csoonline.com/article/4244961/attackers-turned-opsshields-trusted-update-channel-into-a-supply-chain-attack-2.html</link>
+      <guid isPermaLink="false">identitybrief-1b131107345247bc</guid>
+      <pubDate>Thu, 05 Nov 2026 03:03:06 +0000</pubDate>
+      <category>breach</category>
+      <description>OpsShield's update channel was compromised, used in a supply-chain attack. This points to the vulnerabilities inherent in software supply chains. Users must trust vendors to handle these breaches, yet experience shortages of communication.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Integrated Identity Protection for Semantic Communications in Embodied IoT Systems</title>
+      <link>http://arxiv.org/abs/2611.06788v1</link>
+      <guid isPermaLink="false">identitybrief-2d17fb202bbc2e65</guid>
+      <pubDate>Wed, 04 Nov 2026 17:02:08 +0000</pubDate>
+      <category>research</category>
+      <description>A paper discusses identity protection in IoT systems combining semantic communications. It highlights the need to balance information reliability with identity legitimacy. Implementing these ideas remains largely theoretical, requiring practical tech advances.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Vercel rolls out new protection against stolen session cookie attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</link>
+      <guid isPermaLink="false">identitybrief-94ac3c3bdec22b17</guid>
+      <pubDate>Wed, 04 Nov 2026 21:31:18 +0000</pubDate>
+      <category>auth</category>
+      <description>BleepingComputer reports Vercel is adding defenses against session cookie theft. This added layer can help protect against malware threats like information stealers. The challenge lies in educating users and developers on employing these defenses properly.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Okta Identity Maturity Model: 5-Industry Roadmap &amp; Guide</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWJ0cEFrU0JkelkwQ0VTb254WUNNOHFycjRWb1IzanFGZVIwbEpNZjdubExuN1MzbzhpaUtienRlRGZsR3ZHLWJVSXRYZ2hUYUIzZHhjcnVhZEhOdWEtMU0wQk1Kam1jRkNpb1U3M1oteGQ0bTVSMENsdlBMZjZnZFVGVjlnbUE?oc=5</link>
+      <guid isPermaLink="false">identitybrief-ce6d212e6440c120</guid>
+      <pubDate>Wed, 04 Nov 2026 23:37:30 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta presents an identity maturity model roadmap for five industries. It's a guide to improving identity practices tailored to specific sectors. The advice's generic nature may not offer enough specific answers for niche issues.
+
+— via Okta</description>
+    </item>
+    <item>
+      <title>Ghostunnel: Open-source TLS proxy with mutual authentication</title>
+      <link>https://www.helpnetsecurity.com/2026/11/04/ghostunnel-open-source-tls-proxy/</link>
+      <guid isPermaLink="false">identitybrief-a5561bd308a979dc</guid>
+      <pubDate>Wed, 04 Nov 2026 06:30:14 +0000</pubDate>
+      <category>auth</category>
+      <description>Ghostunnel is an open-source proxy offering TLS for apps unable to natively handle TLS. It enhances security by ensuring data is encrypted in transit. Note: it requires manual configuration and understanding of TLS.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Ethiopia’s FaydaPass digital wallet could gain blockchain-backed credentials</title>
+      <link>https://www.biometricupdate.com/202611/ethiopias-faydapass-digital-wallet-could-gain-blockchain-backed-credentials</link>
+      <guid isPermaLink="false">identitybrief-36f30098cb5f38d4</guid>
+      <pubDate>Tue, 03 Nov 2026 20:23:52 +0000</pubDate>
+      <category>did</category>
+      <description>Ethiopia's FaydaPass is exploring blockchain-backed credentials for digital IDs. It could link various forms of digital identity verification for enhanced security. Still in exploration phase, making it uncertain when it will be available.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>New Zealand trials first government-issued digital credential with NZBN Business Passport</title>
+      <link>https://www.biometricupdate.com/202611/new-zealand-trials-first-government-issued-digital-credential-with-nzbn-business-passport</link>
+      <guid isPermaLink="false">identitybrief-d5b1a1ed21eb3947</guid>
+      <pubDate>Tue, 03 Nov 2026 18:55:06 +0000</pubDate>
+      <category>did</category>
+      <description>New Zealand launches a trial digital credential for businesses, reducing paperwork via verified information sharing. It's a step toward streamlined business operations. However, currently only a trial with limited participants.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity</title>
+      <link>https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html</link>
+      <guid isPermaLink="false">identitybrief-9ca07b46843ba208</guid>
+      <pubDate>Tue, 03 Nov 2026 18:46:38 +0000</pubDate>
+      <category>auth</category>
+      <description>mSecure users are advised to change passwords and 2FA settings due to suspicious activity. Highlights the importance of regularly updating security credentials. Details on the nature of the breach remain sparse.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Papua New Guinea’s voluntary digital ID is becoming harder to avoid</title>
+      <link>https://www.biometricupdate.com/202611/papua-new-guineas-voluntary-digital-id-is-becoming-harder-to-avoid</link>
+      <guid isPermaLink="false">identitybrief-f3edf9cf76ff76ad</guid>
+      <pubDate>Tue, 03 Nov 2026 20:25:04 +0000</pubDate>
+      <category>did</category>
+      <description>Papua New Guinea's digital ID policy is making voluntary IDs nearly mandatory. This shift could standardize identity verification across the region. Concern: may force adoption on those not yet prepared.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Fourthline and Veridas complete merger to create a European leader in Bank-grade digital identity</title>
+      <link>https://identityweek.net/fourthline-and-veridas-complete-merger-to-create-a-european-leader-in-bank-grade-digital-identity/</link>
+      <guid isPermaLink="false">identitybrief-671c64bccaff6393</guid>
+      <pubDate>Tue, 03 Nov 2026 10:37:43 +0000</pubDate>
+      <category>did</category>
+      <description>Fourthline and Veridas have merged to enhance their digital identity solutions in Europe. This could streamline compliance and anti-fraud efforts. Initial focus is European Union-centric, with global impact only over time.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft</title>
+      <link>https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html</link>
+      <guid isPermaLink="false">identitybrief-19a35a6714f91980</guid>
+      <pubDate>Tue, 03 Nov 2026 16:55:58 +0000</pubDate>
+      <category>breach</category>
+      <description>Binance details a $6.43 billion theft using fake job interviews and AI. Highlights the creative application of phishing and social engineering. Defense relies on better training and awareness, not just technical tools.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access</title>
+      <link>https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html</link>
+      <guid isPermaLink="false">identitybrief-bc96c130a163cdde</guid>
+      <pubDate>Tue, 03 Nov 2026 15:59:19 +0000</pubDate>
+      <category>breach</category>
+      <description>More details on Barracuda’s vulnerabilities, linking authorization bypass to command execution. Reinforces previous alerts about root access risks. Continuous risk without immediate remediation of exposed devices.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
+      <link>https://uncracked.city</link>
+      <guid isPermaLink="false">identitybrief-a8a937d5fc613533</guid>
+      <pubDate>Tue, 03 Nov 2026 21:20:03 +0000</pubDate>
+      <category>auth</category>
+      <description>Uncracked City is a detective game where AI-powered characters can lie to users. While it's a game, it highlights real-world issues of trust with AI. The catch: it's a solo project, so support and updates might lag.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Barracuda’s security appliances have a security problem of their own</title>
+      <link>https://www.csoonline.com/article/4244334/barracudas-security-appliances-have-a-security-problem-of-their-own.html</link>
+      <guid isPermaLink="false">identitybrief-3ba68bf7e2116173</guid>
+      <pubDate>Wed, 04 Nov 2026 04:23:10 +0000</pubDate>
+      <category>breach</category>
+      <description>Barracuda appliances are vulnerable due to chainable flaws allowing root access. This directly impacts device security, potentially letting attackers bypass authentication controls entirely. Limit: remediation depends on timely vendor patching and user updates.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>A Security Analysis of Verifiable Credential Verification Pipelines: Attack Surface Arising from JSON-LD/RDFC Canonicalization Compared with SD-JWT VC and mdoc</title>
+      <link>http://arxiv.org/abs/2611.04461v1</link>
+      <guid isPermaLink="false">identitybrief-1ea893e29d2490a6</guid>
+      <pubDate>Tue, 03 Nov 2026 07:49:18 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper dissects the risk of using Verifiable Credential formats with JSON-LD/RDFC. It signals an attack surface from canonization methods, affecting credential verification. Limitation: highly technical, relevant to those implementing VC pipelines.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Critical Langflow flaws enable authentication bypass and RCE</title>
+      <link>https://www.csoonline.com/article/4244226/critical-langflow-flaws-enable-authentication-bypass-and-rce.html</link>
+      <guid isPermaLink="false">identitybrief-9d81cbca598c62b9</guid>
+      <pubDate>Tue, 03 Nov 2026 23:09:01 +0000</pubDate>
+      <category>breach</category>
+      <description>Langflow's flaws allow bypassing authentication and executing commands remotely. This is critical as it risks exposing sensitive AI workflows and data. Catch: relies on IBM-provided patches and user vigilance.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Node-RED authentication hole being exploited in the wild</title>
+      <link>https://www.csoonline.com/article/4244307/node-red-authentication-hole-being-exploited-in-the-wild.html</link>
+      <guid isPermaLink="false">identitybrief-c5aaeec590ff7412</guid>
+      <pubDate>Wed, 04 Nov 2026 03:33:57 +0000</pubDate>
+      <category>breach</category>
+      <description>Node-RED vulnerabilities are being actively exploited, compromising IoT setups. Critical for IoT security as it can lead to system takeovers. Risk persists as many setups remain unpatched due to widespread deployment challenges.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Gambling Compliance — iGaming KYC &amp; Responsible Gaming- Page 20 | The Sumsuber</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qRFJPaUpZODVLaEczaG9BcGVyenpZcFdiMWtZM0xBTFFmc3RZeEZXNHduMDUtTFo3d09YcHI5b1dWRHQ5ZmNQY1R2dWJVdTB5eWdN?oc=5</link>
+      <guid isPermaLink="false">identitybrief-a7899e5cd4ebfbab</guid>
+      <pubDate>Wed, 04 Nov 2026 06:27:13 +0000</pubDate>
+      <category>fraud</category>
+      <description>Sumsub discusses compliance for iGaming, focusing on Know Your Customer (KYC) protocols. It's vital for reducing fraud in online gambling. The catch is navigating overlapping regulations across regions.
+
+— via Sumsub</description>
+    </item>
+    <item>
       <title>Opal’s agent.ID virtual event: Top security leaders on governing Al agents</title>
       <link>https://www.helpnetsecurity.com/2026/11/03/opal-security-agent-id-virtual-event/</link>
       <guid isPermaLink="false">identitybrief-eb5ade18647e4c74</guid>
@@ -1222,285 +1502,5 @@
       <description>Quest Diagnostics faced unauthorized access to its lab services platform, exposing patient records. This incident underscores the vulnerabilities in protected health information systems. Although access was reportedly limited, it raises concerns about ongoing data confidentiality. The breach calls for a deeper look into compliance and data protection policies.
 
 — via SecurityWeek</description>
-    </item>
-    <item>
-      <title>LiteLLM release pipeline hacked to distribute credential-stealing malware</title>
-      <link>https://www.csoonline.com/article/4239033/litellm-release-pipeline-hacked-to-distribute-credential-stealing-malware.html</link>
-      <guid isPermaLink="false">identitybrief-04b9886dffabf79c</guid>
-      <pubDate>Thu, 22 Oct 2026 12:07:08 +0000</pubDate>
-      <category>breach</category>
-      <description>LiteLLM's release pipeline was hacked, distributing malware through its Python and Docker images. This incident reveals the risks in supply chain security even after previous breaches. Despite a short exposure window, it highlights the need for constant vigilance. It's a reminder of defensive gaps in even well-monitored systems.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>China-linked hackers used agentic AI in attack on 2,250 Microsoft 365 tenants</title>
-      <link>https://www.csoonline.com/article/4239028/china-linked-hackers-used-agentic-ai-in-attack-on-2250-microsoft-365-tenants.html</link>
-      <guid isPermaLink="false">identitybrief-e2a305ac7bed769b</guid>
-      <pubDate>Thu, 22 Oct 2026 11:47:38 +0000</pubDate>
-      <category>breach</category>
-      <description>A China-linked group used AI to automate attacks on Microsoft 365, targeting over 2,250 tenants. Stolen credentials and automated methods highlight the need for advanced detection systems. Even though Microsoft attributes this to ongoing Chinese state activity, details on direct impacts remain sparse. The incident underlines the arms race in AI-powered cyber attacks.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</title>
-      <link>https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html</link>
-      <guid isPermaLink="false">identitybrief-76b18c2dc5a90e0a</guid>
-      <pubDate>Thu, 22 Oct 2026 11:15:42 +0000</pubDate>
-      <category>auth</category>
-      <description>A potential breach in Railway's environment variable storage led to advice for credential rotation. This highlights risk in PaaS setups where sensitive information could be accessed. The company's acknowledgment points to the need for improving access control measures. However, the extent of actual damage remains unclear without full user impact details.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>KYC Requirements for Financial Institutions: An AML Compliance Guide</title>
-      <link>https://www.jumio.com/kyc-requirements-guide-financial-institutions/</link>
-      <guid isPermaLink="false">identitybrief-9241cf2654161a3e</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:05 +0000</pubDate>
-      <category>fraud</category>
-      <description>The Jumio guide emphasizes KYC's role in complyments to prevent identity misuse and money laundering. It stresses the ongoing identification and risk diligence required post-customer onboarding. This approach helps mitigate fraud throughout client interactions. The guide's context is limited to financial services but offers generalizable insights.
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>Agentic authorization emerges as biometrics’ next killer use case</title>
-      <link>https://www.biometricupdate.com/202610/agentic-authorization-emerges-as-biometrics-next-killer-use-case</link>
-      <guid isPermaLink="false">identitybrief-eb6646e51a6d12bd</guid>
-      <pubDate>Sat, 24 Oct 2026 16:03:33 +0000</pubDate>
-      <category>fraud</category>
-      <description>Agentic authorization, combining biometrics and cryptographic credentials, is emerging as a way to manage AI agent actions. This development aims to bring stronger accountability when AI agents operate, especially in sensitive fields like finance. The catch: it's still an emerging market, and not all tools are ready for prime time.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Jumio expands reusable identity globally, reports gains in deepfake detection</title>
-      <link>https://www.biometricupdate.com/202610/jumio-expands-reusable-identity-globally-reports-gains-in-deepfake-detection</link>
-      <guid isPermaLink="false">identitybrief-c804c63f4ec14fc9</guid>
-      <pubDate>Fri, 23 Oct 2026 13:38:08 +0000</pubDate>
-      <category>did</category>
-      <description>Jumio is rolling out a global reusable identity product with gains in detecting deepfakes. The approach could significantly reduce identity fraud by making verification seamless across platforms. The limitation: success hinges on wide adoption and continuous AI updates to fend off evolving threats.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Listen: Digital credentials and agentic AI confront questions of control</title>
-      <link>https://www.biometricupdate.com/202610/listen-digital-credentials-and-agentic-ai-confront-questions-of-control</link>
-      <guid isPermaLink="false">identitybrief-edb4eae17de1d5fb</guid>
-      <pubDate>Fri, 23 Oct 2026 13:10:24 +0000</pubDate>
-      <category>did</category>
-      <description>Concerns are rising over control issues between digital credentials and agentic AI during 'Black October' incidents. These situations highlight the necessity for tightened security measures around AI handling of sensitive data. However, aligning AI security policies uniformly is a challenging task.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</title>
-      <link>https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/</link>
-      <guid isPermaLink="false">identitybrief-60d310c96eb7638d</guid>
-      <pubDate>Fri, 23 Oct 2026 10:31:16 +0000</pubDate>
-      <category>iam</category>
-      <description>A China APT used an AI-based pentest tool to gain privileged access in ConnectWise attacks. This attack vector underscores the need for vigilant access control and monitoring within organizations. The challenge is in defending against sophisticated tools that mimic legitimate behavior.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Capcom data breach exposes 11.7 million account records</title>
-      <link>https://www.helpnetsecurity.com/2026/10/23/capcom-id-data-breach-11-million-records-exposed/</link>
-      <guid isPermaLink="false">identitybrief-d680f80790ffafa4</guid>
-      <pubDate>Fri, 23 Oct 2026 09:07:31 +0000</pubDate>
-      <category>breach</category>
-      <description>Capcom faced a data breach affecting millions of accounts linked to their services. This breach highlights the ongoing risks of personal data exposure through online gaming platforms. The ongoing issue: phishing attempts using leaked data could still pose a threat to users.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>LiteLLM Compromised in Fresh Supply Chain Attack</title>
-      <link>https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</link>
-      <guid isPermaLink="false">identitybrief-81919ec29873de1f</guid>
-      <pubDate>Fri, 23 Oct 2026 08:10:46 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers exploited OAuth tokens to compromise LiteLLM in a supply chain attack. This incident shows the vulnerability of dependency chains in software ecosystems. The catch: even robust OAuth implementations can still fall prey without token rotation and strict scopes.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Defakto joins the OIDF as a Sustaining Corporate Member</title>
-      <link>https://openid.net/defakto-joins-the-oidf-as-a-sustaining-corporate-member/</link>
-      <guid isPermaLink="false">identitybrief-b3a1f7d8cf551f36</guid>
-      <pubDate>Tue, 20 Oct 2026 15:00:25 +0000</pubDate>
-      <category>auth</category>
-      <description>Defakto joined the OpenID Foundation to tackle identity security in cloud and AI. They focus on eliminating long-lived secrets in favor of dynamic identities. The caveat: adoption of these practices needs to keep pace with rapid cloud expansion.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack</title>
-      <link>http://arxiv.org/abs/2610.31404v1</link>
-      <guid isPermaLink="false">identitybrief-b0a047e38de9d5d0</guid>
-      <pubDate>Thu, 22 Oct 2026 15:07:49 +0000</pubDate>
-      <category>research</category>
-      <description>A study benchmarks how LLM email agents handle phishing threats. It reveals that these agents can misinterpret and act on malicious requests. The limitation lies in training datasets, which must cover sophisticated phishing to improve detection.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Auditing the Hand-Written Inputs of Learned Access Control</title>
-      <link>http://arxiv.org/abs/2610.31388v1</link>
-      <guid isPermaLink="false">identitybrief-4007cf13b9e3b20d</guid>
-      <pubDate>Thu, 22 Oct 2026 14:53:37 +0000</pubDate>
-      <category>research</category>
-      <description>A paper audits learned access controls to verify the soundness of manual security policies. This aims to ensure alignment between expected and actual security behavior. The drawback: the detailed validation method may not be practical for organizations with complex policies.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>TSA audit finds “significant weakness” with facial recognition privacy</title>
-      <link>https://identityweek.net/tsa-audit-finds-significant-weakness-with-facial-recognition-privacy/</link>
-      <guid isPermaLink="false">identitybrief-2fddf94226f00274</guid>
-      <pubDate>Tue, 20 Oct 2026 13:35:04 +0000</pubDate>
-      <category>auth</category>
-      <description>A TSA audit found weaknesses in biometric facial recognition technologies. The findings suggest several privacy vulnerabilities in security screening processes. Without immediate action, millions could face compromised privacy at airports.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>ReDence: A Hybrid Agentic and Decision-Model Framework for Rapid, Evidence-Grounded Detection of Modern Social Engineering Scams</title>
-      <link>http://arxiv.org/abs/2610.30963v1</link>
-      <guid isPermaLink="false">identitybrief-f3e704ebdb19d24a</guid>
-      <pubDate>Thu, 22 Oct 2026 09:08:33 +0000</pubDate>
-      <category>research</category>
-      <description>ReDence offers a framework combining agentic and decision-models for scam detection. This tool aims to speed up the identification and takedown of social engineering scams. Its effectiveness depends on training models with diverse, real-world scam scenarios.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes</title>
-      <link>https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html</link>
-      <guid isPermaLink="false">identitybrief-eebdb3f4f6ae3ff9</guid>
-      <pubDate>Thu, 22 Oct 2026 17:01:53 +0000</pubDate>
-      <category>breach</category>
-      <description>Two high-severity RCE flaws were disclosed in Linux’s KSMBD server. They pose a serious threat by enabling exploitation before authentication. The danger is amplified by the lack of an immediate kernel fix.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Angelic Rountree: Conduct stress testing before deploying AI systems in law enforcement</title>
-      <link>https://identityweek.net/angelic-rountree-conduct-stress-testing-before-deploying-ai-systems-in-law-enforcement/</link>
-      <guid isPermaLink="false">identitybrief-e5099cf962c77416</guid>
-      <pubDate>Thu, 22 Oct 2026 15:50:13 +0000</pubDate>
-      <category>auth</category>
-      <description>New guidance recommends stress testing AI systems for law enforcement use before deployment. This helps in identifying potential operational limits and errors under real-case conditions. The issue remains: creating accurate test scenarios is complex and resource-intensive.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Free, offline tool: see each user's real passkey policy in Entra ID and who SMS retirement blocks</title>
-      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaHg2cmpBZzk0NThjanp6QUNjSmUwdkpuN3FBMkVYSWhjYlByM2dZaXF4Vk1CUzFuR21VcVBRZTdUa3h5S2doZWxQSkh0UXViTDJRcDd6Y296QTJEUXVKb3VXTVR4RHowWHNROGFsVmoyeS1QZVpHNFdFTmdtaHdQRVFpaGJ1RmVEZXJVWVFFX2VMX2ZmckRHUVBHNFNVM1FZTTQ3UXFpMWEzRUc5RHZPemtrdWJZcXJhTXYyaW5ReGFMQU9VdVV5MkJRY3FNTkYxNllSVy1NcmFjMk1xYzZwZW1OM3pZZHc?oc=5</link>
-      <guid isPermaLink="false">identitybrief-3a166bf21cbd0d8c</guid>
-      <pubDate>Fri, 23 Oct 2026 19:14:56 +0000</pubDate>
-      <category>auth</category>
-      <description>A new tool shows user passkey policies in Entra ID and highlights SMS retirement blocks. This tool can aid organizations in better managing their authentication strategies. Caveat: its utility is limited to users within the Entra ID environment.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Deepfake hiring fraud drives demand for continuous identity verification</title>
-      <link>https://www.biometricupdate.com/202610/deepfake-hiring-fraud-drives-demand-for-continuous-identity-verification</link>
-      <guid isPermaLink="false">identitybrief-1ae7e8ec48958914</guid>
-      <pubDate>Fri, 23 Oct 2026 18:17:03 +0000</pubDate>
-      <category>fraud</category>
-      <description>Deepfake-driven hiring fraud is prompting a shift towards continuous identity verification in the hiring process. This means companies may need to rethink how they ensure the person they hire is truly who they claim to be. The catch: implementing such systems can be resource-intensive and may face pushback over privacy concerns.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Bermuda weighs digital ID options as supplier deadline approaches</title>
-      <link>https://www.biometricupdate.com/202610/bermuda-weighs-digital-id-options-as-supplier-deadline-approaches</link>
-      <guid isPermaLink="false">identitybrief-c353ff1e282e85d2</guid>
-      <pubDate>Fri, 23 Oct 2026 19:53:42 +0000</pubDate>
-      <category>did</category>
-      <description>Bermuda is exploring digital ID options as a supplier deadline looms. A successful framework could streamline identity verification for residents. The challenge will be ensuring uptake and trust among a potentially skeptical public.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>mDL4EU consortium launches to establish cross-border interoperability by 2028</title>
-      <link>https://www.biometricupdate.com/202610/mdl4eu-consortium-launches-to-establish-cross-border-interoperability-by-2028</link>
-      <guid isPermaLink="false">identitybrief-e8829cbaa7654777</guid>
-      <pubDate>Fri, 23 Oct 2026 16:48:07 +0000</pubDate>
-      <category>did</category>
-      <description>The mDL4EU consortium launches to develop cross-border mobile driver's licenses by 2028. This initiative might streamline identity verification across EU nations. However, the true test will be its ability to scale consistently across diverse member states.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Microsoft Teams to get AI-powered, context-aware phishing detection</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</link>
-      <guid isPermaLink="false">identitybrief-a7611ad9edc57742</guid>
-      <pubDate>Fri, 23 Oct 2026 18:54:41 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft Teams will soon feature AI-powered phishing detection, providing added security against contextual threats. Phishing attempts won't just need to look convincing — they'll have to outsmart AI. The limitation: users still must update to use this feature, and initial device compatibility remains unverified.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>HPE patches eight max severity RCE and auth bypass AOS flaws</title>
-      <link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/</link>
-      <guid isPermaLink="false">identitybrief-697286418ff3f223</guid>
-      <pubDate>Fri, 23 Oct 2026 12:48:00 +0000</pubDate>
-      <category>auth</category>
-      <description>HPE has released updates to fix severe vulnerabilities in ArubaOS, including critical authentication bypass flaws. It's a reminder to apply patches swiftly to prevent exploitations. Complications might arise if the updates conflict with existing configurations.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Quest Diagnostics confirms data breach exposed patient records</title>
-      <link>https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/</link>
-      <guid isPermaLink="false">identitybrief-a3c8e502da9b07b5</guid>
-      <pubDate>Fri, 23 Oct 2026 16:40:07 +0000</pubDate>
-      <category>breach</category>
-      <description>Quest Diagnostics has confirmed a data breach exposing patient records via unauthorized system access. This breach highlights the need for airtight security in healthcare systems. The catch is, healthcare regulations mean breaches are costly beyond just data loss.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
-      <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
-      <guid isPermaLink="false">identitybrief-f059789b24373367</guid>
-      <pubDate>Fri, 23 Oct 2026 13:50:56 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers breached enterprise firewalls and VPNs, exposing over 70,000 credentials. Network edge device security is vital to prevent such large-scale breaches. However, many companies struggle with resource allocation for thorough defenses.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Dual BIOS: The laptop security feature SMBs don’t know they need</title>
-      <link>https://www.csoonline.com/article/4239779/dual-bios-the-laptop-security-feature-smbs-dont-know-they-need.html</link>
-      <guid isPermaLink="false">identitybrief-8e8577dc555501e5</guid>
-      <pubDate>Fri, 23 Oct 2026 15:54:22 +0000</pubDate>
-      <category>breach</category>
-      <description>Dual BIOS setups aim to better protect SMBs from low-level firmware attacks. It's another line of defense below regular OS and application security. But not all devices support it, and upgrading hardware can be costly for small businesses.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
-      <guid isPermaLink="false">identitybrief-c5a466f9ecb69f5c</guid>
-      <pubDate>Fri, 23 Oct 2026 18:12:19 +0000</pubDate>
-      <category>breach</category>
-      <description>The LiteLLM supply chain compromise reveals credential theft through Python startup hooks. It’s an alert to monitor software dependencies more closely. Mitigating such threats requires potentially burdensome monitoring of all third-party code.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Meta hit with $25 billion fine for illegally sharing user data</title>
-      <link>https://www.csoonline.com/article/4239754/meta-hit-with-25-billion-fine-for-illegally-sharing-user-data-2.html</link>
-      <guid isPermaLink="false">identitybrief-43ca8fe116fc7637</guid>
-      <pubDate>Fri, 23 Oct 2026 15:23:54 +0000</pubDate>
-      <category>iam</category>
-      <description>Meta was fined $25 billion for illegally sharing user data, a significant penalty for privacy law violations. This serves as a warning to all companies to respect data privacy laws. Lawsuits like this can have wider financial implications due to regulatory scopes.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
