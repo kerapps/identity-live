@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Over 3 Million People Hit by Frontline Education Data Breach</title>
+      <link>https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-305c456335dfa042</guid>
+      <pubDate>Mon, 09 Nov 2026 10:09:02 +0000</pubDate>
+      <category>breach</category>
+      <description>A data breach at Frontline Education affected over 3 million school district staff and students. This means increased identity threats for those involved, impacting personal and maybe even professional credentials. A reminder: breaches often reveal more than just surface-level data.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation</title>
+      <link>https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html</link>
+      <guid isPermaLink="false">identitybrief-3d5dfb277e1d458f</guid>
+      <pubDate>Mon, 09 Nov 2026 06:05:24 +0000</pubDate>
+      <category>breach</category>
+      <description>CISA flagged a SonicWall SonicOS vulnerability that bypasses MFA. This weakens the defense thought to protect against unauthorized access, making it crucial to patch immediately. But updates might be slow and tricky to implement across large, distributed environments.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Treasury seeks identity security contractor as Login.gov mandate takes hold</title>
+      <link>https://www.biometricupdate.com/202611/treasury-seeks-identity-security-contractor-as-login-gov-mandate-takes-hold</link>
+      <guid isPermaLink="false">identitybrief-e79080f590d4ef8c</guid>
+      <pubDate>Sun, 08 Nov 2026 23:30:01 +0000</pubDate>
+      <category>auth</category>
+      <description>The U.S. Treasury is looking for a contractor to help manage its shared authentication systems under expanded Login.gov use. Centralizing ID management could standardize security across services, easing integration headaches. However, coordination with multiple agencies remains a complex hurdle.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Ukraine’s biometrics market grows unevenly as digital identity adoption expands</title>
+      <link>https://www.biometricupdate.com/202611/ukraines-biometrics-market-grows-unevenly-as-digital-identity-adoption-expands</link>
+      <guid isPermaLink="false">identitybrief-b61448368033cfc1</guid>
+      <pubDate>Sun, 08 Nov 2026 19:30:38 +0000</pubDate>
+      <category>did</category>
+      <description>Despite uneven growth, Ukraine is expanding its biometric market in digital identities. This could enhance secure access to services, although varying adoption rates might slow down overall integration. Market dynamics differ across sectors, making uniform progress challenging.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>An average of 8 minutes is all hackers need to log in with stolen credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/</link>
+      <guid isPermaLink="false">identitybrief-909ef5d9d0a7e7bf</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:39 +0000</pubDate>
+      <category>breach</category>
+      <description>A report found that hackers can use stolen credentials to log in within eight minutes. This speed means real-time detection and response are critical to prevent harm. But existing monitoring tools might lag in recognizing such rapid breaches.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Deepfake CEOs, stolen lawyer identities fuel alleged $129M fraud</title>
+      <link>https://www.biometricupdate.com/202611/deepfake-ceos-stolen-lawyer-identities-fuel-alleged-129m-fraud</link>
+      <guid isPermaLink="false">identitybrief-6d141baf7a9761b2</guid>
+      <pubDate>Sun, 08 Nov 2026 23:54:03 +0000</pubDate>
+      <category>fraud</category>
+      <description>Fraudsters used deepfake technology to impersonate executives and steal lawyer identities in a $129M fraud scheme. This shows that voice and image verification alone might not be enough to thwart clever impersonations. Strengthening multi-step verification processes is key but can be resource-intensive.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>A Cross-Domain TARA-to-NAC Rule Mapping Methodology: From Automotive OEM Networks to Energy Storage Systems</title>
+      <link>http://arxiv.org/abs/2611.09771v1</link>
+      <guid isPermaLink="false">identitybrief-6f65d5c501d66e7c</guid>
+      <pubDate>Fri, 06 Nov 2026 17:33:46 +0000</pubDate>
+      <category>research</category>
+      <description>A new methodology links cybersecurity goals to enforceable access control rules, crossing from automotive to energy sectors. It's a structured approach to aligning goals with real-world enforcement. Implementation across diverse industries remains a challenge.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Empirical Study of Post-Quantum Cryptography Adoption Status in SSH Infrastructure</title>
+      <link>http://arxiv.org/abs/2611.09703v1</link>
+      <guid isPermaLink="false">identitybrief-6eeeb4100c387e2a</guid>
+      <pubDate>Fri, 06 Nov 2026 16:47:05 +0000</pubDate>
+      <category>research</category>
+      <description>An empirical study looked at the adoption of post-quantum cryptography (PQC) in SSH infrastructure. As quantum threats loom, transitioning strengthens data protection long-term. Yet, adoption is inconsistent, hinting at more work needed to drive universal change.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development as a Bioinformatics Educator</title>
+      <link>http://arxiv.org/abs/2611.09623v1</link>
+      <guid isPermaLink="false">identitybrief-eb5bfd4d110355db</guid>
+      <pubDate>Fri, 06 Nov 2026 15:44:29 +0000</pubDate>
+      <category>research</category>
+      <description>Solo game development using generative AI explored identity formation in a new domain. This shift reflects on how technology reshapes professional identity, but understanding practical implications is still in its early stages. Bridging tech with identity is complex and ever-evolving.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Securing the Non-Human Identity Attack Surface</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTZHTHdSSUswVm5tdGowUWs1VG42WlF4OXFjRUNVM2dtVEtFMng0bXB2YjRwX2JTNHdIQzg3dWlQYWlSSHdkMlRWajQ5SW1oblp3b252ekg4STc3Wm55WHl3RDl0Qk9pSnh1SW1zazlHcEx2ZmZZMy1kVkVLeHJfYkhrM0JrQlJkVVdiVFU1aVlFNXpod0ZlTTMtMmE5SzVJLTlnTnY2T3hTdjFsMnZzZmFNUDh5OVR0bm5tR2VJUHc0Smc?oc=5</link>
+      <guid isPermaLink="false">identitybrief-69db93a8f1c71924</guid>
+      <pubDate>Sun, 08 Nov 2026 20:19:04 +0000</pubDate>
+      <category>iam</category>
+      <description>Managing the attack surface for non-human identities is gaining attention. These are increasingly targeted, illustrating the need for better controls around machine access. But enhanced focus can cause management overhead without clear strategies.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
+      <title>Threat actors use agentic AI tooling to find and abuse exposed secrets</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/</link>
+      <guid isPermaLink="false">identitybrief-9fcf62b29cf8c924</guid>
+      <pubDate>Thu, 05 Nov 2026 23:46:50 +0000</pubDate>
+      <category>breach</category>
+      <description>APT29 has been exploiting agentic AI tools to scan for and abuse exposed OAuth secrets. This can lead to deep, unauthorized access in applications, reinforcing the need for strict secret storage policies. Spotting and sealing these vulnerabilities requires robust, systematic checks.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>What We Missed: Knicks Phishing Test Goes Out of Bounds</title>
+      <link>https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds</link>
+      <guid isPermaLink="false">identitybrief-363a54f1f5862e50</guid>
+      <pubDate>Thu, 05 Nov 2026 21:00:47 +0000</pubDate>
+      <category>breach</category>
+      <description>A Knicks phishing test went too far, showcasing how well-intentioned tests can damage trust if not handled properly. This underscores the need for thoughtful design in security awareness initiatives. Realistic simulations must balance the line between effective training and ethical standards.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>APT29's Watering Holes Target Thousands of Mobile Users</title>
+      <link>https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users</link>
+      <guid isPermaLink="false">identitybrief-96869c5eec732fe3</guid>
+      <pubDate>Thu, 05 Nov 2026 20:05:39 +0000</pubDate>
+      <category>auth</category>
+      <description>Russian APT29 is using compromised websites to target mobile users by fingerprinting devices and collecting data. This sophistication makes it hard to protect endpoints effectively. Fingerprinting techniques can slip under regular detection radars, making proactive monitoring essential.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>​​​​What’s new in Microsoft Security: November 2026</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/</link>
+      <guid isPermaLink="false">identitybrief-111881779310dad9</guid>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft Security's latest update enhances AI security and privilege management. These changes aim to strengthen defenses, but integrating new tools can be resource-heavy. Organizations must evaluate the balance between innovation and practical application.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
       <title>Week in review: Refrigeration cyberattacks hit European retailers again, Patch Tuesday forecast</title>
       <link>https://www.helpnetsecurity.com/2026/11/08/week-in-review-refrigeration-cyberattacks-hit-european-retailers-again-patch-tuesday-forecast/</link>
       <guid isPermaLink="false">identitybrief-e70436119381e607</guid>
@@ -1362,145 +1502,5 @@
       <description>Recent research proposes a stateful authentication model using segmented hash-entangled chains. This could enhance security through logical resource allocation in stateful systems. However, implementing such models demands significant architectural changes that may be impractical for existing systems.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>New Cisco firewall zero-day being actively exploited</title>
-      <link>https://www.csoonline.com/article/4242420/new-cisco-firewall-zero-day-being-actively-exploited.html</link>
-      <guid isPermaLink="false">identitybrief-aec8050af8ff257c</guid>
-      <pubDate>Thu, 29 Oct 2026 19:31:38 +0000</pubDate>
-      <category>breach</category>
-      <description>A high-severity flaw in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security Appliance (ASA) and Cisco Secure Firewall Threat Defense (FTD) is under active exploitation to crash vulnerable devices. The vulnerability, tracked as CVE-2026-76418 and rated 8.6 in severity, is due to logic errors when secondary authentication is…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Fake Anthropic AI previews lure in overeager employees</title>
-      <link>https://www.csoonline.com/article/4241895/fake-anthropic-ai-previews-lure-in-overeager-employees.html</link>
-      <guid isPermaLink="false">identitybrief-9869525436e3668c</guid>
-      <pubDate>Thu, 29 Oct 2026 13:05:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Everyone wants to know what Anthropic is up to, and hackers are gleefully exploiting the fact. New research from cybersecurity company Cofense describes a phishing campaign that hooks overeager enterprise users by making them think they are getting an invite to a private invite-only Anthropic preview. In reality, adversarial actors are trying to steal…
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>RecHash: Segmented Hash-Entangled Chains for Stateful Sequential Authentication</title>
-      <link>http://arxiv.org/abs/2610.40507v1</link>
-      <guid isPermaLink="false">identitybrief-1f4c9dabc2607dc2</guid>
-      <pubDate>Thu, 29 Oct 2026 17:23:08 +0000</pubDate>
-      <category>research</category>
-      <description>RecHash is a stateful sequential authentication construction based on paired hash-chain openings and an authenticated record history. It develops the decreasing position relation of the 2019 hash-entangled construction, whose exact integer normalization yields a two-coordinate constant-sum antichain. Direct proportional reuse is constrained by integer…
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Indicio Named a Catalyst in Acuity’s PRISM Financial Services Report</title>
-      <link>https://indicio.tech/blog/blog-passwordless-authentication-prism-catalyst/</link>
-      <guid isPermaLink="false">identitybrief-4fe475356234ded7</guid>
-      <pubDate>Thu, 29 Oct 2026 13:38:53 +0000</pubDate>
-      <category>did</category>
-      <description>Indicio named a “Catalyst” for passwordless authentication in the 2026 Financial Services Prism . By Trevor Butterworth, VP Digital Strategy &amp; Governance The Prism Project, Acuity Market Intelligence’s research program on biometric and digital identity, has named Indicio a Catalyst in the Passwordless Authentication category of its 2026 Financial Services…
-
-— via Indicio</description>
-    </item>
-    <item>
-      <title>Shame and sleepless nights haunt scam victims long after the money is gone</title>
-      <link>https://www.helpnetsecurity.com/2026/10/29/itrc-identity-theft-recovery-report/</link>
-      <guid isPermaLink="false">identitybrief-9a2691fd01905cd4</guid>
-      <pubDate>Thu, 29 Oct 2026 05:30:22 +0000</pubDate>
-      <category>fraud</category>
-      <description>A new report highlights emotional struggles scam victims face post-incident. Repairing the damage of identity theft involves more than financial recovery, affecting victims' mental well-being. The catch: it focuses on the U.S., with lessons mainly for consumer-support frameworks.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million</title>
-      <link>https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/</link>
-      <guid isPermaLink="false">identitybrief-1ca239b0a2bb01a5</guid>
-      <pubDate>Thu, 29 Oct 2026 08:27:16 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers breached iRhythm, stealing personal and account data from apps hosted on third-party platforms. It's a reminder of the risks tied to third-party data handling and the need for strict vetting. However, it remains unclear how iRhythm will mitigate potential fallout for affected users.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>IATA survey finds growing demand for biometrics as travel barriers persist</title>
-      <link>https://www.biometricupdate.com/202610/iata-survey-finds-growing-demand-for-biometrics-as-travel-barriers-persist</link>
-      <guid isPermaLink="false">identitybrief-5f98bae4a6cc8621</guid>
-      <pubDate>Wed, 28 Oct 2026 21:15:15 +0000</pubDate>
-      <category>did</category>
-      <description>An IATA survey reveals rising biometric demand as travel barriers persist. As travel shifts to digital IDs, biometric adoption pressures businesses to stay current on identity verification tech. But, administrative complexities add a layer of challenges not yet overcome.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>HyperVerge passes BixeLab IAD and Level 3 PAD evaluations</title>
-      <link>https://www.biometricupdate.com/202610/hyperverge-passes-bixelab-iad-and-level-3-pad-evaluations</link>
-      <guid isPermaLink="false">identitybrief-9834d6f768365f4c</guid>
-      <pubDate>Wed, 28 Oct 2026 16:53:54 +0000</pubDate>
-      <category>did</category>
-      <description>HyperVerge's biometric platform passed rigorous security evaluations against deepfakes. It's a step forward for biometrics in securing identity verification against sophisticated attacks. However, its applicability is limited without widespread device compatibility.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Australia presses US for biometric validation model that could keep fingerprints at home</title>
-      <link>https://www.biometricupdate.com/202610/australia-presses-us-for-biometric-validation-model-that-could-keep-fingerprints-at-home</link>
-      <guid isPermaLink="false">identitybrief-ae18c63e5a52ba5f</guid>
-      <pubDate>Wed, 28 Oct 2026 20:16:39 +0000</pubDate>
-      <category>auth</category>
-      <description>Australia seeks a U.S. biometric validation model that doesn't require data sharing. This model could optimize international border security protocols by keeping biometric data local. The approach's success hinges on U.S. acceptance and technological alignment.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Microsoft urges Entra ID admins to migrate users to passkeys</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/</link>
-      <guid isPermaLink="false">identitybrief-42279ffd24bfffbd</guid>
-      <pubDate>Wed, 28 Oct 2026 14:48:32 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft is urging Entra ID admins to move users to passkeys ahead of upcoming changes. Passkeys reduce phishing risk and improve authentication resilience. Be aware: transitioning smoothly requires preparation for the February 2027 retirement of SMS/voice methods.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Authentication friction costs organisations 32,000 working hours annually, study finds</title>
-      <link>https://identityweek.net/authentication-friction-costs-organisations-32000-working-hours-annually-study-finds/</link>
-      <guid isPermaLink="false">identitybrief-ac399b6b4c6dc6c8</guid>
-      <pubDate>Wed, 28 Oct 2026 15:20:47 +0000</pubDate>
-      <category>auth</category>
-      <description>Authentication friction costs enterprises 32,000 working hours annually. Streamlining login processes can mitigate operational delays and security risks from cumbersome authentication. But resolving friction without compromising security is a delicate balancing act.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Court strikes down West Virginia law barring disclosure of public officials’ personal data</title>
-      <link>https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court</link>
-      <guid isPermaLink="false">identitybrief-bf65784fd277bccf</guid>
-      <pubDate>Wed, 28 Oct 2026 20:50:00 +0000</pubDate>
-      <category>iam</category>
-      <description>A court struck down a West Virginia law protecting officials' personal info, citing constitutional issues. Privacy policy dynamics around protecting public figures' data are evolving. A major legal sticking point is balancing transparency and privacy rights.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed</title>
-      <link>https://thehackernews.com/2026/10/american-organizations-under-attack.html</link>
-      <guid isPermaLink="false">identitybrief-169a3a02ba4a388f</guid>
-      <pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Analysis reveals Skyw4lker, a phishing campaign leveraging device codes. It showcases how cybercriminals bypass traditional credential theft, exploiting trust in legitimate services for access. The complexity of the campaign makes detection challenging, requiring nuanced security responses.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Japan Airlines warns of data breach as country grapples with multiple cyber incidents</title>
-      <link>https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents</link>
-      <guid isPermaLink="false">identitybrief-6297f1390dfad249</guid>
-      <pubDate>Wed, 28 Oct 2026 20:33:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Japan Airlines suffered a breach exposing customer data amid multiple national incidents. The breach underscores continuous threats and data exposure risks in the airline industry. Managing this requires robust incident response and customer communication strategies.
-
-— via The Record</description>
     </item>
 </channel></rss>
