@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>What a security leader should tell the CEO about leaked credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/</link>
+      <guid isPermaLink="false">identitybrief-23afc3bbfba04d1e</guid>
+      <pubDate>Tue, 10 Nov 2026 07:40:43 +0000</pubDate>
+      <category>breach</category>
+      <description>A reminder for security leaders about managing leaked credentials and the discussion with CEOs. This highlights the importance of transparency and preparedness in reporting security status. Yet, the real challenge is overcoming the fear of blame when discussing these vulnerabilities openly.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Samoa launches national digital ID policy, sets roadmap for biometric identity system</title>
+      <link>https://www.biometricupdate.com/202611/samoa-launches-national-digital-id-policy-sets-roadmap-for-biometric-identity-system</link>
+      <guid isPermaLink="false">identitybrief-b04eca72b0291732</guid>
+      <pubDate>Mon, 09 Nov 2026 20:46:17 +0000</pubDate>
+      <category>did</category>
+      <description>Samoa has introduced a National Digital ID Policy to enhance its digital identity infrastructure. This aims to streamline access to essential services like healthcare and education. However, integration into existing local systems and user adoption across the population remain hurdles.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Smart-ID gains EU recognition for high-assurance remote biometric onboarding</title>
+      <link>https://www.biometricupdate.com/202611/smart-id-gains-eu-recognition-for-high-assurance-remote-biometric-onboarding</link>
+      <guid isPermaLink="false">identitybrief-430d01f09b5dc6b1</guid>
+      <pubDate>Mon, 09 Nov 2026 18:59:31 +0000</pubDate>
+      <category>did</category>
+      <description>Smart-ID has achieved EU recognition for high-assurance remote biometric onboarding. This positions it as a leading solution for remote identity verification across EU member states. The catch: practical deployment depends on comprehensive EU-wide integration and support.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Canada plans national travel biometrics strategy, expanded biometric screening</title>
+      <link>https://www.biometricupdate.com/202611/canada-plans-national-travel-biometrics-strategy-expanded-biometric-screening</link>
+      <guid isPermaLink="false">identitybrief-737d17d6bbb9e4e3</guid>
+      <pubDate>Mon, 09 Nov 2026 18:22:34 +0000</pubDate>
+      <category>did</category>
+      <description>Canada's new budget supports expanded biometric screening for travelers. This move aims to simplify travel processes using digital credentials. However, public concerns around privacy and data protection must be addressed for acceptance.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>ChatGPT Desktop forwards your SSH agent to remote machines</title>
+      <link>https://news.ycombinator.com/item?id=50422628</link>
+      <guid isPermaLink="false">identitybrief-b821a0ce1b891a63</guid>
+      <pubDate>Mon, 09 Nov 2026 08:17:49 +0000</pubDate>
+      <category>auth</category>
+      <description>ChatGPT Desktop can now forward your SSH agent to remote machines. This allows the remote machine to authenticate using your local SSH credentials, potentially accessing resources like private GitHub repositories. The risk here is that any compromise of the remote system now poses a direct threat to your protected resources.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication</title>
+      <link>http://arxiv.org/abs/2611.12636v1</link>
+      <guid isPermaLink="false">identitybrief-54cba73a8af080a9</guid>
+      <pubDate>Mon, 09 Nov 2026 16:13:20 +0000</pubDate>
+      <category>research</category>
+      <description>BioBind proposes a biometric deduplication method tied to zero-knowledge authentication. This aims to prevent user identity duplication while maintaining privacy in decentralized systems. The catch: its implementation requires complex off-chain processing that may not yet be practical at a large scale.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>When everything is a threat, nothing feels safe</title>
+      <link>https://www.csoonline.com/article/4246440/when-everything-is-a-threat-nothing-feels-safe.html</link>
+      <guid isPermaLink="false">identitybrief-6d6e87ed86f6053b</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>A post reminds us that feeling perpetually unsafe online leads to fatigue and inaction. It's important to identify the most effective security measures to prioritize. However, the challenge is how these differ based on the individual's digital habits and risks.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days</title>
+      <link>https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/</link>
+      <guid isPermaLink="false">identitybrief-d32c24b1525ef1ba</guid>
+      <pubDate>Tue, 10 Nov 2026 09:56:28 +0000</pubDate>
+      <category>breach</category>
+      <description>N-able's N-central product was taken offline following a disclosure of over 30 zero-day vulnerabilities. These flaws could allow attackers to run remote code or steal credentials. The urgent limitation is the sheer number of vulnerabilities, each presenting a unique risk that needs addressing.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>SonicWall releases patches for 7 flaws in its firewalls, most involving unauthenticated access</title>
+      <link>https://www.csoonline.com/article/4246479/sonicwall-releases-patches-for-7-flaws-in-its-firewalls-most-involving-unauthenticated-access.html</link>
+      <guid isPermaLink="false">identitybrief-cebe9b16bad2f4f8</guid>
+      <pubDate>Tue, 10 Nov 2026 02:36:14 +0000</pubDate>
+      <category>breach</category>
+      <description>SonicWall patched critical vulnerabilities in its firewalls allowing unauthenticated access. These flaws, particularly a SAML authentication bypass, pose significant risks. Organizations relying on outdated firmware or configurations might still be exposed.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws</title>
+      <link>https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html</link>
+      <guid isPermaLink="false">identitybrief-b579a343e6b64bab</guid>
+      <pubDate>Tue, 10 Nov 2026 06:31:42 +0000</pubDate>
+      <category>breach</category>
+      <description>CISA warns of ongoing exploitation of vulnerabilities in OpenSSH, GPUStack, FreeSWITCH, and IBM platforms. Active exploits include a recent authorization flaw in OpenSSH. The immediate challenge is verifying and applying the necessary updates to prevent unauthorized access.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Over 575 malicious OpenClaw skills delivered malware to Windows and macOS</title>
+      <link>https://www.helpnetsecurity.com/2026/11/10/acronis-ai-agent-cyberattacks-report/</link>
+      <guid isPermaLink="false">identitybrief-e2069e4ceee4a414</guid>
+      <pubDate>Tue, 10 Nov 2026 05:30:59 +0000</pubDate>
+      <category>breach</category>
+      <description>Over 575 malicious OpenClaw skills have reportedly delivered malware using AI, attacking both Windows and macOS systems. These attacks leverage stolen credentials, complicating traditional defense strategies. The ongoing sophistication of AI-powered attacks requires new detection and response mechanisms.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>One Customer, Two Hats, One Agent: E-Commerce's New Identity Challenge</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkFkT2pucGJvdjh6QjJIWnFDLWIxNnhwYzJmYlNBTFlGMW5vNldTS1NRa1lBWUlJX2YxLS1nVXJ2RFF6RlpieVZJdDViMzZMeUN1SmFKSURqbXQwaXdUWU9tV25QZWhteEQwRzJJQmR2WFpJc2V5a1VCU21TTmNIaA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-bcaeb3186d07bb02</guid>
+      <pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>The dual role challenge within e-commerce is becoming prevalent, as one customer could have multiple interacting identities. Understanding this helps in personalizing services yet complicates identity management systems. Balancing both efficiency and security is an ongoing challenge.
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>Microsoft’s email security is unexpectedly blocking legitimate business mail</title>
+      <link>https://www.csoonline.com/article/4246592/microsofts-email-security-is-unexpectedly-blocking-legitimate-business-mail-2.html</link>
+      <guid isPermaLink="false">identitybrief-fa1611a10a3a84ee</guid>
+      <pubDate>Tue, 10 Nov 2026 01:57:23 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft's email security is unexpectedly blocking legitimate business emails lacking DMARC records. This leads to disruptions in communications, affecting critical business operations. The lack of clear communication from Microsoft further complicates troubleshooting efforts.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>NIST Agent Identity Tenets: Why Guardrails Fail &amp; How CISOs Enforce IAM</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVBleENrbGF2SWZYNDB6Y1JadW5wYzRyRUt5RkQ1NXRoaGkwam5jQV8yNzBLR3JIa0kyUko4RkpSM3YwTWFBekFKcGhZR1ZBZDNrNW9HZkI0b2lYSGZKbGs1QWI0YXFsV0plX1ZuRHYzMFJseG1qMFdTUTVyWXlIZA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-743ea5d6742517b2</guid>
+      <pubDate>Mon, 09 Nov 2026 21:36:48 +0000</pubDate>
+      <category>iam</category>
+      <description>NIST's new guidance explains why identity management guardrails often fail. The focus is on improving CISO capabilities in enforcing IAM standards. A key drawback is the ongoing need for proactive policy updates in dynamic security environments.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Over 3 Million People Hit by Frontline Education Data Breach</title>
       <link>https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/</link>
       <guid isPermaLink="false">identitybrief-305c456335dfa042</guid>
@@ -1362,145 +1502,5 @@
       <description>New paths of attack involve help desk impersonation and Certificate Services abuse, leading to unauthorized remote access. Awareness of these tactics can strengthen defenses against identity abuse. It's crucial to implement controls against such lateral movement through company networks.
 
 — via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach</title>
-      <link>https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach</link>
-      <guid isPermaLink="false">identitybrief-4bf942696238025b</guid>
-      <pubDate>Fri, 30 Oct 2026 15:54:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Nearly 5 million SSNs leaked due to a breach in Florida's financial aid site, posing a major identity theft risk. This highlights vulnerabilities in managing sensitive information within educational platforms. Addressing such risks requires robust data protection measures and quick incident responses.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor</title>
-      <link>https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html</link>
-      <guid isPermaLink="false">identitybrief-ad2cc061f5526d02</guid>
-      <pubDate>Fri, 30 Oct 2026 08:55:47 +0000</pubDate>
-      <category>iam</category>
-      <description>A VS Code extension was found to have a backdoor, posing risks to development environments. This breach underlines the importance of scrutinizing third-party tools and their updates. Developers face ongoing challenges in ensuring the integrity and security of their tools.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Unlocking with the Heart: Investigating User Perceptions of ECG-Based Biometric Authentication</title>
-      <link>http://arxiv.org/abs/2610.39152v1</link>
-      <guid isPermaLink="false">identitybrief-11f3247684e04a91</guid>
-      <pubDate>Thu, 29 Oct 2026 01:39:05 +0000</pubDate>
-      <category>research</category>
-      <description>A study explored ECG-based biometric authentication as a passwordless option. This approach could address accessibility challenges with traditional authentication. However, user familiarity and acceptance remain significant barriers to widespread adoption.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How the Romance Scam Prevention Act Could Reduce Online Dating Scams</title>
-      <link>https://www.jumio.com/romance-scam-prevention-act-online-dating-scams/</link>
-      <guid isPermaLink="false">identitybrief-2b4f70f5e52f04a4</guid>
-      <pubDate>Fri, 30 Oct 2026 13:04:37 +0000</pubDate>
-      <category>fraud</category>
-      <description>The Romance Scam Prevention Act targets online dating scams, pushing for identity verification on platforms. This could reduce fraud, enhancing trust in online dating services. Enforcement and user consent remain hurdles to fully realize its potential.
-
-— via Jumio</description>
-    </item>
-    <item>
-      <title>Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw</title>
-      <link>https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</link>
-      <guid isPermaLink="false">identitybrief-6d2a0802c49f854e</guid>
-      <pubDate>Fri, 30 Oct 2026 07:45:30 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers are exploiting a critical authorization bypass flaw in Drupal's Commerce Core module. This affects sites using versions 0.0.0 to 2.41 and 3.0.0 to 3.3.13, potentially allowing unauthorized access to sensitive operations. If your organization uses Drupal Commerce, patch immediately to avoid compromise.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>FIDO testing experts address deepfake threat and biometrics certification changes</title>
-      <link>https://www.biometricupdate.com/202610/fido-testing-experts-address-deepfake-threat-and-biometrics-certification-changes</link>
-      <guid isPermaLink="false">identitybrief-f6367c2e9c48a66f</guid>
-      <pubDate>Thu, 29 Oct 2026 18:16:24 +0000</pubDate>
-      <category>fraud</category>
-      <description>FIDO Alliance experts address biometric threats from deepfakes and other attacks. These vulnerabilities highlight the evolving risks to biometric authentication systems. However, the fix is complex and may not keep pace with rapid AI advancements in fraud techniques.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Ofcom identifies 4 age assurance methods as highly-effective for 16 year-olds</title>
-      <link>https://www.biometricupdate.com/202610/ofcom-identifies-4-age-assurance-methods-as-highly-effective-for-16-year-olds</link>
-      <guid isPermaLink="false">identitybrief-d5af68f589899a71</guid>
-      <pubDate>Thu, 29 Oct 2026 20:50:21 +0000</pubDate>
-      <category>did</category>
-      <description>Ofcom has identified four effective age verification methods for users 16 and older on social media. These measure readiness for compliance with age-related regulations using biometrics and digital IDs. The challenge remains effectiveness for the entire under-18 spectrum.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>DHS plans $100M contract consolidating biometric identity decisions, accuracy oversight</title>
-      <link>https://www.biometricupdate.com/202610/dhs-plans-100m-contract-consolidating-biometric-identity-decisions-accuracy-oversight</link>
-      <guid isPermaLink="false">identitybrief-71b3f1bd85853419</guid>
-      <pubDate>Thu, 29 Oct 2026 17:53:24 +0000</pubDate>
-      <category>auth</category>
-      <description>DHS plans to consolidate its biometric identity accuracy oversight into a $100 million contract. This aims to streamline decision-making across fingerprint, facial, and iris data, improving cross-system consistency. The real hurdle will be integrating diverse data sources into a single decisive framework.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>HKIA the first airport to achieve IATA One ID certification</title>
-      <link>https://identityweek.net/hkia-the-first-airport-to-achieve-iata-one-id-certification/</link>
-      <guid isPermaLink="false">identitybrief-1e91a3e2308bf909</guid>
-      <pubDate>Thu, 29 Oct 2026 12:46:57 +0000</pubDate>
-      <category>did</category>
-      <description>Hong Kong International Airport achieves IATA's One ID certification for its use of digital identity solutions. This marks a milestone in contactless and biometric traveler processing. However, maintaining privacy with such advancements remains an ongoing concern.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Japan Airlines suffers third-party data breach exposing passenger info</title>
-      <link>https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/</link>
-      <guid isPermaLink="false">identitybrief-dcfc83564a4e9795</guid>
-      <pubDate>Thu, 29 Oct 2026 22:08:04 +0000</pubDate>
-      <category>breach</category>
-      <description>Japan Airlines disclosed a third-party data breach affecting 92,000 customers. The breach underscores vulnerabilities in supply chain security, particularly with PSS providers. A complete resolution involves both JAL and the vendor enhancing their security postures to prevent future incidents.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Anthropic-Themed Phishing Emails Bypass Top Security Tools</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools</link>
-      <guid isPermaLink="false">identitybrief-a43db913e25cf3a4</guid>
-      <pubDate>Thu, 29 Oct 2026 21:21:56 +0000</pubDate>
-      <category>breach</category>
-      <description>Anthropic-themed phishing emails are bypassing top email security tools. This highlights how attackers evolve tactics to penetrate secure email gateways, challenging organizations to constantly adapt their defenses. The catch is the reliance on human vigilance amid tool-based defenses.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>Over 41,000 DHS Employee Records Leaked Online</title>
-      <link>https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/</link>
-      <guid isPermaLink="false">identitybrief-468bc0728b48868f</guid>
-      <pubDate>Thu, 29 Oct 2026 12:54:14 +0000</pubDate>
-      <category>breach</category>
-      <description>The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Deep Learning Based Behavioral Drift Modeling for Continuous Biometric Authentication</title>
-      <link>http://arxiv.org/abs/2610.40398v1</link>
-      <guid isPermaLink="false">identitybrief-4ade32258883957b</guid>
-      <pubDate>Thu, 29 Oct 2026 16:33:49 +0000</pubDate>
-      <category>research</category>
-      <description>Research introduces a two-level keystroke dynamics system for continuous biometric authentication using deep learning. This could strengthen session security by detecting behavioral drifts. But, the approach requires complex machine learning models, limiting accessibility for smaller organizations.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers</title>
-      <link>http://arxiv.org/abs/2610.39234v1</link>
-      <guid isPermaLink="false">identitybrief-b1b7379b18d6095c</guid>
-      <pubDate>Thu, 29 Oct 2026 02:51:58 +0000</pubDate>
-      <category>research</category>
-      <description>Recent research proposes a stateful authentication model using segmented hash-entangled chains. This could enhance security through logical resource allocation in stateful systems. However, implementing such models demands significant architectural changes that may be impractical for existing systems.
-
-— via arXiv</description>
     </item>
 </channel></rss>
