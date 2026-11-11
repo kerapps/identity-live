@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>UK consumers expect banks to answer for failed identity checks, Digidentity finds</title>
+      <link>https://www.biometricupdate.com/202611/uk-consumers-expect-banks-to-answer-for-failed-identity-checks-digidentity-finds</link>
+      <guid isPermaLink="false">identitybrief-45ab10c8320994e0</guid>
+      <pubDate>Wed, 11 Nov 2026 06:07:24 +0000</pubDate>
+      <category>did</category>
+      <description>UK consumers want banks accountable for identity-check failures, says Digidentity. This concern highlights the urgency to strengthen banks' ability to authenticate real users over fraudsters. The catch: reliance on outdated methods like text codes still persists, despite advanced threats like deepfakes.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Fingerprint trains specialized models to detect distinct fraud types</title>
+      <link>https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/</link>
+      <guid isPermaLink="false">identitybrief-10d60a2c5b6fe27f</guid>
+      <pubDate>Wed, 11 Nov 2026 09:12:57 +0000</pubDate>
+      <category>fraud</category>
+      <description>Fingerprint's new Fraud Score uses custom models to identify fraud types. This could make detecting specific fraud attempts more precise without heavy in-house development. The system is only as good as the data and patterns from each client.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Hackers exploit trusted AWS access to breach multiple cloud environments</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/</link>
+      <guid isPermaLink="false">identitybrief-27d0d882d07ec6f1</guid>
+      <pubDate>Tue, 10 Nov 2026 19:31:11 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers misused IAM credentials within Qubole’s AWS account, affecting multiple customers. It's a reminder that cloud security depends heavily on sound identity management. Clients must ensure IAM credentials aren't a weak link in their defenses.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Digital Veteran Card reaches 23K in first year as rare, modest UK ID success</title>
+      <link>https://www.biometricupdate.com/202611/digital-veteran-card-reaches-23k-in-first-year-as-rare-modest-uk-id-success</link>
+      <guid isPermaLink="false">identitybrief-0dc66d14fe03d781</guid>
+      <pubDate>Tue, 10 Nov 2026 18:40:26 +0000</pubDate>
+      <category>did</category>
+      <description>The UK's Digital Veteran Card has 23,000 downloads in its first year, showing progress in digital ID adoption but with other projects lagging. It offers an official photo ID via digital platforms. Broader uptake depends on integrating more services.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Signicat appoints new leaders to scale for EU Digital Identity Wallets, AMLR</title>
+      <link>https://www.biometricupdate.com/202611/signicat-appoints-new-leaders-to-scale-for-eu-digital-identity-wallets-amlr</link>
+      <guid isPermaLink="false">identitybrief-de7e41d9dbfb9980</guid>
+      <pubDate>Tue, 10 Nov 2026 16:59:07 +0000</pubDate>
+      <category>did</category>
+      <description>Signicat's leadership changes intend to bolster moves toward EU Digital Identity Wallets and compliance challenges. The company has grown massively, reflecting the increasing importance of identity in digital transactions. Their success hinges on navigating regulatory landscapes efficiently.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Railway breach leads to $740,000 in fraudulent AI charges</title>
+      <link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
+      <guid isPermaLink="false">identitybrief-b53f64dc22cc68c6</guid>
+      <pubDate>Tue, 10 Nov 2026 22:20:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>A Railway breach led to significant fraudulent AI spending, stressing the impact of leaked credentials. Highlighting infrastructure vulnerabilities, it shows the cost of security slips. A comprehensive credential management strategy needs advocacy and adherence.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration</title>
+      <link>https://www.csoonline.com/article/4247164/one-identity-unveils-active-roles-8-6-with-enhanced-security-and-administration.html</link>
+      <guid isPermaLink="false">identitybrief-13e13162b7166398</guid>
+      <pubDate>Wed, 11 Nov 2026 04:39:23 +0000</pubDate>
+      <category>auth</category>
+      <description>Active Roles 8.6 from One Identity enhances Active Directory security. It adds features that simplify administration and improve authentication flexibility. It's a fine step forward, but still tied to One Identity's specific ecosystem.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds</title>
+      <link>https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/</link>
+      <guid isPermaLink="false">identitybrief-749d62e11797a833</guid>
+      <pubDate>Wed, 11 Nov 2026 09:31:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Red Hat OpenShift 5 now features autonomous troubleshooting and zero trust security for hybrid clouds. This aims to simplify operational complexities and data cross-compatibility. However, users need to be ready for a platform-wide update.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Why does old access outlive the job?</title>
+      <link>https://www.csoonline.com/article/4246971/why-does-old-access-outlive-the-job.html</link>
+      <guid isPermaLink="false">identitybrief-ba5d5fb025558582</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Old user access often lingers post-job, causing security risks. Regular access reviews and appropriate policy adjustments can close these gaps. Consistent action remains the challenge given typical organizational inertia.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Obsidian expands AI agent security with runtime policy enforcement</title>
+      <link>https://www.helpnetsecurity.com/2026/11/11/obsidian-security-runtime-policy-decision-engine/</link>
+      <guid isPermaLink="false">identitybrief-9bf55dbb0521fe15</guid>
+      <pubDate>Wed, 11 Nov 2026 08:44:50 +0000</pubDate>
+      <category>iam</category>
+      <description>Obsidian's new Runtime Policy Decision Engine manages AI agent actions using centralized policies. It adds a layer of oversight to AI interactions across apps. It requires integration with existing identity and access systems for full effect.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Recently Patched Barracuda Vulnerabilities Exploited in Attacks</title>
+      <link>https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/</link>
+      <guid isPermaLink="false">identitybrief-e82cffe36592f6e4</guid>
+      <pubDate>Wed, 11 Nov 2026 07:53:51 +0000</pubDate>
+      <category>breach</category>
+      <description>Recent flaws in Barracuda hardware offered backdoor access for attackers. Fixes are out, but it shows how quickly vulnerabilities can be exploited if not addressed promptly. Fast updates and monitoring are essential, but older devices might lack support.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Location Matters: Sparse Latent-Variance Attacks for Face Privacy against Diffusion Personalization</title>
+      <link>http://arxiv.org/abs/2611.14254v1</link>
+      <guid isPermaLink="false">identitybrief-63a609feba044cdd</guid>
+      <pubDate>Tue, 10 Nov 2026 16:03:32 +0000</pubDate>
+      <category>research</category>
+      <description>New research introduces Sparse Latent-Variance Attacks to protect face privacy against diffusion models. It suggests potential mitigation techniques for personalized facial data protection. Current methods still need balancing between effectiveness and image quality.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>November 2026 Patch Tuesday: 63 Critical Microsoft fixes, plus an Outlook zero day that allows theft of hashed credentials</title>
+      <link>https://www.csoonline.com/article/4247015/november-2026-patch-tuesday-63-critical-microsoft-fixes-plus-an-outlook-zero-day-that-allows-theft-of-hashed-credentials.html</link>
+      <guid isPermaLink="false">identitybrief-afc1fea82e3439d1</guid>
+      <pubDate>Wed, 11 Nov 2026 03:10:23 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft's Patch Tuesday fixes 63 critical flaws, including one affecting Outlook credentials. Immediate patching is crucial as active exploitation is underway. Admins need to be vigilant, but some older systems may struggle with updates.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Securing human and agentic identity: Enterprise frameworks for 2027 and beyond</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEdVT3AtVVhqUmR0V3JRTmZGNUFLcjFrZEJIaWxCbFVIMm9lekIwVW9uRW9OLXNnSnJ2WV80eFRIZDh5SE5pbDNsLXRSZF9BQzFZVDh1R0lDVXQ1dnBLeGxCTlR2aUFTeUdvel93TlB4T2tUclJGNnJCM28zcUlFUTZoSGFNeHJtVGUwQjlFalUyY0FzVzJWSQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-14cacc1b566abe43</guid>
+      <pubDate>Tue, 10 Nov 2026 19:52:05 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta outlines future identity security frameworks tailored for evolving enterprise needs. It indicates a trend towards integrating human and machine identities. While promising, it may require substantive effort to retrofit into current systems.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>What a security leader should tell the CEO about leaked credentials</title>
       <link>https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/</link>
       <guid isPermaLink="false">identitybrief-23afc3bbfba04d1e</guid>
@@ -1362,145 +1502,5 @@
       <description>A new AI honeypot framework, InferD, is designed to protect AI infrastructure from illicit access. It could enhance security by mimicking actual API interaction patterns. However, it requires adaptation for specific deployments, adding complexity to AI service management.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfulness in Centralized vs. Federated Deepfake Detection</title>
-      <link>http://arxiv.org/abs/2610.39483v1</link>
-      <guid isPermaLink="false">identitybrief-139146df4097a5db</guid>
-      <pubDate>Thu, 29 Oct 2026 06:49:14 +0000</pubDate>
-      <category>research</category>
-      <description>A study assesses how federated learning impacts explainability in deepfake detection. While federated setups preserve privacy, they may compromise model interpretability. The balance between accurate detection and transparency remains a challenging aspect of AI deployment.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions</title>
-      <link>https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html</link>
-      <guid isPermaLink="false">identitybrief-649ecf4a57aab371</guid>
-      <pubDate>Thu, 29 Oct 2026 15:57:05 +0000</pubDate>
-      <category>breach</category>
-      <description>A Linux kernel TCP flaw, CVE-2026-98432, with a 9.8 CVSS score can let attackers execute root commands remotely. This vulnerability poses a severe threat to affected Linux distributions. An urgent fix is necessary, but deployment could disrupt operational stability.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>REALM: Identifying Minimal Task Assets for LLM Agents</title>
-      <link>http://arxiv.org/abs/2610.39155v1</link>
-      <guid isPermaLink="false">identitybrief-2a662f9ed56154f9</guid>
-      <pubDate>Thu, 29 Oct 2026 01:40:42 +0000</pubDate>
-      <category>research</category>
-      <description>REALM proposes limiting LLM agents' privileges to only what's needed, combating access abuses. This approach aids in applying least privilege by dynamically identifying required assets. However, the method's complexity may inhibit straightforward integration into existing workflows.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How VDC Acceptance Changes Bank Account Opening</title>
-      <link>https://blog.spruceid.com/how-vdc-acceptance-changes-bank-account-opening/</link>
-      <guid isPermaLink="false">identitybrief-035d3baf1d7df0d3</guid>
-      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-      <category>did</category>
-      <description>Banks can now officially use digital credentials, altering the account opening process. This may lead to faster, more secure identity verification across various channels. Yet, banks must update legacy systems and ensure customer understanding and trust in digital credentials.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>Brazil mandates SIM registration with face biometrics, Level 2 PAD</title>
-      <link>https://www.biometricupdate.com/202610/brazil-mandates-sim-registration-with-face-biometrics-level-2-pad</link>
-      <guid isPermaLink="false">identitybrief-cd36e03c9f9e4f19</guid>
-      <pubDate>Fri, 30 Oct 2026 17:52:02 +0000</pubDate>
-      <category>fraud</category>
-      <description>Brazil mandates face biometrics for SIM card registration with Level 2 PAD for security. This requirement aims to reduce mobile phone fraud by verifying users at a deeper level. Implementing this level of verification isn't straightforward for regions without robust biometric databases.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Türkiye plans digital ID wallet pilot for 2027 as age verification expands</title>
-      <link>https://www.biometricupdate.com/202610/turkiye-plans-digital-id-wallet-pilot-for-2027-as-age-verification-expands</link>
-      <guid isPermaLink="false">identitybrief-4370305f5ba17709</guid>
-      <pubDate>Fri, 30 Oct 2026 16:25:47 +0000</pubDate>
-      <category>did</category>
-      <description>Türkiye plans a digital ID wallet pilot by 2027, initially for public employees. This initiative is expected to streamline carrying multiple identity documents, providing easier access and verification. The rollout will be slow, and the involvement of private citizens is still undetermined.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Building trust in biometrics: How organizations can implement safeguards</title>
-      <link>https://www.biometricupdate.com/202610/building-trust-in-biometrics-how-organizations-can-implement-safeguards</link>
-      <guid isPermaLink="false">identitybrief-5a19c70af61000c7</guid>
-      <pubDate>Fri, 30 Oct 2026 15:31:34 +0000</pubDate>
-      <category>fraud</category>
-      <description>Safeguards are being highlighted as biometrics become central in authentication strategies. Ensuring user privacy and data protection remains a key concern alongside convenience. Companies need to be wary of over-relying on biometrics without adequate security layers around them.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Passkeys Are Better Than Passwords. But They Are Not Enough.</title>
-      <link>https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</link>
-      <guid isPermaLink="false">identitybrief-eee7fd3c21c98b19</guid>
-      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>While passkeys are better than passwords, they're not foolproof against evolving threats. Attackers will pivot to attack the systems supporting these authentications instead. Security professionals need to bolster surrounding systems and not just focus on passkey implementation.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Kempegowda International Airport launches Digi Yatra trials for international departures</title>
-      <link>https://identityweek.net/kempegowda-international-airport-launches-digi-yatra-trials-for-international-departures/</link>
-      <guid isPermaLink="false">identitybrief-5bf4d0dc1f27ee59</guid>
-      <pubDate>Fri, 30 Oct 2026 11:53:07 +0000</pubDate>
-      <category>auth</category>
-      <description>Kempegowda Airport introduces facial recognition for smoother international travel. This trial aims to replace passport checks with biometric verification, enhancing efficiency in airports. Adoption depends on passengers’ willingness to share personal biometric data.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Biometric Update: FIDO Alliance counts 7 billion passkeys as adoption gains momentum</title>
-      <link>https://fidoalliance.org/biometric-update-fido-alliance-counts-7-billion-passkeys-as-adoption-gains-momentum/</link>
-      <guid isPermaLink="false">identitybrief-e7fac0870f081964</guid>
-      <pubDate>Fri, 30 Oct 2026 12:33:56 +0000</pubDate>
-      <category>auth</category>
-      <description>The FIDO Alliance reports 7 billion passkeys in use, but only 42% of eligible accounts are enrolled despite 90% being eligible. This means there's still a big opportunity to make authentication easier and more secure. The challenge remains to incentivize account holders to switch to passkeys.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>MobileIDWorld: Amazon Says More Than 500 Million Customers Have Enabled Passkeys</title>
-      <link>https://fidoalliance.org/mobileidworld-amazon-says-more-than-500-million-customers-have-enabled-passkeys/</link>
-      <guid isPermaLink="false">identitybrief-44b9ea4c2fa292d2</guid>
-      <pubDate>Fri, 30 Oct 2026 12:38:28 +0000</pubDate>
-      <category>auth</category>
-      <description>Amazon has enabled passkeys for over 500 million customers, promoting fingerprint or face scans instead of passwords. This move helps combat phishing by making a secure option the default for millions of users. However, customers who lose their devices face practical challenges in regaining access.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>FinXTech: The Banking Industry Warms to Passkeys</title>
-      <link>https://fidoalliance.org/finxtech-the-banking-industry-warms-to-passkeys/</link>
-      <guid isPermaLink="false">identitybrief-0acd81baa74a04e6</guid>
-      <pubDate>Fri, 30 Oct 2026 12:36:25 +0000</pubDate>
-      <category>fraud</category>
-      <description>Banks are starting to adopt passkeys to defend against AI-enhanced fraud. Moving to passkey login can reduce risks associated with password theft. The hurdle is the extensive legacy systems that banks rely on, which can slow down transition efforts.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Why identity governance demands executive attention</title>
-      <link>https://www.csoonline.com/article/4242864/why-identity-governance-demands-executive-attention.html</link>
-      <guid isPermaLink="false">identitybrief-c7575997f20b8cff</guid>
-      <pubDate>Fri, 30 Oct 2026 17:09:23 +0000</pubDate>
-      <category>iam</category>
-      <description>Identity governance is evolving with more entities gaining access to business systems. This broad access requires security teams to prove effective governance of who has access. There’s complexity in managing identities beyond human users, including service accounts and AI agents.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/</link>
-      <guid isPermaLink="false">identitybrief-ff8badb370616992</guid>
-      <pubDate>Fri, 30 Oct 2026 16:11:44 +0000</pubDate>
-      <category>fraud</category>
-      <description>New paths of attack involve help desk impersonation and Certificate Services abuse, leading to unauthorized remote access. Awareness of these tactics can strengthen defenses against identity abuse. It's crucial to implement controls against such lateral movement through company networks.
-
-— via Microsoft Security</description>
     </item>
 </channel></rss>
