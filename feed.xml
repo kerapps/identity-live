@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Bots pose as AI agents, AI agents pose as humans, and defenses believe both</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/bots-ai-agent-impersonation/</link>
+      <guid isPermaLink="false">identitybrief-a392ba13870c3377</guid>
+      <pubDate>Thu, 12 Nov 2026 05:00:59 +0000</pubDate>
+      <category>breach</category>
+      <description>Bots are pretending to be AI agents to conduct credential stuffing attacks. It shows the need for improved detection systems to differentiate between genuine and fake users. The problem lies in the volume; such attacks can overwhelm defenses not designed for this scale.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>US Democrats prepare to scrutinize federal biometric surveillance</title>
+      <link>https://www.biometricupdate.com/202611/us-democrats-prepare-to-scrutinize-federal-biometric-surveillance</link>
+      <guid isPermaLink="false">identitybrief-6a912a64412570a6</guid>
+      <pubDate>Wed, 11 Nov 2026 22:19:44 +0000</pubDate>
+      <category>did</category>
+      <description>U.S. Democrats plan to scrutinize federal biometric surveillance systems. Such actions could lead to stricter data privacy laws affecting identity and authentication strategies. Any legislative change might take time, while current systems continue operation.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Pentagon seeks new identity system as modernization gaps persist</title>
+      <link>https://www.biometricupdate.com/202611/pentagon-seeks-new-identity-system-as-modernization-gaps-persist</link>
+      <guid isPermaLink="false">identitybrief-fc5c874cf82ac557</guid>
+      <pubDate>Wed, 11 Nov 2026 13:16:25 +0000</pubDate>
+      <category>did</category>
+      <description>The Pentagon seeks to rebuild its identity system to close modernization gaps. The focus on better synchronization and access control signals a broader push for enterprise-wide security upgrades. Nonetheless, implementation will be a lengthy and resource-demanding process.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>AI agent identity takes shape across fraud detection and access controls</title>
+      <link>https://www.biometricupdate.com/202611/ai-agent-identity-takes-shape-across-fraud-detection-and-access-controls</link>
+      <guid isPermaLink="false">identitybrief-ddd8d3bbc5c4e1b9</guid>
+      <pubDate>Wed, 11 Nov 2026 12:46:22 +0000</pubDate>
+      <category>fraud</category>
+      <description>New identity solutions for AI agents are emerging, improving fraud detection. As AI roles grow, establishing trustworthy interactions becomes a priority. However, integrating these new solutions into existing systems may pose compatibility challenges.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Massive CSCTelecom breach exposes 125 million SMS records across the Baltics</title>
+      <link>https://identityweek.net/massive-csctelecom-breach-exposes-125-million-sms-records-across-the-baltics/</link>
+      <guid isPermaLink="false">identitybrief-97ac3e979e793168</guid>
+      <pubDate>Wed, 11 Nov 2026 17:21:10 +0000</pubDate>
+      <category>breach</category>
+      <description>125 million SMS records exposed by CSCTelecom include personal and 2FA data. This breach underscores the risks SMS-based authentication poses to user privacy. The problem is regional, affecting institutions in the Baltics, but the implications are global.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Baker Tilly notifies clients of data breach at third-party provider</title>
+      <link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</link>
+      <guid isPermaLink="false">identitybrief-b47bcd06a09c1417</guid>
+      <pubDate>Wed, 11 Nov 2026 23:01:31 +0000</pubDate>
+      <category>breach</category>
+      <description>Baker Tilly reports a data breach involving a third-party provider. It highlights how supply chain compromises can cascade into client data exposure. All security measures in your perimeter can't prevent breaches through your partners.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Open research, stronger privacy: Making Firefox users harder to fingerprint</title>
+      <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
+      <guid isPermaLink="false">identitybrief-d4e550b6892c16f5</guid>
+      <pubDate>Wed, 11 Nov 2026 12:44:06 +0000</pubDate>
+      <category>auth</category>
+      <description>Mozilla's research aims to make Firefox users harder to track using fingerprinting. This matters because it offers users more privacy by minimizing identifiable digital traces. However, the challenge remains that this protection is limited to Firefox users alone.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Check your GitHub repos: A secret stealer hit tens of thousands of them</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/</link>
+      <guid isPermaLink="false">identitybrief-82176eff4e4cd8d5</guid>
+      <pubDate>Thu, 12 Nov 2026 09:24:32 +0000</pubDate>
+      <category>breach</category>
+      <description>A secret-stealing payload via GitHub Actions has affected thousands of repositories. This highlights the risk of stolen credentials leading to unauthorized access and data breaches. The catch is that only GitHub repositories leveraging Actions are affected directly.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>The developer laptop just became production. Now what?</title>
+      <link>https://www.csoonline.com/article/4247458/the-developer-laptop-just-became-production-now-what.html</link>
+      <guid isPermaLink="false">identitybrief-d1c43a3274f52384</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
+      <category>auth</category>
+      <description>Developers' laptops are now closer to production environments, holding valuable keys and credentials. This shift requires stricter authentication and access control due to direct potential exposures. The challenge is that the safety net provided by separate environments is shrinking.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>.NET 11 security changes target the software supply chain</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/</link>
+      <guid isPermaLink="false">identitybrief-ec31691c4e8607b6</guid>
+      <pubDate>Thu, 12 Nov 2026 08:23:33 +0000</pubDate>
+      <category>auth</category>
+      <description>.NET 11 enhances security around software supply chain and authentication. This update is crucial for maintaining integrity and trust in software delivery pipelines. Yet, organizations must transition from previous versions, which can be resource-intensive.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill</title>
+      <link>https://www.csoonline.com/article/4247578/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill.html</link>
+      <guid isPermaLink="false">identitybrief-2e911975c5a69125</guid>
+      <pubDate>Thu, 12 Nov 2026 02:53:41 +0000</pubDate>
+      <category>fraud</category>
+      <description>Hackers exploited AI tokens costing Railway $740,000 in compute resources. This incident underlines the value and vulnerability of AI-related credentials in the black market. The immediate lesson: AI credentials need the same protection as financial ones.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>OpenID Foundation at GDC26: sessions, speakers and highlights</title>
+      <link>https://openid.net/openid-foundation-at-gdc26-sessions-speakers-and-highlights/</link>
+      <guid isPermaLink="false">identitybrief-37466e2d6ac34a93</guid>
+      <pubDate>Wed, 11 Nov 2026 09:48:09 +0000</pubDate>
+      <category>auth</category>
+      <description>The OpenID Foundation shared key insights at a global digital event. Such forums provide industry benchmarks that could guide future digital identity strategies. However, these strategic concepts can take time to influence mainstream practice.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Checking DER Commands Against Grid Context Catches Credentialed Attacks Static Checks Miss</title>
+      <link>http://arxiv.org/abs/2611.12703v1</link>
+      <guid isPermaLink="false">identitybrief-68e23a73d9e56a4e</guid>
+      <pubDate>Mon, 09 Nov 2026 16:58:25 +0000</pubDate>
+      <category>research</category>
+      <description>Research proposes checking DER commands against grid context to catch attacks. This approach uses real-time data to assess the legitimacy of commands. The technique needs integration into existing systems, which might resist change or adaptation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>How Should an AI Agent Prove It Has Permission to Act?</title>
+      <link>https://blog.spruceid.com/how-should-an-ai-agent-prove-it-has-permission-to-act/</link>
+      <guid isPermaLink="false">identitybrief-c4fb4276964555e2</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+      <category>iam</category>
+      <description>Determining how AI should prove its permission to act raises identity challenges. The debate is crucial for defining future AI governance frameworks. The complexity lies in establishing standardized methods that work across diverse platforms.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>UK consumers expect banks to answer for failed identity checks, Digidentity finds</title>
       <link>https://www.biometricupdate.com/202611/uk-consumers-expect-banks-to-answer-for-failed-identity-checks-digidentity-finds</link>
       <guid isPermaLink="false">identitybrief-45ab10c8320994e0</guid>
@@ -1362,145 +1502,5 @@
       <description>Imposters are pretending to be AI agents from major tech companies to uncover secrets. This escalation in credential harvesting adds a new layer to phishing tactics. The concern: lack of specific defenses against deceit via familiar AI interfaces.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories</title>
-      <link>https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html</link>
-      <guid isPermaLink="false">identitybrief-c9e7c513e1436e5a</guid>
-      <pubDate>Thu, 29 Oct 2026 11:33:15 +0000</pubDate>
-      <category>breach</category>
-      <description>Thousands of valid credentials on Gitee were publicly exposed, risking misuse. A stark reminder of the risks in public code repositories. The critical point: visibility on such scale questions how companies monitor developer-driven data leaks.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Vulnerability exploitation rising as the root cause of many breaches</title>
-      <link>https://www.csoonline.com/article/4241912/vulnerability-exploitation-rising-as-the-root-cause-of-many-breaches.html</link>
-      <guid isPermaLink="false">identitybrief-bca90e0350a02404</guid>
-      <pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Rising vulnerability exploitation shows a pivot from phishing in breaking into systems. This shift requires different defense strategies focusing on patch management. LevelBlue's findings point out vulnerabilities but miss deeper investigation into deterrent methods.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Admin dropped the F-bomb in a password to show hackers who was really 1337</title>
-      <link>https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139</link>
-      <guid isPermaLink="false">identitybrief-c02963657f129c75</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>An admin humorously used expletives in passwords for a sense of digital rebellion. Highlighting security culture met with a dose of reality—true security needs more than clever passwords. The take-home: robust measures beyond just passphrases are critical.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>How to add enterprise SSO and SCIM to a Better Auth app</title>
-      <link>https://workos.com/blog/add-enterprise-sso-scim-better-auth-app</link>
-      <guid isPermaLink="false">identitybrief-5bb4129c7a815d86</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Integrate SSO and SCIM for Better Auth apps for enterprise client needs. This addresses the scaling of modern identity management with external users. Bear in mind: customization could bring longer integration cycles without experienced hands.
-
-— via WorkOS</description>
-    </item>
-    <item>
-      <title>Biometrics and standards bring cross-border digital ID closer</title>
-      <link>https://www.biometricupdate.com/202610/biometrics-and-standards-bring-cross-border-digital-id-closer</link>
-      <guid isPermaLink="false">identitybrief-d44fabc39509e748</guid>
-      <pubDate>Sat, 31 Oct 2026 15:42:19 +0000</pubDate>
-      <category>did</category>
-      <description>Efforts to create cross-border digital IDs are gaining ground, supported by biometrics and technical standards. If successful, these IDs could remove friction from international transactions. But differing national governance makes this alignment tough to achieve uniformly.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data</title>
-      <link>https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html</link>
-      <guid isPermaLink="false">identitybrief-1f2870fb86dff659</guid>
-      <pubDate>Sat, 31 Oct 2026 12:01:56 +0000</pubDate>
-      <category>breach</category>
-      <description>Chainalysis experienced a breach, compromising non-sensitive customer identity data. While sensitive credentials were reportedly safe, the incident highlights vulnerabilities even in firms with strong security focuses. The catch is that internal tools' security often hinges on hard-to-detect human errors.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Chainalysis discloses data breach from "offensive agentic techniques"</title>
-      <link>https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/</link>
-      <guid isPermaLink="false">identitybrief-95dfb073e0ec8286</guid>
-      <pubDate>Sat, 31 Oct 2026 12:50:09 +0000</pubDate>
-      <category>breach</category>
-      <description>Chainalysis revealed a data breach from offensive techniques, exposing non-sensitive customer information. Though major systems weren't compromised, the exposure serves as a reminder of the persistent threat landscape. Transparency in breach impact remains crucial, yet challenging to verify externally.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>ITBrief: HID joins FIDO Alliance board as passkeys gain traction</title>
-      <link>https://fidoalliance.org/itbrief-hid-joins-fido-alliance-board-as-passkeys-gain-traction/</link>
-      <guid isPermaLink="false">identitybrief-cd2c6dbe5121bd0a</guid>
-      <pubDate>Fri, 30 Oct 2026 12:41:03 +0000</pubDate>
-      <category>auth</category>
-      <description>HID has joined the FIDO Alliance Board, marking another push for passkeys adoption. As passkeys promise phishing resistance, this could lead to broader industry acceptance. However, organization's internal readiness still varies widely, posing a bottleneck for some deployments.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Northflank security breach leads to abuse of customers' AI API keys</title>
-      <link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</link>
-      <guid isPermaLink="false">identitybrief-fb9fb5a975e9eb28</guid>
-      <pubDate>Sat, 31 Oct 2026 18:01:12 +0000</pubDate>
-      <category>breach</category>
-      <description>Northflank suffered a security breach resulting in misuse of customers' AI API keys. This incident underscores the importance of regular credential rotation to prevent unauthorized access. The catch: API key rotation is often manual and prone to oversight without robust automation.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Biometric Update: FIDO testing experts address deepfake threat and biometrics certification changes</title>
-      <link>https://fidoalliance.org/biometric-update-fido-testing-experts-address-deepfake-threat-and-biometrics-certification-changes/</link>
-      <guid isPermaLink="false">identitybrief-c42dda6db0d147c2</guid>
-      <pubDate>Fri, 30 Oct 2026 12:10:20 +0000</pubDate>
-      <category>fraud</category>
-      <description>Experts at FIDO are tackling deepfake risks within biometrics certification. As deepfakes grow more sophisticated, biometric systems require stronger safeguards. Yet, the evolving nature of AI makes setting and updating these standards a moving target.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Passkeys move from availability to everyday use, FIDO Index finds</title>
-      <link>https://www.biometricupdate.com/202610/passkeys-move-from-availability-to-everyday-use-fido-index-finds</link>
-      <guid isPermaLink="false">identitybrief-ac2c6436198ca4b0</guid>
-      <pubDate>Fri, 30 Oct 2026 18:06:16 +0000</pubDate>
-      <category>auth</category>
-      <description>Research shows passkeys moving beyond pilot projects into regular use, driven by the FIDO Alliance. Passkeys can significantly reduce phishing risks as more firms adopt them. However, transitioning users and ensuring compatibility with existing infrastructure remains a hurdle.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>ETSI releases specification to help mitigate AI deepfake risk</title>
-      <link>https://www.biometricupdate.com/202610/etsi-releases-specification-to-help-mitigate-ai-deepfake-risk</link>
-      <guid isPermaLink="false">identitybrief-cb714dc5c125cc92</guid>
-      <pubDate>Fri, 30 Oct 2026 16:02:01 +0000</pubDate>
-      <category>fraud</category>
-      <description>ETSI released a specification aimed at reducing AI-generated deepfake risks, particularly for identity fraud. This could help shape regulatory standards and best practices for AI governance. But implementing these measures will require wide collaboration and may not be universally quick.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access</title>
-      <link>https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html</link>
-      <guid isPermaLink="false">identitybrief-4a3beb5aa5ff5440</guid>
-      <pubDate>Sat, 31 Oct 2026 08:27:43 +0000</pubDate>
-      <category>breach</category>
-      <description>Three Ivanti Connect Secure flaws are being exploited to gain unauthenticated root access, warns CISA. This elevates the need for timely patching and verification of access controls. Organizations using these flawed systems face significant risk until mitigations are fully deployed.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>InferD: A Honeypot Framework for AI Inference Infrastructure</title>
-      <link>http://arxiv.org/abs/2610.39807v1</link>
-      <guid isPermaLink="false">identitybrief-8bdb394c7ef3ebc5</guid>
-      <pubDate>Thu, 29 Oct 2026 10:50:51 +0000</pubDate>
-      <category>research</category>
-      <description>A new AI honeypot framework, InferD, is designed to protect AI infrastructure from illicit access. It could enhance security by mimicking actual API interaction patterns. However, it requires adaptation for specific deployments, adding complexity to AI service management.
-
-— via arXiv</description>
     </item>
 </channel></rss>
