@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>How attackers turned a Teams meeting booking into a device code phishing trap</title>
+      <link>https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/</link>
+      <guid isPermaLink="false">identitybrief-c7f2b6acc083be53</guid>
+      <pubDate>Fri, 13 Nov 2026 06:15:48 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers used a fake Teams meeting to trick someone into approving a device code sign-in, hijacking credentials. This highlights the new wave of phishing attacks that target legitimate sign-in flows. The catch: this requires constant user vigilance and more robust internal training systems.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Suspected North Korean IT workers reached onboarding at companies with open data</title>
+      <link>https://www.helpnetsecurity.com/2026/11/13/north-korean-it-workers-onboarding/</link>
+      <guid isPermaLink="false">identitybrief-ae3484a8e6569488</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:22 +0000</pubDate>
+      <category>fraud</category>
+      <description>Fake North Korean IT workers reached onboarding stages using fabricated identities in monitored hiring pipelines. This raises security concerns over insider threats and data exposure during recruitment. Limitation: detection often relies on open data sharing policies, which are not universally applied.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Africa’s uncollected national ID cards raise questions about mass issuance</title>
+      <link>https://www.biometricupdate.com/202611/africas-uncollected-national-id-cards-raise-questions-about-mass-issuance</link>
+      <guid isPermaLink="false">identitybrief-61d19a6b29c5b505</guid>
+      <pubDate>Thu, 12 Nov 2026 22:27:58 +0000</pubDate>
+      <category>did</category>
+      <description>Uncollected national ID cards in Africa reflect the challenges in mass identity issuance systems. Ensuring mass issuance doesn't equal mass use, leading to questions about effectiveness. The downside: alternative models suggested are experimentally tested and may face implementation hurdles.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Trulioo, FrankieOne partner on business verification and ongoing fraud monitoring</title>
+      <link>https://www.biometricupdate.com/202611/trulioo-frankieone-partner-on-business-verification-and-ongoing-fraud-monitoring</link>
+      <guid isPermaLink="false">identitybrief-b0119164176fbce6</guid>
+      <pubDate>Thu, 12 Nov 2026 19:02:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Trulioo and FrankieOne team up for enhanced business verification and fraud monitoring. This partnership integrates global KYC capabilities with a connected financial crime ecosystem. Specification flaw: broader application depends on the scope of existing FrankieOne integrations.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>USCIS expands biometrics and identity overhaul into $250 million competition</title>
+      <link>https://www.biometricupdate.com/202611/uscis-expands-biometrics-and-identity-overhaul-into-250-million-competition</link>
+      <guid isPermaLink="false">identitybrief-453c44cbc9290338</guid>
+      <pubDate>Thu, 12 Nov 2026 19:21:27 +0000</pubDate>
+      <category>auth</category>
+      <description>USCIS plans a $250 million biometrics overhaul with new tech planned for immigration services. This represents a significant scale-up in identity and biometric management for the sector. The caveat: the project is still in the request-for-quotation stage, pushing future timelines.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Hackers compromise 4,800 GitHub accounts to steal cloud credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/</link>
+      <guid isPermaLink="false">identitybrief-6947b84f5dbea81d</guid>
+      <pubDate>Thu, 12 Nov 2026 22:25:30 +0000</pubDate>
+      <category>breach</category>
+      <description>GitHub accounts were compromised in a campaign to steal cloud credentials, dubbed 'wfx-loot'. It poses a risk to repositories and the integrity of private code. The hitch: attackers need access to private or inattentive accounts to be successful.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass</title>
+      <link>https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html</link>
+      <guid isPermaLink="false">identitybrief-c398aa3e92265ca6</guid>
+      <pubDate>Thu, 12 Nov 2026 15:38:49 +0000</pubDate>
+      <category>breach</category>
+      <description>Citrix issued patches for critical flaws in NetScaler products, addressing potential authentication bypass. This reduces risk from serious security vulnerabilities. However, the effectiveness depends on timely and comprehensive deployment across all affected systems.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign</title>
+      <link>https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html</link>
+      <guid isPermaLink="false">identitybrief-f7cf57082e209fd8</guid>
+      <pubDate>Thu, 12 Nov 2026 11:51:31 +0000</pubDate>
+      <category>breach</category>
+      <description>A phishing campaign used seemingly legit calendar invites to hijack Google sessions, evading normal defenses. This showcases how phishing is adapting to bypass traditional security checks. Limitation: defenders must update detection strategies to recognize such sophisticated tactics.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Age Assurance: not what but whom</title>
+      <link>https://blog.identity.foundation/age-assurance-not-what-but-whom/</link>
+      <guid isPermaLink="false">identitybrief-776aee1fa52d1047</guid>
+      <pubDate>Thu, 12 Nov 2026 15:12:31 +0000</pubDate>
+      <category>did</category>
+      <description>Grace Rachmany discusses the shift in age verification focus from knowing ‘what’ to proving ‘who’. This impacts identification strategies, especially as governments push for more robust age-related checks. The challenge: decentralized identity systems are still not universally accepted or deployed.
+
+— via DIF</description>
+    </item>
+    <item>
+      <title>FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance</title>
+      <link>https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/</link>
+      <guid isPermaLink="false">identitybrief-663d8f00d5bc7ba4</guid>
+      <pubDate>Fri, 13 Nov 2026 02:28:21 +0000</pubDate>
+      <category>iam</category>
+      <description>The FBI recovered $1.2 billion in stolen cryptocurrency, linking crimes to North Korea. Highlighting the global scope of social engineering threats in the crypto space. Limitation: while money recovery is a positive, it remains a reactive measure against ongoing threats.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Extortion Group Luna Moth Flits Into Law Firms a Second Time</title>
+      <link>https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time</link>
+      <guid isPermaLink="false">identitybrief-94d38e54e537884c</guid>
+      <pubDate>Thu, 12 Nov 2026 20:09:41 +0000</pubDate>
+      <category>breach</category>
+      <description>Luna Moth, an extortion group, returns to target law firms with sophisticated social engineering. This underscores that social engineering persists in threatening secure environments. Main issue: these tactics are harder to detect and often rely on exploiting human trust.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>United to block customers from using AI agents, citing cyber threats</title>
+      <link>https://therecord.media/united-airlines-to-block-customers-using-ai-agents</link>
+      <guid isPermaLink="false">identitybrief-bb48d6f8868d0053</guid>
+      <pubDate>Thu, 12 Nov 2026 19:20:00 +0000</pubDate>
+      <category>auth</category>
+      <description>United Airlines will block AI agents from accessing accounts due to security concerns. This prevents potential exposure of sensitive customer data via third-party agents. The downside: could limit convenience for users relying on personal AI assistants for account management.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Game-Theoretic Analysis of RIS-Assisted Challenge-Response PLA - Part I: Perfect Channel Knowledge</title>
+      <link>http://arxiv.org/abs/2611.16557v1</link>
+      <guid isPermaLink="false">identitybrief-fee080514f44d893</guid>
+      <pubDate>Thu, 12 Nov 2026 09:46:09 +0000</pubDate>
+      <category>research</category>
+      <description>A study proposes a cryptographic game-theory approach to authentication through a reconfigurable surface. This could offer new ways to defend against man-in-the-middle impersonation attacks. Caveat: the concept is highly theoretical and not yet practically implemented.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Okta Identity Governance: Manage Entitlements &amp; Eliminate Drift</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2VQMEJxVEJLT2lvU3lPUVZaeEpJM1pnVVBWWXZPZnpPYjZiaS1xbU5QRzdZaFpoRTQ3dGxMQ2NneHNfNnBLckhsUTA4bmNWTWNGZ0ZsbFRucHRwdmo3SzRtbGNrMl9Xa3QtUnFjQXI5Qk0zSEJpUHVfS1YyUHA4ZVFfb3F4U3NwNkxGQUxvS0xlbDhUMmlobQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-f73c441ee17505d7</guid>
+      <pubDate>Thu, 12 Nov 2026 19:48:14 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta promotes its identity governance solutions emphasizing entitlement management. This can help organizations maintain consistent user access and reduce identity drift. The catch: effectiveness relies on integration depth and user compliance.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Bots pose as AI agents, AI agents pose as humans, and defenses believe both</title>
       <link>https://www.helpnetsecurity.com/2026/11/12/bots-ai-agent-impersonation/</link>
       <guid isPermaLink="false">identitybrief-a392ba13870c3377</guid>
@@ -1362,145 +1502,5 @@
       <description>A severe flaw in Siemens IoT2050 allows attackers to run arbitrary code. The vulnerability can be exploited remotely, posing a significant threat. It's critical, but specific to Siemens devices, prompting update urgency.
 
 — via The Hacker News</description>
-    </item>
-    <item>
-      <title>TrafficInstruct: A Multi-Task Network Traffic Dataset and Benchmark for Instruction Tuning</title>
-      <link>http://arxiv.org/abs/2611.03319v1</link>
-      <guid isPermaLink="false">identitybrief-6ea52a87213e9c56</guid>
-      <pubDate>Mon, 02 Nov 2026 15:44:53 +0000</pubDate>
-      <category>research</category>
-      <description>TrafficInstruct introduces a diverse network traffic dataset for instruction tuning. It's useful for training AI models on security tasks like malware detection. This remains a research tool, requiring technical setup to use effectively.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG Poisoning</title>
-      <link>http://arxiv.org/abs/2611.03431v1</link>
-      <guid isPermaLink="false">identitybrief-11da196cfaedf3b9</guid>
-      <pubDate>Mon, 02 Nov 2026 16:52:44 +0000</pubDate>
-      <category>research</category>
-      <description>IAMRAGBENCH tests AWS IAM policies against LLM-induced flaws. It benchmarks model-generated policy expansions under RAG poisoning conditions. While insightful, this is highly experimental and best suited for security researchers.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>CISA to federal agencies: Remediate exploited Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527)</title>
-      <link>https://www.helpnetsecurity.com/2026/11/02/cisa-to-federal-agencies-remediate-exploited-ivanti-connect-secure-vulnerabilities-cve-2026-111357-cve-2026-118527/</link>
-      <guid isPermaLink="false">identitybrief-5b859d544d735a3f</guid>
-      <pubDate>Mon, 02 Nov 2026 15:58:08 +0000</pubDate>
-      <category>breach</category>
-      <description>CISA advises agencies to patch critical Ivanti Connect Secure vulnerabilities. The flaws could allow privilege escalation and unauthorized file uploads. Timely updates are crucial, yet awareness and patch distribution remain hurdles.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Secure identity and access for every agent, local or cloud - Microsoft Entra</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2hnTjQ0cVNuNjJUeTNNM2pNbG9zZVpUU040RmI0TmFQdUxXb0ZlNEZCREdNeVRaN2VWZDlobW5IS3BydHpiNFRwSkVxQThTMTc2aGdtR1hhcFJIRHk2UXhhUzBoWGwtZWM2UzYxUXhvZEFlOUdCQW5DZ3k4WXozU2FMSmRIMHVteVRYNlVCOFk1RWZINWpJeFlEXzdYV1BRVjVZNExsYnRHZnZ5WklsMDRzQWlyNGd1dFotelBSU2xZcmxkbGNZbl9XOFFVZw?oc=5</link>
-      <guid isPermaLink="false">identitybrief-88cf09257f9b8937</guid>
-      <pubDate>Tue, 03 Nov 2026 06:05:33 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft Entra's post focuses on secure identity management in diverse environments. It integrates identity handling for local and cloud agents. The overview remains high-level, with practical details left to user exploration.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>The first ten lines of a command policy for AI coding agents</title>
-      <link>https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/</link>
-      <guid isPermaLink="false">identitybrief-fa151c6b68b83976</guid>
-      <pubDate>Mon, 02 Nov 2026 06:30:36 +0000</pubDate>
-      <category>auth</category>
-      <description>Setting the first ten lines of command policy for AI coding agents can reduce risk. This means AI acts under its identity but requires human identity attachment when necessary. The catch: concrete examples were scant in showing how this solves existing proxy issues completely.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Byoky: Open-source wallet for AI API keys</title>
-      <link>https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/</link>
-      <guid isPermaLink="false">identitybrief-39c886feecb9e136</guid>
-      <pubDate>Mon, 02 Nov 2026 06:00:33 +0000</pubDate>
-      <category>iam</category>
-      <description>Byoky is an open-source wallet for managing AI API keys, safeguarding them on local devices. This ensures that actual keys aren't shared, enhancing security by granting only session tokens. The limitation here is it's an ecosystem play; developers need to integrate it with their apps.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Ransomware gang talked AI agents into doing much of its dirty work</title>
-      <link>https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/</link>
-      <guid isPermaLink="false">identitybrief-47700cf31ca37597</guid>
-      <pubDate>Mon, 02 Nov 2026 05:00:46 +0000</pubDate>
-      <category>breach</category>
-      <description>A ransomware gang used AI agents to move laterally within networks, collecting credentials. This highlights AI's role not only in defending but also in facilitating attacks. The wrinkle: Sophos notes they found artifacts, but full methods of AI misuse are not publicly detailed yet.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>OrionLink: Single Sign-On with Oblivious Identity Brokers</title>
-      <link>http://arxiv.org/abs/2610.41323v1</link>
-      <guid isPermaLink="false">identitybrief-b970231aaa5b68d7</guid>
-      <pubDate>Fri, 30 Oct 2026 06:37:40 +0000</pubDate>
-      <category>research</category>
-      <description>OrionLink proposes a Single Sign-On (SSO) model with clueless brokers to enhance privacy. This minimizes exposure of authentication credentials to identity brokers. However, adoption depends on widespread trust and proof of security with real-world deployments.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Fooling Relying Parties of the EUDI Wallet Architecture: Credential Pooling Attacks and CRESTA, a Standard-Compliant Countermeasure</title>
-      <link>http://arxiv.org/abs/2610.41655v1</link>
-      <guid isPermaLink="false">identitybrief-a2f3cfcd8ce363a2</guid>
-      <pubDate>Fri, 30 Oct 2026 12:28:25 +0000</pubDate>
-      <category>research</category>
-      <description>Credential pooling attacks threaten the European Digital Identity (EUDI) Wallet's trustworthiness. Colluding users can present pooled credentials as if from a single source. The cure, CRESTA, exists but relies heavily on adoption and education among relying parties.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks</title>
-      <link>http://arxiv.org/abs/2610.41055v1</link>
-      <guid isPermaLink="false">identitybrief-42e99df4d7a6e377</guid>
-      <pubDate>Thu, 29 Oct 2026 22:52:45 +0000</pubDate>
-      <category>research</category>
-      <description>This paper examines secure federation of AI in vehicular networks with post-quantum authentication. It's crucial for ensuring communication privacy and efficiency without centralized data risks. The issue: applying such complex frameworks needs a robust, compatible infrastructure.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>US Treasury makes ID.me mandatory as federal policy shifts toward Login.gov</title>
-      <link>https://www.biometricupdate.com/202610/us-treasury-makes-id-me-mandatory-as-federal-policy-shifts-toward-login-gov</link>
-      <guid isPermaLink="false">identitybrief-27fb6c27a60532e4</guid>
-      <pubDate>Fri, 30 Oct 2026 17:10:19 +0000</pubDate>
-      <category>fraud</category>
-      <description>ID.me is now mandatory for U.S. Treasury users even as overall federal shifts focus to Login.gov. It complicates the identity landscape as private verification clashes with federal preference. The drawback: users lacking ID.me face barriers without government-backed alternatives.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Moldova data breach exposes records linked to 750,000 national ID numbers</title>
-      <link>https://www.biometricupdate.com/202610/moldova-data-breach-exposes-records-linked-to-750000-national-id-numbers</link>
-      <guid isPermaLink="false">identitybrief-2d6cad97e6ac0452</guid>
-      <pubDate>Fri, 30 Oct 2026 16:20:20 +0000</pubDate>
-      <category>did</category>
-      <description>A cyberattack on Moldova compromised 750,000 national ID records. This breach highlights the danger to digital government infrastructures. AGE's response notes but doesn't detail the countermeasures planned or implemented.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Podcast: Deepfakes threaten election trust as AI-generated ads surge</title>
-      <link>https://www.biometricupdate.com/202610/podcast-deepfakes-threaten-election-trust-as-ai-generated-ads-surge</link>
-      <guid isPermaLink="false">identitybrief-6f5d0d091cc34d3b</guid>
-      <pubDate>Fri, 30 Oct 2026 16:05:25 +0000</pubDate>
-      <category>fraud</category>
-      <description>Deepfakes are threatening trust in electoral processes with AI-generated ads. The biosphere of AI-assisted fraud expands into public opinion manipulation. Yet, current detection and mitigation technologies lag behind the threat's sophistication.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Imposter abused trust in OpenAI, Anthropic, and 30 others to hunt for secrets</title>
-      <link>https://www.csoonline.com/article/4242088/imposter-abused-trust-in-openai-anthropic-and-30-others-to-hunt-for-secrets.html</link>
-      <guid isPermaLink="false">identitybrief-7150fd3d8ffb6f5f</guid>
-      <pubDate>Thu, 29 Oct 2026 11:52:51 +0000</pubDate>
-      <category>auth</category>
-      <description>Imposters are pretending to be AI agents from major tech companies to uncover secrets. This escalation in credential harvesting adds a new layer to phishing tactics. The concern: lack of specific defenses against deceit via familiar AI interfaces.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
