@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Cuscal Paymark brings digital age checks to NZ payment terminals</title>
+      <link>https://www.biometricupdate.com/202611/cuscal-paymark-brings-digital-age-checks-to-nz-payment-terminals</link>
+      <guid isPermaLink="false">identitybrief-457a9b55a32df127</guid>
+      <pubDate>Fri, 13 Nov 2026 19:43:26 +0000</pubDate>
+      <category>did</category>
+      <description>Cuscal Paymark rolls out digital age checks for NZ payment terminals. It supports a digital credential initiative with age verification at point-of-sale. However, this is specific to New Zealand and needs retailers to adopt the new tech.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Biometric defenses put to the test with faster AI face-swap model</title>
+      <link>https://www.biometricupdate.com/202611/biometric-defenses-put-to-the-test-with-faster-ai-face-swap-model</link>
+      <guid isPermaLink="false">identitybrief-100df6c534420410</guid>
+      <pubDate>Fri, 13 Nov 2026 20:15:07 +0000</pubDate>
+      <category>fraud</category>
+      <description>A new AI model can perform advanced face-swapping for biometric tests. The model is fast and realistic, challenging identity verification systems. Right now, it serves as a red-team tool, not a widespread threat yet.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Shufti patents split-inference age assurance with on-device biometrics</title>
+      <link>https://www.biometricupdate.com/202611/shufti-patents-split-inference-age-assurance-with-on-device-biometrics</link>
+      <guid isPermaLink="false">identitybrief-8e8a8a434ba96497</guid>
+      <pubDate>Fri, 13 Nov 2026 20:13:39 +0000</pubDate>
+      <category>did</category>
+      <description>Shufti received a patent for on-device age verification using split-inference. This tech avoids server transmissions, aiming to boost privacy. Adoption requires compatible devices and a shift to on-device processing.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls</title>
+      <link>https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html</link>
+      <guid isPermaLink="false">identitybrief-c6e1d6a772717416</guid>
+      <pubDate>Fri, 13 Nov 2026 14:28:58 +0000</pubDate>
+      <category>fraud</category>
+      <description>North Korean hackers stole over $400 million using deepfake video calls. The tactic tricks targets into revealing crypto account information. The impersonation potential increases risks for high-profile targets.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents</title>
+      <link>https://therecord.media/city-of-osaka-japan-email-data-breach</link>
+      <guid isPermaLink="false">identitybrief-810ecd44c3ac2c42</guid>
+      <pubDate>Fri, 13 Nov 2026 19:43:00 +0000</pubDate>
+      <category>breach</category>
+      <description>The City of Osaka reports a breach impacting 1 million people, adding to Japan's growing cyber woes. It underscores the vulnerability of local government systems to email phishing. Details on remediation steps remain thin.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach</title>
+      <link>https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-8310e121f776dca0</guid>
+      <pubDate>Fri, 13 Nov 2026 15:20:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Security trends including CISA leadership changes and data breaches were highlighted. They remind us that even routine updates can shift organizational threat landscapes. No immediate action but a call to stay informed.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Security Boulevard: Attackers Can’t Steal Passkeys, So They’re Enrolling Their Own</title>
+      <link>https://fidoalliance.org/security-boulevard-attackers-cant-steal-passkeys-so-theyre-enrolling-their-own/</link>
+      <guid isPermaLink="false">identitybrief-31cdf1af5a4dc21e</guid>
+      <pubDate>Fri, 13 Nov 2026 18:13:07 +0000</pubDate>
+      <category>auth</category>
+      <description>Attackers are now enrolling their own passkeys to bypass security. While passkeys can't be phished like passwords, criminals are targeting the enrollment process instead. This highlights a critical need to monitor and secure new types of access requests.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Thousands of GitHub repos hit with secret-stealing malware</title>
+      <link>https://www.csoonline.com/article/4248672/thousands-of-github-repos-hit-with-secret-stealing-malware.html</link>
+      <guid isPermaLink="false">identitybrief-ac5994cfc252579b</guid>
+      <pubDate>Fri, 13 Nov 2026 23:53:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Thousands of GitHub repositories were compromised to spread secret-stealing malware. This affects CI/CD secrets and cloud credentials, highlighting risks in version control systems. The long tail of smaller repos could harbor unseen threats.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’</title>
+      <link>https://therecord.media/artex-ai-tool-fbi-flash-alert</link>
+      <guid isPermaLink="false">identitybrief-f0f23fdb08d7bf54</guid>
+      <pubDate>Fri, 13 Nov 2026 21:32:00 +0000</pubDate>
+      <category>iam</category>
+      <description>The Artex tool speeds up attack chains, drastically reducing time to privileged access. This stresses the importance of quick response to initial threats. The catch is it's an open-source tool, potentially widespread.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>How AI is changing the nature of cyberattacks</title>
+      <link>https://www.csoonline.com/article/4248553/how-ai-is-changing-the-nature-of-cyberattacks.html</link>
+      <guid isPermaLink="false">identitybrief-8eb9672ea0214892</guid>
+      <pubDate>Fri, 13 Nov 2026 19:02:39 +0000</pubDate>
+      <category>breach</category>
+      <description>AI is escalating the ease of cyberattacks but not changing fundamental methods. Basic techniques now scale more effectively but still rely on classic attack chains. Defense strategies need not be revolutionary, just adequately scaled.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Fake GTA 6 download goes after Steam logins and crypto wallet data</title>
+      <link>https://www.helpnetsecurity.com/2026/11/13/fake-gta-6-download-scam/</link>
+      <guid isPermaLink="false">identitybrief-30179f7f002a0882</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:59 +0000</pubDate>
+      <category>auth</category>
+      <description>Fake GTA 6 download sites are stealing Steam credentials and crypto data. This serves as a reminder of the phishing risks in popular content releases. The specific target is gamers overdue for security reminders.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>When an AI Agent Goes Wrong, Can You Stop It?</title>
+      <link>https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html</link>
+      <guid isPermaLink="false">identitybrief-fe3ab0485c825bd2</guid>
+      <pubDate>Fri, 13 Nov 2026 11:52:31 +0000</pubDate>
+      <category>iam</category>
+      <description>Discussion on AI agent control highlights how permissions could be manipulated. It poses a question of auditing and permissions granularity for process bots. The issue is theoretical unless reinforced with strong access policies.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen</title>
+      <link>http://arxiv.org/abs/2611.14935v1</link>
+      <guid isPermaLink="false">identitybrief-2dbede4df41cc6a7</guid>
+      <pubDate>Wed, 11 Nov 2026 02:35:53 +0000</pubDate>
+      <category>research</category>
+      <description>Research looks at bias in LLMs concerning racial and sex disparities in pain management. This feeds into the broader debate on AI model fairness in identity processing. Real-world impact is speculative and needs continued audits.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AI is changing access: Catch Microsoft Entra at Ignite 2026</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxONmZTaDNESEt1enNyWjBXS2ZPakhUZWNKOE0tLWdPQl9fdGc5cGJYeGFvdjZHSkFMV21Ed2lldTB5LXJIU0JiUlN3UWdGNUYtUVl5Z2FveTJLZmZTaTJ3SnhybHFNaFNrSl9kVFNJVFRTb1owS2VkdmQzWXhtUmRsU3JYTDR4SHkxXzRzdU92bWNFc2NPTkdUd01Lb2Q3cjRnVWdXMmRIR05vOXlES2piT3d6OG5nRFJrbFQ1RzFnOGtaNlItQnhV?oc=5</link>
+      <guid isPermaLink="false">identitybrief-6192f21ec86b32a0</guid>
+      <pubDate>Sat, 14 Nov 2026 02:34:16 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft Entra will present on AI's effect on access at Ignite 2026. AI-driven access adjustments could impact identity management strategies. Watching this space may prepare teams for future integration needs.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>How attackers turned a Teams meeting booking into a device code phishing trap</title>
       <link>https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/</link>
       <guid isPermaLink="false">identitybrief-c7f2b6acc083be53</guid>
@@ -1362,145 +1502,5 @@
       <description>Barracuda appliances are vulnerable due to chainable flaws allowing root access. This directly impacts device security, potentially letting attackers bypass authentication controls entirely. Limit: remediation depends on timely vendor patching and user updates.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>A Security Analysis of Verifiable Credential Verification Pipelines: Attack Surface Arising from JSON-LD/RDFC Canonicalization Compared with SD-JWT VC and mdoc</title>
-      <link>http://arxiv.org/abs/2611.04461v1</link>
-      <guid isPermaLink="false">identitybrief-1ea893e29d2490a6</guid>
-      <pubDate>Tue, 03 Nov 2026 07:49:18 +0000</pubDate>
-      <category>research</category>
-      <description>A new paper dissects the risk of using Verifiable Credential formats with JSON-LD/RDFC. It signals an attack surface from canonization methods, affecting credential verification. Limitation: highly technical, relevant to those implementing VC pipelines.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Critical Langflow flaws enable authentication bypass and RCE</title>
-      <link>https://www.csoonline.com/article/4244226/critical-langflow-flaws-enable-authentication-bypass-and-rce.html</link>
-      <guid isPermaLink="false">identitybrief-9d81cbca598c62b9</guid>
-      <pubDate>Tue, 03 Nov 2026 23:09:01 +0000</pubDate>
-      <category>breach</category>
-      <description>Langflow's flaws allow bypassing authentication and executing commands remotely. This is critical as it risks exposing sensitive AI workflows and data. Catch: relies on IBM-provided patches and user vigilance.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Node-RED authentication hole being exploited in the wild</title>
-      <link>https://www.csoonline.com/article/4244307/node-red-authentication-hole-being-exploited-in-the-wild.html</link>
-      <guid isPermaLink="false">identitybrief-c5aaeec590ff7412</guid>
-      <pubDate>Wed, 04 Nov 2026 03:33:57 +0000</pubDate>
-      <category>breach</category>
-      <description>Node-RED vulnerabilities are being actively exploited, compromising IoT setups. Critical for IoT security as it can lead to system takeovers. Risk persists as many setups remain unpatched due to widespread deployment challenges.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Gambling Compliance — iGaming KYC &amp; Responsible Gaming- Page 20 | The Sumsuber</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qRFJPaUpZODVLaEczaG9BcGVyenpZcFdiMWtZM0xBTFFmc3RZeEZXNHduMDUtTFo3d09YcHI5b1dWRHQ5ZmNQY1R2dWJVdTB5eWdN?oc=5</link>
-      <guid isPermaLink="false">identitybrief-a7899e5cd4ebfbab</guid>
-      <pubDate>Wed, 04 Nov 2026 06:27:13 +0000</pubDate>
-      <category>fraud</category>
-      <description>Sumsub discusses compliance for iGaming, focusing on Know Your Customer (KYC) protocols. It's vital for reducing fraud in online gambling. The catch is navigating overlapping regulations across regions.
-
-— via Sumsub</description>
-    </item>
-    <item>
-      <title>Opal’s agent.ID virtual event: Top security leaders on governing Al agents</title>
-      <link>https://www.helpnetsecurity.com/2026/11/03/opal-security-agent-id-virtual-event/</link>
-      <guid isPermaLink="false">identitybrief-eb5ade18647e4c74</guid>
-      <pubDate>Tue, 03 Nov 2026 08:55:07 +0000</pubDate>
-      <category>iam</category>
-      <description>Opal is hosting a virtual event on managing AI agents in identity systems. It aims to help security leaders adapt IAM practices to AI, focusing on access and accountability. While insightful, the event is specific to those handling AI integrations.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Innovatrics biometric IAD certified by CLR Labs for High level protection</title>
-      <link>https://www.biometricupdate.com/202611/innovatrics-biometric-iad-certified-by-clr-labs-for-high-level-protection</link>
-      <guid isPermaLink="false">identitybrief-ee012aa1eaf20d7c</guid>
-      <pubDate>Mon, 02 Nov 2026 21:10:56 +0000</pubDate>
-      <category>fraud</category>
-      <description>Innovatrics' biometric verification gets certified for high-level protection. It addresses deepfake and camera-path injection attacks in identity onboarding. This certification applies mostly to those already invested in Innovatrics' ecosystem.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Somalia puts Hubiye national ID verification platform into operation</title>
-      <link>https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation</link>
-      <guid isPermaLink="false">identitybrief-dfec874c445abf53</guid>
-      <pubDate>Mon, 02 Nov 2026 20:57:53 +0000</pubDate>
-      <category>did</category>
-      <description>Somalia launches Hubiye, a national ID verification platform. It expands digital identity's role in public and banking sectors. Regional focus means the impact is more local, with broader adoption challenges globally.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials</title>
-      <link>https://thehackernews.com/2026/11/attackers-target-unpatched.html</link>
-      <guid isPermaLink="false">identitybrief-d4042f8de11d05d6</guid>
-      <pubDate>Tue, 03 Nov 2026 05:34:37 +0000</pubDate>
-      <category>breach</category>
-      <description>An unpatched WordPress flaw in CryptoPayment Gateway reveals wallet credentials. This could allow unauthorized file deletions on servers. The specific impact is confined to systems using this plugin, urging immediate fixes.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Philippines expands national ID ecosystem with offline KYC platform</title>
-      <link>https://www.biometricupdate.com/202611/philippines-expands-national-id-ecosystem-with-offline-kyc-platform</link>
-      <guid isPermaLink="false">identitybrief-9d31f29dcad34567</guid>
-      <pubDate>Mon, 02 Nov 2026 17:18:38 +0000</pubDate>
-      <category>did</category>
-      <description>Philippines rolls out offline KYC using its national ID system. It provides authentication in areas with unreliable internet. The solution fits rural needs but depends on successful biometric verification uptake.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data</title>
-      <link>https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html</link>
-      <guid isPermaLink="false">identitybrief-d596e3f2baced4c0</guid>
-      <pubDate>Mon, 02 Nov 2026 11:08:45 +0000</pubDate>
-      <category>auth</category>
-      <description>Fake IT support scams on MS Teams leverage AD CS vulnerabilities. Attackers gain privileged access via weak certificate settings. It's a reminder to audit and restrict certificate authority configurations to limit exposure.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>67% of security leaders say their teams struggle to meet business needs</title>
-      <link>https://www.csoonline.com/article/4243598/67-of-security-leaders-say-their-teams-struggle-to-meet-business-needs.html</link>
-      <guid isPermaLink="false">identitybrief-d733d5a282a882a3</guid>
-      <pubDate>Tue, 03 Nov 2026 08:25:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Barracuda's report says 67% of security leaders find teams overstretched. Rising AI risks and complex identity threats are common challenges. The report highlights skill gaps, but doesn't offer new solutions beyond recognizing the issue.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>An Empirical Evaluation of Signing and Verification Performance of Verifiable Credential Formats: A Cross-Language Benchmark of SD-JWT VC, W3C VCDM, and mdoc</title>
-      <link>http://arxiv.org/abs/2611.03493v1</link>
-      <guid isPermaLink="false">identitybrief-32915a705e97030f</guid>
-      <pubDate>Mon, 02 Nov 2026 17:35:04 +0000</pubDate>
-      <category>research</category>
-      <description>A study compares signing and verification speeds of three verifiable credential formats. It helps understand performance trade-offs among SD-JWT VC, W3C VCDM, and mdoc formats. This is technical and doesn't address practical deployment hurdles or policy requirements.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Gorbag APT group hits Ukrainian courts and city councils with self-deleting malware</title>
-      <link>https://www.helpnetsecurity.com/2026/11/03/gorbag-apt-group-malware/</link>
-      <guid isPermaLink="false">identitybrief-580d890bd820af8c</guid>
-      <pubDate>Tue, 03 Nov 2026 10:00:14 +0000</pubDate>
-      <category>breach</category>
-      <description>ESET tracks a group using self-deleting malware against Ukrainian entities. Spearphishing is the primary entry point for these attacks. The scope is limited to Ukraine, but the technique highlights risks in email-centric defenses.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors</title>
-      <link>https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html</link>
-      <guid isPermaLink="false">identitybrief-3e6bc640da57c0d4</guid>
-      <pubDate>Tue, 03 Nov 2026 05:34:41 +0000</pubDate>
-      <category>breach</category>
-      <description>A severe flaw in Siemens IoT2050 allows attackers to run arbitrary code. The vulnerability can be exploited remotely, posing a significant threat. It's critical, but specific to Siemens devices, prompting update urgency.
-
-— via The Hacker News</description>
     </item>
 </channel></rss>
