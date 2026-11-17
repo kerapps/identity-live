@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Too many instructions can hold back AI security audits</title>
+      <link>https://www.helpnetsecurity.com/2026/11/17/peter-stockli-github-ai-security-audits/</link>
+      <guid isPermaLink="false">identitybrief-98546f48c6fa5f9f</guid>
+      <pubDate>Tue, 17 Nov 2026 07:00:54 +0000</pubDate>
+      <category>auth</category>
+      <description>GitHub's Peter Stöckli talks about using AI in security audits for authentication and authorization. AI can find vulnerabilities faster, but too many variations in instructions can hinder effectiveness. Final decisions still need human oversight to avoid errors.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Uber notifies drivers of data breach affecting nearly 150,000 people</title>
+      <link>https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/</link>
+      <guid isPermaLink="false">identitybrief-1817d151d4879161</guid>
+      <pubDate>Tue, 17 Nov 2026 08:35:42 +0000</pubDate>
+      <category>breach</category>
+      <description>Uber reports a data breach where nearly 150,000 drivers' information was stolen. Highlights the need for secure collaborations with third-party vendors. This incident emphasizes vulnerability in shared AI infrastructure.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Swedish privacy regulator rejects proposed national face biometrics register</title>
+      <link>https://www.biometricupdate.com/202611/swedish-privacy-regulator-rejects-proposed-national-face-biometrics-register</link>
+      <guid isPermaLink="false">identitybrief-6f26a90204d8fa45</guid>
+      <pubDate>Mon, 16 Nov 2026 22:24:53 +0000</pubDate>
+      <category>did</category>
+      <description>Sweden's regulator has blocked a proposed national biometric registry. Such a registry could aid identity verification but poses privacy risks. The proposal was rejected as the need was not convincingly justified.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>IN Groupe expands in MENA, Twoday adds KYC capabilities through acquisitions</title>
+      <link>https://www.biometricupdate.com/202611/in-groupe-expands-in-mena-twoday-adds-kyc-capabilities-through-acquisitions</link>
+      <guid isPermaLink="false">identitybrief-00b917678bb8e4f8</guid>
+      <pubDate>Mon, 16 Nov 2026 15:59:47 +0000</pubDate>
+      <category>did</category>
+      <description>IN Groupe expands into the MENA region by acquiring Caelum's identity operations. This broadens their reach and enhances digital identity and credential services. Region-specific applications may limit its immediate impact elsewhere.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Identomat proves IAD capability with High-level certification against CEN/TS 18099</title>
+      <link>https://www.biometricupdate.com/202611/identomat-proves-iad-capability-with-high-level-certification-against-cen-ts-18099</link>
+      <guid isPermaLink="false">identitybrief-86f38062f02f0440</guid>
+      <pubDate>Mon, 16 Nov 2026 22:25:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Identomat achieves a high-level certification for injection attack detection. It enhances confidence in biometric security against specific AI-driven attacks. Certification is recent, so widespread adoption will take time.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Running coding agents without handing them my credentials</title>
+      <link>https://blog.antonio.cx/running-agents-with-lend</link>
+      <guid isPermaLink="false">identitybrief-af7fee3c84c9b2ec</guid>
+      <pubDate>Tue, 17 Nov 2026 01:18:56 +0000</pubDate>
+      <category>auth</category>
+      <description>A developer discusses how to use coding agents without giving them your credentials. This offers an approach to enhance security by isolating credentials from automated tools. The challenge is whether existing systems can easily integrate such methods.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Meet the Candidates for the 2026 DIF Steering Committee Elections</title>
+      <link>https://blog.identity.foundation/2026-dif-steering-committee-elections/</link>
+      <guid isPermaLink="false">identitybrief-767034fd86831865</guid>
+      <pubDate>Tue, 17 Nov 2026 06:24:41 +0000</pubDate>
+      <category>did</category>
+      <description>DIF's 2026 Steering Committee elections have begun, with Associate Members casting votes. These elections could influence future standards in decentralized identity. The catch: only Associate Members can vote, limiting broader input.
+
+— via DIF</description>
+    </item>
+    <item>
+      <title>Dashlane Is Now Listed in the FIDO Metadata Service</title>
+      <link>https://fidoalliance.org/dashlane-is-now-listed-in-the-fido-metadata-service/</link>
+      <guid isPermaLink="false">identitybrief-2056e738f9cff75c</guid>
+      <pubDate>Mon, 16 Nov 2026 20:42:04 +0000</pubDate>
+      <category>auth</category>
+      <description>Dashlane's passkeys are now listed in the FIDO Metadata Service. This listing aids websites in verifying the authenticity of passkeys from reliable providers. However, it only applies to websites that check against the FIDO service.
+
+— via FIDO Alliance</description>
+    </item>
+    <item>
+      <title>Public Review Period for Proposed Implementer’s Draft of OpenID Federation Entity Collection Endpoint</title>
+      <link>https://openid.net/public-review-period-for-proposed-implementers-draft-of-openid-federation-entity-collection-endpoint/</link>
+      <guid isPermaLink="false">identitybrief-efa2fff1c025c524</guid>
+      <pubDate>Mon, 16 Nov 2026 20:01:00 +0000</pubDate>
+      <category>auth</category>
+      <description>OpenID's proposed draft for the Federation Entity Collection Endpoint is open for review. It could streamline entity registration in OpenID Connect federations. It's still just a draft, so implementation isn't feasible yet.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>Google finds AI agent writing and launching exploits with no human in the loop</title>
+      <link>https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/</link>
+      <guid isPermaLink="false">identitybrief-63ce96d0c14cf829</guid>
+      <pubDate>Tue, 17 Nov 2026 08:45:24 +0000</pubDate>
+      <category>breach</category>
+      <description>Google reports AI agents autonomously writing and launching exploits without human intervention. The speed of such attacks could overwhelm traditional response efforts. The snag: they still rely on compromised credentials and unpatched systems.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Japan's Fugaku supercomputer has decidedly un-super security</title>
+      <link>https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333</link>
+      <guid isPermaLink="false">identitybrief-92ae9d39f8909b19</guid>
+      <pubDate>Tue, 17 Nov 2026 05:27:04 +0000</pubDate>
+      <category>breach</category>
+      <description>Japan's Fugaku supercomputer has exposed login credentials due to a breach of its status page. This underscores the effectiveness of even simple breaches in accessing high-value targets. Specifically, it points to security lapses in managing administrative credentials.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/</link>
+      <guid isPermaLink="false">identitybrief-225dafd7d4001d81</guid>
+      <pubDate>Tue, 17 Nov 2026 00:08:41 +0000</pubDate>
+      <category>breach</category>
+      <description>A new phishing campaign uses fake Microsoft 365 outage alerts to trick victims. These lures exploit familiarity to gain unauthorized access. Awareness and user training remain essential defenses, but user habits are tough to change.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Necessary for What? Auditing Demographic Disclosure to LLM Synthetic Respondents</title>
+      <link>http://arxiv.org/abs/2611.20606v1</link>
+      <guid isPermaLink="false">identitybrief-095c9f2a3912cae3</guid>
+      <pubDate>Mon, 16 Nov 2026 06:29:50 +0000</pubDate>
+      <category>research</category>
+      <description>Research looks at demographics in synthetic surveys by LLMs. It questions whether including demographics leads to better insights. The complexity of survey goals often complicates clear data minimization.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Okta Certification Circle &amp; Champions: Honoring Identity Security Leaders</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJTTTNQQXBFS0VuWDB5UEdzYlU5eXFqOGFtUUNHRzVlUGVrMmxVTGUzOExVREVubzNyd3NmTUQ1UWstZnE1bmJiekNXczVEYzQtdEVfZDlKTGFGN0JIRXZNM1c3V3BfV1l3dzlHQ3lxb0FsZi1rbDlLVUFrYzVDQ1FjQ29yelFIVlFEWkdMS2hXWWM0?oc=5</link>
+      <guid isPermaLink="false">identitybrief-94d93a6a5c12d38d</guid>
+      <pubDate>Tue, 17 Nov 2026 01:30:39 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta honors identity security leaders through its Certification Circle &amp; Champions initiative. This recognition encourages innovation and leadership in strengthening identity security practices. However, the program is limited to those recognized by Okta.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Ory Hydra: Open-source OAuth 2.0 server and OpenID Connect provider</title>
       <link>https://www.helpnetsecurity.com/2026/11/16/ory-hydra-oauth-server-open-source/</link>
       <guid isPermaLink="false">identitybrief-0de91ec8af4533c6</guid>
@@ -1362,145 +1502,5 @@
       <description>Scammers using AI managed to defraud companies of over $100 million by impersonating CEOs. This is a significant case of AI-driven fraud impacting identity verification in corporate settings. The catch is the increasing sophistication of scams that are challenging to preempt without AI defenses.
 
 — via The Record</description>
-    </item>
-    <item>
-      <title>Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/</link>
-      <guid isPermaLink="false">identitybrief-d4ae1adfd1666843</guid>
-      <pubDate>Thu, 05 Nov 2026 21:30:30 +0000</pubDate>
-      <category>breach</category>
-      <description>Phishing attacks leveraging fake events targeted Microsoft and Google account credentials. It shows the ongoing threat phishing poses to user authentication security. However, the attacks depend on user interactions, underscoring the need for solid user training and automated phishing defenses.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>MAIRE Goes Passwordless with YubiKeys</title>
-      <link>https://fidoalliance.org/maire-goes-passwordless-with-yubikeys/</link>
-      <guid isPermaLink="false">identitybrief-f86eaea4e062847a</guid>
-      <pubDate>Thu, 05 Nov 2026 13:26:50 +0000</pubDate>
-      <category>auth</category>
-      <description>MAIRE implemented YubiKeys to eliminate passwords company-wide. It exemplifies a move towards passwordless authentication, improving security and user convenience. But remember, its success hinges on broad user buy-in and careful key management.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>SensorGuard-RV: Sensor-to-Register Data Protection for Resource-Constrained RISC-V Devices</title>
-      <link>http://arxiv.org/abs/2611.08380v1</link>
-      <guid isPermaLink="false">identitybrief-2d17fb087b2ce8b1</guid>
-      <pubDate>Thu, 05 Nov 2026 17:57:49 +0000</pubDate>
-      <category>research</category>
-      <description>SensorGuard-RV offers sensor data protection for RISC-V devices. Important for securing data integrity in embedded systems with constrained resources. The caveat: it assumes you can implement it within current hardware and software constraints.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Agentic attack tools used to accelerate reconnaissance of identity flows</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQa09VZUV3OU1rYW9xM3NWbWNyM3NqRExwaXpnVDNqWW0tMkh6M2t0MFJ1T2VtZG5iY1B3SEJxMUhRTGlYUGt5WUpzNWVkaURQZ3FOQWdHWjB0LUpyM0MtcFJIb1RCalR5bnBVX3BXUUROZHo4QW45QmhDcVlfb09ETUh4YnNzMHlMUW1NM3AydVdKel92bVRucmJtLXhhTWo2ZWg2NWlzMTdTYkJqajVuSg?oc=5</link>
-      <guid isPermaLink="false">identitybrief-4ea37b37cc3a0a39</guid>
-      <pubDate>Fri, 06 Nov 2026 22:47:49 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta notes new tools used for identity flow reconnaissance. It highlights the need to secure identity verification processes from sophisticated analytical attacks. Keep in mind, detection and response might require advanced tools your org may not yet have.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>First 60 speakers revealed for Identity Week Europe 2027!</title>
-      <link>https://identityweek.net/first-60-speakers-revealed-for-identity-week-europe-2027/</link>
-      <guid isPermaLink="false">identitybrief-b6e5b5490801fe3b</guid>
-      <pubDate>Fri, 06 Nov 2026 09:49:53 +0000</pubDate>
-      <category>fraud</category>
-      <description>Identity Week Europe 2027 reveals its first 60 speakers for the upcoming conference. It's an opportunity for professionals to keep up with advancements in identity and biometrics. The early announcement leaves the actual event impact waiting until next summer.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services</title>
-      <link>https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html</link>
-      <guid isPermaLink="false">identitybrief-6facdf5f94dfdf61</guid>
-      <pubDate>Fri, 06 Nov 2026 08:04:49 +0000</pubDate>
-      <category>breach</category>
-      <description>Chainalysis suffered a breach exposing user credentials, causing a temporary shutdown of key services. This event underscores the importance of protecting credentials and minimizing downtime during breach response. Chainalysis assures no investigation data was accessed, but full effects are yet to surface.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Envoc completes pivot to custom biometric verification with FaceLock pilot program</title>
-      <link>https://www.biometricupdate.com/202611/envoc-completes-pivot-to-custom-biometric-verification-with-facelock-pilot-program</link>
-      <guid isPermaLink="false">identitybrief-c3669882b8ed7109</guid>
-      <pubDate>Thu, 05 Nov 2026 20:11:07 +0000</pubDate>
-      <category>did</category>
-      <description>Envoc introduces FaceLock, a biometric verification tool using 3D liveness detection. It promises secure, reusable identity verification in-browser and offline. Being a pilot, the system's effectiveness and scalability are still under test.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>The missing fraud signal: what your telecom network knows (and you don’t) webinar</title>
-      <link>https://www.biometricupdate.com/202611/the-missing-fraud-signal-what-your-telecom-network-knows-and-you-dont-webinar</link>
-      <guid isPermaLink="false">identitybrief-00332ff656767f1b</guid>
-      <pubDate>Thu, 05 Nov 2026 22:53:40 +0000</pubDate>
-      <category>fraud</category>
-      <description>Aduna Global's webinar tackles the hidden fraud signals in telecom networks. Accessing these signals could enhance fraud detection by using telecom data for identity verification. Participation is limited to those available on the specific webinar date.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Kosovo launches national digital ID wallet, e-signatures ahead of EUDI alignment</title>
-      <link>https://www.biometricupdate.com/202611/kosovo-launches-national-digital-id-wallet-e-signatures-ahead-of-eudi-alignment</link>
-      <guid isPermaLink="false">identitybrief-7c841ad7e9e2a481</guid>
-      <pubDate>Thu, 05 Nov 2026 19:41:53 +0000</pubDate>
-      <category>did</category>
-      <description>Kosovo introduces a national digital ID wallet and e-signature system. These advances aim to comply with EU identity standards, expanding digital government services. Enrollment starts soon, but initial rollout may limit immediate access.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
-      <guid isPermaLink="false">identitybrief-6941ede241812a09</guid>
-      <pubDate>Thu, 05 Nov 2026 23:09:57 +0000</pubDate>
-      <category>fraud</category>
-      <description>Mark Cuban accuses Facebook of knowingly running AI deepfake scam ads, with fraud revenue hitting $16 billion. The significance is that these scams undermine trust in digital identities and online verification processes. The limitation is the ongoing debate about Facebook's role and responsibility, with official responses pending.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Alpine Linux Security Advisory: OpenSSH-server password authentication bypass</title>
-      <link>https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</link>
-      <guid isPermaLink="false">identitybrief-7f8a0667e55b2bf9</guid>
-      <pubDate>Thu, 05 Nov 2026 14:44:20 +0000</pubDate>
-      <category>auth</category>
-      <description>Alpine Linux reports a critical OpenSSH-server password authentication bypass. This vulnerability threatens secure server access by allowing attackers unauthorized entry. The issue is currently specific to Alpine Linux installations using the affected OpenSSH version.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data</title>
-      <link>https://www.fgc.org.br/comunicado</link>
-      <guid isPermaLink="false">identitybrief-a09b0900b68b3a6f</guid>
-      <pubDate>Thu, 05 Nov 2026 23:32:36 +0000</pubDate>
-      <category>breach</category>
-      <description>A data breach at Brazil's Credit Guarantor Fund exposed sensitive PII and financial data. This breach highlights the ongoing risk of data exposure affecting identity verification processes. The catch here is its regional focus, but the implications for anyone dealing with Brazilian identities are significant.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Closing the assurance gap</title>
-      <link>https://openid.net/closing-the-assurance-gap/</link>
-      <guid isPermaLink="false">identitybrief-0bff9f50d5783ac6</guid>
-      <pubDate>Thu, 05 Nov 2026 10:31:22 +0000</pubDate>
-      <category>fraud</category>
-      <description>The OpenID Foundation discusses closing the assurance gap with new identity proofing standards. It matters because improved standards can enhance the reliability of identity verification. Adoption might be slow as organizations digest the new NIST guide and align their practices.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Biometric Update: Traceable evidence will form the basis of AI agents: Authenticate 2026 speakers</title>
-      <link>https://fidoalliance.org/biometric-update-traceable-evidence-will-form-the-basis-of-ai-agents-authenticate-2026-speakers/</link>
-      <guid isPermaLink="false">identitybrief-b5ad873477acb272</guid>
-      <pubDate>Thu, 05 Nov 2026 16:15:09 +0000</pubDate>
-      <category>fraud</category>
-      <description>Biometric verification becomes more traceable with AI at Authenticate 2026. This could fortify identity assurance through better validation of biometric data. However, the commitment is still largely theoretical, pending broader tech adoptions.
-
-— via FIDO Alliance</description>
     </item>
 </channel></rss>
