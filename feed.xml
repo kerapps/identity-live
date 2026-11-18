@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Your next customers could be at Identity Week Europe 2027. Will you?</title>
+      <link>https://identityweek.net/your-next-customers-could-be-at-identity-week-europe-2027-will-you/</link>
+      <guid isPermaLink="false">identitybrief-834ba0ed6136a672</guid>
+      <pubDate>Wed, 18 Nov 2026 10:28:48 +0000</pubDate>
+      <category>did</category>
+      <description>Identity Week Europe 2027 is set to host over 300 organizations in Amsterdam, showcasing solutions in digital identity, biometrics, and authentication. It’s a clear convergence point for industry leaders and innovators to exchange the latest developments. Unless you're there, you might miss out on key partnerships and ideas.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Fraudsters feed the right face into identity checks through virtual cameras</title>
+      <link>https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/</link>
+      <guid isPermaLink="false">identitybrief-4f002e6fb70a1a1d</guid>
+      <pubDate>Wed, 18 Nov 2026 05:00:34 +0000</pubDate>
+      <category>fraud</category>
+      <description>Fraudsters are using virtual cameras to deceive identity verification systems, as detailed in Entrust's fraud report. This method compromises the integrity of remote identity checks by feeding them with the correct face digitally. Organizations relying heavily on these systems need to reassess their detection methods for such sophisticated tactics.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>UK begins testing DVS for checks at scale, publishes guidance for data sharing</title>
+      <link>https://www.biometricupdate.com/202611/uk-begins-testing-dvs-for-checks-at-scale-publishes-guidance-for-data-sharing</link>
+      <guid isPermaLink="false">identitybrief-b1db5b4f036c479f</guid>
+      <pubDate>Tue, 17 Nov 2026 21:25:27 +0000</pubDate>
+      <category>did</category>
+      <description>The UK starts phasing in testing for its Digital Verification Service (DVS) to streamline and secure identity checks. This DVS framework aims to bolster data sharing safely at scale, potentially setting a new standard for government-private sector collaboration. Current testing is limited to transport certificates, with broader implications to be seen post-trial.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>A leader’s guide to evaluating biometric orchestration technology</title>
+      <link>https://www.biometricupdate.com/202611/a-leaders-guide-to-evaluating-biometric-orchestration-technology</link>
+      <guid isPermaLink="false">identitybrief-387b86b9cc150b5d</guid>
+      <pubDate>Wed, 18 Nov 2026 02:24:19 +0000</pubDate>
+      <category>fraud</category>
+      <description>Evaluating biometric orchestration involves coordinating various technologies for adaptive security, according to a guide for leaders. The focus is on managing complex environments as fraud tactics and business needs evolve. Complexity can offer control, but implementing such systems requires significant understanding and system adjustments.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials</title>
+      <link>https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html</link>
+      <guid isPermaLink="false">identitybrief-1df53018af16af50</guid>
+      <pubDate>Wed, 18 Nov 2026 06:45:26 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft's agent-framework PyPI package was compromised to spread a credential stealer. This attack shows the potential risks in open-source package dependencies and the importance of monitoring new versions closely. The specific versions implicated mean checks are needed for those already deployed, adding operational overhead.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Nigeria sets December 31 deadline for airlines to adopt V-Pass biometric checks</title>
+      <link>https://www.biometricupdate.com/202611/nigeria-sets-december-31-deadline-for-airlines-to-adopt-v-pass-biometric-checks</link>
+      <guid isPermaLink="false">identitybrief-8cc23e1c7e94136d</guid>
+      <pubDate>Tue, 17 Nov 2026 16:10:27 +0000</pubDate>
+      <category>did</category>
+      <description>Nigeria has set a tight deadline for airlines to implement V-Pass, a face biometric platform linked to the National Identification Number for domestic flight verification. This pushes a major adoption of biometrics in a hurry, reflecting increasing global moves towards digital identity reliance. The short timeframe could strain airlines and technology providers scrambling for compliance.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>'TheMailer' Phishing Kit Puts AI in the Driver's Seat</title>
+      <link>https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat</link>
+      <guid isPermaLink="false">identitybrief-0176e2d002c9acbe</guid>
+      <pubDate>Tue, 17 Nov 2026 20:58:13 +0000</pubDate>
+      <category>breach</category>
+      <description>'TheMailer' phishing kit uses AI models to personalize and scale attacks significantly. It’s a leap forward in conducting more convincing phishing campaigns without the manual workload. Such tools' commercial availability suggests a need for enhanced phishing simulations and anti-phishing defenses.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Once a scam ends the victim blaming begins</title>
+      <link>https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/</link>
+      <guid isPermaLink="false">identitybrief-45f66c2197572fe0</guid>
+      <pubDate>Wed, 18 Nov 2026 07:00:33 +0000</pubDate>
+      <category>fraud</category>
+      <description>After scams, victims often face blame, which worsens their experience and discourages them from reporting further incidents, per insights from cyberpsychologist Dr. Nicola Fox Hamilton. Accommodating a non-judgmental approach can enhance security culture, making users feel safer to report. The shift requires cultural as well as procedural change, often difficult to implement organization-wide.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Uber says hackers stole information on close to 150k DLs during data breach</title>
+      <link>https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-e37e8968752a7564</guid>
+      <pubDate>Mon, 16 Nov 2026 22:43:37 +0000</pubDate>
+      <category>breach</category>
+      <description>Uber confirmed a breach affecting information linked to around 150,000 driver’s licenses. It's a reminder of the substantial risk residing in handling large datasets of sensitive information. Uber’s response and the measures taken to prevent future incidents remain unclear, highlighting an area that needs vigilance.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Optimizely confirms massive cyberattack on customer websites injected stealer malware</title>
+      <link>https://www.csoonline.com/article/4249925/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware.html</link>
+      <guid isPermaLink="false">identitybrief-5f3c843b294f7956</guid>
+      <pubDate>Wed, 18 Nov 2026 01:22:59 +0000</pubDate>
+      <category>auth</category>
+      <description>Optimizely suffered a cyberattack exploiting an authentication flaw to spread stealer malware on client websites. This incident underlines the need for robust platform security to prevent mass exploits across high-profile sites. Despite the broad impact, recent patches from Salesforce and names still missing provide a blurry picture of resolution.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Cloud keys leaked in Docker Hub images are stolen within seconds</title>
+      <link>https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/</link>
+      <guid isPermaLink="false">identitybrief-cbc91379ad0e4cde</guid>
+      <pubDate>Tue, 17 Nov 2026 21:27:17 +0000</pubDate>
+      <category>breach</category>
+      <description>Credentials hidden in Docker Hub images are being harvested mere seconds after appearing online. It stresses a need for strict credential management and monitoring practices. Immediate exposure post-publication means response plans for such leaks should be instantaneous yet often aren't fleshed out until it's too late.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>The risks of device code authentication for AI coding agents</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/</link>
+      <guid isPermaLink="false">identitybrief-6604e13f2ab077b6</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft warns about device code phishing risks targeting AI coding agents like GitHub Copilot. As AI becomes more integrated into workflows, understanding such emerging phishing vectors is key to protecting intellectual property. However, the niche focus of device-flow clients may delay wider detection or mitigation strategies.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Flexibility Has a Price: Quantifying Modality Policies in Maliciously Secure Multi-Biometric Authentication</title>
+      <link>http://arxiv.org/abs/2611.22714v1</link>
+      <guid isPermaLink="false">identitybrief-beff2a93d2b49f95</guid>
+      <pubDate>Tue, 17 Nov 2026 12:52:29 +0000</pubDate>
+      <category>research</category>
+      <description>A study addresses the trade-offs in modality policies for biometric systems, highlighting potential security risks. As more authentication points are created, each accepted modality could be a target, balancing usability with risk. Ensuring cryptographic protection for this data remains a complex challenge.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Microsoft Entra news announcements from Microsoft Ignite November 2026</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVGgxRnpKd2Y4LWhTOEQweVVyM0ZsR3pWYU1hcEVEbXI1QlZQRVNQX0NrUW9XdDhfbFNJSnMyNC10cElrLXNFM2VnN1owRnNXUlFwS004U01EaDNyZzM1Q0JrdU9OUlpCNVN4bnVHWUZFdDd4WU5pU3ZJcmJWZFBYN3RWZG1FTzd0YmVod1dSajV3QU9veHhVRXBRX0dVVWU1TVljb09MN3pDa0lkR1hDb0RKQWdWY19rWERabnloSTBocThlNFFVWVRaVU9aYngxdW93?oc=5</link>
+      <guid isPermaLink="false">identitybrief-4e53754101384283</guid>
+      <pubDate>Wed, 18 Nov 2026 08:34:48 +0000</pubDate>
+      <category>iam</category>
+      <description>At Microsoft Ignite 2026, new announcements from Microsoft Entra spotlight advancements in identity solutions. These updates potentially shape future authentication practices and are crucial for strategy alignment. However, details on implementation readiness weren't fully detailed, indicating room for clarification and planning.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Too many instructions can hold back AI security audits</title>
       <link>https://www.helpnetsecurity.com/2026/11/17/peter-stockli-github-ai-security-audits/</link>
       <guid isPermaLink="false">identitybrief-98546f48c6fa5f9f</guid>
@@ -1362,145 +1502,5 @@
       <description>mSecure advised users to reset credentials without detailed reasons. Such vague advisories fuel speculation and diminish trust in security products. The issue here: lack of transparency can backfire, causing users to lose confidence in the tool’s reliability.
 
 — via The Register Security</description>
-    </item>
-    <item>
-      <title>Beyond Proof of Possession: A Relational Theory of Authority</title>
-      <link>http://arxiv.org/abs/2611.07159v1</link>
-      <guid isPermaLink="false">identitybrief-8fee05da6bc7ffe0</guid>
-      <pubDate>Wed, 04 Nov 2026 21:35:27 +0000</pubDate>
-      <category>research</category>
-      <description>A new study explores extending beyond proof-of-possession to relational authority in identity checks. This approach aims to shift focus from holding credentials to understanding contextual validity in identity transactions. It's speculative: translating theory into practical applications requires robust frameworks.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>5 Active Cyber Threats That Put US Enterprises at Risk in October 2026</title>
-      <link>https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html</link>
-      <guid isPermaLink="false">identitybrief-1981b067cd839e71</guid>
-      <pubDate>Thu, 05 Nov 2026 10:06:19 +0000</pubDate>
-      <category>breach</category>
-      <description>October 2026 saw major cyber threats exploiting legitimate platforms and processes. The frequency of these threats highlights evolving methods to breach trusted systems. Real worry: keeping ahead of these tactics requires constant vigilance and adaptive security measures.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>OpenSSH flaw lets attackers access password-disabled accounts on some Linux systems</title>
-      <link>https://www.csoonline.com/article/4245407/openssh-flaw-lets-attackers-access-password-disabled-accounts-on-some-linux-systems.html</link>
-      <guid isPermaLink="false">identitybrief-f013f19f15b8eb50</guid>
-      <pubDate>Fri, 06 Nov 2026 01:10:08 +0000</pubDate>
-      <category>breach</category>
-      <description>An OpenSSH exploit shows attackers bypassing authentication in certain Linux environments. It's a stark reminder of the hidden vulnerabilities in foundational software components. The takeaway: routine audits and updates are imperative to fortify systems against such breaches.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>What Makes a Digital Identity Framework Trustworthy?</title>
-      <link>https://blog.spruceid.com/what-makes-a-digital-identity-framework-trustworthy/</link>
-      <guid isPermaLink="false">identitybrief-f95e2f92ad923751</guid>
-      <pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
-      <category>did</category>
-      <description>States are grappling with building trustworthy digital identity frameworks. As digital identities become essential, ensuring frameworks protect user data and maintain public trust is crucial. Pitfall: perceived inability to secure and simplify implementation could stall adoption.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>Google proposes using digital credentials for secure account recovery</title>
-      <link>https://www.biometricupdate.com/202611/google-proposes-using-digital-credentials-for-secure-account-recovery</link>
-      <guid isPermaLink="false">identitybrief-628f062a70e7254d</guid>
-      <pubDate>Fri, 06 Nov 2026 21:06:30 +0000</pubDate>
-      <category>did</category>
-      <description>Google is proposing to use digital credentials for secure account recovery. This could strengthen recovery processes that are often a security weak point. The catch: it's still a proposal and relies on user adoption of digital identity credentials.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/</link>
-      <guid isPermaLink="false">identitybrief-ff63fc905db03ece</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:55 +0000</pubDate>
-      <category>breach</category>
-      <description>SonicWall has patched a critical SSL-VPN MFA bypass flaw that was already being exploited. It's crucial since MFA is supposed to be a final defense against unauthorized access. The drawback: You'll need to ensure swift deployment of these updates across your network.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Vietnam defends privacy safeguards in draft mandatory digital ID law</title>
-      <link>https://www.biometricupdate.com/202611/vietnam-defends-privacy-safeguards-in-draft-mandatory-digital-id-law</link>
-      <guid isPermaLink="false">identitybrief-9440803c4555b1de</guid>
-      <pubDate>Fri, 06 Nov 2026 18:50:08 +0000</pubDate>
-      <category>did</category>
-      <description>Vietnam is defending privacy measures in a proposed mandatory digital ID law. It's significant for its potential to standardize digital identity verification. But remember, it's geographically limited and not yet implemented.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>America is building an online ID system by lawsuit</title>
-      <link>https://www.biometricupdate.com/202611/america-is-building-an-online-id-system-by-lawsuit</link>
-      <guid isPermaLink="false">identitybrief-d340c9ec84bed515</guid>
-      <pubDate>Fri, 06 Nov 2026 21:44:06 +0000</pubDate>
-      <category>did</category>
-      <description>The U.S. may develop an online ID system through legal mandates rather than legislation. This approach holds implications for future identity verification on a national scale. However, expect debate about privacy and the unintended creation of large identity databases.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Certificate authority DigiCert reports data breach involving business customer info</title>
-      <link>https://therecord.media/digicert-certificate-authority-reports-data-breach</link>
-      <guid isPermaLink="false">identitybrief-c5532d0fb1f05c44</guid>
-      <pubDate>Fri, 06 Nov 2026 18:56:00 +0000</pubDate>
-      <category>breach</category>
-      <description>DigiCert reported a data breach exposing business customer info. This breach shows the risks to trust infrastructure if certificate authorities are compromised. The limitation: it primarily impacts DigiCert customers, but the lessons on securing internal systems are universal.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass</title>
-      <link>https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/</link>
-      <guid isPermaLink="false">identitybrief-5b03e96d880fff0c</guid>
-      <pubDate>Fri, 06 Nov 2026 12:07:42 +0000</pubDate>
-      <category>auth</category>
-      <description>OpenSSH addressed the 'SSHole' authentication bypass affecting certain Linux setups. Critical to fix as it allows unauthorized system access. The gotcha: it affects systems using musl libc without PAM, so patching requires targeted action.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Chainalysis says breach exposed credentials for all customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/</link>
-      <guid isPermaLink="false">identitybrief-455fb4d64db98798</guid>
-      <pubDate>Fri, 06 Nov 2026 14:17:07 +0000</pubDate>
-      <category>breach</category>
-      <description>Chainalysis confirmed a breach that exposed credentials for all customers. It's a wake-up call about the importance of protecting sensitive access credentials. The challenge: immediate response needed for potentially compromised accounts.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Hardcoded credentials and other issues in Tata Motors App</title>
-      <link>https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&amp;VLCODE=CIVN-2026-0537</link>
-      <guid isPermaLink="false">identitybrief-771cd9a617fc124d</guid>
-      <pubDate>Fri, 06 Nov 2026 07:28:39 +0000</pubDate>
-      <category>auth</category>
-      <description>An analysis of the Tata Motors app has revealed hardcoded credentials and other security issues. This matters because hardcoded credentials weaken user authentication, exposing systems to unauthorized access. The downside: it's specific to this app, but similar practices can exist elsewhere, so it's a useful reminder to audit your apps for such weaknesses.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html</link>
-      <guid isPermaLink="false">identitybrief-a40dff3d749a64ac</guid>
-      <pubDate>Fri, 06 Nov 2026 15:21:49 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers targeted the OpenSSH SSHole flaw soon after public disclosure, gaining root access in honeypot deployments. This matters as it shows how quickly attackers exploit known vulnerabilities. Be cautious: if your setup matches the vulnerable criteria, immediate action is needed.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>CEO-spoofing scammers used AI to help steal more than $100 million, feds say</title>
-      <link>https://therecord.media/ceo-spoofing-scammers-charged</link>
-      <guid isPermaLink="false">identitybrief-e34ca10a5a26ddf3</guid>
-      <pubDate>Fri, 06 Nov 2026 14:30:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>Scammers using AI managed to defraud companies of over $100 million by impersonating CEOs. This is a significant case of AI-driven fraud impacting identity verification in corporate settings. The catch is the increasing sophistication of scams that are challenging to preempt without AI defenses.
-
-— via The Record</description>
     </item>
 </channel></rss>
