@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Bitwarden expands passkey support with new Windows and macOS integrations</title>
+      <link>https://www.helpnetsecurity.com/2026/11/19/bitwarden-windows-macos-passkeys-integration/</link>
+      <guid isPermaLink="false">identitybrief-7277ed30b54addd7</guid>
+      <pubDate>Thu, 19 Nov 2026 10:39:33 +0000</pubDate>
+      <category>auth</category>
+      <description>Bitwarden now integrates passkey support with Windows and macOS, enhancing user authentication through native systems like Windows Hello and Apple Touch ID. This makes passwordless login more seamless for Bitwarden users. The catch is that you need the latest OS versions for these features to work smoothly.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Is Utah’s SEDI the future of digital identity in the United States?</title>
+      <link>https://www.biometricupdate.com/202611/is-utahs-sedi-the-future-of-digital-identity-in-the-united-states</link>
+      <guid isPermaLink="false">identitybrief-6b0bd9de4e4fe428</guid>
+      <pubDate>Wed, 18 Nov 2026 22:29:12 +0000</pubDate>
+      <category>did</category>
+      <description>Utah's SEDI program is an ambitious step toward state-endorsed digital identities, aiming to go beyond mobile driver's licenses. It's part of a broader push to integrate secure digital credentials in response to rising AI fraud concerns. The program is still experimental, with real-world applications to be fully tested.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>EUDI Wallets on track for uneven launch and hesitant relying parties</title>
+      <link>https://www.biometricupdate.com/202611/eudi-wallets-on-track-for-uneven-launch-and-hesitant-relying-parties</link>
+      <guid isPermaLink="false">identitybrief-ae0832268eee4938</guid>
+      <pubDate>Wed, 18 Nov 2026 21:54:48 +0000</pubDate>
+      <category>did</category>
+      <description>The rollout of the EUDI Wallets faces inconsistency issues, potentially hindering adoption. Identity practitioners should be alert to varying security standards across regions. For now, the patchy launch may deter those relying on cross-border credential uniformity.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Incode extends fraud protection to AI agents with biometric liveness</title>
+      <link>https://www.biometricupdate.com/202611/incode-extends-fraud-protection-to-ai-agents-with-biometric-liveness</link>
+      <guid isPermaLink="false">identitybrief-360712ff349bb8dd</guid>
+      <pubDate>Wed, 18 Nov 2026 15:17:30 +0000</pubDate>
+      <category>did</category>
+      <description>Incode introduces biometric liveness checks to distinguish genuine AI agent interactions from fraudulent ones. This move aids banks and businesses in reducing digital identity fraud risk. Yet, its effectiveness hinges on correctly implementing liveness checks across diverse platforms.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters</title>
+      <link>https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/</link>
+      <guid isPermaLink="false">identitybrief-673161c1ba465e5c</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:10 +0000</pubDate>
+      <category>fraud</category>
+      <description>Deepfake and social engineering techniques are on the rise, posing a threat to identity verification. These attacks emphasize the need for robust multifactor authentication and digital vigilance. Such methods can be cost-intensive, impacting smaller organizations.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Russia's Cold Relic APT Turns One Cloud Breach Into Another</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another</link>
+      <guid isPermaLink="false">identitybrief-72da639c211c32be</guid>
+      <pubDate>Wed, 18 Nov 2026 21:59:46 +0000</pubDate>
+      <category>fraud</category>
+      <description>APT group Cold Relic utilizes stolen data from one breach to pivot to others. This round-robin of attacks highlights the importance of monitoring and securing communication channels. Companies must remain vigilant as blocking one attack vector can open another.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam</title>
+      <link>https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/</link>
+      <guid isPermaLink="false">identitybrief-634838954f1ab4a3</guid>
+      <pubDate>Wed, 18 Nov 2026 20:49:32 +0000</pubDate>
+      <category>fraud</category>
+      <description>Coinbase stopped a $4.7 million cryptocurrency scam involving a deepfake of Elon Musk. It underscores how deepfakes can trick even savvy users into fiscal traps. However, awareness and prompt action by platforms like Coinbase can mitigate these risks.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Ruby2ßhell: Pre-authentication RCE on stock Rails</title>
+      <link>https://verialabs.com/ruby2shell/</link>
+      <guid isPermaLink="false">identitybrief-f2fb6278ff303811</guid>
+      <pubDate>Thu, 19 Nov 2026 05:09:11 +0000</pubDate>
+      <category>auth</category>
+      <description>A critical bug dubbed Ruby2ßhell has emerged, affecting pre-authentication in default Rails applications. This is a serious concern as it could allow remote code execution without prior authentication. The immediate challenge is that it impacts systems running stock Ruby on Rails, so if you're using this stack, patches are urgently needed.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
+      <link>https://news.ycombinator.com/item?id=50549188</link>
+      <guid isPermaLink="false">identitybrief-bbc9ae9611ef870f</guid>
+      <pubDate>Wed, 18 Nov 2026 17:26:28 +0000</pubDate>
+      <category>iam</category>
+      <description>Maritime (YC F26) launched a managed cloud service for AI agents. It simplifies lifecycle management, a boon for teams deploying AI for identity or fraud prevention tasks. However, it's early days, and full coverage of infrastructure challenges is not yet guaranteed.
+
+— via Hacker News</description>
+    </item>
+    <item>
+      <title>Sticky note on monitor provided keys to the company’s kingdom</title>
+      <link>https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908</link>
+      <guid isPermaLink="false">identitybrief-a2c0df1404e712c0</guid>
+      <pubDate>Thu, 19 Nov 2026 10:15:00 +0000</pubDate>
+      <category>auth</category>
+      <description>A careless act left credentials on a sticky note, granting unwarranted access to crucial systems. Physical security oversights can undo digital safeguards, making credential hygiene critical. It speaks to ongoing user education challenges: people remain the weakest link.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Securing the AI powered developer – Part 1</title>
+      <link>https://openid.net/securing-the-ai-powered-developer-part-1/</link>
+      <guid isPermaLink="false">identitybrief-0b519560c5aa4895</guid>
+      <pubDate>Wed, 18 Nov 2026 13:40:44 +0000</pubDate>
+      <category>auth</category>
+      <description>Nudge Security highlights how AI agents inherit the access levels of the employees who create them, introducing potential security gaps. Without oversight, these agents could misuse access rights inadvertently or maliciously. The buzz should lead to tightened controls around AI deployments.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>AI agents inherit employee access, and nobody’s watching how they use it</title>
+      <link>https://www.helpnetsecurity.com/2026/11/19/ai-agents-employee-credentials-nudge-security-report/</link>
+      <guid isPermaLink="false">identitybrief-0f09b51c842c8e31</guid>
+      <pubDate>Thu, 19 Nov 2026 05:00:37 +0000</pubDate>
+      <category>auth</category>
+      <description>AI agents that employees build inside project trackers, CRMs and automation tools often run on the credentials of the person who created them and carry that person’s access to company data, according to Nudge Security. Source: Nudge Security The AI Adoption in Practice 2026 report draws on anonymized, aggregated telemetry from Nudge Security customer… It landed in the last few hours.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Intent Contracts: Taking Tools Away from Agents</title>
+      <link>http://arxiv.org/abs/2611.24025v1</link>
+      <guid isPermaLink="false">identitybrief-75818937e9a34695</guid>
+      <pubDate>Wed, 18 Nov 2026 08:14:22 +0000</pubDate>
+      <category>research</category>
+      <description>Researchers propose 'Intent Contracts' as a way to control tool access for AI agents. It confines AI agents to predefined actions, enhancing accountability. Adoption of this approach is still theoretical, pending real-world validation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Securing AI Agents in TMT: Identity-First Zero Trust Guide</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3U5bEFZRTVNZTZaT3FrQjJfZ0FwNmJBTUVXMmRySU44TnVpV3BCYjM4bTBRb3hPcFU3aGhqSnRtbkV5YmFTaEE2UnhDQ2ZkNWVia3l0M0pPTUE4ZlJCWV9QbjBBbEVoUlVMemY3RzZXdDRLbWp3NkQxRkhEc0dxQzNMZGxNRm1zdUQ0cldyeWw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-c7a0e3b793cd3e1d</guid>
+      <pubDate>Thu, 19 Nov 2026 06:06:07 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta's guide emphasizes identity-first zero trust for AI agent security in the tech, media, and telecom sectors. It's a detailed framework aiming to secure escalating AI-driven environments. However, implementation requires substantial organizational shifts and alignment.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Your next customers could be at Identity Week Europe 2027. Will you?</title>
       <link>https://identityweek.net/your-next-customers-could-be-at-identity-week-europe-2027-will-you/</link>
       <guid isPermaLink="false">identitybrief-834ba0ed6136a672</guid>
@@ -1362,145 +1502,5 @@
       <description>Managing the attack surface for non-human identities is gaining attention. These are increasingly targeted, illustrating the need for better controls around machine access. But enhanced focus can cause management overhead without clear strategies.
 
 — via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>Threat actors use agentic AI tooling to find and abuse exposed secrets</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/</link>
-      <guid isPermaLink="false">identitybrief-9fcf62b29cf8c924</guid>
-      <pubDate>Thu, 05 Nov 2026 23:46:50 +0000</pubDate>
-      <category>breach</category>
-      <description>APT29 has been exploiting agentic AI tools to scan for and abuse exposed OAuth secrets. This can lead to deep, unauthorized access in applications, reinforcing the need for strict secret storage policies. Spotting and sealing these vulnerabilities requires robust, systematic checks.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>What We Missed: Knicks Phishing Test Goes Out of Bounds</title>
-      <link>https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds</link>
-      <guid isPermaLink="false">identitybrief-363a54f1f5862e50</guid>
-      <pubDate>Thu, 05 Nov 2026 21:00:47 +0000</pubDate>
-      <category>breach</category>
-      <description>A Knicks phishing test went too far, showcasing how well-intentioned tests can damage trust if not handled properly. This underscores the need for thoughtful design in security awareness initiatives. Realistic simulations must balance the line between effective training and ethical standards.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>APT29's Watering Holes Target Thousands of Mobile Users</title>
-      <link>https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users</link>
-      <guid isPermaLink="false">identitybrief-96869c5eec732fe3</guid>
-      <pubDate>Thu, 05 Nov 2026 20:05:39 +0000</pubDate>
-      <category>auth</category>
-      <description>Russian APT29 is using compromised websites to target mobile users by fingerprinting devices and collecting data. This sophistication makes it hard to protect endpoints effectively. Fingerprinting techniques can slip under regular detection radars, making proactive monitoring essential.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>​​​​What’s new in Microsoft Security: November 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/</link>
-      <guid isPermaLink="false">identitybrief-111881779310dad9</guid>
-      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft Security's latest update enhances AI security and privilege management. These changes aim to strengthen defenses, but integrating new tools can be resource-heavy. Organizations must evaluate the balance between innovation and practical application.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Week in review: Refrigeration cyberattacks hit European retailers again, Patch Tuesday forecast</title>
-      <link>https://www.helpnetsecurity.com/2026/11/08/week-in-review-refrigeration-cyberattacks-hit-european-retailers-again-patch-tuesday-forecast/</link>
-      <guid isPermaLink="false">identitybrief-e70436119381e607</guid>
-      <pubDate>Sun, 08 Nov 2026 09:00:21 +0000</pubDate>
-      <category>auth</category>
-      <description>European retailers are being hit again by cyberattacks on refrigeration systems. These attacks remind us that any network-connected system is a potential vector for identity and access breaches. The catch here: attackers often exploit overlooked systems, reinforcing the need for comprehensive security across all network-connected devices.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Biometrics take on new roles as trust and security demands grow</title>
-      <link>https://www.biometricupdate.com/202611/biometrics-take-on-new-roles-as-trust-and-security-demands-grow</link>
-      <guid isPermaLink="false">identitybrief-7502e9656f014c80</guid>
-      <pubDate>Sat, 07 Nov 2026 16:20:53 +0000</pubDate>
-      <category>auth</category>
-      <description>Biometrics are expanding beyond identity verification to include presence and age estimation in transactions. This broadens how identity is confirmed, meeting more security demands. Limitation: expanding use raises more regulatory questions and requires building out secure supporting infrastructure.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins</title>
-      <link>https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/</link>
-      <guid isPermaLink="false">identitybrief-83a1b9cd5ac47bd5</guid>
-      <pubDate>Sat, 07 Nov 2026 10:16:23 +0000</pubDate>
-      <category>breach</category>
-      <description>SonicWall patched a bug in SonicOS that weakened VPN security by bypassing SAML authentication checks. This flaw highlights critical vulnerabilities that can undermine multilayered security efforts like MFA. The catch: VPNs with relaxed security become entry points if users haven’t applied recent updates.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs</title>
-      <link>https://github.com/tharun208/cloneguard</link>
-      <guid isPermaLink="false">identitybrief-7f53e6189b466596</guid>
-      <pubDate>Fri, 06 Nov 2026 19:49:27 +0000</pubDate>
-      <category>auth</category>
-      <description>CloneGuard is a new tool to scan repositories for credential-stealing tactics before code execution. Preventing credential exposure in development environments minimizes data leaks and access misuse. The downside: it’s another tool in the pipeline — enforcing its use requires discipline from all developers.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>WE BUILD plans next year of digital identity, business wallet pilots</title>
-      <link>https://www.biometricupdate.com/202611/we-build-plans-next-year-of-digital-identity-business-wallet-pilots</link>
-      <guid isPermaLink="false">identitybrief-2c7f5ada150aadcf</guid>
-      <pubDate>Fri, 06 Nov 2026 17:05:11 +0000</pubDate>
-      <category>did</category>
-      <description>The WE BUILD Consortium is crafting pilots for a digital identity and business wallet. Digital identity projects like this aim to standardize and secure user and business identity across EU markets in real-world applications. However, widespread success depends on cross-border cooperation and user adoption.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Listen: C. Maxine Most puts 25 years of biometrics predictions to the test</title>
-      <link>https://www.biometricupdate.com/202611/listen-c-maxine-most-puts-25-years-of-biometrics-predictions-to-the-test</link>
-      <guid isPermaLink="false">identitybrief-bdcacf17c948da55</guid>
-      <pubDate>Fri, 06 Nov 2026 21:25:20 +0000</pubDate>
-      <category>auth</category>
-      <description>Biometric industry veteran C. Maxine Most reviews 25 years of market predictions. Her insights reflect on the accuracy of forecasts about biometric and digital identities' evolution. The takeaway: market insights can guide strategy, but ongoing assessment and adaptation remain crucial.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap</title>
-      <link>https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap</link>
-      <guid isPermaLink="false">identitybrief-12311134cad37195</guid>
-      <pubDate>Wed, 04 Nov 2026 01:05:40 +0000</pubDate>
-      <category>fraud</category>
-      <description>Yubico has launched YubiID to address gaps in identity verification and credential recovery. Bridging these gaps enhances the resilience of authentication systems against fraud. The catch: effective integration relies on compatible identity management platforms and user willingness.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>DigiCert Data Breach Impacts Business Customer Information</title>
-      <link>https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/</link>
-      <guid isPermaLink="false">identitybrief-5b3d825daf19b92b</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:07 +0000</pubDate>
-      <category>breach</category>
-      <description>DigiCert's data breach involved unauthorized access to sensitive customer information. Breaches like these underline the importance of securing internal systems and customer data. The flaw: without insight into the breach specifics, users can't assess their exposure or make informed security decisions.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)</title>
-      <link>https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/</link>
-      <guid isPermaLink="false">identitybrief-a7e05b151cd5a8de</guid>
-      <pubDate>Fri, 06 Nov 2026 12:49:41 +0000</pubDate>
-      <category>breach</category>
-      <description>An OpenSSH vulnerability allowed attackers access to passwordless accounts on specific Linux systems. This flaw points to overlooked configurations as gateways for attackers, even under strict access policies. The challenge: it's crucial to patch and configure security protocols appropriately to avoid oversights.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Password manager mSecure tells users to change passwords, won't say why</title>
-      <link>https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296</link>
-      <guid isPermaLink="false">identitybrief-a76e757757c181c9</guid>
-      <pubDate>Tue, 03 Nov 2026 16:10:00 +0000</pubDate>
-      <category>breach</category>
-      <description>mSecure advised users to reset credentials without detailed reasons. Such vague advisories fuel speculation and diminish trust in security products. The issue here: lack of transparency can backfire, causing users to lose confidence in the tool’s reliability.
-
-— via The Register Security</description>
     </item>
 </channel></rss>
