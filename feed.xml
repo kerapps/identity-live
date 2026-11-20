@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
+      <link>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</link>
+      <guid isPermaLink="false">identitybrief-dc6901c8a6d8ff52</guid>
+      <pubDate>Fri, 20 Nov 2026 09:38:15 +0000</pubDate>
+      <category>breach</category>
+      <description>China-linked hackers reportedly exploited a VMware vCenter zero-day flaw to gain admin access. This creates a significant risk as it involves authentication bypass in directories, possibly leading to wider system access. The flaw requires urgent patching, but it only affects users with outdated VMware vCenter installations.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>AI agent API security hasn’t caught up with agents already running in production</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/</link>
+      <guid isPermaLink="false">identitybrief-d3f93292594d13f0</guid>
+      <pubDate>Fri, 20 Nov 2026 05:30:11 +0000</pubDate>
+      <category>auth</category>
+      <description>AI agent API security lags behind as many companies run these agents without securing their keys. This oversight could lead to unauthorized access to sensitive systems and data. The challenge is reinforcing API security measures for existing systems that lack proper credential handling.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Socure, WalletConnect tie verified identities to verified wallets before tokenized assets move</title>
+      <link>https://www.biometricupdate.com/202611/socure-walletconnect-tie-verified-identities-to-verified-wallets-before-tokenized-assets-move</link>
+      <guid isPermaLink="false">identitybrief-ad00229eb9cf31b2</guid>
+      <pubDate>Thu, 19 Nov 2026 18:49:55 +0000</pubDate>
+      <category>fraud</category>
+      <description>Socure and WalletConnect now link verified identities with verified wallets. This integration enhances customer verification in cryptocurrency transactions and reduces fraud. The solution's main limitation is its dependency on the adoption by financial services platforms.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>USCIS extends identity proofing contract as agency prepares transition to IBIS</title>
+      <link>https://www.biometricupdate.com/202611/uscis-extends-identity-proofing-contract-as-agency-prepares-transition-to-ibis</link>
+      <guid isPermaLink="false">identitybrief-9cc59a482a882ff0</guid>
+      <pubDate>Thu, 19 Nov 2026 19:31:49 +0000</pubDate>
+      <category>fraud</category>
+      <description>USCIS extends a contract to continue identity-proofing services during its transition to a new biometrics system. This move aims to maintain secure identity verification as they shift to the new IBIS program. The transition period prolongs reliance on existing solutions.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>youniqx opens testing environment for EU Digital Identity Wallets, relaunches MIA</title>
+      <link>https://www.biometricupdate.com/202611/youniqx-opens-testing-environment-for-eu-digital-identity-wallets-relaunches-mia</link>
+      <guid isPermaLink="false">identitybrief-bab00acb0d5f7476</guid>
+      <pubDate>Thu, 19 Nov 2026 19:30:51 +0000</pubDate>
+      <category>did</category>
+      <description>Youniqx opens a test environment for EU Digital Identity Wallets to help users prepare for new regulations. This sandbox lets developers and governments explore use cases for the coming identity wallet expectations. It's primarily beneficial for EU-region stakeholders at this initial stage.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>UK company directors adopt identity verification</title>
+      <link>https://identityweek.net/uk-company-directors-adopt-identity-verification/</link>
+      <guid isPermaLink="false">identitybrief-e98675471443cae6</guid>
+      <pubDate>Thu, 19 Nov 2026 15:29:34 +0000</pubDate>
+      <category>fraud</category>
+      <description>UK directors now have to comply with identity verification laws to register or manage business entities. This requirement increases transparency and reduces fraud risk in corporate registrations. The adoption rate is high, but smaller entities might struggle with compliance costs.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Claim your pass at our Super Early Bird Rate today! Save €1,800!</title>
+      <link>https://identityweek.net/claim-your-pass-at-our-super-early-bird-rate-today-save-e1800/</link>
+      <guid isPermaLink="false">identitybrief-2dfbf85488219f92</guid>
+      <pubDate>Thu, 19 Nov 2026 12:49:01 +0000</pubDate>
+      <category>fraud</category>
+      <description>An identity conference offers substantial discounts on passes for early registration. It’s an opportunity to learn about new identity technologies and network with peers. Availability may be limited based on registration timing and attendee response.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>N-able Blames Service Disruption on Cyberattack</title>
+      <link>https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/</link>
+      <guid isPermaLink="false">identitybrief-8787532169b4ac84</guid>
+      <pubDate>Fri, 20 Nov 2026 09:08:35 +0000</pubDate>
+      <category>auth</category>
+      <description>N-able faced a cyberattack causing service disruption, potentially leading to credential theft. Such incidents highlight the ongoing risk of credential exposure in service outages. Service providers must bolster defenses against attacks exploiting downtime vulnerabilities.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>A single pull request could have handed attackers the keys to Microsoft’s software supply chain</title>
+      <link>https://www.csoonline.com/article/4251117/a-single-pull-request-could-have-handed-attackers-the-keys-to-microsofts-software-supply-chain.html</link>
+      <guid isPermaLink="false">identitybrief-13c40184c0a8bec6</guid>
+      <pubDate>Fri, 20 Nov 2026 03:10:04 +0000</pubDate>
+      <category>breach</category>
+      <description>A pull request could have given attackers access to Microsoft's supply chain via unverified scripts. This incident stresses the importance of secure CI/CD credentials, showing how critical pipelines can become targets. Even with a patch, organizations need to scrutinize automated processes closely.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else</title>
+      <link>https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193</link>
+      <guid isPermaLink="false">identitybrief-63d11e8910318086</guid>
+      <pubDate>Fri, 20 Nov 2026 00:57:45 +0000</pubDate>
+      <category>auth</category>
+      <description>Critical vulnerabilities in VMware and KVM allow potential authentication bypasses. These exploits could lead to unauthorized system access, emphasizing the importance of timely updates. The challenge for teams is juggling priorities with other critical patching, such as Java updates.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Android developer verification will reach every install source, with a side door for power users</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/</link>
+      <guid isPermaLink="false">identitybrief-e65087e448f0b88d</guid>
+      <pubDate>Thu, 19 Nov 2026 23:03:24 +0000</pubDate>
+      <category>iam</category>
+      <description>Starting in 2027, Google will require developer identity verification in all Android app stores. This move will standardize security across platforms, reducing the risk of app-related fraud. Transition may be complex for developers who haven't integrated with current verification systems.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info</title>
+      <link>https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175</link>
+      <guid isPermaLink="false">identitybrief-65991c328fe242d3</guid>
+      <pubDate>Thu, 19 Nov 2026 21:12:33 +0000</pubDate>
+      <category>breach</category>
+      <description>Chase, Visa, and Mastercard confirmed third-party cyberattacks potentially breaching customer data. These incidents underscore the importance of securing third-party partnerships in financial services. Companies must constantly evaluate third-party security to prevent data exposure.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Signed but Unbound: The Authority Gap Between Agent Commerce Mandates and Crypto Wallet Signatures</title>
+      <link>http://arxiv.org/abs/2611.25821v1</link>
+      <guid isPermaLink="false">identitybrief-9922c2f25b4eed19</guid>
+      <pubDate>Thu, 19 Nov 2026 09:39:53 +0000</pubDate>
+      <category>research</category>
+      <description>A paper discusses gaps in authority when AI agents use crypto for transactions, highlighting security concerns. Addressing these gaps through more robust authorization controls is key for secure agent-based commerce. The concepts are theoretical and require industry adoption for practical application.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>AI Agent Security in Retail: 5 Identity Governance Rules</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEYwT0FkLVRhcDl3NElOdk9YRldYLW1GYzdrSWU2MVdJUURTWFliQzlOemZTNjVGTGtXTUFUMmQyVy1FYUZQQjFyaGNnRzBzVU9QbUdUZktkUldnMnc5QkZTeUZrS1VmMHNvRWZWVzdFZ0VtSmNyckpXY0JUMHFsdnhhWm9jSmRrR19sVlA3QjAzM0U0M0tQT2dVMA?oc=5</link>
+      <guid isPermaLink="false">identitybrief-f4ed7b5a734521f9</guid>
+      <pubDate>Thu, 19 Nov 2026 23:43:33 +0000</pubDate>
+      <category>iam</category>
+      <description>Okta highlights five identity governance rules crucial for retailers using AI agents. These rules focus on ensuring secure access and reducing risk exposure. Adoption of these practices might need adjustment of existing IT policies and resources.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Bitwarden expands passkey support with new Windows and macOS integrations</title>
       <link>https://www.helpnetsecurity.com/2026/11/19/bitwarden-windows-macos-passkeys-integration/</link>
       <guid isPermaLink="false">identitybrief-7277ed30b54addd7</guid>
@@ -1362,145 +1502,5 @@
       <description>CISA warns of ongoing exploitation of vulnerabilities in OpenSSH, GPUStack, FreeSWITCH, and IBM platforms. Active exploits include a recent authorization flaw in OpenSSH. The immediate challenge is verifying and applying the necessary updates to prevent unauthorized access.
 
 — via The Hacker News</description>
-    </item>
-    <item>
-      <title>Over 575 malicious OpenClaw skills delivered malware to Windows and macOS</title>
-      <link>https://www.helpnetsecurity.com/2026/11/10/acronis-ai-agent-cyberattacks-report/</link>
-      <guid isPermaLink="false">identitybrief-e2069e4ceee4a414</guid>
-      <pubDate>Tue, 10 Nov 2026 05:30:59 +0000</pubDate>
-      <category>breach</category>
-      <description>Over 575 malicious OpenClaw skills have reportedly delivered malware using AI, attacking both Windows and macOS systems. These attacks leverage stolen credentials, complicating traditional defense strategies. The ongoing sophistication of AI-powered attacks requires new detection and response mechanisms.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>One Customer, Two Hats, One Agent: E-Commerce's New Identity Challenge</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkFkT2pucGJvdjh6QjJIWnFDLWIxNnhwYzJmYlNBTFlGMW5vNldTS1NRa1lBWUlJX2YxLS1nVXJ2RFF6RlpieVZJdDViMzZMeUN1SmFKSURqbXQwaXdUWU9tV25QZWhteEQwRzJJQmR2WFpJc2V5a1VCU21TTmNIaA?oc=5</link>
-      <guid isPermaLink="false">identitybrief-bcaeb3186d07bb02</guid>
-      <pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>The dual role challenge within e-commerce is becoming prevalent, as one customer could have multiple interacting identities. Understanding this helps in personalizing services yet complicates identity management systems. Balancing both efficiency and security is an ongoing challenge.
-
-— via KuppingerCole</description>
-    </item>
-    <item>
-      <title>Microsoft’s email security is unexpectedly blocking legitimate business mail</title>
-      <link>https://www.csoonline.com/article/4246592/microsofts-email-security-is-unexpectedly-blocking-legitimate-business-mail-2.html</link>
-      <guid isPermaLink="false">identitybrief-fa1611a10a3a84ee</guid>
-      <pubDate>Tue, 10 Nov 2026 01:57:23 +0000</pubDate>
-      <category>auth</category>
-      <description>Microsoft's email security is unexpectedly blocking legitimate business emails lacking DMARC records. This leads to disruptions in communications, affecting critical business operations. The lack of clear communication from Microsoft further complicates troubleshooting efforts.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>NIST Agent Identity Tenets: Why Guardrails Fail &amp; How CISOs Enforce IAM</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVBleENrbGF2SWZYNDB6Y1JadW5wYzRyRUt5RkQ1NXRoaGkwam5jQV8yNzBLR3JIa0kyUko4RkpSM3YwTWFBekFKcGhZR1ZBZDNrNW9HZkI0b2lYSGZKbGs1QWI0YXFsV0plX1ZuRHYzMFJseG1qMFdTUTVyWXlIZA?oc=5</link>
-      <guid isPermaLink="false">identitybrief-743ea5d6742517b2</guid>
-      <pubDate>Mon, 09 Nov 2026 21:36:48 +0000</pubDate>
-      <category>iam</category>
-      <description>NIST's new guidance explains why identity management guardrails often fail. The focus is on improving CISO capabilities in enforcing IAM standards. A key drawback is the ongoing need for proactive policy updates in dynamic security environments.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Over 3 Million People Hit by Frontline Education Data Breach</title>
-      <link>https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/</link>
-      <guid isPermaLink="false">identitybrief-305c456335dfa042</guid>
-      <pubDate>Mon, 09 Nov 2026 10:09:02 +0000</pubDate>
-      <category>breach</category>
-      <description>A data breach at Frontline Education affected over 3 million school district staff and students. This means increased identity threats for those involved, impacting personal and maybe even professional credentials. A reminder: breaches often reveal more than just surface-level data.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation</title>
-      <link>https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html</link>
-      <guid isPermaLink="false">identitybrief-3d5dfb277e1d458f</guid>
-      <pubDate>Mon, 09 Nov 2026 06:05:24 +0000</pubDate>
-      <category>breach</category>
-      <description>CISA flagged a SonicWall SonicOS vulnerability that bypasses MFA. This weakens the defense thought to protect against unauthorized access, making it crucial to patch immediately. But updates might be slow and tricky to implement across large, distributed environments.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Treasury seeks identity security contractor as Login.gov mandate takes hold</title>
-      <link>https://www.biometricupdate.com/202611/treasury-seeks-identity-security-contractor-as-login-gov-mandate-takes-hold</link>
-      <guid isPermaLink="false">identitybrief-e79080f590d4ef8c</guid>
-      <pubDate>Sun, 08 Nov 2026 23:30:01 +0000</pubDate>
-      <category>auth</category>
-      <description>The U.S. Treasury is looking for a contractor to help manage its shared authentication systems under expanded Login.gov use. Centralizing ID management could standardize security across services, easing integration headaches. However, coordination with multiple agencies remains a complex hurdle.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Ukraine’s biometrics market grows unevenly as digital identity adoption expands</title>
-      <link>https://www.biometricupdate.com/202611/ukraines-biometrics-market-grows-unevenly-as-digital-identity-adoption-expands</link>
-      <guid isPermaLink="false">identitybrief-b61448368033cfc1</guid>
-      <pubDate>Sun, 08 Nov 2026 19:30:38 +0000</pubDate>
-      <category>did</category>
-      <description>Despite uneven growth, Ukraine is expanding its biometric market in digital identities. This could enhance secure access to services, although varying adoption rates might slow down overall integration. Market dynamics differ across sectors, making uniform progress challenging.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>An average of 8 minutes is all hackers need to log in with stolen credentials</title>
-      <link>https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/</link>
-      <guid isPermaLink="false">identitybrief-909ef5d9d0a7e7bf</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:39 +0000</pubDate>
-      <category>breach</category>
-      <description>A report found that hackers can use stolen credentials to log in within eight minutes. This speed means real-time detection and response are critical to prevent harm. But existing monitoring tools might lag in recognizing such rapid breaches.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Deepfake CEOs, stolen lawyer identities fuel alleged $129M fraud</title>
-      <link>https://www.biometricupdate.com/202611/deepfake-ceos-stolen-lawyer-identities-fuel-alleged-129m-fraud</link>
-      <guid isPermaLink="false">identitybrief-6d141baf7a9761b2</guid>
-      <pubDate>Sun, 08 Nov 2026 23:54:03 +0000</pubDate>
-      <category>fraud</category>
-      <description>Fraudsters used deepfake technology to impersonate executives and steal lawyer identities in a $129M fraud scheme. This shows that voice and image verification alone might not be enough to thwart clever impersonations. Strengthening multi-step verification processes is key but can be resource-intensive.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>A Cross-Domain TARA-to-NAC Rule Mapping Methodology: From Automotive OEM Networks to Energy Storage Systems</title>
-      <link>http://arxiv.org/abs/2611.09771v1</link>
-      <guid isPermaLink="false">identitybrief-6f65d5c501d66e7c</guid>
-      <pubDate>Fri, 06 Nov 2026 17:33:46 +0000</pubDate>
-      <category>research</category>
-      <description>A new methodology links cybersecurity goals to enforceable access control rules, crossing from automotive to energy sectors. It's a structured approach to aligning goals with real-world enforcement. Implementation across diverse industries remains a challenge.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Empirical Study of Post-Quantum Cryptography Adoption Status in SSH Infrastructure</title>
-      <link>http://arxiv.org/abs/2611.09703v1</link>
-      <guid isPermaLink="false">identitybrief-6eeeb4100c387e2a</guid>
-      <pubDate>Fri, 06 Nov 2026 16:47:05 +0000</pubDate>
-      <category>research</category>
-      <description>An empirical study looked at the adoption of post-quantum cryptography (PQC) in SSH infrastructure. As quantum threats loom, transitioning strengthens data protection long-term. Yet, adoption is inconsistent, hinting at more work needed to drive universal change.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development as a Bioinformatics Educator</title>
-      <link>http://arxiv.org/abs/2611.09623v1</link>
-      <guid isPermaLink="false">identitybrief-eb5bfd4d110355db</guid>
-      <pubDate>Fri, 06 Nov 2026 15:44:29 +0000</pubDate>
-      <category>research</category>
-      <description>Solo game development using generative AI explored identity formation in a new domain. This shift reflects on how technology reshapes professional identity, but understanding practical implications is still in its early stages. Bridging tech with identity is complex and ever-evolving.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Securing the Non-Human Identity Attack Surface</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTZHTHdSSUswVm5tdGowUWs1VG42WlF4OXFjRUNVM2dtVEtFMng0bXB2YjRwX2JTNHdIQzg3dWlQYWlSSHdkMlRWajQ5SW1oblp3b252ekg4STc3Wm55WHl3RDl0Qk9pSnh1SW1zazlHcEx2ZmZZMy1kVkVLeHJfYkhrM0JrQlJkVVdiVFU1aVlFNXpod0ZlTTMtMmE5SzVJLTlnTnY2T3hTdjFsMnZzZmFNUDh5OVR0bm5tR2VJUHc0Smc?oc=5</link>
-      <guid isPermaLink="false">identitybrief-69db93a8f1c71924</guid>
-      <pubDate>Sun, 08 Nov 2026 20:19:04 +0000</pubDate>
-      <category>iam</category>
-      <description>Managing the attack surface for non-human identities is gaining attention. These are increasingly targeted, illustrating the need for better controls around machine access. But enhanced focus can cause management overhead without clear strategies.
-
-— via Microsoft Entra</description>
     </item>
 </channel></rss>
