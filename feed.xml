@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Emptech delivers new biometric ID card and digital wallet for Tanzania</title>
+      <link>https://www.biometricupdate.com/202611/emptech-delivers-new-biometric-id-card-and-digital-wallet-for-tanzania</link>
+      <guid isPermaLink="false">identitybrief-ae2129d906bf77f7</guid>
+      <pubDate>Fri, 20 Nov 2026 17:05:55 +0000</pubDate>
+      <category>did</category>
+      <description>Emptech has introduced a biometric ID card and digital wallet for Tanzania. This provides enhanced security and mobile access capabilities for citizens, marking a significant step in national identity management. The catch: the rollout is limited to Tanzania, and other regions must await similar infrastructure.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Mitek, FusionAuth and Identos strengthen leadership and advisory teams</title>
+      <link>https://www.biometricupdate.com/202611/mitek-fusionauth-and-identos-strengthen-leadership-and-advisory-teams</link>
+      <guid isPermaLink="false">identitybrief-efb3935477e598ca</guid>
+      <pubDate>Fri, 20 Nov 2026 19:45:29 +0000</pubDate>
+      <category>did</category>
+      <description>Mitek, FusionAuth, and Identos are boosting their teams with new leadership. This reflects a push to refine identity authorization standards and expand market presence. But these are internal changes; widespread impacts will depend on how strategies are executed.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Poland approves draft EUDI Wallet law, building on mObywatel</title>
+      <link>https://www.biometricupdate.com/202611/poland-approves-draft-eudi-wallet-law-building-on-mobywatel</link>
+      <guid isPermaLink="false">identitybrief-0f2982a9a589c830</guid>
+      <pubDate>Fri, 20 Nov 2026 16:49:10 +0000</pubDate>
+      <category>did</category>
+      <description>Poland has okayed a draft law for the European Digital Identity Wallet. This aligns the country's regulations with eIDAS 2.0 and promises easier cross-border business for Poles. However, adoption remains voluntary, which may slow immediate impact.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>International Fraud Awareness Week: Visa launches Threat Intelligence Platform</title>
+      <link>https://identityweek.net/international-fraud-awareness-week-visa-launches-threat-intelligence-platform/</link>
+      <guid isPermaLink="false">identitybrief-cbc5a1bb25e78e54</guid>
+      <pubDate>Fri, 20 Nov 2026 13:01:51 +0000</pubDate>
+      <category>fraud</category>
+      <description>Visa launches a Threat Intelligence Platform during Fraud Awareness Week, focusing on dark web activity. This aims to help financial institutions prevent account takeovers and credential compromise. Be aware, though, adoption might be restricted to certain institutions or regions initially.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control</title>
+      <link>https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html</link>
+      <guid isPermaLink="false">identitybrief-9dbbebdeb6a3a85d</guid>
+      <pubDate>Fri, 20 Nov 2026 16:58:16 +0000</pubDate>
+      <category>auth</category>
+      <description>Bazuka, a new Android malware, uses fake overlays to covertly steal credentials. This emphasizes the need for constant vigilance on app permissions and security updates. Its scope is currently Android-specific, but it signals broader risks if adapted.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>SBC Medical Group Data Breach Impacts Over 2 Million</title>
+      <link>https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/</link>
+      <guid isPermaLink="false">identitybrief-e2f4d2b5bc6a5608</guid>
+      <pubDate>Fri, 20 Nov 2026 11:36:51 +0000</pubDate>
+      <category>breach</category>
+      <description>SBC Medical Group faced a massive data breach in Japan. It underscores vulnerabilities in protecting customer data globally. Remember, the impacts span regulatory and trust factors, compelling proactive data protection.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>F5 scrambles to fix more critical BIG-IP security flaws</title>
+      <link>https://www.csoonline.com/article/4251711/f5-scrambles-to-fix-more-critical-big-ip-security-flaws-2.html</link>
+      <guid isPermaLink="false">identitybrief-5dbc82d0b197982d</guid>
+      <pubDate>Sat, 21 Nov 2026 00:16:44 +0000</pubDate>
+      <category>iam</category>
+      <description>F5 is patching critical flaws in its BIG-IP access management system, risking remote code execution. This underscores the importance of timely application of security patches to maintain access integrity. The catch: all patches need application across affected systems, and delays pose security risks.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478</link>
+      <guid isPermaLink="false">identitybrief-c88bd93433168b94</guid>
+      <pubDate>Fri, 20 Nov 2026 21:27:56 +0000</pubDate>
+      <category>breach</category>
+      <description>Recent data theft involving Visa and Mastercard includes information useful for phishing. It shows the threat of non-financial data being used for further cyber attacks. The miss here is there's no direct financial loss, making it a challenge to motivate immediate corrective actions.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Still tracking company passwords in spreadsheets? You’re flying blind.</title>
+      <link>https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/</link>
+      <guid isPermaLink="false">identitybrief-6985eaf9aae7ac79</guid>
+      <pubDate>Fri, 20 Nov 2026 15:00:10 +0000</pubDate>
+      <category>breach</category>
+      <description>Hosting company passwords in spreadsheets leaves you exposed. Password management tools offer better visibility and security, bridging gaps spreadsheets can't. Note the caveat: transitioning to new systems can disrupt workflows without careful planning.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Critical flaw in VMware vCenter allows authentication bypass</title>
+      <link>https://www.csoonline.com/article/4251012/critical-flaw-in-vmware-vcenter-allows-authentication-bypass-2.html</link>
+      <guid isPermaLink="false">identitybrief-67037153132c5755</guid>
+      <pubDate>Thu, 19 Nov 2026 21:07:25 +0000</pubDate>
+      <category>breach</category>
+      <description>VMware vCenter has a critical flaw allowing authentication bypass. Immediate patching is necessary to prevent unauthorized access. The downside: systems on older versions might lack a straightforward upgrade path.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Clayton Roth on agentic payments and keeping a human in the loop</title>
+      <link>https://liminal.co/articles/agentic-payments-clayton-roth-friday-five/</link>
+      <guid isPermaLink="false">identitybrief-6e3473a7748c09e7</guid>
+      <pubDate>Fri, 20 Nov 2026 11:30:26 +0000</pubDate>
+      <category>iam</category>
+      <description>Agentic payments mean AI can transact on your behalf within set limits. Organizations should prepare for related regulatory challenges. They're in their infancy, and policy guidelines are lagging behind technological advancements.
+
+— via Liminal</description>
+    </item>
+    <item>
+      <title>Windows 11 passkey bug cries failure after successful sign-in</title>
+      <link>https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263</link>
+      <guid isPermaLink="false">identitybrief-b6f28c6c829ce1b8</guid>
+      <pubDate>Fri, 20 Nov 2026 11:09:44 +0000</pubDate>
+      <category>auth</category>
+      <description>A Windows 11 passkey bug is incorrectly reporting authentication failures. While an update is available, this highlights the need for user awareness and response protocols for authentication errors. The fix is available only for certain versions, so users must ensure their systems are up to date.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>TRACE-5G: Trust-Aware Runtime Attestation and Continuous Enforcement for 5G User Equipment</title>
+      <link>http://arxiv.org/abs/2611.25272v1</link>
+      <guid isPermaLink="false">identitybrief-1f83eb9835070251</guid>
+      <pubDate>Wed, 18 Nov 2026 23:04:36 +0000</pubDate>
+      <category>research</category>
+      <description>TRACE-5G proposes continuous runtime attestation for user equipment in 5G networks. This offers potential improvements in verifying device integrity beyond initial authentication. Keep in mind, it's a research proposal needing industry support for real-world application.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Malaysia's AI governance bill is coming: How to prepare your identity security program now</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVR6akhUTDYyRnB0YmI3bmxaWlpEZjEzRmVKbE81bXA4aGNPa08yRHZ4elV0TDZUeDZKMHUzeENyUkhrLUxhR2wzTjg3TzdfdEJDNVhfcVk4Uy1idG4xa2s3Ujd2MEtjNml1VlB5Unk3cXF2Nm4zdnVYNVdZQk9DcVBR?oc=5</link>
+      <guid isPermaLink="false">identitybrief-1d5cf97d75dbb59f</guid>
+      <pubDate>Fri, 20 Nov 2026 21:21:14 +0000</pubDate>
+      <category>iam</category>
+      <description>Malaysia is preparing for an AI governance bill affecting identity security. It's time to start adjusting identity programs to the upcoming regulations. However, details are still emerging, creating a landscape of uncertainty for compliance strategies.
+
+— via SailPoint</description>
+    </item>
+    <item>
       <title>China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
       <link>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</link>
       <guid isPermaLink="false">identitybrief-dc6901c8a6d8ff52</guid>
@@ -1362,145 +1502,5 @@
       <description>Obsidian's new Runtime Policy Decision Engine manages AI agent actions using centralized policies. It adds a layer of oversight to AI interactions across apps. It requires integration with existing identity and access systems for full effect.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Recently Patched Barracuda Vulnerabilities Exploited in Attacks</title>
-      <link>https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/</link>
-      <guid isPermaLink="false">identitybrief-e82cffe36592f6e4</guid>
-      <pubDate>Wed, 11 Nov 2026 07:53:51 +0000</pubDate>
-      <category>breach</category>
-      <description>Recent flaws in Barracuda hardware offered backdoor access for attackers. Fixes are out, but it shows how quickly vulnerabilities can be exploited if not addressed promptly. Fast updates and monitoring are essential, but older devices might lack support.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Location Matters: Sparse Latent-Variance Attacks for Face Privacy against Diffusion Personalization</title>
-      <link>http://arxiv.org/abs/2611.14254v1</link>
-      <guid isPermaLink="false">identitybrief-63a609feba044cdd</guid>
-      <pubDate>Tue, 10 Nov 2026 16:03:32 +0000</pubDate>
-      <category>research</category>
-      <description>New research introduces Sparse Latent-Variance Attacks to protect face privacy against diffusion models. It suggests potential mitigation techniques for personalized facial data protection. Current methods still need balancing between effectiveness and image quality.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>November 2026 Patch Tuesday: 63 Critical Microsoft fixes, plus an Outlook zero day that allows theft of hashed credentials</title>
-      <link>https://www.csoonline.com/article/4247015/november-2026-patch-tuesday-63-critical-microsoft-fixes-plus-an-outlook-zero-day-that-allows-theft-of-hashed-credentials.html</link>
-      <guid isPermaLink="false">identitybrief-afc1fea82e3439d1</guid>
-      <pubDate>Wed, 11 Nov 2026 03:10:23 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft's Patch Tuesday fixes 63 critical flaws, including one affecting Outlook credentials. Immediate patching is crucial as active exploitation is underway. Admins need to be vigilant, but some older systems may struggle with updates.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Securing human and agentic identity: Enterprise frameworks for 2027 and beyond</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEdVT3AtVVhqUmR0V3JRTmZGNUFLcjFrZEJIaWxCbFVIMm9lekIwVW9uRW9OLXNnSnJ2WV80eFRIZDh5SE5pbDNsLXRSZF9BQzFZVDh1R0lDVXQ1dnBLeGxCTlR2aUFTeUdvel93TlB4T2tUclJGNnJCM28zcUlFUTZoSGFNeHJtVGUwQjlFalUyY0FzVzJWSQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-14cacc1b566abe43</guid>
-      <pubDate>Tue, 10 Nov 2026 19:52:05 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta outlines future identity security frameworks tailored for evolving enterprise needs. It indicates a trend towards integrating human and machine identities. While promising, it may require substantive effort to retrofit into current systems.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>What a security leader should tell the CEO about leaked credentials</title>
-      <link>https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/</link>
-      <guid isPermaLink="false">identitybrief-23afc3bbfba04d1e</guid>
-      <pubDate>Tue, 10 Nov 2026 07:40:43 +0000</pubDate>
-      <category>breach</category>
-      <description>A reminder for security leaders about managing leaked credentials and the discussion with CEOs. This highlights the importance of transparency and preparedness in reporting security status. Yet, the real challenge is overcoming the fear of blame when discussing these vulnerabilities openly.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Samoa launches national digital ID policy, sets roadmap for biometric identity system</title>
-      <link>https://www.biometricupdate.com/202611/samoa-launches-national-digital-id-policy-sets-roadmap-for-biometric-identity-system</link>
-      <guid isPermaLink="false">identitybrief-b04eca72b0291732</guid>
-      <pubDate>Mon, 09 Nov 2026 20:46:17 +0000</pubDate>
-      <category>did</category>
-      <description>Samoa has introduced a National Digital ID Policy to enhance its digital identity infrastructure. This aims to streamline access to essential services like healthcare and education. However, integration into existing local systems and user adoption across the population remain hurdles.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Smart-ID gains EU recognition for high-assurance remote biometric onboarding</title>
-      <link>https://www.biometricupdate.com/202611/smart-id-gains-eu-recognition-for-high-assurance-remote-biometric-onboarding</link>
-      <guid isPermaLink="false">identitybrief-430d01f09b5dc6b1</guid>
-      <pubDate>Mon, 09 Nov 2026 18:59:31 +0000</pubDate>
-      <category>did</category>
-      <description>Smart-ID has achieved EU recognition for high-assurance remote biometric onboarding. This positions it as a leading solution for remote identity verification across EU member states. The catch: practical deployment depends on comprehensive EU-wide integration and support.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Canada plans national travel biometrics strategy, expanded biometric screening</title>
-      <link>https://www.biometricupdate.com/202611/canada-plans-national-travel-biometrics-strategy-expanded-biometric-screening</link>
-      <guid isPermaLink="false">identitybrief-737d17d6bbb9e4e3</guid>
-      <pubDate>Mon, 09 Nov 2026 18:22:34 +0000</pubDate>
-      <category>did</category>
-      <description>Canada's new budget supports expanded biometric screening for travelers. This move aims to simplify travel processes using digital credentials. However, public concerns around privacy and data protection must be addressed for acceptance.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>ChatGPT Desktop forwards your SSH agent to remote machines</title>
-      <link>https://news.ycombinator.com/item?id=50422628</link>
-      <guid isPermaLink="false">identitybrief-b821a0ce1b891a63</guid>
-      <pubDate>Mon, 09 Nov 2026 08:17:49 +0000</pubDate>
-      <category>auth</category>
-      <description>ChatGPT Desktop can now forward your SSH agent to remote machines. This allows the remote machine to authenticate using your local SSH credentials, potentially accessing resources like private GitHub repositories. The risk here is that any compromise of the remote system now poses a direct threat to your protected resources.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication</title>
-      <link>http://arxiv.org/abs/2611.12636v1</link>
-      <guid isPermaLink="false">identitybrief-54cba73a8af080a9</guid>
-      <pubDate>Mon, 09 Nov 2026 16:13:20 +0000</pubDate>
-      <category>research</category>
-      <description>BioBind proposes a biometric deduplication method tied to zero-knowledge authentication. This aims to prevent user identity duplication while maintaining privacy in decentralized systems. The catch: its implementation requires complex off-chain processing that may not yet be practical at a large scale.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>When everything is a threat, nothing feels safe</title>
-      <link>https://www.csoonline.com/article/4246440/when-everything-is-a-threat-nothing-feels-safe.html</link>
-      <guid isPermaLink="false">identitybrief-6d6e87ed86f6053b</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>A post reminds us that feeling perpetually unsafe online leads to fatigue and inaction. It's important to identify the most effective security measures to prioritize. However, the challenge is how these differ based on the individual's digital habits and risks.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days</title>
-      <link>https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/</link>
-      <guid isPermaLink="false">identitybrief-d32c24b1525ef1ba</guid>
-      <pubDate>Tue, 10 Nov 2026 09:56:28 +0000</pubDate>
-      <category>breach</category>
-      <description>N-able's N-central product was taken offline following a disclosure of over 30 zero-day vulnerabilities. These flaws could allow attackers to run remote code or steal credentials. The urgent limitation is the sheer number of vulnerabilities, each presenting a unique risk that needs addressing.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>SonicWall releases patches for 7 flaws in its firewalls, most involving unauthenticated access</title>
-      <link>https://www.csoonline.com/article/4246479/sonicwall-releases-patches-for-7-flaws-in-its-firewalls-most-involving-unauthenticated-access.html</link>
-      <guid isPermaLink="false">identitybrief-cebe9b16bad2f4f8</guid>
-      <pubDate>Tue, 10 Nov 2026 02:36:14 +0000</pubDate>
-      <category>breach</category>
-      <description>SonicWall patched critical vulnerabilities in its firewalls allowing unauthenticated access. These flaws, particularly a SAML authentication bypass, pose significant risks. Organizations relying on outdated firmware or configurations might still be exposed.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws</title>
-      <link>https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html</link>
-      <guid isPermaLink="false">identitybrief-b579a343e6b64bab</guid>
-      <pubDate>Tue, 10 Nov 2026 06:31:42 +0000</pubDate>
-      <category>breach</category>
-      <description>CISA warns of ongoing exploitation of vulnerabilities in OpenSSH, GPUStack, FreeSWITCH, and IBM platforms. Active exploits include a recent authorization flaw in OpenSSH. The immediate challenge is verifying and applying the necessary updates to prevent unauthorized access.
-
-— via The Hacker News</description>
     </item>
 </channel></rss>
