@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Building resilience into digital identity takes on new urgency</title>
+      <link>https://www.biometricupdate.com/202611/building-resilience-into-digital-identity-takes-on-new-urgency</link>
+      <guid isPermaLink="false">identitybrief-bf45ddb70048009e</guid>
+      <pubDate>Sat, 21 Nov 2026 16:28:13 +0000</pubDate>
+      <category>did</category>
+      <description>There's a growing effort to boost resilience in biometric and digital identity systems. The key point here is that as these systems become more valuable, the pressure from cyber threats increases, making this resilience crucial. The catch is that these efforts require alignment across various platforms and jurisdictions, which isn't easy.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Sri Lanka’s digital ID ambitions face a bigger test: Making government data work</title>
+      <link>https://www.biometricupdate.com/202611/sri-lankas-digital-id-ambitions-face-a-bigger-test-making-government-data-work</link>
+      <guid isPermaLink="false">identitybrief-26bb55b435f73339</guid>
+      <pubDate>Sat, 21 Nov 2026 15:41:42 +0000</pubDate>
+      <category>did</category>
+      <description>Sri Lanka is pushing forward with its Unique Digital Identity initiative, but the real test will be making government data interoperable and reliable. This matters because without reliable data sharing, digital IDs won't reach their potential in improving public services. The challenge is in adapting existing government infrastructures to work together, which has proven difficult elsewhere.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Microsoft Entra Connect Health flaw exploited to steal tenant data</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/</link>
+      <guid isPermaLink="false">identitybrief-7e3153a77bb316a9</guid>
+      <pubDate>Sat, 21 Nov 2026 18:01:58 +0000</pubDate>
+      <category>breach</category>
+      <description>A flaw in Microsoft's Entra Connect Health was exploited, leading to a data breach. This highlights the dangers of vulnerabilities in widely used identity management services. The limitation here is that the breach details are sketchy, with Microsoft not providing full insights into the exploit's scope.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Rackspace Spot breach let hackers access customer Kubernetes secrets</title>
+      <link>https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/</link>
+      <guid isPermaLink="false">identitybrief-069e9d2518d3611f</guid>
+      <pubDate>Sat, 21 Nov 2026 22:59:58 +0000</pubDate>
+      <category>breach</category>
+      <description>Rackspace's Spot platform was breached, giving hackers access to Kubernetes secrets. This shows the risks cloud platforms face from credential-based attacks. The issue is implementation-specific, and users must rely on cloud providers' security measures.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats</title>
+      <link>https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html</link>
+      <guid isPermaLink="false">identitybrief-0ad755f2681c3730</guid>
+      <pubDate>Sat, 21 Nov 2026 11:53:07 +0000</pubDate>
+      <category>auth</category>
+      <description>Researchers used a malicious webpage to compromise Meta Muse, accessing users’ private chats. This is important as it demonstrates potential vulnerabilities in conversational AI systems. However, the attack was simulated in a controlled environment, not affecting real users.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Helix makes the case for voice age estimation backed by independent testing</title>
+      <link>https://www.biometricupdate.com/202611/helix-makes-the-case-for-voice-age-estimation-backed-by-independent-testing</link>
+      <guid isPermaLink="false">identitybrief-79229d9f33beb9c8</guid>
+      <pubDate>Fri, 20 Nov 2026 18:38:19 +0000</pubDate>
+      <category>did</category>
+      <description>Helix unveiled voice-based biometric age estimation backed by independent tests. This tech could aid in identity and age verification without much delay. The technology is new and currently limited to initial tests, leaving many details yet to be proven in the field.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>VMware patches vCenter zero-day exploited in attacks since September</title>
+      <link>https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/</link>
+      <guid isPermaLink="false">identitybrief-b747ce58ac6e7d96</guid>
+      <pubDate>Fri, 20 Nov 2026 00:26:25 +0000</pubDate>
+      <category>breach</category>
+      <description>VMware patched a vCenter zero-day vulnerability already exploited in attacks. This vulnerability enables attackers to bypass authentication, posing a significant threat to enterprise security. The fix is out, but timely updates are critical for users still vulnerable.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>The professionalisation of fraud: Key points</title>
+      <link>https://identityweek.net/the-professionalisation-of-fraud-key-points/</link>
+      <guid isPermaLink="false">identitybrief-ac76b4c56f69aaf9</guid>
+      <pubDate>Thu, 19 Nov 2026 12:32:25 +0000</pubDate>
+      <category>fraud</category>
+      <description>Fraud is declining globally but is getting more sophisticated. This complexity means authentication and fraud teams must constantly adapt to AI-assisted fraud techniques. The downside is that sophisticated fraud is harder to detect, requiring more advanced monitoring systems.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>European Commission Confirms AI-Assisted Cyberattack Disrupted Services</title>
+      <link>https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/</link>
+      <guid isPermaLink="false">identitybrief-147510ad1dda0a8a</guid>
+      <pubDate>Fri, 20 Nov 2026 10:51:42 +0000</pubDate>
+      <category>breach</category>
+      <description>An AI-assisted cyberattack disrupted European Commission services. This incident shows how AI can be weaponized to target major institutions. As no data breach was confirmed, it highlights the importance of having effective response measures even without apparent data compromise.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>ChainIT Transaction Truth: Stablecoins, Web3 Wallets, and Multi-Rail Commerce. A Zero-Trust Control Plane for Verified Identity, Organizational Authority, Runtime Compliance, Secure Wallet Execution, and Immutable Settlement Evidence</title>
+      <link>http://arxiv.org/abs/2611.24659v1</link>
+      <guid isPermaLink="false">identitybrief-ce585fea5654ccd1</guid>
+      <pubDate>Wed, 18 Nov 2026 15:58:37 +0000</pubDate>
+      <category>research</category>
+      <description>The ChainIT paper delves into creating a zero-trust environment for verified Web3 transactions. Establishing comprehensive transaction verifications ensures trust but requires integration at multiple network levels. Only theoretical now, real-world applications are still pending.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Attackers hijack Microsoft’s agent-framework package to steal Azure and CI credentials</title>
+      <link>https://www.csoonline.com/article/4250156/attackers-hijack-microsofts-agent-framework-package-to-steal-azure-and-ci-credentials.html</link>
+      <guid isPermaLink="false">identitybrief-18ed4addecaa40d3</guid>
+      <pubDate>Wed, 18 Nov 2026 11:58:53 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft's PyPI package was hijacked, facilitating credential theft. The risk here lies in potentially compromised CI/CD systems via a trusted development environment. Although mitigated quickly, this highlights ongoing supply chain risks in software development.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>Hackers exploit Microsoft 365 outage to launch credential phishing campaign</title>
+      <link>https://www.csoonline.com/article/4249611/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign-2.html</link>
+      <guid isPermaLink="false">identitybrief-d49e9c8e52b7b9bf</guid>
+      <pubDate>Tue, 17 Nov 2026 11:10:22 +0000</pubDate>
+      <category>breach</category>
+      <description>A Microsoft 365 outage was used as a pretext in a phishing scam. Attackers are exploiting service disruptions to make phishing attempts seem credible. Organizations must be vigilant for such tactics, which are particularly effective during ongoing disruptions.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>On the Reliability of CyberGym Evaluation: Task Material Consistency and Reference-Target Identity</title>
+      <link>http://arxiv.org/abs/2611.25790v1</link>
+      <guid isPermaLink="false">identitybrief-086916e51da5f7a8</guid>
+      <pubDate>Thu, 19 Nov 2026 09:20:55 +0000</pubDate>
+      <category>research</category>
+      <description>A study focusing on task material consistency in CyberGym evaluations notes inconsistencies. Ensuring consistent evaluation practices highlights potential identity-related issues in cybersecurity training. It's a niche problem that might affect accuracy in vulnerability simulation.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Rotating credentials in Azure API Management</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUY4UkFzZVQzR2dKTnV0dTBMakwwX21LSGVZdFNrWnhPZndvWDdKOWM3djhoemRqdFdicGJncy1TVjZoQU05Nkk3VjFfLVlGRHJyX1RYWDlwNEtHQkVrR0VzNWtzcmNhSU8xZFJmZlk2dGpyaUhNd1E1eTJZelJhUi1HS1NMeFA4WTFkMjhEMW9XM3RKTHNVLWR1VmNmaGRESWN5SmF2eEMwODctNEVmYk9obU8teGR6?oc=5</link>
+      <guid isPermaLink="false">identitybrief-2082fb6015312bd7</guid>
+      <pubDate>Sat, 21 Nov 2026 22:15:59 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft discusses rotating credentials within Azure API Management. Credential rotation plays a key role in maintaining secure API practices. The process requires regular implementation to remain effective, a step some may overlook.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Emptech delivers new biometric ID card and digital wallet for Tanzania</title>
       <link>https://www.biometricupdate.com/202611/emptech-delivers-new-biometric-id-card-and-digital-wallet-for-tanzania</link>
       <guid isPermaLink="false">identitybrief-ae2129d906bf77f7</guid>
@@ -1360,146 +1500,6 @@
       <pubDate>Thu, 12 Nov 2026 08:23:33 +0000</pubDate>
       <category>auth</category>
       <description>.NET 11 enhances security around software supply chain and authentication. This update is crucial for maintaining integrity and trust in software delivery pipelines. Yet, organizations must transition from previous versions, which can be resource-intensive.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill</title>
-      <link>https://www.csoonline.com/article/4247578/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill.html</link>
-      <guid isPermaLink="false">identitybrief-2e911975c5a69125</guid>
-      <pubDate>Thu, 12 Nov 2026 02:53:41 +0000</pubDate>
-      <category>fraud</category>
-      <description>Hackers exploited AI tokens costing Railway $740,000 in compute resources. This incident underlines the value and vulnerability of AI-related credentials in the black market. The immediate lesson: AI credentials need the same protection as financial ones.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>OpenID Foundation at GDC26: sessions, speakers and highlights</title>
-      <link>https://openid.net/openid-foundation-at-gdc26-sessions-speakers-and-highlights/</link>
-      <guid isPermaLink="false">identitybrief-37466e2d6ac34a93</guid>
-      <pubDate>Wed, 11 Nov 2026 09:48:09 +0000</pubDate>
-      <category>auth</category>
-      <description>The OpenID Foundation shared key insights at a global digital event. Such forums provide industry benchmarks that could guide future digital identity strategies. However, these strategic concepts can take time to influence mainstream practice.
-
-— via OpenID Foundation</description>
-    </item>
-    <item>
-      <title>Checking DER Commands Against Grid Context Catches Credentialed Attacks Static Checks Miss</title>
-      <link>http://arxiv.org/abs/2611.12703v1</link>
-      <guid isPermaLink="false">identitybrief-68e23a73d9e56a4e</guid>
-      <pubDate>Mon, 09 Nov 2026 16:58:25 +0000</pubDate>
-      <category>research</category>
-      <description>Research proposes checking DER commands against grid context to catch attacks. This approach uses real-time data to assess the legitimacy of commands. The technique needs integration into existing systems, which might resist change or adaptation.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>How Should an AI Agent Prove It Has Permission to Act?</title>
-      <link>https://blog.spruceid.com/how-should-an-ai-agent-prove-it-has-permission-to-act/</link>
-      <guid isPermaLink="false">identitybrief-c4fb4276964555e2</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Determining how AI should prove its permission to act raises identity challenges. The debate is crucial for defining future AI governance frameworks. The complexity lies in establishing standardized methods that work across diverse platforms.
-
-— via Spruce ID</description>
-    </item>
-    <item>
-      <title>UK consumers expect banks to answer for failed identity checks, Digidentity finds</title>
-      <link>https://www.biometricupdate.com/202611/uk-consumers-expect-banks-to-answer-for-failed-identity-checks-digidentity-finds</link>
-      <guid isPermaLink="false">identitybrief-45ab10c8320994e0</guid>
-      <pubDate>Wed, 11 Nov 2026 06:07:24 +0000</pubDate>
-      <category>did</category>
-      <description>UK consumers want banks accountable for identity-check failures, says Digidentity. This concern highlights the urgency to strengthen banks' ability to authenticate real users over fraudsters. The catch: reliance on outdated methods like text codes still persists, despite advanced threats like deepfakes.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Fingerprint trains specialized models to detect distinct fraud types</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/</link>
-      <guid isPermaLink="false">identitybrief-10d60a2c5b6fe27f</guid>
-      <pubDate>Wed, 11 Nov 2026 09:12:57 +0000</pubDate>
-      <category>fraud</category>
-      <description>Fingerprint's new Fraud Score uses custom models to identify fraud types. This could make detecting specific fraud attempts more precise without heavy in-house development. The system is only as good as the data and patterns from each client.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Hackers exploit trusted AWS access to breach multiple cloud environments</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/</link>
-      <guid isPermaLink="false">identitybrief-27d0d882d07ec6f1</guid>
-      <pubDate>Tue, 10 Nov 2026 19:31:11 +0000</pubDate>
-      <category>breach</category>
-      <description>Hackers misused IAM credentials within Qubole’s AWS account, affecting multiple customers. It's a reminder that cloud security depends heavily on sound identity management. Clients must ensure IAM credentials aren't a weak link in their defenses.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Digital Veteran Card reaches 23K in first year as rare, modest UK ID success</title>
-      <link>https://www.biometricupdate.com/202611/digital-veteran-card-reaches-23k-in-first-year-as-rare-modest-uk-id-success</link>
-      <guid isPermaLink="false">identitybrief-0dc66d14fe03d781</guid>
-      <pubDate>Tue, 10 Nov 2026 18:40:26 +0000</pubDate>
-      <category>did</category>
-      <description>The UK's Digital Veteran Card has 23,000 downloads in its first year, showing progress in digital ID adoption but with other projects lagging. It offers an official photo ID via digital platforms. Broader uptake depends on integrating more services.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Signicat appoints new leaders to scale for EU Digital Identity Wallets, AMLR</title>
-      <link>https://www.biometricupdate.com/202611/signicat-appoints-new-leaders-to-scale-for-eu-digital-identity-wallets-amlr</link>
-      <guid isPermaLink="false">identitybrief-de7e41d9dbfb9980</guid>
-      <pubDate>Tue, 10 Nov 2026 16:59:07 +0000</pubDate>
-      <category>did</category>
-      <description>Signicat's leadership changes intend to bolster moves toward EU Digital Identity Wallets and compliance challenges. The company has grown massively, reflecting the increasing importance of identity in digital transactions. Their success hinges on navigating regulatory landscapes efficiently.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Railway breach leads to $740,000 in fraudulent AI charges</title>
-      <link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
-      <guid isPermaLink="false">identitybrief-b53f64dc22cc68c6</guid>
-      <pubDate>Tue, 10 Nov 2026 22:20:19 +0000</pubDate>
-      <category>fraud</category>
-      <description>A Railway breach led to significant fraudulent AI spending, stressing the impact of leaked credentials. Highlighting infrastructure vulnerabilities, it shows the cost of security slips. A comprehensive credential management strategy needs advocacy and adherence.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration</title>
-      <link>https://www.csoonline.com/article/4247164/one-identity-unveils-active-roles-8-6-with-enhanced-security-and-administration.html</link>
-      <guid isPermaLink="false">identitybrief-13e13162b7166398</guid>
-      <pubDate>Wed, 11 Nov 2026 04:39:23 +0000</pubDate>
-      <category>auth</category>
-      <description>Active Roles 8.6 from One Identity enhances Active Directory security. It adds features that simplify administration and improve authentication flexibility. It's a fine step forward, but still tied to One Identity's specific ecosystem.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/</link>
-      <guid isPermaLink="false">identitybrief-749d62e11797a833</guid>
-      <pubDate>Wed, 11 Nov 2026 09:31:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Red Hat OpenShift 5 now features autonomous troubleshooting and zero trust security for hybrid clouds. This aims to simplify operational complexities and data cross-compatibility. However, users need to be ready for a platform-wide update.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Why does old access outlive the job?</title>
-      <link>https://www.csoonline.com/article/4246971/why-does-old-access-outlive-the-job.html</link>
-      <guid isPermaLink="false">identitybrief-ba5d5fb025558582</guid>
-      <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
-      <category>iam</category>
-      <description>Old user access often lingers post-job, causing security risks. Regular access reviews and appropriate policy adjustments can close these gaps. Consistent action remains the challenge given typical organizational inertia.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Obsidian expands AI agent security with runtime policy enforcement</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/obsidian-security-runtime-policy-decision-engine/</link>
-      <guid isPermaLink="false">identitybrief-9bf55dbb0521fe15</guid>
-      <pubDate>Wed, 11 Nov 2026 08:44:50 +0000</pubDate>
-      <category>iam</category>
-      <description>Obsidian's new Runtime Policy Decision Engine manages AI agent actions using centralized policies. It adds a layer of oversight to AI interactions across apps. It requires integration with existing identity and access systems for full effect.
 
 — via Help Net Security</description>
     </item>
