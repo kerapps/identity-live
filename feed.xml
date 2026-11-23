@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Attackers exploited Microsoft Entra Connect Health flaw to access tenant data</title>
+      <link>https://www.helpnetsecurity.com/2026/11/23/microsoft-entra-connect-health-vulnerability-tenant-data/</link>
+      <guid isPermaLink="false">identitybrief-84d4d79e78a997e5</guid>
+      <pubDate>Mon, 23 Nov 2026 10:34:01 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers exploited a flaw in Microsoft Entra Connect Health to access tenant data. This exposure means attackers could read contact emails and configuration details, undermining trust in Entra's identity monitoring. The vulnerability is tied to Entra Connect Health users, highlighting the need for rigorous third-party service scrutiny.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Sri Lanka seeks Ukraine, Estonia, and Google expertise for digital ID plans</title>
+      <link>https://www.biometricupdate.com/202611/sri-lanka-seeks-ukraine-estonia-and-google-expertise-for-digital-id-plans</link>
+      <guid isPermaLink="false">identitybrief-d96c1f09a0a2753c</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:19 +0000</pubDate>
+      <category>did</category>
+      <description>Sri Lanka is seeking expertise from Ukraine, Estonia, and Google to develop a robust digital ID system. These collaborations aim to enhance digital governance and infrastructure in Sri Lanka. However, integrating insights from diverse systems presents challenges in creating a cohesive, secure digital ID framework.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Cleverbridge warns hackers stole credit card numbers, CVVs in data breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-c5cf84a8db2ed1d1</guid>
+      <pubDate>Sun, 22 Nov 2026 15:43:04 +0000</pubDate>
+      <category>breach</category>
+      <description>Cleverbridge has suffered a data breach resulting in the theft of credit card numbers and CVV codes. This compromise risks financial fraud for customers, escalating the need for robust payment security measures. Only Cleverbridge customers are directly affected, but it stresses the importance of securing ecommerce platforms.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Rio de Janeiro introduces biometric birth registration for mothers and newborns</title>
+      <link>https://www.biometricupdate.com/202611/rio-de-janeiro-introduces-biometric-birth-registration-for-mothers-and-newborns</link>
+      <guid isPermaLink="false">identitybrief-f27f5efb78560b89</guid>
+      <pubDate>Fri, 20 Nov 2026 20:04:47 +0000</pubDate>
+      <category>auth</category>
+      <description>Rio de Janeiro introduces biometric birth registration at maternity hospitals. This initiative aims to combat baby-swapping and illegal adoptions by linking biometric data to birth records. While promising, it relies on the effective handling of sensitive biometric data and consistent implementation across hospitals.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Proactive Defense Benchmark against Deepfake Generation</title>
+      <link>http://arxiv.org/abs/2611.27253v1</link>
+      <guid isPermaLink="false">identitybrief-14f386a18c06fd0e</guid>
+      <pubDate>Fri, 20 Nov 2026 07:59:30 +0000</pubDate>
+      <category>research</category>
+      <description>A new benchmark outlines criteria for evaluating deepfake defenses. It highlights the need for consistency in judging anti-deepfake measures across various performance metrics. But the challenge remains in translating these benchmarks into practical, deployable systems.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>How Security Vendors Are Tackling Access-Control Challenges for AI Agents</title>
+      <link>https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges</link>
+      <guid isPermaLink="false">identitybrief-bd4269c196f78b54</guid>
+      <pubDate>Sat, 21 Nov 2026 01:31:23 +0000</pubDate>
+      <category>iam</category>
+      <description>Vendors tackle access-control issues for AI agents, but solutions vary widely. This lack of standardization complicates decision-making for CISOs managing AI-driven environments. Enterprises need to carefully choose which vendor approach best aligns with their specific access control needs.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Isonomy: Isolating Every Request from Timing Side Channels at Nearly Full-Sharing Throughput in Multi-Instance LLM Prefill</title>
+      <link>http://arxiv.org/abs/2611.27596v1</link>
+      <guid isPermaLink="false">identitybrief-3d17c2e686c1a00f</guid>
+      <pubDate>Fri, 20 Nov 2026 13:26:04 +0000</pubDate>
+      <category>research</category>
+      <description>Isonomy isolates requests to prevent timing side-channel vulnerabilities in LLM prefill. It offers a way to securely share cache data within accounts without exposing sensitive information through timing differences. However, it adds complexity to management and requires adopting new caching strategies.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Suspected Until Inspected: Neuro-Symbolic Detection of Broken Access Control in Server-Side Web Applications</title>
+      <link>http://arxiv.org/abs/2611.27270v1</link>
+      <guid isPermaLink="false">identitybrief-17b034bab4276781</guid>
+      <pubDate>Fri, 20 Nov 2026 08:10:01 +0000</pubDate>
+      <category>research</category>
+      <description>A study proposes FLINT, a neuro-symbolic framework, for detecting broken access control in web apps. FLINT aims to provide more accurate detection across different languages and frameworks. Implementation complexity and integration into existing development pipelines present ongoing challenges.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>identifAI secures €2.5M EU grant for deepfake detection technology</title>
+      <link>https://www.biometricupdate.com/202611/identifai-secures-e2-5m-eu-grant-for-deepfake-detection-technology</link>
+      <guid isPermaLink="false">identitybrief-c42e295a3fe68b69</guid>
+      <pubDate>Fri, 20 Nov 2026 18:22:13 +0000</pubDate>
+      <category>fraud</category>
+      <description>IdentifAI secures an EU grant to advance deepfake detection technology. This funding will bolster efforts to identify and counteract synthetic media threats. The development depends on further investment and practical application of their forensic detection technologies.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Vendor data breach exposes Chase, Visa, Mastercard customer info</title>
+      <link>https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/</link>
+      <guid isPermaLink="false">identitybrief-8aa9f2e23f66897b</guid>
+      <pubDate>Fri, 20 Nov 2026 15:58:06 +0000</pubDate>
+      <category>breach</category>
+      <description>A third-party breach has exposed Chase, Visa, and Mastercard customer data. This breach underscores vulnerabilities in supply chain security affecting multiple financial institutions. Until full scope and reach are assessed, the focus is chiefly on third-party payment processors.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication</title>
+      <link>https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</link>
+      <guid isPermaLink="false">identitybrief-7008c485fa38b4e8</guid>
+      <pubDate>Thu, 19 Nov 2026 15:11:06 +0000</pubDate>
+      <category>auth</category>
+      <description>A zero-day in VMware vCenter allows network attackers to bypass authentication. Immediate patching is crucial to prevent unauthorized access to virtual machines. However, reliance on timely updates complicates protection for organizations with complex infrastructure.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>Why Holiday Security Can't Wait for Black Friday</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday</link>
+      <guid isPermaLink="false">identitybrief-a839b0228bae1f73</guid>
+      <pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Everything Is a Web Application, Including Your Firewall</title>
+      <link>https://thehackernews.com/2026/11/everything-is-web-application-including.html</link>
+      <guid isPermaLink="false">identitybrief-193208e89084b673</guid>
+      <pubDate>Thu, 19 Nov 2026 11:52:23 +0000</pubDate>
+      <category>breach</category>
+      <description>PHP2Shell exploits are targeting firewall web applications, notably affecting Palo Alto Networks devices. The ease of remote code execution on exposed devices creates significant access risks. Only affects systems running vulnerable configurations, but showcases the dangers of exposed management interfaces.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>What Is Selective Disclosure and Why Does It Matter?</title>
+      <link>https://blog.spruceid.com/what-is-selective-disclosure-and-why-does-it-matter/</link>
+      <guid isPermaLink="false">identitybrief-a2b66834477f9098</guid>
+      <pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
+      <category>did</category>
+      <description>Selective disclosure lets users share only necessary credential attributes. It's vital for minimizing data exposure in digital identity solutions. Widespread adoption hinges on infrastructure supporting limited information sharing securely.
+
+— via Spruce ID</description>
+    </item>
+    <item>
       <title>Building resilience into digital identity takes on new urgency</title>
       <link>https://www.biometricupdate.com/202611/building-resilience-into-digital-identity-takes-on-new-urgency</link>
       <guid isPermaLink="false">identitybrief-bf45ddb70048009e</guid>
@@ -1362,145 +1502,5 @@
       <description>The FBI recovered $1.2 billion in stolen cryptocurrency, linking crimes to North Korea. Highlighting the global scope of social engineering threats in the crypto space. Limitation: while money recovery is a positive, it remains a reactive measure against ongoing threats.
 
 — via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Extortion Group Luna Moth Flits Into Law Firms a Second Time</title>
-      <link>https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time</link>
-      <guid isPermaLink="false">identitybrief-94d38e54e537884c</guid>
-      <pubDate>Thu, 12 Nov 2026 20:09:41 +0000</pubDate>
-      <category>breach</category>
-      <description>Luna Moth, an extortion group, returns to target law firms with sophisticated social engineering. This underscores that social engineering persists in threatening secure environments. Main issue: these tactics are harder to detect and often rely on exploiting human trust.
-
-— via Dark Reading</description>
-    </item>
-    <item>
-      <title>United to block customers from using AI agents, citing cyber threats</title>
-      <link>https://therecord.media/united-airlines-to-block-customers-using-ai-agents</link>
-      <guid isPermaLink="false">identitybrief-bb48d6f8868d0053</guid>
-      <pubDate>Thu, 12 Nov 2026 19:20:00 +0000</pubDate>
-      <category>auth</category>
-      <description>United Airlines will block AI agents from accessing accounts due to security concerns. This prevents potential exposure of sensitive customer data via third-party agents. The downside: could limit convenience for users relying on personal AI assistants for account management.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>Game-Theoretic Analysis of RIS-Assisted Challenge-Response PLA - Part I: Perfect Channel Knowledge</title>
-      <link>http://arxiv.org/abs/2611.16557v1</link>
-      <guid isPermaLink="false">identitybrief-fee080514f44d893</guid>
-      <pubDate>Thu, 12 Nov 2026 09:46:09 +0000</pubDate>
-      <category>research</category>
-      <description>A study proposes a cryptographic game-theory approach to authentication through a reconfigurable surface. This could offer new ways to defend against man-in-the-middle impersonation attacks. Caveat: the concept is highly theoretical and not yet practically implemented.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Okta Identity Governance: Manage Entitlements &amp; Eliminate Drift</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2VQMEJxVEJLT2lvU3lPUVZaeEpJM1pnVVBWWXZPZnpPYjZiaS1xbU5QRzdZaFpoRTQ3dGxMQ2NneHNfNnBLckhsUTA4bmNWTWNGZ0ZsbFRucHRwdmo3SzRtbGNrMl9Xa3QtUnFjQXI5Qk0zSEJpUHVfS1YyUHA4ZVFfb3F4U3NwNkxGQUxvS0xlbDhUMmlobQ?oc=5</link>
-      <guid isPermaLink="false">identitybrief-f73c441ee17505d7</guid>
-      <pubDate>Thu, 12 Nov 2026 19:48:14 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta promotes its identity governance solutions emphasizing entitlement management. This can help organizations maintain consistent user access and reduce identity drift. The catch: effectiveness relies on integration depth and user compliance.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Bots pose as AI agents, AI agents pose as humans, and defenses believe both</title>
-      <link>https://www.helpnetsecurity.com/2026/11/12/bots-ai-agent-impersonation/</link>
-      <guid isPermaLink="false">identitybrief-a392ba13870c3377</guid>
-      <pubDate>Thu, 12 Nov 2026 05:00:59 +0000</pubDate>
-      <category>breach</category>
-      <description>Bots are pretending to be AI agents to conduct credential stuffing attacks. It shows the need for improved detection systems to differentiate between genuine and fake users. The problem lies in the volume; such attacks can overwhelm defenses not designed for this scale.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>US Democrats prepare to scrutinize federal biometric surveillance</title>
-      <link>https://www.biometricupdate.com/202611/us-democrats-prepare-to-scrutinize-federal-biometric-surveillance</link>
-      <guid isPermaLink="false">identitybrief-6a912a64412570a6</guid>
-      <pubDate>Wed, 11 Nov 2026 22:19:44 +0000</pubDate>
-      <category>did</category>
-      <description>U.S. Democrats plan to scrutinize federal biometric surveillance systems. Such actions could lead to stricter data privacy laws affecting identity and authentication strategies. Any legislative change might take time, while current systems continue operation.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Pentagon seeks new identity system as modernization gaps persist</title>
-      <link>https://www.biometricupdate.com/202611/pentagon-seeks-new-identity-system-as-modernization-gaps-persist</link>
-      <guid isPermaLink="false">identitybrief-fc5c874cf82ac557</guid>
-      <pubDate>Wed, 11 Nov 2026 13:16:25 +0000</pubDate>
-      <category>did</category>
-      <description>The Pentagon seeks to rebuild its identity system to close modernization gaps. The focus on better synchronization and access control signals a broader push for enterprise-wide security upgrades. Nonetheless, implementation will be a lengthy and resource-demanding process.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>AI agent identity takes shape across fraud detection and access controls</title>
-      <link>https://www.biometricupdate.com/202611/ai-agent-identity-takes-shape-across-fraud-detection-and-access-controls</link>
-      <guid isPermaLink="false">identitybrief-ddd8d3bbc5c4e1b9</guid>
-      <pubDate>Wed, 11 Nov 2026 12:46:22 +0000</pubDate>
-      <category>fraud</category>
-      <description>New identity solutions for AI agents are emerging, improving fraud detection. As AI roles grow, establishing trustworthy interactions becomes a priority. However, integrating these new solutions into existing systems may pose compatibility challenges.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Massive CSCTelecom breach exposes 125 million SMS records across the Baltics</title>
-      <link>https://identityweek.net/massive-csctelecom-breach-exposes-125-million-sms-records-across-the-baltics/</link>
-      <guid isPermaLink="false">identitybrief-97ac3e979e793168</guid>
-      <pubDate>Wed, 11 Nov 2026 17:21:10 +0000</pubDate>
-      <category>breach</category>
-      <description>125 million SMS records exposed by CSCTelecom include personal and 2FA data. This breach underscores the risks SMS-based authentication poses to user privacy. The problem is regional, affecting institutions in the Baltics, but the implications are global.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Baker Tilly notifies clients of data breach at third-party provider</title>
-      <link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</link>
-      <guid isPermaLink="false">identitybrief-b47bcd06a09c1417</guid>
-      <pubDate>Wed, 11 Nov 2026 23:01:31 +0000</pubDate>
-      <category>breach</category>
-      <description>Baker Tilly reports a data breach involving a third-party provider. It highlights how supply chain compromises can cascade into client data exposure. All security measures in your perimeter can't prevent breaches through your partners.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Open research, stronger privacy: Making Firefox users harder to fingerprint</title>
-      <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
-      <guid isPermaLink="false">identitybrief-d4e550b6892c16f5</guid>
-      <pubDate>Wed, 11 Nov 2026 12:44:06 +0000</pubDate>
-      <category>auth</category>
-      <description>Mozilla's research aims to make Firefox users harder to track using fingerprinting. This matters because it offers users more privacy by minimizing identifiable digital traces. However, the challenge remains that this protection is limited to Firefox users alone.
-
-— via Hacker News</description>
-    </item>
-    <item>
-      <title>Check your GitHub repos: A secret stealer hit tens of thousands of them</title>
-      <link>https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/</link>
-      <guid isPermaLink="false">identitybrief-82176eff4e4cd8d5</guid>
-      <pubDate>Thu, 12 Nov 2026 09:24:32 +0000</pubDate>
-      <category>breach</category>
-      <description>A secret-stealing payload via GitHub Actions has affected thousands of repositories. This highlights the risk of stolen credentials leading to unauthorized access and data breaches. The catch is that only GitHub repositories leveraging Actions are affected directly.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>The developer laptop just became production. Now what?</title>
-      <link>https://www.csoonline.com/article/4247458/the-developer-laptop-just-became-production-now-what.html</link>
-      <guid isPermaLink="false">identitybrief-d1c43a3274f52384</guid>
-      <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-      <category>auth</category>
-      <description>Developers' laptops are now closer to production environments, holding valuable keys and credentials. This shift requires stricter authentication and access control due to direct potential exposures. The challenge is that the safety net provided by separate environments is shrinking.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>.NET 11 security changes target the software supply chain</title>
-      <link>https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/</link>
-      <guid isPermaLink="false">identitybrief-ec31691c4e8607b6</guid>
-      <pubDate>Thu, 12 Nov 2026 08:23:33 +0000</pubDate>
-      <category>auth</category>
-      <description>.NET 11 enhances security around software supply chain and authentication. This update is crucial for maintaining integrity and trust in software delivery pipelines. Yet, organizations must transition from previous versions, which can be resource-intensive.
-
-— via Help Net Security</description>
     </item>
 </channel></rss>
