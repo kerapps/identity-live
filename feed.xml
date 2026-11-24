@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>ShinyHunters-linked crew resurfaces on new leak site</title>
+      <link>https://www.helpnetsecurity.com/2026/11/24/shinyhunters-inception-leak-site-okta/</link>
+      <guid isPermaLink="false">identitybrief-32d784244c7b2f8c</guid>
+      <pubDate>Tue, 24 Nov 2026 12:47:07 +0000</pubDate>
+      <category>auth</category>
+      <description>ShinyHunters' group reemerges under 'Inception' on a new leak site, Okta reports. They're focused on stealing credentials from various sectors. This ups the stakes for credential management across industries. But remember, new leak sites often disappear as fast as they appear.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Azure API Management vulnerability exploited to steal customers’ secrets</title>
+      <link>https://www.helpnetsecurity.com/2026/11/24/azure-apim-vulnerability-credential-theft/</link>
+      <guid isPermaLink="false">identitybrief-a357e7a402aa37ac</guid>
+      <pubDate>Tue, 24 Nov 2026 12:04:37 +0000</pubDate>
+      <category>breach</category>
+      <description>Attackers have exploited a flaw in Azure API Management to steal customer credentials. This breach illustrates the critical importance of securing API gateways. The catch is only APIM Classic users are affected, so before you panic, check your tier.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>GlobeTopper faces up to $2.5 million in lost revenue after hackers steal $70,000 in gift cards</title>
+      <link>https://www.helpnetsecurity.com/2026/11/24/globetopper-breach-gift-cards/</link>
+      <guid isPermaLink="false">identitybrief-83cd4681e0f03d69</guid>
+      <pubDate>Tue, 24 Nov 2026 09:33:33 +0000</pubDate>
+      <category>breach</category>
+      <description>Hackers breached GlobeTopper's system to steal API credentials, using them to redeem $70,000 in gift cards. This serves as a cautionary tale to secure API access mechanisms rigorously. The gotcha is GlobeTopper only shut down the affected platform after the breach.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO</title>
+      <link>https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/</link>
+      <guid isPermaLink="false">identitybrief-421f4ebe988beaad</guid>
+      <pubDate>Tue, 24 Nov 2026 11:50:21 +0000</pubDate>
+      <category>breach</category>
+      <description>A data breach at South Korean electric company KEPCO exposed 1.5 million people's info. Effective identity verification and access controls are essential to prevent such breaches. This breach serves as a reminder that even critical infrastructure needs bolstered security measures.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>How workforce impersonation exploits gaps in employee identity verification</title>
+      <link>https://www.biometricupdate.com/202611/how-workforce-impersonation-exploits-gaps-in-employee-identity-verification</link>
+      <guid isPermaLink="false">identitybrief-c34010fb090135c9</guid>
+      <pubDate>Mon, 23 Nov 2026 19:07:51 +0000</pubDate>
+      <category>fraud</category>
+      <description>Workforce impersonation exploits identity verification gaps. This tactic highlights persistent flaws in ID verification processes. Companies need ongoing, dynamic verification rather than one-time checks. The difficulty is cultural: changing verification processes demands buy-in.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Sint Maarten nears launch of first six digital government services</title>
+      <link>https://www.biometricupdate.com/202611/sint-maarten-nears-launch-of-first-six-digital-government-services</link>
+      <guid isPermaLink="false">identitybrief-b9bfea53ea98ccb8</guid>
+      <pubDate>Mon, 23 Nov 2026 19:39:00 +0000</pubDate>
+      <category>did</category>
+      <description>Sint Maarten is set to launch its first digital government services with a new identity platform. This could streamline citizen services access securely. Keep in mind it’s early days — actual adoption can be sluggish.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>US seeks replacement for 430M-face passport and visa biometric matching system</title>
+      <link>https://www.biometricupdate.com/202611/us-seeks-replacement-for-430m-face-passport-and-visa-biometric-matching-system</link>
+      <guid isPermaLink="false">identitybrief-0d9fb4ab9e01f7ad</guid>
+      <pubDate>Mon, 23 Nov 2026 21:00:46 +0000</pubDate>
+      <category>auth</category>
+      <description>The U.S. seeks a new facial recognition supplier for visa screenings. This could lead to more efficient and accurate identity verification processes. Yet, the dependency on existing systems makes transition complex.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Announcing the Agent Auth (AAuth) Working Group</title>
+      <link>https://openid.net/announcing-the-agent-auth-aauth-working-group/</link>
+      <guid isPermaLink="false">identitybrief-d446acb84724d1ed</guid>
+      <pubDate>Tue, 24 Nov 2026 09:54:43 +0000</pubDate>
+      <category>auth</category>
+      <description>The OpenID Foundation has started the Agent Auth (AAuth) Working Group. AI agents need to act securely across different organizations. This group aims to define how they authenticate. The challenge is it’s just beginning; practical standards are a way off.
+
+— via OpenID Foundation</description>
+    </item>
+    <item>
+      <title>European Commission confirms personal data stolen in AI-assisted cyberattack</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834</link>
+      <guid isPermaLink="false">identitybrief-fbc9f17566894033</guid>
+      <pubDate>Tue, 24 Nov 2026 11:32:41 +0000</pubDate>
+      <category>breach</category>
+      <description>The European Commission confirms data theft in an AI-driven cyberattack. It's a jarring call for enhanced AI security measures in data protection. The downside is the breach notice was only via website banner, leaving many unaware.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Digital wallets: what Japan, Rabobank and PayPal have learned</title>
+      <link>https://identityweek.net/digital-wallets-what-japan-rabobank-and-paypal-have-learned/</link>
+      <guid isPermaLink="false">identitybrief-a0faacac9d3c545c</guid>
+      <pubDate>Mon, 23 Nov 2026 12:53:37 +0000</pubDate>
+      <category>did</category>
+      <description>Digital ID wallets are becoming more mainstream, with national IDs appearing on phones. This makes digital identity more accessible and potentially more secure. However, interoperability and privacy are still significant concerns that need addressing.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>NIST releases draft on mobile drivers’ licence use</title>
+      <link>https://identityweek.net/nist-releases-draft-on-mobile-drivers-licence-use/</link>
+      <guid isPermaLink="false">identitybrief-2bb46cb6df7b0474</guid>
+      <pubDate>Mon, 23 Nov 2026 12:44:22 +0000</pubDate>
+      <category>did</category>
+      <description>NIST released draft guidelines for mobile driver's licenses (mDLs). The push for digital credentials is growing, and these guidelines aim to standardize mDL use. But feedback is still being gathered, so final rules may evolve significantly.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Industrial Serial Gateways Broadcast That They're Insecure</title>
+      <link>https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure</link>
+      <guid isPermaLink="false">identitybrief-90deedc971280fb0</guid>
+      <pubDate>Mon, 23 Nov 2026 22:02:46 +0000</pubDate>
+      <category>auth</category>
+      <description>Many industrial serial gateways are broadcasting their lack of security. This signals a critical gap in OT device security. Unfortunately, patching these devices can often disrupt operations, making fixes slow.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>Inception - possibly a ShinyHunters reboot - claims seven victims in a week</title>
+      <link>https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768</link>
+      <guid isPermaLink="false">identitybrief-797d55e6415146b1</guid>
+      <pubDate>Mon, 23 Nov 2026 21:52:23 +0000</pubDate>
+      <category>breach</category>
+      <description>‘Inception’ could be a ShinyHunters reboot, targeting multiple victims. This relapse into credential theft ramps up phishing threats. Yet, their methods aren't new, just the actors behind them might be.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>Retail Identity Security: Stopping ATO, AI Bots &amp; Session Hijacking</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOajdnNlpLbTZkSlp3bU5uVkhQdG8tQmtlTi1tbExteGtrQ1kxa0ROZkdZRUhVakV5dE82Y2wzcVc1TGZ0ZjdZMGwxUlhaRC1JYUFaRWhTME9sYmI4elF6cmJnRTg5VzZpSjAwNEJGVGs3QzRKcW12V2ROS2U5Z0x3cQ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-e44a599b776e483e</guid>
+      <pubDate>Tue, 24 Nov 2026 01:40:31 +0000</pubDate>
+      <category>breach</category>
+      <description>Okta discusses combating account takeovers, AI bots, and session hijacking in retail. These remain key security challenges due to evolving fraud techniques. Implementation complexity varies, especially for smaller retailers.
+
+— via Okta</description>
+    </item>
+    <item>
       <title>Attackers exploited Microsoft Entra Connect Health flaw to access tenant data</title>
       <link>https://www.helpnetsecurity.com/2026/11/23/microsoft-entra-connect-health-vulnerability-tenant-data/</link>
       <guid isPermaLink="false">identitybrief-84d4d79e78a997e5</guid>
@@ -1362,145 +1502,5 @@
       <description>AI is escalating the ease of cyberattacks but not changing fundamental methods. Basic techniques now scale more effectively but still rely on classic attack chains. Defense strategies need not be revolutionary, just adequately scaled.
 
 — via CSO Online</description>
-    </item>
-    <item>
-      <title>Fake GTA 6 download goes after Steam logins and crypto wallet data</title>
-      <link>https://www.helpnetsecurity.com/2026/11/13/fake-gta-6-download-scam/</link>
-      <guid isPermaLink="false">identitybrief-30179f7f002a0882</guid>
-      <pubDate>Fri, 13 Nov 2026 15:00:59 +0000</pubDate>
-      <category>auth</category>
-      <description>Fake GTA 6 download sites are stealing Steam credentials and crypto data. This serves as a reminder of the phishing risks in popular content releases. The specific target is gamers overdue for security reminders.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>When an AI Agent Goes Wrong, Can You Stop It?</title>
-      <link>https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html</link>
-      <guid isPermaLink="false">identitybrief-fe3ab0485c825bd2</guid>
-      <pubDate>Fri, 13 Nov 2026 11:52:31 +0000</pubDate>
-      <category>iam</category>
-      <description>Discussion on AI agent control highlights how permissions could be manipulated. It poses a question of auditing and permissions granularity for process bots. The issue is theoretical unless reinforced with strong access policies.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen</title>
-      <link>http://arxiv.org/abs/2611.14935v1</link>
-      <guid isPermaLink="false">identitybrief-2dbede4df41cc6a7</guid>
-      <pubDate>Wed, 11 Nov 2026 02:35:53 +0000</pubDate>
-      <category>research</category>
-      <description>Research looks at bias in LLMs concerning racial and sex disparities in pain management. This feeds into the broader debate on AI model fairness in identity processing. Real-world impact is speculative and needs continued audits.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>AI is changing access: Catch Microsoft Entra at Ignite 2026</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxONmZTaDNESEt1enNyWjBXS2ZPakhUZWNKOE0tLWdPQl9fdGc5cGJYeGFvdjZHSkFMV21Ed2lldTB5LXJIU0JiUlN3UWdGNUYtUVl5Z2FveTJLZmZTaTJ3SnhybHFNaFNrSl9kVFNJVFRTb1owS2VkdmQzWXhtUmRsU3JYTDR4SHkxXzRzdU92bWNFc2NPTkdUd01Lb2Q3cjRnVWdXMmRIR05vOXlES2piT3d6OG5nRFJrbFQ1RzFnOGtaNlItQnhV?oc=5</link>
-      <guid isPermaLink="false">identitybrief-6192f21ec86b32a0</guid>
-      <pubDate>Sat, 14 Nov 2026 02:34:16 +0000</pubDate>
-      <category>iam</category>
-      <description>Microsoft Entra will present on AI's effect on access at Ignite 2026. AI-driven access adjustments could impact identity management strategies. Watching this space may prepare teams for future integration needs.
-
-— via Microsoft Entra</description>
-    </item>
-    <item>
-      <title>How attackers turned a Teams meeting booking into a device code phishing trap</title>
-      <link>https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/</link>
-      <guid isPermaLink="false">identitybrief-c7f2b6acc083be53</guid>
-      <pubDate>Fri, 13 Nov 2026 06:15:48 +0000</pubDate>
-      <category>breach</category>
-      <description>Attackers used a fake Teams meeting to trick someone into approving a device code sign-in, hijacking credentials. This highlights the new wave of phishing attacks that target legitimate sign-in flows. The catch: this requires constant user vigilance and more robust internal training systems.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Suspected North Korean IT workers reached onboarding at companies with open data</title>
-      <link>https://www.helpnetsecurity.com/2026/11/13/north-korean-it-workers-onboarding/</link>
-      <guid isPermaLink="false">identitybrief-ae3484a8e6569488</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:22 +0000</pubDate>
-      <category>fraud</category>
-      <description>Fake North Korean IT workers reached onboarding stages using fabricated identities in monitored hiring pipelines. This raises security concerns over insider threats and data exposure during recruitment. Limitation: detection often relies on open data sharing policies, which are not universally applied.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Africa’s uncollected national ID cards raise questions about mass issuance</title>
-      <link>https://www.biometricupdate.com/202611/africas-uncollected-national-id-cards-raise-questions-about-mass-issuance</link>
-      <guid isPermaLink="false">identitybrief-61d19a6b29c5b505</guid>
-      <pubDate>Thu, 12 Nov 2026 22:27:58 +0000</pubDate>
-      <category>did</category>
-      <description>Uncollected national ID cards in Africa reflect the challenges in mass identity issuance systems. Ensuring mass issuance doesn't equal mass use, leading to questions about effectiveness. The downside: alternative models suggested are experimentally tested and may face implementation hurdles.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Trulioo, FrankieOne partner on business verification and ongoing fraud monitoring</title>
-      <link>https://www.biometricupdate.com/202611/trulioo-frankieone-partner-on-business-verification-and-ongoing-fraud-monitoring</link>
-      <guid isPermaLink="false">identitybrief-b0119164176fbce6</guid>
-      <pubDate>Thu, 12 Nov 2026 19:02:00 +0000</pubDate>
-      <category>fraud</category>
-      <description>Trulioo and FrankieOne team up for enhanced business verification and fraud monitoring. This partnership integrates global KYC capabilities with a connected financial crime ecosystem. Specification flaw: broader application depends on the scope of existing FrankieOne integrations.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>USCIS expands biometrics and identity overhaul into $250 million competition</title>
-      <link>https://www.biometricupdate.com/202611/uscis-expands-biometrics-and-identity-overhaul-into-250-million-competition</link>
-      <guid isPermaLink="false">identitybrief-453c44cbc9290338</guid>
-      <pubDate>Thu, 12 Nov 2026 19:21:27 +0000</pubDate>
-      <category>auth</category>
-      <description>USCIS plans a $250 million biometrics overhaul with new tech planned for immigration services. This represents a significant scale-up in identity and biometric management for the sector. The caveat: the project is still in the request-for-quotation stage, pushing future timelines.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Hackers compromise 4,800 GitHub accounts to steal cloud credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/</link>
-      <guid isPermaLink="false">identitybrief-6947b84f5dbea81d</guid>
-      <pubDate>Thu, 12 Nov 2026 22:25:30 +0000</pubDate>
-      <category>breach</category>
-      <description>GitHub accounts were compromised in a campaign to steal cloud credentials, dubbed 'wfx-loot'. It poses a risk to repositories and the integrity of private code. The hitch: attackers need access to private or inattentive accounts to be successful.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass</title>
-      <link>https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html</link>
-      <guid isPermaLink="false">identitybrief-c398aa3e92265ca6</guid>
-      <pubDate>Thu, 12 Nov 2026 15:38:49 +0000</pubDate>
-      <category>breach</category>
-      <description>Citrix issued patches for critical flaws in NetScaler products, addressing potential authentication bypass. This reduces risk from serious security vulnerabilities. However, the effectiveness depends on timely and comprehensive deployment across all affected systems.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign</title>
-      <link>https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html</link>
-      <guid isPermaLink="false">identitybrief-f7cf57082e209fd8</guid>
-      <pubDate>Thu, 12 Nov 2026 11:51:31 +0000</pubDate>
-      <category>breach</category>
-      <description>A phishing campaign used seemingly legit calendar invites to hijack Google sessions, evading normal defenses. This showcases how phishing is adapting to bypass traditional security checks. Limitation: defenders must update detection strategies to recognize such sophisticated tactics.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Age Assurance: not what but whom</title>
-      <link>https://blog.identity.foundation/age-assurance-not-what-but-whom/</link>
-      <guid isPermaLink="false">identitybrief-776aee1fa52d1047</guid>
-      <pubDate>Thu, 12 Nov 2026 15:12:31 +0000</pubDate>
-      <category>did</category>
-      <description>Grace Rachmany discusses the shift in age verification focus from knowing ‘what’ to proving ‘who’. This impacts identification strategies, especially as governments push for more robust age-related checks. The challenge: decentralized identity systems are still not universally accepted or deployed.
-
-— via DIF</description>
-    </item>
-    <item>
-      <title>FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance</title>
-      <link>https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/</link>
-      <guid isPermaLink="false">identitybrief-663d8f00d5bc7ba4</guid>
-      <pubDate>Fri, 13 Nov 2026 02:28:21 +0000</pubDate>
-      <category>iam</category>
-      <description>The FBI recovered $1.2 billion in stolen cryptocurrency, linking crimes to North Korea. Highlighting the global scope of social engineering threats in the crypto space. Limitation: while money recovery is a positive, it remains a reactive measure against ongoing threats.
-
-— via SecurityWeek</description>
     </item>
 </channel></rss>
