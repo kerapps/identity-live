@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>Microsoft confirms authentication issues after November updates</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/</link>
+      <guid isPermaLink="false">identitybrief-9d73f68ea0c0501c</guid>
+      <pubDate>Wed, 25 Nov 2026 09:02:57 +0000</pubDate>
+      <category>breach</category>
+      <description>Microsoft has confirmed authentication issues following the November security updates. This affects users trying to access systems using the updated authentication protocols. The fix isn’t immediate — it requires patch updates or rollbacks that could disrupt businesses.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>UK rules out joining EU Digital Identity Wallet as digital partnership takes shape</title>
+      <link>https://www.biometricupdate.com/202611/uk-rules-out-joining-eu-digital-identity-wallet-as-digital-partnership-takes-shape</link>
+      <guid isPermaLink="false">identitybrief-3caa4a42dc85ad37</guid>
+      <pubDate>Tue, 24 Nov 2026 19:38:15 +0000</pubDate>
+      <category>did</category>
+      <description>The UK has decided not to join the EU Digital Identity Wallet initiative. This means UK digital identity efforts will diverge from EU standards. Result: interoperability headaches for companies operating across borders or in both regions.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Credential harvesting goes from fringe activity to major exploitation trend</title>
+      <link>https://www.helpnetsecurity.com/2026/11/25/vulncheck-credential-harvesting-exploitat-records/</link>
+      <guid isPermaLink="false">identitybrief-13691a225bd6ca72</guid>
+      <pubDate>Wed, 25 Nov 2026 06:30:47 +0000</pubDate>
+      <category>breach</category>
+      <description>Credential harvesting is on the rise, accounting for a major chunk of all exploitation activities this year. This new normal impacts how teams protect against unauthorized access, especially to critical services. It’s not limited to single platforms — attackers are spanning the ecosystem.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Wultra-led Consortium wins tender to deliver and operate the Czech European digital ID wallet</title>
+      <link>https://identityweek.net/wultra-led-consortium-wins-tender-to-deliver-and-operate-the-czech-european-digital-id-wallet/</link>
+      <guid isPermaLink="false">identitybrief-df4f1fd817c8639a</guid>
+      <pubDate>Tue, 24 Nov 2026 16:01:06 +0000</pubDate>
+      <category>did</category>
+      <description>A consortium led by Wultra will build the Czech Republic’s EU Digital Identity Wallet. This project is part of a broader EU push for standardized digital identities. But remember, each country's rollout may vary in scope and readiness.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Italy opens digital ID wallet to public with legally valid driving licenses and IDs</title>
+      <link>https://www.biometricupdate.com/202611/italy-opens-digital-id-wallet-to-public-with-legally-valid-driving-licenses-and-ids</link>
+      <guid isPermaLink="false">identitybrief-1824eaf0ef04d2b9</guid>
+      <pubDate>Tue, 24 Nov 2026 16:45:52 +0000</pubDate>
+      <category>did</category>
+      <description>Italy opens its digital ID wallet to the public, integrating digital drivers' licenses and IDs. This move exemplifies progress towards fully digital identity management for citizens. However, initial access is limited to certain cardholders and users of the IO app.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Lawmakers warn ID verification companies to bolster security after September hack</title>
+      <link>https://therecord.media/idscan-data-breach-warning-congressional-letter</link>
+      <guid isPermaLink="false">identitybrief-2db8a6398bacd187</guid>
+      <pubDate>Tue, 24 Nov 2026 17:49:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Lawmakers urge identity verification companies to tighten security post-September hack. These calls stress the urgency to bolster defenses against such breaches. The challenge remains scalability — not all solutions will fit small companies’ budgets or capabilities.
+
+— via The Record</description>
+    </item>
+    <item>
+      <title>Securiport launches APIS Plus for biometric passenger screening and border risk assessment</title>
+      <link>https://www.biometricupdate.com/202611/securiport-launches-apis-plus-for-biometric-passenger-screening-and-border-risk-assessment</link>
+      <guid isPermaLink="false">identitybrief-56551ac4e1ff956d</guid>
+      <pubDate>Tue, 24 Nov 2026 14:12:52 +0000</pubDate>
+      <category>fraud</category>
+      <description>Securiport's APIS Plus enhances border security with biometric passenger screening. It combines biometrics with advanced data analysis to preempt risks in travel. Deployment remains narrow, largely dependent on individual countries’ adoption willingness.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>New Inception extortion gang launches large-scale vishing campaign</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/</link>
+      <guid isPermaLink="false">identitybrief-d0dd54800f0f848c</guid>
+      <pubDate>Tue, 24 Nov 2026 20:21:20 +0000</pubDate>
+      <category>breach</category>
+      <description>The Inception gang is using vishing to snag single sign-on credentials. This method targets multiple global brands, highlighting a sophisticated layer of social engineering in credential theft today. It’s a reminder: vigilance can't slack in voice communication channels.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site</title>
+      <link>https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html</link>
+      <guid isPermaLink="false">identitybrief-0c4445d4ccaf59f7</guid>
+      <pubDate>Tue, 24 Nov 2026 13:28:21 +0000</pubDate>
+      <category>breach</category>
+      <description>The Inception group, linked to ShinyHunters, continues operations under a new guise. Their tactics center on voice phishing to collect credentials for new data leaks. What to note: such groups often rebrand — vigilance against similar tactics remains critical.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>VMware Updates Patch Critical ESX, vCenter Vulnerabilities</title>
+      <link>https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/</link>
+      <guid isPermaLink="false">identitybrief-e488a1116ddaa957</guid>
+      <pubDate>Tue, 24 Nov 2026 16:32:56 +0000</pubDate>
+      <category>auth</category>
+      <description>VMware patches critical authentication vulnerabilities in vCenter and ESX. These vulnerabilities could allow unauthorized access or code execution on critical systems. Admins must ensure timely patch deployment to prevent exposure.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Gatwick drop-off customers' personal data exposed in supplier breach</title>
+      <link>https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060</link>
+      <guid isPermaLink="false">identitybrief-bd5728b34d4f0866</guid>
+      <pubDate>Wed, 25 Nov 2026 11:16:18 +0000</pubDate>
+      <category>breach</category>
+      <description>Gatwick’s drop-off customers’ data has been exposed due to a supplier breach. This exposure shows how vulnerable supply chain dependencies can be for personal data protection. The catch: Gatwick isn't alone — many businesses depend on third-party security practices.
+
+— via The Register Security</description>
+    </item>
+    <item>
+      <title>PORTA: Systematic Discovery of Vulnerabilities in Identity Brokers</title>
+      <link>http://arxiv.org/abs/2611.33015v1</link>
+      <guid isPermaLink="false">identitybrief-4377414cd268830a</guid>
+      <pubDate>Tue, 24 Nov 2026 17:33:24 +0000</pubDate>
+      <category>research</category>
+      <description>A new paper highlights vulnerabilities in identity brokers like Keycloak and Vault. These vulnerabilities pose a systemic risk to the authentication process across services relying on these brokers. The downside: assessing and addressing these vulnerabilities requires specialized expertise.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>The Customer Who Isn't There: Frankfurt and the Future of CIAM</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1yOTVSbU45d3AxOEM0R19zNkJOdEg4dllTbXBRSE82RU92VElKXzVwZTd0c0xhb0RySnRUczdiU2VyUzhPZHFBU25tVU9VbjZ2OUppSHJ3STYyLXpySGZhaDNWME5HMVRMeWhxdkxBOWlsZWlxdGJNbjF3?oc=5</link>
+      <guid isPermaLink="false">identitybrief-e24077dbdf982f8b</guid>
+      <pubDate>Tue, 24 Nov 2026 12:30:00 +0000</pubDate>
+      <category>iam</category>
+      <description>KuppingerCole examines CIAM's future, speculating on innovations in identity management. It hints at evolving approaches needed to serve customers digitally without friction. But it's more concept-driven — practical applications are yet to unfold.
+
+— via KuppingerCole</description>
+    </item>
+    <item>
+      <title>Rotating credentials in Azure API Management</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUpYZEsyVUZucmRMZ3kxRjkxa3F3bU9ldW1iNHZiS2h2Z2ZkclNBSnY5VGhsLXl1MWpwdFZBR1pPMjN3X1hZLWNvYVFRSGMxVmZLazlkUUY3LTNMYi1sQmtCeWdrNHlreldNV2hyT2NpQmZLdVpIa1NYcnAxcndzLUl1SDhlUmFEUk9xN29zZjZEZGdXdGI2TWdQUFNBVHRjdHBoWm5BX2RvT1NGaGx0c2c2YkxNM3Ji?oc=5</link>
+      <guid isPermaLink="false">identitybrief-a93d9b7b3dd430b7</guid>
+      <pubDate>Wed, 25 Nov 2026 10:02:42 +0000</pubDate>
+      <category>auth</category>
+      <description>Microsoft advises on rotating credentials in Azure API Management. Keeping credentials updated helps mitigate risks from leaked access keys. Implementation can be complex — ensuring no disruption in service is key during this rotation process.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>ShinyHunters-linked crew resurfaces on new leak site</title>
       <link>https://www.helpnetsecurity.com/2026/11/24/shinyhunters-inception-leak-site-okta/</link>
       <guid isPermaLink="false">identitybrief-32d784244c7b2f8c</guid>
@@ -1362,145 +1502,5 @@
       <description>A new paper addresses integrity of outsourced vector databases using authenticated ANN search. Secure querying in the cloud tackles real concerns but could face scalability challenges. Still, its real-world applicability is hindered by theoretical and technical hurdles.
 
 — via arXiv</description>
-    </item>
-    <item>
-      <title>Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them</title>
-      <link>https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html</link>
-      <guid isPermaLink="false">identitybrief-950205e16691a515</guid>
-      <pubDate>Thu, 12 Nov 2026 18:07:15 +0000</pubDate>
-      <category>auth</category>
-      <description>A webinar warns SOCs about identity blind spots in security operations. Knowing 'who' or 'what' behind alerts is crucial for effective threat response. However, integrating identity insights with existing tools requires additional investment and effort.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Palo Alto tracks a massive Chinese AI attack that sadly lives up to industry fears</title>
-      <link>https://www.csoonline.com/article/4247565/palo-alto-tracks-a-massive-chinese-ai-attack-that-sadly-lives-up-to-industry-fears.html</link>
-      <guid isPermaLink="false">identitybrief-f426e703514870dd</guid>
-      <pubDate>Thu, 12 Nov 2026 15:15:00 +0000</pubDate>
-      <category>auth</category>
-      <description>A Chinese AI-powered attack reflects industry's worst fears: exploiting open-source AI for breaches. It calls attention to how AI, without proper safeguards, can enable widespread, automated credential theft. The difficulty: developing defenses that preemptively counteract such adaptive threats.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Hackers abuse SQL Server’s weak passwords to drop cryptominers and Gh0st RAT</title>
-      <link>https://www.csoonline.com/article/4247845/hackers-abuse-sql-servers-weak-passwords-to-drop-cryptominers-and-gh0st-rat.html</link>
-      <guid isPermaLink="false">identitybrief-96c3350de95ab3d0</guid>
-      <pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>SQL Servers face threats from weak passwords exploited to drop malware. Highlights ongoing challenges in managing privileged access and securing databases. Persistent issue: as long as default and weak creds exist, they'll be entry points for attackers.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Fraud Prevention — Anti-Fraud Tools &amp; Risk Detection- Page 40 | The Sumsuber</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE55bHdndWE4clE1ZEt5TVRjdUFTTEROZnE0ZW9ydzNEWFIyTFVPamk2YU9EY184OEUxUmNsenBwUGRMRk5BWU5SX3Jtd0pIZ1VydWFrVTdPRWR3bDVISEE?oc=5</link>
-      <guid isPermaLink="false">identitybrief-e96089942ac03e0c</guid>
-      <pubDate>Sat, 14 Nov 2026 17:13:43 +0000</pubDate>
-      <category>fraud</category>
-      <description>Page from Sumsuber discusses anti-fraud tools and risk detection. It reflects the continuous evolution of fraud tactics and countermeasure tools in the industry. Yet, fighting fraud remains an area where staying ahead is a constant challenge.
-
-— via Sumsub</description>
-    </item>
-    <item>
-      <title>Cuscal Paymark brings digital age checks to NZ payment terminals</title>
-      <link>https://www.biometricupdate.com/202611/cuscal-paymark-brings-digital-age-checks-to-nz-payment-terminals</link>
-      <guid isPermaLink="false">identitybrief-457a9b55a32df127</guid>
-      <pubDate>Fri, 13 Nov 2026 19:43:26 +0000</pubDate>
-      <category>did</category>
-      <description>Cuscal Paymark rolls out digital age checks for NZ payment terminals. It supports a digital credential initiative with age verification at point-of-sale. However, this is specific to New Zealand and needs retailers to adopt the new tech.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Biometric defenses put to the test with faster AI face-swap model</title>
-      <link>https://www.biometricupdate.com/202611/biometric-defenses-put-to-the-test-with-faster-ai-face-swap-model</link>
-      <guid isPermaLink="false">identitybrief-100df6c534420410</guid>
-      <pubDate>Fri, 13 Nov 2026 20:15:07 +0000</pubDate>
-      <category>fraud</category>
-      <description>A new AI model can perform advanced face-swapping for biometric tests. The model is fast and realistic, challenging identity verification systems. Right now, it serves as a red-team tool, not a widespread threat yet.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Shufti patents split-inference age assurance with on-device biometrics</title>
-      <link>https://www.biometricupdate.com/202611/shufti-patents-split-inference-age-assurance-with-on-device-biometrics</link>
-      <guid isPermaLink="false">identitybrief-8e8a8a434ba96497</guid>
-      <pubDate>Fri, 13 Nov 2026 20:13:39 +0000</pubDate>
-      <category>did</category>
-      <description>Shufti received a patent for on-device age verification using split-inference. This tech avoids server transmissions, aiming to boost privacy. Adoption requires compatible devices and a shift to on-device processing.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls</title>
-      <link>https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html</link>
-      <guid isPermaLink="false">identitybrief-c6e1d6a772717416</guid>
-      <pubDate>Fri, 13 Nov 2026 14:28:58 +0000</pubDate>
-      <category>fraud</category>
-      <description>North Korean hackers stole over $400 million using deepfake video calls. The tactic tricks targets into revealing crypto account information. The impersonation potential increases risks for high-profile targets.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents</title>
-      <link>https://therecord.media/city-of-osaka-japan-email-data-breach</link>
-      <guid isPermaLink="false">identitybrief-810ecd44c3ac2c42</guid>
-      <pubDate>Fri, 13 Nov 2026 19:43:00 +0000</pubDate>
-      <category>breach</category>
-      <description>The City of Osaka reports a breach impacting 1 million people, adding to Japan's growing cyber woes. It underscores the vulnerability of local government systems to email phishing. Details on remediation steps remain thin.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach</title>
-      <link>https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</link>
-      <guid isPermaLink="false">identitybrief-8310e121f776dca0</guid>
-      <pubDate>Fri, 13 Nov 2026 15:20:00 +0000</pubDate>
-      <category>breach</category>
-      <description>Security trends including CISA leadership changes and data breaches were highlighted. They remind us that even routine updates can shift organizational threat landscapes. No immediate action but a call to stay informed.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Security Boulevard: Attackers Can’t Steal Passkeys, So They’re Enrolling Their Own</title>
-      <link>https://fidoalliance.org/security-boulevard-attackers-cant-steal-passkeys-so-theyre-enrolling-their-own/</link>
-      <guid isPermaLink="false">identitybrief-31cdf1af5a4dc21e</guid>
-      <pubDate>Fri, 13 Nov 2026 18:13:07 +0000</pubDate>
-      <category>auth</category>
-      <description>Attackers are now enrolling their own passkeys to bypass security. While passkeys can't be phished like passwords, criminals are targeting the enrollment process instead. This highlights a critical need to monitor and secure new types of access requests.
-
-— via FIDO Alliance</description>
-    </item>
-    <item>
-      <title>Thousands of GitHub repos hit with secret-stealing malware</title>
-      <link>https://www.csoonline.com/article/4248672/thousands-of-github-repos-hit-with-secret-stealing-malware.html</link>
-      <guid isPermaLink="false">identitybrief-ac5994cfc252579b</guid>
-      <pubDate>Fri, 13 Nov 2026 23:53:42 +0000</pubDate>
-      <category>breach</category>
-      <description>Thousands of GitHub repositories were compromised to spread secret-stealing malware. This affects CI/CD secrets and cloud credentials, highlighting risks in version control systems. The long tail of smaller repos could harbor unseen threats.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’</title>
-      <link>https://therecord.media/artex-ai-tool-fbi-flash-alert</link>
-      <guid isPermaLink="false">identitybrief-f0f23fdb08d7bf54</guid>
-      <pubDate>Fri, 13 Nov 2026 21:32:00 +0000</pubDate>
-      <category>iam</category>
-      <description>The Artex tool speeds up attack chains, drastically reducing time to privileged access. This stresses the importance of quick response to initial threats. The catch is it's an open-source tool, potentially widespread.
-
-— via The Record</description>
-    </item>
-    <item>
-      <title>How AI is changing the nature of cyberattacks</title>
-      <link>https://www.csoonline.com/article/4248553/how-ai-is-changing-the-nature-of-cyberattacks.html</link>
-      <guid isPermaLink="false">identitybrief-8eb9672ea0214892</guid>
-      <pubDate>Fri, 13 Nov 2026 19:02:39 +0000</pubDate>
-      <category>breach</category>
-      <description>AI is escalating the ease of cyberattacks but not changing fundamental methods. Basic techniques now scale more effectively but still rely on classic attack chains. Defense strategies need not be revolutionary, just adequately scaled.
-
-— via CSO Online</description>
     </item>
 </channel></rss>
