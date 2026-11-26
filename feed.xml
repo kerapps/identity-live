@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>More than 4,400 malicious domains are waiting for holiday shoppers</title>
+      <link>https://www.helpnetsecurity.com/2026/11/26/fortinet-holiday-shopping-cyber-threats-report/</link>
+      <guid isPermaLink="false">identitybrief-8b7022f6e9946843</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:53 +0000</pubDate>
+      <category>fraud</category>
+      <description>Cybercriminals have prepped over 4,400 malicious domains targeting holiday shoppers. These fraudulent sites aim to hijack accounts and commit payment fraud, particularly given the uptick in online shopping. The immediate challenge is identifying and blocking these domains before they cause customer harm.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts</title>
+      <link>https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/</link>
+      <guid isPermaLink="false">identitybrief-1c9f606d62f0b3cf</guid>
+      <pubDate>Wed, 25 Nov 2026 14:45:00 +0000</pubDate>
+      <category>fraud</category>
+      <description>Shufti's new Fraud Hub identifies suspicious links among seemingly legitimate accounts. This offers a way to detect complex fraud networks that standalone checks might miss. Yet, its effectiveness depends on the deployment across diverse datasets to truly uncover underlying fraud patterns.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Philippines extends $40M digital ID tender, giving challengers more time to compete</title>
+      <link>https://www.biometricupdate.com/202611/philippines-extends-40m-digital-id-tender-giving-challengers-more-time-to-compete</link>
+      <guid isPermaLink="false">identitybrief-930e713c69b2ecca</guid>
+      <pubDate>Wed, 25 Nov 2026 18:39:50 +0000</pubDate>
+      <category>did</category>
+      <description>The Philippines extended its digital ID modernization tender, increasing competition. This could accelerate digital identity infrastructure improvements, essential for robust citizen services and identification. Budget constraints and multi-vendor integration pose ongoing challenges.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Sri Lanka’s digital ID could unlock credit for rural entrepreneurs</title>
+      <link>https://www.biometricupdate.com/202611/sri-lankas-digital-id-could-unlock-credit-for-rural-entrepreneurs</link>
+      <guid isPermaLink="false">identitybrief-b7d9a0e5c8bc428a</guid>
+      <pubDate>Wed, 25 Nov 2026 18:35:52 +0000</pubDate>
+      <category>did</category>
+      <description>Sri Lanka’s digital ID aims to enhance credit access for rural entrepreneurs. The initiative seeks to overcome information barriers that limit traditional lending. The transformation relies on successful nationwide implementation and standard trust in digital ID verification.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Switzerland awards $5.3M deepfake detection contract to secure digital ID rollout</title>
+      <link>https://www.biometricupdate.com/202611/switzerland-awards-5-3m-deepfake-detection-contract-to-secure-digital-id-rollout</link>
+      <guid isPermaLink="false">identitybrief-cafd51e953b3729e</guid>
+      <pubDate>Wed, 25 Nov 2026 16:09:17 +0000</pubDate>
+      <category>did</category>
+      <description>Switzerland awarded a contract for a deepfake detection tool to bolster digital ID security. Protecting identity verification from synthetic identities addresses AI-driven impersonation risks. Completing this integration swiftly is critical, as debates about digital ID usage continue.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>It's a Bot World. We're Just Living in It</title>
+      <link>https://www.darkreading.com/cyber-risk/bot-world-just-living</link>
+      <guid isPermaLink="false">identitybrief-df1715b602594640</guid>
+      <pubDate>Wed, 25 Nov 2026 15:20:27 +0000</pubDate>
+      <category>iam</category>
+      <description>Bot presence in online spaces is overwhelming security measures designed for legitimate user access. The solution calls for equal management of human and machine access privileges. Realistically, adapting systems quickly to balance security with usability remains difficult.
+
+— via Dark Reading</description>
+    </item>
+    <item>
+      <title>10 new speakers join Identity Week Europe (Save €1,800 before Friday)</title>
+      <link>https://identityweek.net/10-new-speakers-join-identity-week-europe-save-e1800-before-friday/</link>
+      <guid isPermaLink="false">identitybrief-c062b2053c09c48b</guid>
+      <pubDate>Wed, 25 Nov 2026 15:12:19 +0000</pubDate>
+      <category>iam</category>
+      <description>Identity Week Europe expands with new speakers across industries discussing identity innovation. This gathering provides insights into the latest trends and challenges in digital identity. While diverse, actionable outcomes will depend on actual collaboration post-event.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>DIF Newsletter #67</title>
+      <link>https://blog.identity.foundation/dif-newsletter-67/</link>
+      <guid isPermaLink="false">identitybrief-27069403029f2033</guid>
+      <pubDate>Wed, 25 Nov 2026 17:14:21 +0000</pubDate>
+      <category>did</category>
+      <description>The DIF updates include new leadership and advancements in decentralized identity. This can influence how identities are managed without centralized control, offering potential resilience against common hacks. However, practical deployment remains limited to experimental and niche applications.
+
+— via DIF</description>
+    </item>
+    <item>
+      <title>1Password breached through hijacked employee GitHub account, customer names and emails stolen</title>
+      <link>https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/</link>
+      <guid isPermaLink="false">identitybrief-13824bb854506faa</guid>
+      <pubDate>Thu, 26 Nov 2026 08:42:32 +0000</pubDate>
+      <category>breach</category>
+      <description>1Password was breached via an employee's GitHub account, exposing user names and emails. This incident stresses the importance of protecting developer platforms which can serve as entry points for breaches. The limitation is that customer passwords remain secure, but associated risks with exposure of personal data persist.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Broadcom issues fixes for 23 new VMware flaws, three critical</title>
+      <link>https://www.csoonline.com/article/4253329/broadcom-issues-fixes-for-23-new-vmware-flaws-three-critical.html</link>
+      <guid isPermaLink="false">identitybrief-bbb72fca8fae3324</guid>
+      <pubDate>Wed, 25 Nov 2026 20:07:57 +0000</pubDate>
+      <category>breach</category>
+      <description>Broadcom announced critical fixes for VMware vulnerabilities, including an authentication bypass. This patch is vital for securing infrastructure against unauthorized access. Immediate patching is crucial, yet coordination around update deployment may delay full protection.
+
+— via CSO Online</description>
+    </item>
+    <item>
+      <title>What defenders need to know about ARTEX, the agentic AI framework threat actors abuse</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/</link>
+      <guid isPermaLink="false">identitybrief-ef26ebb6c8335f92</guid>
+      <pubDate>Wed, 25 Nov 2026 18:09:06 +0000</pubDate>
+      <category>breach</category>
+      <description>Threat actors are exploiting the ARTEX AI framework to enhance network attacks. This tool optimizes the speed and efficiency of reconnaissance and exploitation efforts. Awareness and mitigation strategies are key, but defenses need to evolve parallel to reinforcing AI capabilities.
+
+— via Microsoft Security</description>
+    </item>
+    <item>
+      <title>Fuel as Identity: Authenticating Inter-Satellite Laser Links after Total Key Compromise</title>
+      <link>http://arxiv.org/abs/2611.34470v1</link>
+      <guid isPermaLink="false">identitybrief-4df09b32cf30ad7a</guid>
+      <pubDate>Wed, 25 Nov 2026 14:39:22 +0000</pubDate>
+      <category>research</category>
+      <description>A paper suggests using satellite position as a trust anchor after a key compromise. This method could help secure satellite communications against espionage. Adopting such cutting-edge security demands significant changes to current satellite systems.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties</title>
+      <link>https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/</link>
+      <guid isPermaLink="false">identitybrief-adcdb09e8c2ae5ae</guid>
+      <pubDate>Wed, 25 Nov 2026 14:15:25 +0000</pubDate>
+      <category>iam</category>
+      <description>ShinyHunters claims a comeback, while Okta investigates possible group links. Staying informed on hacking group dynamics is crucial for anticipating and mitigating risks. The integrity of such claims is often murky, complicating reliable threat intelligence gathering.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>Microsoft 365 Backup Introduces Premium Entra ID Backups</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXpqVk1VSlVkd1B5Um02ZzlXbk1mdElrWmFDc3BTRGVVNkZUR19TQXkyMF83dUhkV1A4TlVTemxBWEJtazJCMkwzTWhxZXJmWG1XekhHNFctNjgwdUdxbTlrSlBQMlUzOG1vbjRTZlQ4V3hMTW04bTMxVmp1T2puZTU0aTVma1htNzlaOFIyQzFZZG4zRmtLcmc3VVc0TEI5V2xIOHNsLUZfeXlYLUhEa3JPd0pXcS16X2UySlhHV0t6MFJJ?oc=5</link>
+      <guid isPermaLink="false">identitybrief-12078e33e6a45ce4</guid>
+      <pubDate>Thu, 26 Nov 2026 11:11:35 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft introduces premium backups for Entra ID through its 365 suite. This enhances identity resilience by ensuring comprehensive backup options for directory services. Adoption may require current users to adjust configurations for optimal benefit.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>Microsoft confirms authentication issues after November updates</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/</link>
       <guid isPermaLink="false">identitybrief-9d73f68ea0c0501c</guid>
@@ -1362,145 +1502,5 @@
       <description>Toppan Inc. and BitGo demonstrate decentralized identity checks for asset transfers. This proof-of-concept shows how distributed key management can enhance transaction security. Its use in broad financial operations hinges on adoption and regulatory acceptance though.
 
 — via Biometric Update</description>
-    </item>
-    <item>
-      <title>US disrupts North Korean campaign behind $400 million crypto theft</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/</link>
-      <guid isPermaLink="false">identitybrief-184f2939a864f451</guid>
-      <pubDate>Sat, 14 Nov 2026 15:15:49 +0000</pubDate>
-      <category>iam</category>
-      <description>US authorities disrupted a North Korean crypto-theft campaign. Demonstrates new frontlines in international financial cybercrime. The disruption showcases global vigilance, but also a pressing need for better pre-emptive measures.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Accounting for Trust and Safety: Bounding Content-Moderation Quality from Records You Already Hold</title>
-      <link>http://arxiv.org/abs/2611.18437v1</link>
-      <guid isPermaLink="false">identitybrief-329a369ef30da3bc</guid>
-      <pubDate>Fri, 13 Nov 2026 17:13:55 +0000</pubDate>
-      <category>research</category>
-      <description>Trust audits in content moderation can now use existing platform records for evaluation. This brings transparency to claims about moderation effectiveness. However, proving quality still lacks the capacity for comprehensive verification with just retrospective data.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access</title>
-      <link>https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html</link>
-      <guid isPermaLink="false">identitybrief-1acaa8e77a2e5854</guid>
-      <pubDate>Thu, 12 Nov 2026 17:50:27 +0000</pubDate>
-      <category>breach</category>
-      <description>A zero-day exploit called SignDrop abuses Windows' CLFS security to gain SYSTEM access. It poses a significant risk by targeting log authentication methods added recently. Mitigating such vulnerabilities requires consistent scrutiny of recent feature releases for weaknesses.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Securing account recovery against AI-driven threats</title>
-      <link>https://indicio.tech/blog/account-recovery-verifiable-credentials/</link>
-      <guid isPermaLink="false">identitybrief-a16fed5983309a8b</guid>
-      <pubDate>Thu, 12 Nov 2026 14:16:39 +0000</pubDate>
-      <category>did</category>
-      <description>Account recovery is under threat as passkeys roll out, pushing hackers to exploit recovery paths. Highlights the need for more robust methods like verifiable credentials. Even so, these solutions demand widespread adoption and integration with existing systems.
-
-— via Indicio</description>
-    </item>
-    <item>
-      <title>Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension</title>
-      <link>https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html</link>
-      <guid isPermaLink="false">identitybrief-960f41318ea903dd</guid>
-      <pubDate>Sun, 15 Nov 2026 08:22:04 +0000</pubDate>
-      <category>breach</category>
-      <description>Stolen Fireworks AI key led to a breach in Cursor's marketplace and malware in Anthropic's Claude Code extension. It underscores that a single exposed key can cascade into major breaches, impacting multiple products and user data. The hitch: unless key management is airtight, this kind of exposure could recur with different players.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Making digital identity work takes more than technology</title>
-      <link>https://www.biometricupdate.com/202611/making-digital-identity-work-takes-more-than-technology</link>
-      <guid isPermaLink="false">identitybrief-f0dd2f72a4abf7b2</guid>
-      <pubDate>Sat, 14 Nov 2026 18:17:09 +0000</pubDate>
-      <category>did</category>
-      <description>Making digital identity work isn't just about tech; it's also governance and architecture. Effective digital identity requires more than systems—it needs accountability and well-structured operations. The catch: even with the best tech, governance remains a challenging human problem.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant</title>
-      <link>https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/</link>
-      <guid isPermaLink="false">identitybrief-53060107b01de387</guid>
-      <pubDate>Sun, 15 Nov 2026 09:00:37 +0000</pubDate>
-      <category>breach</category>
-      <description>Week's highlights include a tool that steals GitHub secrets and a hacked Claude Code turned into a remote implant. These incidents show the damage stolen credentials can cause, whether enabling unauthorized access or implanting malware in trusted extensions. The sticking point: once credentials leak, the doors they open might not be closed in time.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>North Korean hackers steal faces for crypto fraud and cyberattacks</title>
-      <link>https://www.biometricupdate.com/202611/north-korean-hackers-steal-faces-for-crypto-fraud-and-cyberattacks</link>
-      <guid isPermaLink="false">identitybrief-e248ed8439a130f2</guid>
-      <pubDate>Sat, 14 Nov 2026 17:53:40 +0000</pubDate>
-      <category>fraud</category>
-      <description>North Korea's 'FaceStealer' operation uses real faces for crypto theft and other cyberattacks. It's a wake-up call about biometric spoofing, showing the precision and reach of identity attacks. This method of attack thrives in part because biometric protections lag in real-world enforcement.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Google’s AI glasses raise questions about enforcing biometric privacy protections</title>
-      <link>https://www.biometricupdate.com/202611/googles-ai-glasses-raise-questions-about-enforcing-biometric-privacy-protections</link>
-      <guid isPermaLink="false">identitybrief-59fbd7a0587e461f</guid>
-      <pubDate>Fri, 13 Nov 2026 20:22:04 +0000</pubDate>
-      <category>auth</category>
-      <description>Google's new AI glasses stir biometric privacy concerns. The worry here is that compliance comes down to software not blocking unauthorized use. The risk: unless system-level controls improve, user data could be at risk from poorly regulated apps.
-
-— via Biometric Update</description>
-    </item>
-    <item>
-      <title>Fourthline expands into Luxembourg with Banque Internationale à Luxembourg as new business partner for its identity verification solution</title>
-      <link>https://identityweek.net/fourthline-expands-into-luxembourg-with-banque-internationale-a-luxembourg-as-new-business-partner-for-its-identity-verification-solution/</link>
-      <guid isPermaLink="false">identitybrief-b1c834bcfee166a3</guid>
-      <pubDate>Thu, 12 Nov 2026 10:50:56 +0000</pubDate>
-      <category>fraud</category>
-      <description>Fourthline partners with a Luxembourg bank to boost identity verification services. For financial institutions, it's another step towards seamless and compliant onboarding. Limitation: this is narrowly focused around one geographic market and partner, limiting broader impact.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Identity verification in 2026: five major changes shaping identity verification</title>
-      <link>https://identityweek.net/identity-verification-in-2026-five-major-changes-shaping-identity-verification/</link>
-      <guid isPermaLink="false">identitybrief-0878c1d68fd70c3c</guid>
-      <pubDate>Tue, 10 Nov 2026 12:36:21 +0000</pubDate>
-      <category>fraud</category>
-      <description>The landscape of identity verification in 2026 sees increased AI use. As attacks grow sophisticated, verifying true identity beyond automated bots becomes critical. But trends indicate you can't always rely on AI alone for accurate verifications.
-
-— via Identity Week</description>
-    </item>
-    <item>
-      <title>Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure</title>
-      <link>https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/</link>
-      <guid isPermaLink="false">identitybrief-bf5f0aba89d53099</guid>
-      <pubDate>Fri, 13 Nov 2026 10:48:40 +0000</pubDate>
-      <category>auth</category>
-      <description>A law enforcement operation disrupted the Gootloader malware network. Over 6.4 million credentials were secured, highlighting vulnerability when credentials fall into wrong hands. Yet, takedowns of such scale are resource-intensive and often localized.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html</link>
-      <guid isPermaLink="false">identitybrief-9398616ade4dc7e1</guid>
-      <pubDate>Tue, 10 Nov 2026 18:12:21 +0000</pubDate>
-      <category>breach</category>
-      <description>Xen Orchestra has a critical auth bypass flaw being exploited in the wild. Unpatched, it grants full admin access without needing creds—immediate risk for affected users. The problem: until a CVE is assigned and fixed, exploitation remains trivial.
-
-— via The Hacker News</description>
-    </item>
-    <item>
-      <title>Authenticated Approximate Nearest Neighbor Search in Outsourced Vector Databases</title>
-      <link>http://arxiv.org/abs/2611.16516v1</link>
-      <guid isPermaLink="false">identitybrief-c089ad439c25c681</guid>
-      <pubDate>Thu, 12 Nov 2026 09:13:35 +0000</pubDate>
-      <category>research</category>
-      <description>A new paper addresses integrity of outsourced vector databases using authenticated ANN search. Secure querying in the cloud tackles real concerns but could face scalability challenges. Still, its real-world applicability is hindered by theoretical and technical hurdles.
-
-— via arXiv</description>
     </item>
 </channel></rss>
