@@ -4,6 +4,146 @@
   <link>https://kerapps.github.io/identity-live</link>
   <description>Signal for identity &amp; access leaders</description>
     <item>
+      <title>100,000 Potentially Impacted by Colorado Data Breach</title>
+      <link>https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/</link>
+      <guid isPermaLink="false">identitybrief-115a544701a66f7a</guid>
+      <pubDate>Fri, 27 Nov 2026 09:30:54 +0000</pubDate>
+      <category>did</category>
+      <description>A breach in the myColorado app exposed user-uploaded data, affecting potentially 100,000 people. This highlights the vulnerabilities in digital ID and document storage systems. The catch: Resolving such breaches involves lengthy investigations and legal processes, which can delay user notifications.
+
+— via SecurityWeek</description>
+    </item>
+    <item>
+      <title>In 2027, “the agent did it” stops being an excuse</title>
+      <link>https://www.helpnetsecurity.com/2026/11/27/sailpoint-2027-ai-identity-security-predictions-report/</link>
+      <guid isPermaLink="false">identitybrief-4095c2b866b97901</guid>
+      <pubDate>Fri, 27 Nov 2026 06:30:14 +0000</pubDate>
+      <category>iam</category>
+      <description>SailPoint predicts that AI agent accountability will become crucial by 2027, with increased pressure from regulators and insurers. This means identity security controls for AI will need to catch up significantly. The catch is that currently, only 2% of organizations have those controls in place, indicating a massive lag.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>Flight Centre Travel Group warns of customer data breach involving some passport details</title>
+      <link>https://www.helpnetsecurity.com/2026/11/27/flight-centre-travel-group-data-breach-booking-system/</link>
+      <guid isPermaLink="false">identitybrief-fe1878ce19960b52</guid>
+      <pubDate>Fri, 27 Nov 2026 09:31:44 +0000</pubDate>
+      <category>breach</category>
+      <description>Flight Centre Travel Group has experienced a data breach affecting some customers' personal information, including passport details. This underscores the importance of securing third-party booking systems. The catch: The investigation is ongoing, meaning further details and potentially more affected data might emerge.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>GOV.UK One Login keeps iProov biometrics, liveness in deal worth up to £45M</title>
+      <link>https://www.biometricupdate.com/202611/gov-uk-one-login-keeps-iproov-biometrics-liveness-in-deal-worth-up-to-45m</link>
+      <guid isPermaLink="false">identitybrief-fb699b19889d4c6a</guid>
+      <pubDate>Thu, 26 Nov 2026 18:28:29 +0000</pubDate>
+      <category>fraud</category>
+      <description>The UK government has commissioned iProov for GOV.UK One Login's biometric verification, including facial recognition and liveness checks. This move aims to enhance secure access via biometrics for public services. The catch: The project relies on subcontractors for document checks, which could complicate integrations.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Fake paid expert interviews impersonate brands to steal Google logins</title>
+      <link>https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/</link>
+      <guid isPermaLink="false">identitybrief-140aa94294628529</guid>
+      <pubDate>Thu, 26 Nov 2026 17:15:27 +0000</pubDate>
+      <category>breach</category>
+      <description>A phishing campaign is impersonating brands to steal Google and Okta credentials. This highlights the need for vigilance against sophisticated phishing methods. The catch: These attacks are successful because they pass through existing security controls, indicating a potential need to update detection mechanisms.
+
+— via BleepingComputer</description>
+    </item>
+    <item>
+      <title>NIST facial recognition identification tests reopen with new entry rules</title>
+      <link>https://www.biometricupdate.com/202611/nist-facial-recognition-identification-tests-reopen-with-new-entry-rules</link>
+      <guid isPermaLink="false">identitybrief-25f82b10ea1967ac</guid>
+      <pubDate>Thu, 26 Nov 2026 20:47:53 +0000</pubDate>
+      <category>auth</category>
+      <description>NIST reopens its facial recognition testing program, with updated technical and policy changes. This could lead to more robust facial recognition standards. The catch: Participation requires compliance with new entry rules, which can be a barrier for smaller players.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Toss takes face payments to self-service kiosks</title>
+      <link>https://www.biometricupdate.com/202611/toss-takes-face-payments-to-self-service-kiosks</link>
+      <guid isPermaLink="false">identitybrief-9ba6104b153b3277</guid>
+      <pubDate>Thu, 26 Nov 2026 17:03:38 +0000</pubDate>
+      <category>auth</category>
+      <description>Toss is introducing face-payment kiosks in South Korea, challenging dominant local payment systems. This expansion of biometric payment options might see broader adoption if successful. The catch: Significant market penetration may be limited due to existing competition and consumer adoption rates.
+
+— via Biometric Update</description>
+    </item>
+    <item>
+      <title>Super early bird discount ends midnight. Save €1,800 today!</title>
+      <link>https://identityweek.net/super-early-bird-discount-ends-midnight-save-e1800-today/</link>
+      <guid isPermaLink="false">identitybrief-9cd8531c549056d1</guid>
+      <pubDate>Fri, 27 Nov 2026 10:17:13 +0000</pubDate>
+      <category>iam</category>
+      <description>Identity Week is offering a discounted rate for its 2027 conference registration. This could be an opportunity to gain insights on emerging identity technologies. The catch: The discount ends today, so decisions need to be made quickly.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Product showcase: Norton helps Claude users uncover the telltale signs of fraud</title>
+      <link>https://www.helpnetsecurity.com/2026/11/27/product-showcase-norton-claude-scam-detection/</link>
+      <guid isPermaLink="false">identitybrief-eb4ace68efbbd1c3</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:59 +0000</pubDate>
+      <category>fraud</category>
+      <description>Norton integrates AI-based scam detection into Claude chatbots, helping users identify phishing attempts. This tool can be valuable in intercepting scams before they cause damage. The catch: Adoption requires user engagement, and it won't address scams that bypass chat channels.
+
+— via Help Net Security</description>
+    </item>
+    <item>
+      <title>EU hit by AI-assisted cyber campaign</title>
+      <link>https://identityweek.net/eu-hit-by-ai-assisted-cyber-campaign/</link>
+      <guid isPermaLink="false">identitybrief-6eb0f81f414aa473</guid>
+      <pubDate>Thu, 26 Nov 2026 14:48:06 +0000</pubDate>
+      <category>iam</category>
+      <description>The EU acknowledged a cyber attack that compromised personal data from the European Commission. This serves as a reminder of the vulnerabilities within major organizational systems, even at high levels. The catch: Stolen data could have far-reaching implications, affecting trust and privacy.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Kazakhstan shares blueprint for scaling national digital trust</title>
+      <link>https://identityweek.net/kazakhstan-shares-blueprint-for-scaling-national-digital-trust/</link>
+      <guid isPermaLink="false">identitybrief-f8676e1a40db0586</guid>
+      <pubDate>Thu, 26 Nov 2026 12:53:29 +0000</pubDate>
+      <category>iam</category>
+      <description>Kazakhstan shares its digital trust framework, focusing on secure PKI and cross-border identity solutions. This sets a notable precedent for digital identity trust. The catch: Only applicable if geopolitical factors and international cooperation align.
+
+— via Identity Week</description>
+    </item>
+    <item>
+      <title>Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls</title>
+      <link>https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html</link>
+      <guid isPermaLink="false">identitybrief-27c41b73faa55f9a</guid>
+      <pubDate>Thu, 26 Nov 2026 10:57:55 +0000</pubDate>
+      <category>breach</category>
+      <description>A report on phishing kits reports which ones most effectively bypass email and web security. Understanding these kits can help teams better anticipate and block attacks. The catch: Security measures must continuously evolve to stay ahead as phishing kits also get more sophisticated.
+
+— via The Hacker News</description>
+    </item>
+    <item>
+      <title>A comprehensive survey of deep face verification systems adversarial attacks and defense strategies</title>
+      <link>http://arxiv.org/abs/2611.33231v1</link>
+      <guid isPermaLink="false">identitybrief-83e05bc6f9c859c1</guid>
+      <pubDate>Tue, 24 Nov 2026 10:38:27 +0000</pubDate>
+      <category>research</category>
+      <description>A survey discusses the vulnerabilities of face verification systems to adversarial attacks. It emphasizes the need for robust defenses against increasingly clever attack methods. The catch: Implementing defenses against adversarial threats can be complex and resource-intensive.
+
+— via arXiv</description>
+    </item>
+    <item>
+      <title>Microsoft 365 Backup Introduces Premium Entra ID Backups</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVmNYSzNibjBFS18xTW9nTGx6bk11VDM4Vi1BS1Q3RE5oeVBXVC1Ra01zRHJodmFlMWpTQzJtMmNtT1h0QWRvRkctdHdVUDdRaTd4dmlIc0Z3Tzd1UWhiLWVwSlBzWHYtVFFacXpNemttc3pxZ1JsbDQ3Nnl1OE93dGptdndPd0tZTWZyUTNhSVNlZjFWSVNGQTUxRVB0X2kxMXdiLWRycXRaSThHWW1Vc3F4TkRyNld4WDlrNDlrT21IUUVjVkJ5eE03WVJubkJWRjZFcnQ0THFRdw?oc=5</link>
+      <guid isPermaLink="false">identitybrief-295bc23cb572c14b</guid>
+      <pubDate>Thu, 26 Nov 2026 21:59:22 +0000</pubDate>
+      <category>iam</category>
+      <description>Microsoft 365 now offers premium backups for Entra ID. This enhancement can benefit organizations relying heavily on Microsoft services for identity management. The catch: The added features might come with premium pricing, altering budget allocations.
+
+— via Microsoft Entra</description>
+    </item>
+    <item>
       <title>More than 4,400 malicious domains are waiting for holiday shoppers</title>
       <link>https://www.helpnetsecurity.com/2026/11/26/fortinet-holiday-shopping-cyber-threats-report/</link>
       <guid isPermaLink="false">identitybrief-8b7022f6e9946843</guid>
@@ -1362,145 +1502,5 @@
       <description>Google reports AI agents autonomously writing and launching exploits without human intervention. The speed of such attacks could overwhelm traditional response efforts. The snag: they still rely on compromised credentials and unpatched systems.
 
 — via Help Net Security</description>
-    </item>
-    <item>
-      <title>Japan's Fugaku supercomputer has decidedly un-super security</title>
-      <link>https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333</link>
-      <guid isPermaLink="false">identitybrief-92ae9d39f8909b19</guid>
-      <pubDate>Tue, 17 Nov 2026 05:27:04 +0000</pubDate>
-      <category>breach</category>
-      <description>Japan's Fugaku supercomputer has exposed login credentials due to a breach of its status page. This underscores the effectiveness of even simple breaches in accessing high-value targets. Specifically, it points to security lapses in managing administrative credentials.
-
-— via The Register Security</description>
-    </item>
-    <item>
-      <title>High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/</link>
-      <guid isPermaLink="false">identitybrief-225dafd7d4001d81</guid>
-      <pubDate>Tue, 17 Nov 2026 00:08:41 +0000</pubDate>
-      <category>breach</category>
-      <description>A new phishing campaign uses fake Microsoft 365 outage alerts to trick victims. These lures exploit familiarity to gain unauthorized access. Awareness and user training remain essential defenses, but user habits are tough to change.
-
-— via Microsoft Security</description>
-    </item>
-    <item>
-      <title>Necessary for What? Auditing Demographic Disclosure to LLM Synthetic Respondents</title>
-      <link>http://arxiv.org/abs/2611.20606v1</link>
-      <guid isPermaLink="false">identitybrief-095c9f2a3912cae3</guid>
-      <pubDate>Mon, 16 Nov 2026 06:29:50 +0000</pubDate>
-      <category>research</category>
-      <description>Research looks at demographics in synthetic surveys by LLMs. It questions whether including demographics leads to better insights. The complexity of survey goals often complicates clear data minimization.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Okta Certification Circle &amp; Champions: Honoring Identity Security Leaders</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJTTTNQQXBFS0VuWDB5UEdzYlU5eXFqOGFtUUNHRzVlUGVrMmxVTGUzOExVREVubzNyd3NmTUQ1UWstZnE1bmJiekNXczVEYzQtdEVfZDlKTGFGN0JIRXZNM1c3V3BfV1l3dzlHQ3lxb0FsZi1rbDlLVUFrYzVDQ1FjQ29yelFIVlFEWkdMS2hXWWM0?oc=5</link>
-      <guid isPermaLink="false">identitybrief-94d93a6a5c12d38d</guid>
-      <pubDate>Tue, 17 Nov 2026 01:30:39 +0000</pubDate>
-      <category>iam</category>
-      <description>Okta honors identity security leaders through its Certification Circle &amp; Champions initiative. This recognition encourages innovation and leadership in strengthening identity security practices. However, the program is limited to those recognized by Okta.
-
-— via Okta</description>
-    </item>
-    <item>
-      <title>Ory Hydra: Open-source OAuth 2.0 server and OpenID Connect provider</title>
-      <link>https://www.helpnetsecurity.com/2026/11/16/ory-hydra-oauth-server-open-source/</link>
-      <guid isPermaLink="false">identitybrief-0de91ec8af4533c6</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:29 +0000</pubDate>
-      <category>auth</category>
-      <description>Ory Hydra is an open-source server for OAuth 2.0 and OpenID Connect. It can issue and validate tokens, register client applications, and manage signing keys. Hydra takes on the complexity of OAuth specs so you don't have to, letting your existing identity system handle logins. But it means relying on Hydra's implementation quality and community support, which needs scrutiny.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign</title>
-      <link>https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/</link>
-      <guid isPermaLink="false">identitybrief-e745cd3111e43e09</guid>
-      <pubDate>Mon, 16 Nov 2026 08:15:12 +0000</pubDate>
-      <category>breach</category>
-      <description>Microsoft confirmed an outage wasn't a cyberattack and warned of phishing attempts leveraging it. Attackers aim to exploit user trust in Microsoft 365 notifications. The twist: While the outage narrative holds, users need clarity on message legitimacy, which can be tricky.
-
-— via SecurityWeek</description>
-    </item>
-    <item>
-      <title>Product showcase: ESET Mobile Security brings phishing protection and security checks to iOS</title>
-      <link>https://www.helpnetsecurity.com/2026/11/16/product-showcase-eset-mobile-security-ios/</link>
-      <guid isPermaLink="false">identitybrief-41b57044c63b9ede</guid>
-      <pubDate>Mon, 16 Nov 2026 05:30:19 +0000</pubDate>
-      <category>breach</category>
-      <description>ESET Mobile Security now provides phishing protection and security checks for iOS. It's useful for identifying suspicious links and checking device settings. However, its full features depend on iOS version and do require opting into more checks beyond the basic offerings.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>TSMC employee data breach linked to cloud provider</title>
-      <link>https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/</link>
-      <guid isPermaLink="false">identitybrief-d1f88f4d5d8d433e</guid>
-      <pubDate>Sun, 15 Nov 2026 15:23:48 +0000</pubDate>
-      <category>breach</category>
-      <description>TSMC reports a data breach linked to a cloud provider, spilling employee info. Important as a reminder of cloud-related risks in data management. The breach specifics imply TSMC's trust in the provider became a liability, an issue for companies with third-party dependencies.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>The benign true positive: When trusted AI agents look like attackers</title>
-      <link>https://www.csoonline.com/article/4248451/the-benign-true-positive-when-trusted-ai-agents-look-like-attackers.html</link>
-      <guid isPermaLink="false">identitybrief-4a87326113c936b4</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
-      <category>breach</category>
-      <description>AI agents performing tasks can mimic network attacks, raising false alarms. This matters because security systems could mistake agent operations for harmful activities. The challenge: distinguishing genuine threats from benign AI activity without reducing security vigilance.
-
-— via CSO Online</description>
-    </item>
-    <item>
-      <title>Rspamd 4.3.0 stops forwarded mail from softening DMARC rejects</title>
-      <link>https://www.helpnetsecurity.com/2026/11/16/rspamd-4-3-0-released/</link>
-      <guid isPermaLink="false">identitybrief-2cf86bc94889ae34</guid>
-      <pubDate>Mon, 16 Nov 2026 09:27:24 +0000</pubDate>
-      <category>auth</category>
-      <description>Rspamd 4.3.0 is a spam filtering update that plugs loopholes in DMARC. It stops bugs allowing attackers to bypass spam filters with minimal effort. Important for mail security, but sites using older setups may need to patch their proxy connections first.
-
-— via Help Net Security</description>
-    </item>
-    <item>
-      <title>RuralShield: Super Intelligence-Assisted Security Triage and Serverless Infrastructure for Resource-Constrained Healthcare</title>
-      <link>http://arxiv.org/abs/2611.17887v1</link>
-      <guid isPermaLink="false">identitybrief-0dd79356158e8516</guid>
-      <pubDate>Fri, 13 Nov 2026 08:23:46 +0000</pubDate>
-      <category>research</category>
-      <description>RuralShield uses AI assessments for resource-strapped healthcare security. It focuses on separating tasks into secure, inspectable records to avoid authorization slip-ups. While promising, actual deployment requires careful mapping of resource permissions and workflows.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Evaluating the Robustness of PRNU Source-Camera Attribution to the Fingerprint-Copy Attack: An Open Toolkit with Triangle-Test Detection</title>
-      <link>http://arxiv.org/abs/2611.17747v1</link>
-      <guid isPermaLink="false">identitybrief-2f29f121855db77e</guid>
-      <pubDate>Fri, 13 Nov 2026 05:03:48 +0000</pubDate>
-      <category>research</category>
-      <description>A new toolkit tests source-camera links against forgery tactics. This impacts digital forensics by offering a method to detect falsified image origins. However, widespread practical application depends on embedding it within existing forensic protocols.
-
-— via arXiv</description>
-    </item>
-    <item>
-      <title>Cursor confirms security breach led to malicious Claude Code extension</title>
-      <link>https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/</link>
-      <guid isPermaLink="false">identitybrief-205541d416beff19</guid>
-      <pubDate>Sat, 14 Nov 2026 17:27:25 +0000</pubDate>
-      <category>breach</category>
-      <description>Cursor confirmed a breach after a malicious Claude Code extension appeared. Highlighting risks in app distribution platforms and credential security in app stores. However, the full extent of user impact from this vector requires more disclosure.
-
-— via BleepingComputer</description>
-    </item>
-    <item>
-      <title>Toppan, BitGo test vLEI identity checks for secure digital asset transfers</title>
-      <link>https://www.biometricupdate.com/202611/toppan-bitgo-test-vlei-identity-checks-for-secure-digital-asset-transfers</link>
-      <guid isPermaLink="false">identitybrief-0e0e4d0de39f5382</guid>
-      <pubDate>Fri, 13 Nov 2026 19:59:06 +0000</pubDate>
-      <category>fraud</category>
-      <description>Toppan Inc. and BitGo demonstrate decentralized identity checks for asset transfers. This proof-of-concept shows how distributed key management can enhance transaction security. Its use in broad financial operations hinges on adoption and regulatory acceptance though.
-
-— via Biometric Update</description>
     </item>
 </channel></rss>
